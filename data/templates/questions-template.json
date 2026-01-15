@@ -1,0 +1,100 @@
+[
+  {
+    "questionText": "When you see a solid yellow line on your side of the center line, you must:",
+    "questionTextZh": "当你看到中心线你这一侧有实黄线时，你必须：",
+    "category": "traffic_rules",
+    "difficulty": "easy",
+    "imageUrl": "/images/questions/yellow-line.jpg",
+    "explanation": "A solid yellow line on your side means you cannot pass. You may only cross a solid yellow line to turn left into a driveway or to make a U-turn when it is safe and legal.",
+    "explanationZh": "你这一侧的实黄线意味着禁止超车。只有在安全且合法的情况下，才能越过实黄线左转进入车道或掉头。",
+    "dmvManualReference": "California Driver Handbook 2026, Page 32, Section: Pavement Markings",
+    "dmvManualUrl": "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/lane-control/",
+    "handbookVersion": "2026",
+    "options": [
+      {
+        "optionText": "Not pass other vehicles",
+        "optionTextZh": "不得超越其他车辆",
+        "isCorrect": true,
+        "order": "A"
+      },
+      {
+        "optionText": "Pass other vehicles when safe",
+        "optionTextZh": "安全时可以超车",
+        "isCorrect": false,
+        "order": "B"
+      },
+      {
+        "optionText": "Only pass motorcycles and bicycles",
+        "optionTextZh": "只能超越摩托车和自行车",
+        "isCorrect": false,
+        "order": "C"
+      }
+    ]
+  },
+  {
+    "questionText": "At an intersection with a stop sign, you must:",
+    "questionTextZh": "在有停车标志的路口，你必须：",
+    "category": "traffic_rules",
+    "difficulty": "easy",
+    "imageUrl": null,
+    "explanation": "You must come to a complete stop at a stop sign. Stop at the limit line or crosswalk. If there is no limit line or crosswalk, stop before entering the intersection.",
+    "explanationZh": "你必须在停车标志处完全停车。在停止线或人行横道处停车。如果没有停止线或人行横道，在进入路口前停车。",
+    "dmvManualReference": "California Driver Handbook 2026, Page 45, Section: Traffic Signs",
+    "dmvManualUrl": "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/traffic-signs/",
+    "handbookVersion": "2026",
+    "relatedSignId": null,
+    "options": [
+      {
+        "optionText": "Come to a complete stop",
+        "optionTextZh": "完全停车",
+        "isCorrect": true,
+        "order": "A"
+      },
+      {
+        "optionText": "Slow down and proceed if clear",
+        "optionTextZh": "减速，如果畅通则继续",
+        "isCorrect": false,
+        "order": "B"
+      },
+      {
+        "optionText": "Yield to traffic and continue",
+        "optionTextZh": "让行车辆后继续",
+        "isCorrect": false,
+        "order": "C"
+      }
+    ]
+  },
+  {
+    "questionText": "You must dim your high-beam headlights within ___ feet of an oncoming vehicle:",
+    "questionTextZh": "你必须在距离迎面而来的车辆 ___ 英尺内将远光灯调暗：",
+    "category": "safe_driving",
+    "difficulty": "medium",
+    "imageUrl": null,
+    "explanation": "You must dim your high beams to low beams within 500 feet of an oncoming vehicle. You should also dim your lights when following another vehicle within 300 feet.",
+    "explanationZh": "你必须在距离迎面而来的车辆500英尺内将远光灯调至近光灯。当你跟随另一辆车300英尺内时，也应该调暗灯光。",
+    "dmvManualReference": "California Driver Handbook 2026, Page 67, Section: Night Driving",
+    "dmvManualUrl": "https://www.dmv.ca.gov/portal/handbook/california-driver-handbook/special-driving-situations/",
+    "handbookVersion": "2026",
+    "relatedSignId": null,
+    "options": [
+      {
+        "optionText": "500 feet",
+        "optionTextZh": "500英尺",
+        "isCorrect": true,
+        "order": "A"
+      },
+      {
+        "optionText": "300 feet",
+        "optionTextZh": "300英尺",
+        "isCorrect": false,
+        "order": "B"
+      },
+      {
+        "optionText": "1000 feet",
+        "optionTextZh": "1000英尺",
+        "isCorrect": false,
+        "order": "C"
+      }
+    ]
+  }
+]

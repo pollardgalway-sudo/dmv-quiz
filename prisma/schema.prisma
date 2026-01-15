@@ -1,0 +1,167 @@
+generator client {
+  provider = "prisma-client-js"
+  engineType = "library"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+model User {
+  id            String    @id @default(cuid())
+  email         String    @unique
+  name          String?
+  password      String
+  emailVerified DateTime?
+  image         String?
+  createdAt     DateTime  @default(now())
+  updatedAt     DateTime  @updatedAt
+
+  userAnswers      UserAnswer[]
+  exams            Exam[]
+  userSignProgress UserSignProgress[]
+
+  @@map("users")
+}
+
+model Question {
+  id               String   @id @default(cuid())
+  questionText     String   @db.Text
+  questionTextZh   String?  @db.Text
+  category         String
+  difficulty       String   @default("medium")
+  imageUrl         String?
+
+  explanation          String  @db.Text
+  explanationZh        String? @db.Text
+  dmvManualReference   String  @db.Text
+  dmvManualUrl         String?
+  handbookVersion      String  @default("2026")
+  lastVerified         DateTime?
+
+  relatedSignId    String?
+
+  createdAt        DateTime @default(now())
+  updatedAt        DateTime @updatedAt
+
+  options          Option[]
+  userAnswers      UserAnswer[]
+  examQuestions    ExamQuestion[]
+  relatedSign      TrafficSign? @relation(fields: [relatedSignId], references: [id])
+
+  @@index([category])
+  @@index([difficulty])
+  @@index([relatedSignId])
+  @@map("questions")
+}
+
+model Option {
+  id           String  @id @default(cuid())
+  questionId   String
+  optionText   String  @db.Text
+  optionTextZh String? @db.Text
+  isCorrect    Boolean @default(false)
+  order        String
+
+  question     Question     @relation(fields: [questionId], references: [id], onDelete: Cascade)
+  userAnswers  UserAnswer[]
+
+  @@index([questionId])
+  @@map("options")
+}
+
+model TrafficSign {
+  id               String   @id @default(cuid())
+  signName         String
+  signNameZh       String?
+  signType         String
+  shape            String
+  colorPrimary     String
+  colorSecondary   String?
+  imageUrl         String
+  meaning          String   @db.Text
+  meaningZh        String?  @db.Text
+  actionRequired   String   @db.Text
+  actionRequiredZh String?  @db.Text
+  dmvManualReference String @db.Text
+  handbookVersion    String @default("2026")
+
+  createdAt        DateTime @default(now())
+  updatedAt        DateTime @updatedAt
+
+  questions        Question[]
+  userProgress     UserSignProgress[]
+
+  @@index([signType])
+  @@map("traffic_signs")
+}
+
+model UserSignProgress {
+  id           String   @id @default(cuid())
+  userId       String
+  signId       String
+  masteryLevel Int      @default(0)
+  lastReviewed DateTime @default(now())
+  reviewCount  Int      @default(0)
+
+  user         User        @relation(fields: [userId], references: [id], onDelete: Cascade)
+  sign         TrafficSign @relation(fields: [signId], references: [id], onDelete: Cascade)
+
+  @@unique([userId, signId])
+  @@index([userId])
+  @@index([signId])
+  @@map("user_sign_progress")
+}
+
+model UserAnswer {
+  id                String   @id @default(cuid())
+  userId            String
+  questionId        String
+  selectedOptionId  String
+  isCorrect         Boolean
+  timeSpent         Int?
+  answeredAt        DateTime @default(now())
+
+  user              User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  question          Question @relation(fields: [questionId], references: [id])
+  selectedOption    Option   @relation(fields: [selectedOptionId], references: [id])
+
+  @@index([userId])
+  @@index([questionId])
+  @@index([isCorrect])
+  @@map("user_answers")
+}
+
+model Exam {
+  id              String    @id @default(cuid())
+  userId          String
+  examType        String
+  score           Float?
+  totalQuestions  Int
+  correctAnswers  Int?
+  startedAt       DateTime  @default(now())
+  completedAt     DateTime?
+  timeSpent       Int?
+
+  user            User          @relation(fields: [userId], references: [id], onDelete: Cascade)
+  examQuestions   ExamQuestion[]
+
+  @@index([userId])
+  @@index([examType])
+  @@map("exams")
+}
+
+model ExamQuestion {
+  id           String  @id @default(cuid())
+  examId       String
+  questionId   String
+  order        Int
+  userAnswerId String?
+
+  exam         Exam     @relation(fields: [examId], references: [id], onDelete: Cascade)
+  question     Question @relation(fields: [questionId], references: [id])
+
+  @@index([examId])
+  @@index([questionId])
+  @@map("exam_questions")
+}

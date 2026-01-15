@@ -1,0 +1,103 @@
+
+> dmv-exam-app@0.1.0 dev
+> next dev
+
+▲ Next.js 16.1.1 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://26.26.26.1:3000
+- Environments: .env
+
+✓ Starting...
+✓ Ready in 2.1s
+ GET /basics 200 in 1848ms (compile: 1588ms, render: 260ms)
+ GET / 200 in 250ms (compile: 53ms, render: 196ms)
+ GET /deepdive 200 in 166ms (compile: 103ms, render: 63ms)
+ GET /basics 200 in 89ms (compile: 11ms, render: 78ms)
+ GET / 200 in 101ms (compile: 16ms, render: 85ms)
+ GET /deepdive 200 in 102ms (compile: 13ms, render: 89ms)
+ GET /deepdive 200 in 177ms (compile: 43ms, render: 135ms)
+ GET / 200 in 93ms (compile: 12ms, render: 80ms)
+ GET /deepdive 200 in 229ms (compile: 70ms, render: 159ms)
+ GET /deepdive 200 in 346ms (compile: 145ms, render: 201ms)
+ GET / 200 in 58ms (compile: 20ms, render: 38ms)
+ GET /deepdive 200 in 58ms (compile: 9ms, render: 49ms)
+⨯ ./app/(dashboard)/layout.tsx:2:1
+Export getServerSession doesn't exist in target module
+[0m [90m 1 |[39m [36mimport[39m { redirect } [36mfrom[39m [32m'next/navigation'[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m { getServerSession } [36mfrom[39m [32m'next-auth'[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m [36mimport[39m { authOptions } [36mfrom[39m [32m'@/lib/auth'[39m
+ [90m 4 |[39m [36mimport[39m [33mLink[39m [36mfrom[39m [32m'next/link'[39m
+ [90m 5 |[39m [36mimport[39m { [33mButton[39m } [36mfrom[39m [32m'@/components/ui/button'[39m[0m
+
+The export getServerSession was not found in module [project]/node_modules/next-auth/index.js [app-rsc] (ecmascript).
+Did you mean to import CredentialsSignin?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+
+ GET /exam 500 in 5.5s (compile: 5.1s, render: 420ms)
+⨯ ./app/(dashboard)/layout.tsx:2:1
+Export getServerSession doesn't exist in target module
+[0m [90m 1 |[39m [36mimport[39m { redirect } [36mfrom[39m [32m'next/navigation'[39m
+[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m { getServerSession } [36mfrom[39m [32m'next-auth'[39m
+ [90m   |[39m [31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m[31m[1m^[22m[39m
+ [90m 3 |[39m [36mimport[39m { authOptions } [36mfrom[39m [32m'@/lib/auth'[39m
+ [90m 4 |[39m [36mimport[39m [33mLink[39m [36mfrom[39m [32m'next/link'[39m
+ [90m 5 |[39m [36mimport[39m { [33mButton[39m } [36mfrom[39m [32m'@/components/ui/button'[39m[0m
+
+The export getServerSession was not found in module [project]/node_modules/next-auth/index.js [app-rsc] (ecmascript).
+Did you mean to import CredentialsSignin?
+All exports of the module are statically known (It doesn't have dynamic exports). So it's known statically that the requested export doesn't exist.
+
+
+ GET /exam 500 in 34ms (compile: 13ms, render: 20ms)
+✓ Compiled in 624ms
+ GET / 200 in 287ms (compile: 189ms, render: 98ms)
+ GET /basics 200 in 53ms (compile: 13ms, render: 41ms)
+ GET /exam 200 in 968ms (compile: 490ms, render: 478ms)
+ GET /exam 200 in 175ms (compile: 14ms, render: 161ms)
+prisma:error fetch failed
+ GET /api/exam 500 in 1309ms (compile: 1093ms, render: 215ms)
+ GET / 200 in 122ms (compile: 16ms, render: 106ms)
+ GET /deepdive 200 in 63ms (compile: 14ms, render: 49ms)
+ GET /exam 200 in 89ms (compile: 12ms, render: 77ms)
+prisma:error fetch failed
+ GET /api/exam 500 in 47ms (compile: 9ms, render: 38ms)
+ GET /exam 200 in 129ms (compile: 12ms, render: 118ms)
+prisma:error fetch failed
+ GET /api/exam 500 in 54ms (compile: 12ms, render: 42ms)
+ GET /exam 200 in 171ms (compile: 16ms, render: 154ms)
+ GET /api/exam 200 in 713ms (compile: 683ms, render: 31ms)
+ GET /basics 200 in 51ms (compile: 7ms, render: 44ms)
+ GET /basics 200 in 39ms (compile: 6ms, render: 33ms)
+ GET /api/exam 200 in 34ms (compile: 9ms, render: 25ms)
+ GET /exam 200 in 118ms (compile: 10ms, render: 108ms)
+ GET /basics 200 in 37ms (compile: 5ms, render: 32ms)
+ GET / 200 in 51ms (compile: 15ms, render: 37ms)
+ GET /exam 200 in 48ms (compile: 4ms, render: 44ms)
+ GET /api/exam 200 in 25ms (compile: 5ms, render: 20ms)
+ GET /deepdive 200 in 61ms (compile: 14ms, render: 47ms)
+ GET /exam 200 in 63ms (compile: 13ms, render: 50ms)
+ GET /api/exam 200 in 24ms (compile: 10ms, render: 14ms)
+ GET /exam 200 in 56ms (compile: 11ms, render: 45ms)
+ GET /api/exam 200 in 32ms (compile: 8ms, render: 24ms)
+✓ Compiled in 118ms
+⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ GET /exam 200 in 368ms (compile: 144ms, render: 224ms)
+✓ Compiled in 223ms
+✓ Compiled in 37ms
+✓ Compiled in 135ms
+✓ Compiled in 2.7s
+✓ Compiled in 1334ms
+ GET / 200 in 2.4s (compile: 1196ms, render: 1216ms)
+ GET /basics 200 in 92ms (compile: 23ms, render: 69ms)
+ GET /exam 200 in 661ms (compile: 418ms, render: 243ms)
+ GET /api/exam 200 in 350ms (compile: 285ms, render: 65ms)
+ GET /exam 200 in 105ms (compile: 19ms, render: 87ms)
+ GET /api/exam 200 in 32ms (compile: 7ms, render: 25ms)
+✓ Compiled in 856ms
+✓ Compiled in 647ms
+✓ Compiled in 206ms
+ GET / 200 in 654ms (compile: 395ms, render: 258ms)
+ GET /exam 200 in 1135ms (compile: 304ms, render: 830ms)
+ GET /exam 200 in 656ms (compile: 497ms, render: 159ms)

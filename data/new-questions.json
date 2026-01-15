@@ -1,0 +1,149 @@
+[
+  {
+    "id": 209,
+    "category": "Literacy",
+    "question": {
+      "en": "When approaching a person riding a horse or leading an animal on the road, you should:",
+      "zh-Hans": "当靠近在路上骑马或牵着动物的人时，您应该：",
+      "zh-Hant": "當靠近在路上騎馬或牽著動物的人時，您應該："
+    },
+    "options": {
+      "A": { "en": "Honk your horn to let them know you are passing.", "zh-Hans": "鸣喇叭让他们知道您正要通过。", "zh-Hant": "鳴喇叭讓他們知道您正要通過。" },
+      "B": { "en": "Slow down or stop if necessary, and follow instructions from the person.", "zh-Hans": "减速或在必要时停车，并听从该人的指示。", "zh-Hant": "減速或在必要時停車，並聽從該人的指示。" },
+      "C": { "en": "Speed up to get past the animal quickly.", "zh-Hans": "加速以快速通过动物。", "zh-Hant": "加速以快速通過動物。" }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "It is a traffic violation to scare horses or livestock. You must yield and be quiet.",
+      "zh-Hans": "法律规定故意惊吓牲畜是违法的。如果有管理人员示意你停车，你必须停下来，直到动物通过。",
+      "zh-Hant": "法律規定故意驚嚇牲畜是違法的。如果有管理人員示意你停車，你必須停下來，直到動物通過。"
+    },
+    "dmv_ref": { "page": "55", "section": "Section 7" }
+  },
+  {
+    "id": 210,
+    "category": "Literacy",
+    "question": {
+      "en": "2026 Update: If your vehicle is equipped with a 'Dash Cam', where can it be legally mounted?",
+      "zh-Hans": "2026年更新：如果您的车辆安装了行车记录仪，法律允许安装在哪里？",
+      "zh-Hant": "2026年更新：如果您的車輛安裝了行車記錄儀，法律允許安裝在哪裡？"
+    },
+    "options": {
+      "A": { "en": "Anywhere on the side windows.", "zh-Hans": "侧窗的任何位置。", "zh-Hant": "側窗的任何位置。" },
+      "B": { "en": "In a 7-inch square in the lower corner of the passenger side or a 5-inch square on the driver side.", "zh-Hans": "副驾驶侧下方7英寸或驾驶员侧下方5英寸的角落。", "zh-Hant": "副駕駛側下方7英吋或駕駛員側下方5英吋的角落。" },
+      "C": { "en": "Directly behind the steering wheel.", "zh-Hans": "直接安装在方向盘正后方。", "zh-Hant": "直接安裝在方向盤正後方。" }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Dash cams must not block the driver's clear view of the road and must be in specified corner areas.",
+      "zh-Hans": "行车记录仪的安装位置要求与GPS支架类似，必须放在不挡视线的角落。严禁挂在挡风玻璃正中央。",
+      "zh-Hant": "行車記錄儀的安裝位置要求與GPS支架類似，必須放在不擋視線的角落。嚴禁掛在擋風玻璃正中央。"
+    },
+    "dmv_ref": { "page": "103", "section": "Section 10" }
+  },
+  {
+    "id": 211,
+    "category": "Literacy",
+    "question": {
+      "en": "A person may legally ride in the bed of a pickup truck if:",
+      "zh-Hans": "一个人在什么情况下可以合法地坐在皮卡车的货箱里？",
+      "zh-Hant": "一個人在什麼情況下可以合法地坐在皮卡車的貨箱裡？"
+    },
+    "options": {
+      "A": { "en": "The truck is equipped with a camper shell.", "zh-Hans": "皮卡车装有后车厢外壳。", "zh-Hant": "皮卡車裝有後車廂外殼。" },
+      "B": { "en": "They are secured in a seat with a government-approved restraint system.", "zh-Hans": "他们被固定在带有政府批准的约束系统（安全带）的座椅上。", "zh-Hant": "他們被固定在帶有政府批准的約束系統（安全帶）的座椅上。" },
+      "C": { "en": "The truck is traveling at speeds under 35 mph.", "zh-Hans": "车速低于每小时35英里时。", "zh-Hant": "車速低於每小時35英哩時。" }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Riding in the back of a truck is illegal unless the person is properly restrained in a secure seat.",
+      "zh-Hans": "严禁随便坐在后车厢。唯一的例外是车厢内安装了符合标准的座椅和安全带。仅有外壳（Camper shell）是不够的。",
+      "zh-Hant": "嚴禁隨便坐在後車廂。唯一的例外是車廂內安裝了符合標準的座椅和安全帶。僅有外殼（Camper shell）是不夠的。"
+    },
+    "dmv_ref": { "page": "103", "section": "Section 10" }
+  },
+  {
+    "id": 212,
+    "category": "Literacy",
+    "question": {
+      "en": "What is the fine for 'abandoning' an animal on a highway?",
+      "zh-Hans": "在公路上遗弃动物的罚款是多少？",
+      "zh-Hant": "在公路上遺棄動物的罰款是多少？"
+    },
+    "options": {
+      "A": { "en": "Up to $100.", "zh-Hans": "最高100美元。", "zh-Hant": "最高100美元。" },
+      "B": { "en": "Up to $1,000 and/or 6 months in jail.", "zh-Hans": "最高1,000美元和/或6个月监禁。", "zh-Hant": "最高1,000美元和/或6個月監禁。" },
+      "C": { "en": "A verbal warning for the first offense.", "zh-Hans": "初犯仅给予口头警告。", "zh-Hant": "初犯僅給予口頭警告。" }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Abandoning an animal on the road is a misdemeanor and treated very seriously in California.",
+      "zh-Hans": "在路边抛弃宠物不仅是不道德的，而且是犯罪。罚款可高达1,000美元，并可能面临牢狱之灾。",
+      "zh-Hant": "在路邊拋棄寵物不僅是不道德的，而且是犯罪。罰款可高達1,000美元，並可能面臨牢獄之災。"
+    },
+    "dmv_ref": { "page": "103", "section": "Section 10" }
+  },
+  {
+    "id": 213,
+    "category": "Literacy",
+    "question": {
+      "en": "2026 Update: If you receive a 'Toll Violation' notice for a road you didn't use, you must:",
+      "zh-Hans": "2026年更新：如果您收到一张您未曾使用的道路的路费违规通知，您必须：",
+      "zh-Hant": "2026年更新：如果您收到一張您未曾使用的道路的路費違規通知，您必須："
+    },
+    "options": {
+      "A": { "en": "Ignore it.", "zh-Hans": "不予理睬。", "zh-Hant": "不予理睬。" },
+      "B": { "en": "Contest it through the agency's website within the specified timeframe.", "zh-Hans": "在规定期限内通过该机构网站提出申诉。", "zh-Hant": "在規定期限內通過該機構網站提出申訴。" },
+      "C": { "en": "Wait for the DMV to fix it automatically.", "zh-Hans": "等待DMV自动修复。", "zh-Hant": "等待DMV自動修復。" }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "You are responsible for resolving toll disputes to avoid registration holds on your vehicle.",
+      "zh-Hans": "如果车牌被误读，你必须主动联系收费机构申诉，否则会影响到你来年的车辆登记。",
+      "zh-Hant": "如果車牌被誤讀，你必須主動聯繫收費機構申訴，否則會影響到你來年的車輛登記。"
+    },
+    "dmv_ref": { "page": "101", "section": "Section 10" }
+  },
+  {
+    "id": 214,
+    "category": "Literacy",
+    "question": {
+      "en": "Which of these is legal for a driver to do while the vehicle is in motion?",
+      "zh-Hans": "车辆行驶时，驾驶员做下列哪件事是合法的？",
+      "zh-Hant": "車輛行駛時，駕駛員做下列哪件事是合法的？"
+    },
+    "options": {
+      "A": { "en": "Wear headphones in both ears.", "zh-Hans": "双耳戴耳机。", "zh-Hant": "雙耳戴耳機。" },
+      "B": { "en": "Wear a headset/earbud in only one ear.", "zh-Hans": "仅在单耳戴耳机。", "zh-Hant": "僅在單耳戴耳機。" },
+      "C": { "en": "Watch a video on a handheld device.", "zh-Hans": "在手持设备上观看视频。", "zh-Hant": "在手持設備上觀看視頻。" }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Drivers must be able to hear sirens or horns, so only one ear can be covered by a headset.",
+      "zh-Hans": "双耳戴耳机是违法的，因为你需要听到紧急车辆的警笛声。单耳是允许的。",
+      "zh-Hant": "雙耳戴耳機是違法的，因為你需要聽到緊急車輛的警笛聲。單耳是允許的。"
+    },
+    "dmv_ref": { "page": "103", "section": "Section 10" }
+  },
+  {
+    "id": 215,
+    "category": "Literacy",
+    "question": {
+      "en": "If you are involved in a collision, how long do you have to report it to the DMV if the property damage is over $1,000?",
+      "zh-Hans": "如果您卷入车祸，且财产损失超过1,000美元，您有多少时间向DMV报告？",
+      "zh-Hant": "如果您捲入車禍，且財產損失超過1,000美元，您有多少時間向DMV報告？"
+    },
+    "options": {
+      "A": { "en": "5 days.", "zh-Hans": "5天。", "zh-Hant": "5天。" },
+      "B": { "en": "10 days.", "zh-Hans": "10天。", "zh-Hant": "10天。" },
+      "C": { "en": "30 days.", "zh-Hans": "30天。", "zh-Hant": "30天。" }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "California law requires an SR-1 report within 10 days for significant damage or any injury.",
+      "zh-Hans": "这是一个高频考题：只要损失过千或有人受伤，无论谁对谁错，10天内必须提交SR-1表格给DMV。",
+      "zh-Hant": "這是一個高頻考題：只要損失過千或有人受傷，無論誰對誰錯，10天內必須提交SR-1表格給DMV。"
+    },
+    "dmv_ref": { "page": "100", "section": "Section 10" }
+  }
+]

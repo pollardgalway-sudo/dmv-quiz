@@ -1,0 +1,3236 @@
+[
+  {
+    "id": 1,
+    "category": "Traffic Signs",
+    "image": "/images/signs/stop.jpg",
+    "question": {
+      "en": "What does this sign mean?",
+      "zh-Hans": "这个标志是什么意思？",
+      "zh-Hant": "這個標誌是什麼意思？"
+    },
+    "options": {
+      "A": {
+        "en": "Slow down",
+        "zh-Hans": "减速",
+        "zh-Hant": "減速"
+      },
+      "B": {
+        "en": "Come to a complete stop",
+        "zh-Hans": "完全停车",
+        "zh-Hant": "完全停車"
+      },
+      "C": {
+        "en": "Yield to traffic",
+        "zh-Hans": "让行",
+        "zh-Hant": "讓行"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "A red octagonal STOP sign means you must come to a complete stop before proceeding.",
+      "zh-Hans": "红色八角形STOP标志表示您必须完全停车后才能继续行驶。",
+      "zh-Hant": "紅色八角形STOP標誌表示您必須完全停車後才能繼續行駛。"
+    }
+  },
+  {
+    "id": 2,
+    "category": "Traffic Signs",
+    "image": "/images/signs/yield.webp",
+    "question": {
+      "en": "What does this triangular sign mean?",
+      "zh-Hans": "这个三角形标志是什么意思？",
+      "zh-Hant": "這個三角形標誌是什麼意思？"
+    },
+    "options": {
+      "A": {
+        "en": "Stop completely",
+        "zh-Hans": "完全停车",
+        "zh-Hant": "完全停車"
+      },
+      "B": {
+        "en": "Yield to other traffic",
+        "zh-Hans": "让行给其他车辆",
+        "zh-Hant": "讓行給其他車輛"
+      },
+      "C": {
+        "en": "No entry",
+        "zh-Hans": "禁止进入",
+        "zh-Hant": "禁止進入"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "The inverted red and white triangle YIELD sign means slow down and let other traffic go first if needed.",
+      "zh-Hans": "红白倒三角形YIELD标志表示减速，必要时让其他车辆先行。",
+      "zh-Hant": "紅白倒三角形YIELD標誌表示減速，必要時讓其他車輛先行。"
+    }
+  },
+  {
+    "id": 3,
+    "category": "Traffic Signs",
+    "image": "/images/signs/do_not_enter.png",
+    "question": {
+      "en": "What does this red circular sign mean?",
+      "zh-Hans": "这个红色圆形标志是什么意思？",
+      "zh-Hant": "這個紅色圓形標誌是什麼意思？"
+    },
+    "options": {
+      "A": {
+        "en": "Wrong way",
+        "zh-Hans": "逆行",
+        "zh-Hant": "逆行"
+      },
+      "B": {
+        "en": "Do not enter",
+        "zh-Hans": "禁止进入",
+        "zh-Hant": "禁止進入"
+      },
+      "C": {
+        "en": "Road closed",
+        "zh-Hans": "道路封闭",
+        "zh-Hant": "道路封閉"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "DO NOT ENTER sign indicates you cannot drive into this road or lane.",
+      "zh-Hans": "DO NOT ENTER（禁止进入）标志表示您不能驶入该道路或车道。",
+      "zh-Hant": "DO NOT ENTER（禁止進入）標誌表示您不能駛入該道路或車道。"
+    }
+  },
+  {
+    "id": 4,
+    "category": "Traffic Signs",
+    "image": "/images/signs/wrong_way.jpg",
+    "question": {
+      "en": "What should you do if you see this sign?",
+      "zh-Hans": "看到这个标志你应该怎么做？",
+      "zh-Hant": "看到這個標誌你應該怎麼做？"
+    },
+    "options": {
+      "A": {
+        "en": "Slow down and proceed",
+        "zh-Hans": "减速并继续前进",
+        "zh-Hant": "減速並繼續前進"
+      },
+      "B": {
+        "en": "Stop and turn around immediately",
+        "zh-Hans": "立即停车并掉头",
+        "zh-Hant": "立即停車並掉頭"
+      },
+      "C": {
+        "en": "Continue if the road is clear",
+        "zh-Hans": "如果路况好则继续",
+        "zh-Hant": "如果路況好則繼續"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "WRONG WAY sign means you are driving against traffic. Stop and turn around immediately.",
+      "zh-Hans": "WRONG WAY（逆行）标志表示您正在逆向行驶。应立即停车并安全掉头。",
+      "zh-Hant": "WRONG WAY（逆行）標誌表示您正在逆向行駛。應立即停車並安全掉頭。"
+    }
+  },
+  {
+    "id": 5,
+    "category": "Traffic Signs",
+    "image": "/images/signs/STOP AHEAD.jpg",
+    "question": {
+      "en": "This yellow diamond sign with a red octagon means:",
+      "zh-Hans": "这个黄色菱形标志中有红色八角形，表示：",
+      "zh-Hant": "這個黃色菱形標誌中有紅色八角形，表示："
+    },
+    "options": {
+      "A": {
+        "en": "Stop here",
+        "zh-Hans": "在此停车",
+        "zh-Hant": "在此停車"
+      },
+      "B": {
+        "en": "Stop sign ahead",
+        "zh-Hans": "前方有停车标志",
+        "zh-Hant": "前方有停車標誌"
+      },
+      "C": {
+        "en": "Traffic signal ahead",
+        "zh-Hans": "前方有信号灯",
+        "zh-Hant": "前方有信號燈"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This warning sign indicates there is a STOP sign ahead. Prepare to stop.",
+      "zh-Hans": "这是一个警告标志，表示前方有停车标志，请准备停车。",
+      "zh-Hant": "這是一個警告標誌，表示前方有停車標誌，請準備停車。"
+    }
+  },
+  {
+    "id": 6,
+    "category": "Traffic Signs",
+    "image": "/images/signs/YIELD AHEAD.webp",
+    "question": {
+      "en": "This yellow diamond warning sign means:",
+      "zh-Hans": "这个黄色菱形警告标志表示：",
+      "zh-Hant": "這個黃色菱形警告標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Yield sign ahead",
+        "zh-Hans": "前方有让行标志",
+        "zh-Hant": "前方有讓行標誌"
+      },
+      "B": {
+        "en": "Stop sign ahead",
+        "zh-Hans": "前方有停车标志",
+        "zh-Hant": "前方有停車標誌"
+      },
+      "C": {
+        "en": "Merge ahead",
+        "zh-Hans": "前方汇入",
+        "zh-Hant": "前方匯入"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "This sign warns you that there is a YIELD sign ahead. Be prepared to slow down.",
+      "zh-Hans": "这个标志警告您前方有让行标志，请准备减速。",
+      "zh-Hant": "這個標誌警告您前方有讓行標誌，請準備減速。"
+    }
+  },
+  {
+    "id": 7,
+    "category": "Traffic Signs",
+    "image": "/images/signs/rail road corssroad.jpg",
+    "question": {
+      "en": "What does this round yellow sign with an X and RR mean?",
+      "zh-Hans": "这个带有X和RR的圆形黄色标志表示什么？",
+      "zh-Hant": "這個帶有X和RR的圓形黃色標誌表示什麼？"
+    },
+    "options": {
+      "A": {
+        "en": "Rest area ahead",
+        "zh-Hans": "前方有休息区",
+        "zh-Hant": "前方有休息區"
+      },
+      "B": {
+        "en": "Railroad crossing ahead",
+        "zh-Hans": "前方有铁路道口",
+        "zh-Hant": "前方有鐵路道口"
+      },
+      "C": {
+        "en": "Road repair ahead",
+        "zh-Hans": "前方道路维修",
+        "zh-Hant": "前方道路維修"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This is the only circular yellow warning sign in California. It warns of a railroad crossing ahead.",
+      "zh-Hans": "这是加州唯一的圆形黄色警告标志。它警告前方有铁路道口。",
+      "zh-Hant": "這是加州唯一的圓形黃色警告標誌。它警告前方有鐵路道口。"
+    }
+  },
+  {
+    "id": 8,
+    "category": "Traffic Signs",
+    "image": "/images/signs/pedestrian crossing.webp",
+    "question": {
+      "en": "This yellow diamond sign with a walking person means:",
+      "zh-Hans": "这个黄色菱形标志上有行走的人形，表示：",
+      "zh-Hant": "這個黃色菱形標誌上有行走的人形，表示："
+    },
+    "options": {
+      "A": {
+        "en": "Pedestrian crossing ahead",
+        "zh-Hans": "前方有人行横道",
+        "zh-Hant": "前方有人行橫道"
+      },
+      "B": {
+        "en": "No pedestrians allowed",
+        "zh-Hans": "禁止行人通行",
+        "zh-Hant": "禁止行人通行"
+      },
+      "C": {
+        "en": "School zone",
+        "zh-Hans": "学校区域",
+        "zh-Hant": "學校區域"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "This sign warns drivers that there is a pedestrian crossing ahead. Watch for people crossing.",
+      "zh-Hans": "这个标志警告驾驶员前方有人行横道。注意观察行人过马路。",
+      "zh-Hant": "這個標誌警告駕駛員前方有人行橫道。注意觀察行人過馬路。"
+    }
+  },
+  {
+    "id": 9,
+    "category": "Traffic Signs",
+    "image": "/images/signs/slippery.jpg",
+    "question": {
+      "en": "This yellow sign with a car and wavy lines means:",
+      "zh-Hans": "这个黄色标志上有汽车和波浪线，表示：",
+      "zh-Hant": "這個黃色標誌上有汽車和波浪線，表示："
+    },
+    "options": {
+      "A": {
+        "en": "Winding road ahead",
+        "zh-Hans": "前方弯道",
+        "zh-Hant": "前方彎道"
+      },
+      "B": {
+        "en": "Slippery when wet",
+        "zh-Hans": "雨天路滑",
+        "zh-Hant": "雨天路滑"
+      },
+      "C": {
+        "en": "Road narrows",
+        "zh-Hans": "道路变窄",
+        "zh-Hant": "道路變窄"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This sign warns that the road may be slippery when wet. Slow down in rain or on wet pavement.",
+      "zh-Hans": "这个标志警告道路在潮湿时可能会打滑。雨天或路面潮湿时请减速。",
+      "zh-Hant": "這個標誌警告道路在潮濕時可能會打滑。雨天或路面潮濕時請減速。"
+    }
+  },
+  {
+    "id": 10,
+    "category": "Traffic Signs",
+    "image": "/images/signs/winding road sign.webp",
+    "question": {
+      "en": "This yellow diamond sign with a curved arrow means:",
+      "zh-Hans": "这个黄色菱形标志上有弯曲箭头，表示：",
+      "zh-Hant": "這個黃色菱形標誌上有彎曲箭頭，表示："
+    },
+    "options": {
+      "A": {
+        "en": "Winding road ahead",
+        "zh-Hans": "前方有弯道",
+        "zh-Hant": "前方有彎道"
+      },
+      "B": {
+        "en": "Slippery road",
+        "zh-Hans": "湿滑路面",
+        "zh-Hant": "濕滑路面"
+      },
+      "C": {
+        "en": "Road curves left",
+        "zh-Hans": "道路左转弯",
+        "zh-Hant": "道路左轉彎"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "This sign indicates a winding road with multiple curves ahead. Reduce speed.",
+      "zh-Hans": "这个标志表示前方有多个弯道的蜿蜒道路。请减速。",
+      "zh-Hant": "這個標誌表示前方有多個彎道的蜿蜒道路。請減速。"
+    }
+  },
+  {
+    "id": 11,
+    "category": "Traffic Signs",
+    "image": "/images/signs/merging traffic.jpg",
+    "question": {
+      "en": "This yellow sign with a circular arrow means:",
+      "zh-Hans": "这个黄色标志上有圆形箭头，表示：",
+      "zh-Hant": "這個黃色標誌上有圓形箭頭，表示："
+    },
+    "options": {
+      "A": {
+        "en": "U-turn allowed",
+        "zh-Hans": "允许掉头",
+        "zh-Hant": "允許掉頭"
+      },
+      "B": {
+        "en": "Roundabout ahead",
+        "zh-Hans": "前方有环岛",
+        "zh-Hant": "前方有環島"
+      },
+      "C": {
+        "en": "270-degree turn ahead (loop)",
+        "zh-Hans": "前方有270度转弯（环形）",
+        "zh-Hant": "前方有270度轉彎（環形）"
+      }
+    },
+    "answer": "C",
+    "explanation": {
+      "en": "This sign warns of a tight loop turn (270 degrees) ahead on a highway ramp or interchange.",
+      "zh-Hans": "这个标志警告前方有一个紧急环形弯道（270度），通常出现在高速公路匝道或立交桥上。",
+      "zh-Hant": "這個標誌警告前方有一個緊急環形彎道（270度），通常出現在高速公路匝道或立交橋上。"
+    }
+  },
+  {
+    "id": 12,
+    "category": "Traffic Signs",
+    "image": "/images/signs/No Turn On Red.webp",
+    "question": {
+      "en": "What does this sign prohibit?",
+      "zh-Hans": "这个标志禁止什么？",
+      "zh-Hant": "這個標誌禁止什麼？"
+    },
+    "options": {
+      "A": {
+        "en": "Right turn at any time",
+        "zh-Hans": "任何时候右转",
+        "zh-Hant": "任何時候右轉"
+      },
+      "B": {
+        "en": "Turning right on a red light",
+        "zh-Hans": "红灯时右转",
+        "zh-Hant": "紅燈時右轉"
+      },
+      "C": {
+        "en": "U-turn",
+        "zh-Hans": "掉头",
+        "zh-Hant": "掉頭"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "NO TURN ON RED means you cannot turn right (or left on a one-way) when the light is red.",
+      "zh-Hans": "NO TURN ON RED表示红灯时禁止右转（或在单行道上禁止左转）。",
+      "zh-Hant": "NO TURN ON RED表示紅燈時禁止右轉（或在單行道上禁止左轉）。"
+    }
+  },
+  {
+    "id": 13,
+    "category": "Traffic Signs",
+    "image": "/images/signs/no left turn.jpg",
+    "question": {
+      "en": "What does this sign with a crossed-out left arrow mean?",
+      "zh-Hans": "这个有划掉左箭头的标志表示什么？",
+      "zh-Hant": "這個有劃掉左箭頭的標誌表示什麼？"
+    },
+    "options": {
+      "A": {
+        "en": "Left lane closed",
+        "zh-Hans": "左车道关闭",
+        "zh-Hant": "左車道關閉"
+      },
+      "B": {
+        "en": "No left turn",
+        "zh-Hans": "禁止左转",
+        "zh-Hant": "禁止左轉"
+      },
+      "C": {
+        "en": "Keep right",
+        "zh-Hans": "靠右行驶",
+        "zh-Hant": "靠右行駛"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This sign indicates that left turns are prohibited at this location.",
+      "zh-Hans": "这个标志表示在此位置禁止左转。",
+      "zh-Hant": "這個標誌表示在此位置禁止左轉。"
+    }
+  },
+  {
+    "id": 14,
+    "category": "Traffic Signs",
+    "image": "/images/signs/NO U-TURN.png",
+    "question": {
+      "en": "What is prohibited by this sign?",
+      "zh-Hans": "这个标志禁止什么？",
+      "zh-Hant": "這個標誌禁止什麼？"
+    },
+    "options": {
+      "A": {
+        "en": "U-turn",
+        "zh-Hans": "掉头",
+        "zh-Hant": "掉頭"
+      },
+      "B": {
+        "en": "Right turn",
+        "zh-Hans": "右转",
+        "zh-Hant": "右轉"
+      },
+      "C": {
+        "en": "Left turn",
+        "zh-Hans": "左转",
+        "zh-Hant": "左轉"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "This sign prohibits making a U-turn at this location.",
+      "zh-Hans": "这个标志禁止在此位置掉头。",
+      "zh-Hant": "這個標誌禁止在此位置掉頭。"
+    }
+  },
+  {
+    "id": 15,
+    "category": "Traffic Signs",
+    "image": "/images/signs/SPEED LIMIT 50.jpg",
+    "question": {
+      "en": "What does this white rectangular sign indicate?",
+      "zh-Hans": "这个白色矩形标志表示什么？",
+      "zh-Hant": "這個白色矩形標誌表示什麼？"
+    },
+    "options": {
+      "A": {
+        "en": "Minimum speed is 50 mph",
+        "zh-Hans": "最低限速50英里",
+        "zh-Hant": "最低限速50英哩"
+      },
+      "B": {
+        "en": "Maximum speed is 50 mph",
+        "zh-Hans": "最高限速50英里",
+        "zh-Hant": "最高限速50英哩"
+      },
+      "C": {
+        "en": "Suggested speed is 50 mph",
+        "zh-Hans": "建议速度50英里",
+        "zh-Hant": "建議速度50英哩"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "SPEED LIMIT signs show the maximum legal speed. You must not exceed this speed.",
+      "zh-Hans": "限速标志显示最高法定速度。您不得超过此速度。",
+      "zh-Hant": "限速標誌顯示最高法定速度。您不得超過此速度。"
+    }
+  },
+  {
+    "id": 16,
+    "category": "Traffic Signs",
+    "image": "/images/signs/signal ahead.jpg",
+    "question": {
+      "en": "This yellow sign with an arrow and 'SIGNAL AHEAD' means:",
+      "zh-Hans": "这个带箭头和'SIGNAL AHEAD'的黄色标志表示：",
+      "zh-Hant": "這個帶箭頭和'SIGNAL AHEAD'的黃色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Turn signal required",
+        "zh-Hans": "需要打转向灯",
+        "zh-Hant": "需要打轉向燈"
+      },
+      "B": {
+        "en": "Traffic signal ahead after a turn",
+        "zh-Hans": "转弯后前方有信号灯",
+        "zh-Hant": "轉彎後前方有信號燈"
+      },
+      "C": {
+        "en": "Signal light broken",
+        "zh-Hans": "信号灯损坏",
+        "zh-Hant": "信號燈損壞"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This sign warns that there is a traffic signal ahead after you make a right turn.",
+      "zh-Hans": "这个标志警告您右转后前方有交通信号灯。",
+      "zh-Hant": "這個標誌警告您右轉後前方有交通信號燈。"
+    }
+  },
+  {
+    "id": 17,
+    "category": "Traffic Signs",
+    "image": "/images/signs/traffic signal ahead.jpg",
+    "question": {
+      "en": "This yellow diamond sign with a traffic light symbol means:",
+      "zh-Hans": "这个黄色菱形标志上有交通灯符号，表示：",
+      "zh-Hant": "這個黃色菱形標誌上有交通燈符號，表示："
+    },
+    "options": {
+      "A": {
+        "en": "Traffic signal not working",
+        "zh-Hans": "信号灯故障",
+        "zh-Hant": "信號燈故障"
+      },
+      "B": {
+        "en": "Traffic signal ahead",
+        "zh-Hans": "前方有交通信号灯",
+        "zh-Hant": "前方有交通信號燈"
+      },
+      "C": {
+        "en": "Pedestrian signal",
+        "zh-Hans": "行人信号",
+        "zh-Hant": "行人信號"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This warning sign indicates there is a traffic signal ahead. Be prepared to stop.",
+      "zh-Hans": "这个警告标志表示前方有交通信号灯。请准备停车。",
+      "zh-Hant": "這個警告標誌表示前方有交通信號燈。請準備停車。"
+    }
+  },
+  {
+    "id": 18,
+    "category": "Traffic Signs",
+    "image": "/images/signs/hill.jpg",
+    "question": {
+      "en": "This yellow sign with a truck on a slope means:",
+      "zh-Hans": "这个黄色标志上有卡车在斜坡上，表示：",
+      "zh-Hant": "這個黃色標誌上有卡車在斜坡上，表示："
+    },
+    "options": {
+      "A": {
+        "en": "Truck parking ahead",
+        "zh-Hans": "前方卡车停车场",
+        "zh-Hant": "前方卡車停車場"
+      },
+      "B": {
+        "en": "Steep hill or grade ahead",
+        "zh-Hans": "前方有陡坡",
+        "zh-Hant": "前方有陡坡"
+      },
+      "C": {
+        "en": "Trucks only lane",
+        "zh-Hans": "仅限卡车车道",
+        "zh-Hant": "僅限卡車車道"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This sign warns of a steep downgrade ahead. Use lower gear and check brakes.",
+      "zh-Hans": "这个标志警告前方有陡坡。请使用低挡并检查刹车。",
+      "zh-Hant": "這個標誌警告前方有陡坡。請使用低擋並檢查剎車。"
+    }
+  },
+  {
+    "id": 19,
+    "category": "Traffic Signs",
+    "image": "/images/signs/Lane Ends Merge Left.webp",
+    "question": {
+      "en": "This yellow sign indicates:",
+      "zh-Hans": "这个黄色标志表示：",
+      "zh-Hant": "這個黃色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Left lane ends, merge right",
+        "zh-Hans": "左车道结束，向右并入",
+        "zh-Hant": "左車道結束，向右併入"
+      },
+      "B": {
+        "en": "Right lane ends, merge left",
+        "zh-Hans": "右车道结束，向左并入",
+        "zh-Hant": "右車道結束，向左併入"
+      },
+      "C": {
+        "en": "Two lanes merge into one",
+        "zh-Hans": "两车道合并为一",
+        "zh-Hant": "兩車道合併為一"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "LANE ENDS MERGE LEFT means the right lane is ending and you must merge into the left lane.",
+      "zh-Hans": "LANE ENDS MERGE LEFT表示右车道即将结束，您必须并入左车道。",
+      "zh-Hant": "LANE ENDS MERGE LEFT表示右車道即將結束，您必須併入左車道。"
+    }
+  },
+  {
+    "id": 20,
+    "category": "Traffic Signs",
+    "image": "/images/signs/cross_road.png",
+    "question": {
+      "en": "This yellow diamond sign with a cross shape means:",
+      "zh-Hans": "这个带十字形状的黄色菱形标志表示：",
+      "zh-Hant": "這個帶十字形狀的黃色菱形標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Hospital ahead",
+        "zh-Hans": "前方有医院",
+        "zh-Hant": "前方有醫院"
+      },
+      "B": {
+        "en": "Crossroad or 4-way intersection ahead",
+        "zh-Hans": "前方有十字路口",
+        "zh-Hant": "前方有十字路口"
+      },
+      "C": {
+        "en": "Railroad crossing",
+        "zh-Hans": "铁路道口",
+        "zh-Hant": "鐵路道口"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This sign warns of a crossroad or 4-way intersection ahead. Watch for cross traffic.",
+      "zh-Hans": "这个标志警告前方有十字路口。注意横向来车。",
+      "zh-Hant": "這個標誌警告前方有十字路口。注意橫向來車。"
+    }
+  },
+  {
+    "id": 21,
+    "category": "Traffic Signs",
+    "image": "/images/signs/t_intersection.webp",
+    "question": {
+      "en": "This yellow sign with a T shape means:",
+      "zh-Hans": "这个带T形状的黄色标志表示：",
+      "zh-Hant": "這個帶T形狀的黃色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "T-intersection ahead",
+        "zh-Hans": "前方有T字路口",
+        "zh-Hant": "前方有T字路口"
+      },
+      "B": {
+        "en": "Turn around point",
+        "zh-Hans": "掉头点",
+        "zh-Hant": "掉頭點"
+      },
+      "C": {
+        "en": "Traffic light ahead",
+        "zh-Hans": "前方有信号灯",
+        "zh-Hant": "前方有信號燈"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "This sign warns of a T-intersection ahead. The road you are on ends; you must turn left or right.",
+      "zh-Hans": "这个标志警告前方有T字路口。您行驶的道路到此为止；您必须左转或右转。",
+      "zh-Hant": "這個標誌警告前方有T字路口。您行駛的道路到此為止；您必須左轉或右轉。"
+    }
+  },
+  {
+    "id": 22,
+    "category": "Traffic Signs",
+    "image": "/images/signs/Narrow Bridge.webp",
+    "question": {
+      "en": "This yellow diamond sign means:",
+      "zh-Hans": "这个黄色菱形标志表示：",
+      "zh-Hant": "這個黃色菱形標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Road narrows",
+        "zh-Hans": "道路变窄",
+        "zh-Hant": "道路變窄"
+      },
+      "B": {
+        "en": "Narrow bridge ahead",
+        "zh-Hans": "前方有窄桥",
+        "zh-Hant": "前方有窄橋"
+      },
+      "C": {
+        "en": "One lane road",
+        "zh-Hans": "单车道道路",
+        "zh-Hant": "單車道道路"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "NARROW BRIDGE sign warns that the bridge ahead is narrower than the road.",
+      "zh-Hans": "NARROW BRIDGE标志警告前方桥梁比道路窄。",
+      "zh-Hant": "NARROW BRIDGE標誌警告前方橋樑比道路窄。"
+    }
+  },
+  {
+    "id": 23,
+    "category": "Traffic Signs",
+    "image": "/images/signs/divided traffic sign.jpg",
+    "question": {
+      "en": "This yellow sign means:",
+      "zh-Hans": "这个黄色标志表示：",
+      "zh-Hant": "這個黃色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Divided highway ends",
+        "zh-Hans": "分隔式公路结束",
+        "zh-Hant": "分隔式公路結束"
+      },
+      "B": {
+        "en": "Divided highway begins",
+        "zh-Hans": "分隔式公路开始",
+        "zh-Hant": "分隔式公路開始"
+      },
+      "C": {
+        "en": "Two-way traffic",
+        "zh-Hans": "双向交通",
+        "zh-Hant": "雙向交通"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This sign indicates a divided highway begins ahead. Keep right of the median.",
+      "zh-Hans": "这个标志表示前方开始是分隔式公路。请靠右行驶在中央隔离带右侧。",
+      "zh-Hant": "這個標誌表示前方開始是分隔式公路。請靠右行駛在中央隔離帶右側。"
+    }
+  },
+  {
+    "id": 24,
+    "category": "Traffic Signs",
+    "image": "/images/signs/tow way traffic.jpg",
+    "question": {
+      "en": "This yellow sign with two opposing arrows means:",
+      "zh-Hans": "这个带两个相对箭头的黄色标志表示：",
+      "zh-Hant": "這個帶兩個相對箭頭的黃色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "One-way traffic",
+        "zh-Hans": "单向交通",
+        "zh-Hant": "單向交通"
+      },
+      "B": {
+        "en": "Two-way traffic ahead",
+        "zh-Hans": "前方双向交通",
+        "zh-Hant": "前方雙向交通"
+      },
+      "C": {
+        "en": "Passing zone",
+        "zh-Hans": "超车区",
+        "zh-Hant": "超車區"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This sign warns that you are entering a two-way traffic road. Oncoming traffic ahead.",
+      "zh-Hans": "这个标志警告您正在进入双向交通道路。前方有对向来车。",
+      "zh-Hant": "這個標誌警告您正在進入雙向交通道路。前方有對向來車。"
+    }
+  },
+  {
+    "id": 25,
+    "category": "Traffic Signs",
+    "image": "/images/signs/shool bus stop.png",
+    "question": {
+      "en": "This yellow pentagon sign means:",
+      "zh-Hans": "这个黄色五边形标志表示：",
+      "zh-Hant": "這個黃色五邊形標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "School zone ahead",
+        "zh-Hans": "前方学校区域",
+        "zh-Hant": "前方學校區域"
+      },
+      "B": {
+        "en": "School bus stop ahead",
+        "zh-Hans": "前方校车站点",
+        "zh-Hant": "前方校車站點"
+      },
+      "C": {
+        "en": "Children at play",
+        "zh-Hans": "儿童玩耍区",
+        "zh-Hant": "兒童玩耍區"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This sign warns that there is a school bus stop ahead. Watch for children and stopped buses.",
+      "zh-Hans": "这个标志警告前方有校车站点。注意儿童和停靠的校车。",
+      "zh-Hant": "這個標誌警告前方有校車站點。注意兒童和停靠的校車。"
+    }
+  },
+  {
+    "id": 26,
+    "category": "Traffic Signs",
+    "image": "/images/signs/no passing zone.webp",
+    "question": {
+      "en": "This yellow pennant-shaped sign on the left side of the road means:",
+      "zh-Hans": "道路左侧这个黄色三角旗形标志表示：",
+      "zh-Hant": "道路左側這個黃色三角旗形標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Passing zone begins",
+        "zh-Hans": "超车区开始",
+        "zh-Hant": "超車區開始"
+      },
+      "B": {
+        "en": "No passing zone",
+        "zh-Hans": "禁止超车区",
+        "zh-Hant": "禁止超車區"
+      },
+      "C": {
+        "en": "Slow vehicle turnout",
+        "zh-Hans": "慢车避让处",
+        "zh-Hant": "慢車避讓處"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This pennant-shaped sign marks the beginning of a no-passing zone. Do not pass other vehicles here.",
+      "zh-Hans": "这个三角旗形标志标示禁止超车区的开始。在此区域禁止超越其他车辆。",
+      "zh-Hant": "這個三角旗形標誌標示禁止超車區的開始。在此區域禁止超越其他車輛。"
+    }
+  },
+  {
+    "id": 27,
+    "category": "Traffic Signs",
+    "image": "/images/signs/bicycle.jpg",
+    "question": {
+      "en": "This yellow diamond sign with a bicycle means:",
+      "zh-Hans": "这个带自行车图案的黄色菱形标志表示：",
+      "zh-Hant": "這個帶自行車圖案的黃色菱形標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Bicycle lane only",
+        "zh-Hans": "仅限自行车道",
+        "zh-Hant": "僅限自行車道"
+      },
+      "B": {
+        "en": "Bicycle crossing or bikes on road ahead",
+        "zh-Hans": "前方有自行车穿越或骑行",
+        "zh-Hant": "前方有自行車穿越或騎行"
+      },
+      "C": {
+        "en": "No bicycles allowed",
+        "zh-Hans": "禁止自行车",
+        "zh-Hant": "禁止自行車"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This sign warns drivers to watch for bicycles crossing or riding on the road ahead.",
+      "zh-Hans": "这个标志警告驾驶员注意前方可能有自行车穿越或骑行。",
+      "zh-Hant": "這個標誌警告駕駛員注意前方可能有自行車穿越或騎行。"
+    }
+  },
+  {
+    "id": 28,
+    "category": "Traffic Signs",
+    "image": "/images/signs/flooded.jpg",
+    "question": {
+      "en": "This yellow sign warns of:",
+      "zh-Hans": "这个黄色标志警告：",
+      "zh-Hant": "這個黃色標誌警告："
+    },
+    "options": {
+      "A": {
+        "en": "Bridge ahead",
+        "zh-Hans": "前方有桥",
+        "zh-Hant": "前方有橋"
+      },
+      "B": {
+        "en": "Road may be flooded",
+        "zh-Hans": "道路可能被淹没",
+        "zh-Hant": "道路可能被淹沒"
+      },
+      "C": {
+        "en": "River crossing",
+        "zh-Hans": "河流穿越",
+        "zh-Hant": "河流穿越"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This sign warns that the road ahead may be flooded during rain. Do not drive through flooded areas.",
+      "zh-Hans": "这个标志警告前方道路在雨天可能被淹没。请勿驾车通过积水区域。",
+      "zh-Hant": "這個標誌警告前方道路在雨天可能被淹沒。請勿駕車通過積水區域。"
+    }
+  },
+  {
+    "id": 29,
+    "category": "Traffic Signs",
+    "image": "/images/signs/rough road.jpg",
+    "question": {
+      "en": "This yellow sign means:",
+      "zh-Hans": "这个黄色标志表示：",
+      "zh-Hant": "這個黃色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Bumps ahead",
+        "zh-Hans": "前方有颠簸",
+        "zh-Hant": "前方有顛簸"
+      },
+      "B": {
+        "en": "Rough road ahead",
+        "zh-Hans": "前方路面不平",
+        "zh-Hant": "前方路面不平"
+      },
+      "C": {
+        "en": "Speed bumps",
+        "zh-Hans": "减速带",
+        "zh-Hant": "減速帶"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "ROUGH ROAD sign warns that the road surface ahead is uneven. Slow down.",
+      "zh-Hans": "ROUGH ROAD标志警告前方路面不平整。请减速。",
+      "zh-Hant": "ROUGH ROAD標誌警告前方路面不平整。請減速。"
+    }
+  },
+  {
+    "id": 30,
+    "category": "Traffic Signs",
+    "image": "/images/signs/Road Work Ahead.png",
+    "question": {
+      "en": "This orange sign means:",
+      "zh-Hans": "这个橙色标志表示：",
+      "zh-Hant": "這個橙色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Detour ahead",
+        "zh-Hans": "前方绕行",
+        "zh-Hant": "前方繞行"
+      },
+      "B": {
+        "en": "Road work ahead",
+        "zh-Hans": "前方道路施工",
+        "zh-Hant": "前方道路施工"
+      },
+      "C": {
+        "en": "Road closed",
+        "zh-Hans": "道路封闭",
+        "zh-Hant": "道路封閉"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Orange signs indicate construction zones. ROAD WORK AHEAD means workers may be present. Slow down.",
+      "zh-Hans": "橙色标志表示施工区域。ROAD WORK AHEAD表示前方可能有工人。请减速。",
+      "zh-Hant": "橙色標誌表示施工區域。ROAD WORK AHEAD表示前方可能有工人。請減速。"
+    }
+  },
+  {
+    "id": 31,
+    "category": "Traffic Signs",
+    "image": "/images/signs/detour.png",
+    "question": {
+      "en": "This orange sign means:",
+      "zh-Hans": "这个橙色标志表示：",
+      "zh-Hant": "這個橙色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Follow this detour route",
+        "zh-Hans": "沿此绕行路线行驶",
+        "zh-Hant": "沿此繞行路線行駛"
+      },
+      "B": {
+        "en": "Dead end ahead",
+        "zh-Hans": "前方死胡同",
+        "zh-Hant": "前方死胡同"
+      },
+      "C": {
+        "en": "Turn right only",
+        "zh-Hans": "仅限右转",
+        "zh-Hant": "僅限右轉"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "DETOUR sign indicates the road ahead is closed and you must follow the alternate route shown.",
+      "zh-Hans": "DETOUR标志表示前方道路封闭，您必须按照指示的替代路线行驶。",
+      "zh-Hant": "DETOUR標誌表示前方道路封閉，您必須按照指示的替代路線行駛。"
+    }
+  },
+  {
+    "id": 32,
+    "category": "Traffic Signs",
+    "image": "/images/signs/Flagger Ahead .jpg",
+    "question": {
+      "en": "This orange sign means:",
+      "zh-Hans": "这个橙色标志表示：",
+      "zh-Hant": "這個橙色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Worker directing traffic ahead",
+        "zh-Hans": "前方有工人指挥交通",
+        "zh-Hant": "前方有工人指揮交通"
+      },
+      "B": {
+        "en": "Slow down for pedestrians",
+        "zh-Hans": "减速避让行人",
+        "zh-Hant": "減速避讓行人"
+      },
+      "C": {
+        "en": "School crossing guard",
+        "zh-Hans": "学校交通协管员",
+        "zh-Hant": "學校交通協管員"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "FLAGGER AHEAD sign warns that a worker with a flag is directing traffic in a construction zone.",
+      "zh-Hans": "FLAGGER AHEAD标志警告施工区前方有持旗工人指挥交通。请服从他们的指示。",
+      "zh-Hant": "FLAGGER AHEAD標誌警告施工區前方有持旗工人指揮交通。請服從他們的指示。"
+    }
+  },
+  {
+    "id": 33,
+    "category": "Traffic Signs",
+    "image": "/images/signs/hospital.gif",
+    "question": {
+      "en": "This blue sign with an H means:",
+      "zh-Hans": "这个带H的蓝色标志表示：",
+      "zh-Hant": "這個帶H的藍色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Hotel ahead",
+        "zh-Hans": "前方有酒店",
+        "zh-Hant": "前方有酒店"
+      },
+      "B": {
+        "en": "Hospital ahead",
+        "zh-Hans": "前方有医院",
+        "zh-Hant": "前方有醫院"
+      },
+      "C": {
+        "en": "Helipad",
+        "zh-Hans": "直升机停机坪",
+        "zh-Hant": "直升機停機坪"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Blue signs indicate services. The H symbol means a hospital is nearby.",
+      "zh-Hans": "蓝色标志表示服务设施。H符号表示附近有医院。",
+      "zh-Hant": "藍色標誌表示服務設施。H符號表示附近有醫院。"
+    }
+  },
+  {
+    "id": 34,
+    "category": "Traffic Signs",
+    "image": "/images/signs/airport.webp",
+    "question": {
+      "en": "This blue sign with an airplane means:",
+      "zh-Hans": "这个带飞机图案的蓝色标志表示：",
+      "zh-Hant": "這個帶飛機圖案的藍色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Airport ahead",
+        "zh-Hans": "前方有机场",
+        "zh-Hant": "前方有機場"
+      },
+      "B": {
+        "en": "Low-flying aircraft",
+        "zh-Hans": "低空飞行飞机",
+        "zh-Hant": "低空飛行飛機"
+      },
+      "C": {
+        "en": "Military zone",
+        "zh-Hans": "军事区域",
+        "zh-Hant": "軍事區域"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "This blue service sign indicates an airport is nearby.",
+      "zh-Hans": "这个蓝色服务标志表示附近有机场。",
+      "zh-Hant": "這個藍色服務標誌表示附近有機場。"
+    }
+  },
+  {
+    "id": 35,
+    "category": "Traffic Signs",
+    "image": "/images/signs/camping sign.gif",
+    "question": {
+      "en": "This brown sign with a tent means:",
+      "zh-Hans": "这个带帐篷图案的棕色标志表示：",
+      "zh-Hant": "這個帶帳篷圖案的棕色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Campground ahead",
+        "zh-Hans": "前方有露营地",
+        "zh-Hant": "前方有露營地"
+      },
+      "B": {
+        "en": "No camping allowed",
+        "zh-Hans": "禁止露营",
+        "zh-Hant": "禁止露營"
+      },
+      "C": {
+        "en": "Picnic area",
+        "zh-Hans": "野餐区",
+        "zh-Hant": "野餐區"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Brown signs indicate recreational areas. A tent symbol means a campground is nearby.",
+      "zh-Hans": "棕色标志表示休闲区域。帐篷符号表示附近有露营地。",
+      "zh-Hant": "棕色標誌表示休閒區域。帳篷符號表示附近有露營地。"
+    }
+  },
+  {
+    "id": 36,
+    "category": "Traffic Signs",
+    "image": "/images/signs/disabled.png",
+    "question": {
+      "en": "This blue sign with a wheelchair symbol indicates:",
+      "zh-Hans": "这个带轮椅符号的蓝色标志表示：",
+      "zh-Hant": "這個帶輪椅符號的藍色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Hospital ahead",
+        "zh-Hans": "前方有医院",
+        "zh-Hant": "前方有醫院"
+      },
+      "B": {
+        "en": "Accessible parking for disabled persons",
+        "zh-Hans": "残疾人专用停车位",
+        "zh-Hant": "殘疾人專用停車位"
+      },
+      "C": {
+        "en": "Wheelchair rental",
+        "zh-Hans": "轮椅租赁",
+        "zh-Hant": "輪椅租賃"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This sign marks parking spaces reserved for persons with disabilities. Misuse results in heavy fines.",
+      "zh-Hans": "这个标志标示残疾人专用停车位。滥用将被处以高额罚款。",
+      "zh-Hant": "這個標誌標示殘疾人專用停車位。濫用將被處以高額罰款。"
+    }
+  },
+  {
+    "id": 37,
+    "category": "Traffic Signs",
+    "image": "/images/signs/SLOWERTRAFFICKEEPRIGHT.jpg",
+    "question": {
+      "en": "This sign tells drivers to:",
+      "zh-Hans": "这个标志告诉驾驶员：",
+      "zh-Hant": "這個標誌告訴駕駛員："
+    },
+    "options": {
+      "A": {
+        "en": "Pass on the right only",
+        "zh-Hans": "只能从右侧超车",
+        "zh-Hant": "只能從右側超車"
+      },
+      "B": {
+        "en": "Slower traffic should stay in the right lane",
+        "zh-Hans": "慢速车辆应待在右车道",
+        "zh-Hant": "慢速車輛應待在右車道"
+      },
+      "C": {
+        "en": "Right lane for trucks only",
+        "zh-Hans": "右车道仅限卡车",
+        "zh-Hant": "右車道僅限卡車"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "SLOWER TRAFFIC KEEP RIGHT means if you are driving slower than the flow of traffic, stay in the right lane.",
+      "zh-Hans": "SLOWER TRAFFIC KEEP RIGHT表示如果您的车速低于车流速度，请待在右车道。",
+      "zh-Hant": "SLOWER TRAFFIC KEEP RIGHT表示如果您的車速低於車流速度，請待在右車道。"
+    }
+  },
+  {
+    "id": 38,
+    "category": "Traffic Signs",
+    "image": "/images/signs/KEEP LEFT.png",
+    "question": {
+      "en": "This sign means:",
+      "zh-Hans": "这个标志表示：",
+      "zh-Hant": "這個標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "One-way street to the left",
+        "zh-Hans": "向左的单行道",
+        "zh-Hant": "向左的單行道"
+      },
+      "B": {
+        "en": "Keep to the left of an obstacle or median",
+        "zh-Hans": "靠左绕过障碍物或隔离带",
+        "zh-Hant": "靠左繞過障礙物或隔離帶"
+      },
+      "C": {
+        "en": "Left turn only",
+        "zh-Hans": "仅限左转",
+        "zh-Hant": "僅限左轉"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "KEEP LEFT sign indicates you must pass to the left of an obstacle, island, or median.",
+      "zh-Hans": "KEEP LEFT标志表示您必须从障碍物、岛屿或隔离带的左侧通过。",
+      "zh-Hant": "KEEP LEFT標誌表示您必須從障礙物、島嶼或隔離帶的左側通過。"
+    }
+  },
+  {
+    "id": 39,
+    "category": "Traffic Signs",
+    "image": "/images/signs/keep_right.webp",
+    "question": {
+      "en": "This sign means:",
+      "zh-Hans": "这个标志表示：",
+      "zh-Hant": "這個標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Right turn only",
+        "zh-Hans": "仅限右转",
+        "zh-Hant": "僅限右轉"
+      },
+      "B": {
+        "en": "Keep to the right of an obstacle or median",
+        "zh-Hans": "靠右绕过障碍物或隔离带",
+        "zh-Hant": "靠右繞過障礙物或隔離帶"
+      },
+      "C": {
+        "en": "Right lane must exit",
+        "zh-Hans": "右车道必须驶出",
+        "zh-Hant": "右車道必須駛出"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "KEEP RIGHT sign indicates you must pass to the right of an obstacle, island, or median.",
+      "zh-Hans": "KEEP RIGHT标志表示您必须从障碍物、岛屿或隔离带的右侧通过。",
+      "zh-Hant": "KEEP RIGHT標誌表示您必須從障礙物、島嶼或隔離帶的右側通過。"
+    }
+  },
+  {
+    "id": 40,
+    "category": "Traffic Signs",
+    "image": "/images/signs/electric vehicle charging station.jpg",
+    "question": {
+      "en": "This green sign indicates:",
+      "zh-Hans": "这个绿色标志表示：",
+      "zh-Hant": "這個綠色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Gas station ahead",
+        "zh-Hans": "前方有加油站",
+        "zh-Hant": "前方有加油站"
+      },
+      "B": {
+        "en": "Electric vehicle charging station",
+        "zh-Hans": "电动汽车充电站",
+        "zh-Hant": "電動汽車充電站"
+      },
+      "C": {
+        "en": "Battery disposal site",
+        "zh-Hans": "电池回收点",
+        "zh-Hant": "電池回收點"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This sign indicates an electric vehicle (EV) charging station is nearby.",
+      "zh-Hans": "这个标志表示附近有电动汽车充电站。",
+      "zh-Hant": "這個標誌表示附近有電動汽車充電站。"
+    }
+  },
+  {
+    "id": 41,
+    "category": "Traffic Signs",
+    "image": "/images/signs/D0NOTPASS.jpg",
+    "question": {
+      "en": "What does this sign mean?",
+      "zh-Hans": "这个标志是什么意思？",
+      "zh-Hant": "這個標誌是什麼意思？"
+    },
+    "options": {
+      "A": {
+        "en": "No parking",
+        "zh-Hans": "禁止停车",
+        "zh-Hant": "禁止停車"
+      },
+      "B": {
+        "en": "Do not pass other vehicles",
+        "zh-Hans": "禁止超车",
+        "zh-Hant": "禁止超車"
+      },
+      "C": {
+        "en": "Road closed",
+        "zh-Hans": "道路封闭",
+        "zh-Hant": "道路封閉"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "DO NOT PASS means you cannot pass other vehicles in this zone.",
+      "zh-Hans": "DO NOT PASS表示在此区域禁止超越其他车辆。",
+      "zh-Hant": "DO NOT PASS表示在此區域禁止超越其他車輛。"
+    }
+  },
+  {
+    "id": 42,
+    "category": "Traffic Signs",
+    "image": "/images/signs/SLOW MOVING VEHICLE.webp",
+    "question": {
+      "en": "This orange and red triangular sign on the back of a vehicle means:",
+      "zh-Hans": "车辆后部这个橙红色三角形标志表示：",
+      "zh-Hant": "車輛後部這個橙紅色三角形標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Hazardous materials",
+        "zh-Hans": "危险品",
+        "zh-Hant": "危險品"
+      },
+      "B": {
+        "en": "Slow moving vehicle (under 25 mph)",
+        "zh-Hans": "慢速车辆（低于25英里/小时）",
+        "zh-Hant": "慢速車輛（低於25英哩/小時）"
+      },
+      "C": {
+        "en": "Wide load",
+        "zh-Hans": "超宽货物",
+        "zh-Hant": "超寬貨物"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This emblem on farm equipment or other vehicles means they travel at 25 mph or less.",
+      "zh-Hans": "这个标志通常贴在农用设备或其他车辆上，表示它们的行驶速度不超过25英里/小时。",
+      "zh-Hant": "這個標誌通常貼在農用設備或其他車輛上，表示它們的行駛速度不超過25英哩/小時。"
+    }
+  },
+  {
+    "id": 43,
+    "category": "Traffic Signs",
+    "image": "/images/signs/rest area 1 mile.png",
+    "question": {
+      "en": "This blue sign indicates:",
+      "zh-Hans": "这个蓝色标志表示：",
+      "zh-Hant": "這個藍色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Gas station 1 mile ahead",
+        "zh-Hans": "前方1英里有加油站",
+        "zh-Hant": "前方1英哩有加油站"
+      },
+      "B": {
+        "en": "Rest area 1 mile ahead",
+        "zh-Hans": "前方1英里有休息区",
+        "zh-Hant": "前方1英哩有休息區"
+      },
+      "C": {
+        "en": "Hotel 1 mile ahead",
+        "zh-Hans": "前方1英里有酒店",
+        "zh-Hant": "前方1英哩有酒店"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Blue signs with REST AREA indicate a rest stop with restrooms and parking ahead.",
+      "zh-Hans": "带有REST AREA字样的蓝色标志表示前方有带洗手间和停车场的休息区。",
+      "zh-Hant": "帶有REST AREA字樣的藍色標誌表示前方有帶洗手間和停車場的休息區。"
+    }
+  },
+  {
+    "id": 44,
+    "category": "Traffic Signs",
+    "image": "/images/signs/no parking any time.png",
+    "question": {
+      "en": "This sign means:",
+      "zh-Hans": "这个标志表示：",
+      "zh-Hant": "這個標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "No parking at any time",
+        "zh-Hans": "任何时间禁止停车",
+        "zh-Hant": "任何時間禁止停車"
+      },
+      "B": {
+        "en": "Limited parking only",
+        "zh-Hans": "仅限限时停车",
+        "zh-Hant": "僅限限時停車"
+      },
+      "C": {
+        "en": "Parking on weekends only",
+        "zh-Hans": "仅周末可停车",
+        "zh-Hant": "僅週末可停車"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "NO PARKING ANY TIME means you cannot park here at any hour of any day.",
+      "zh-Hans": "NO PARKING ANY TIME表示任何时间都不能在此停车。",
+      "zh-Hant": "NO PARKING ANY TIME表示任何時間都不能在此停車。"
+    }
+  },
+  {
+    "id": 45,
+    "category": "Traffic Signs",
+    "image": "/images/signs/RIGHTTURNONLY.jpg",
+    "question": {
+      "en": "This sign means:",
+      "zh-Hans": "这个标志表示：",
+      "zh-Hant": "這個標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Right turn only from this lane",
+        "zh-Hans": "此车道只能右转",
+        "zh-Hant": "此車道只能右轉"
+      },
+      "B": {
+        "en": "Right lane ends",
+        "zh-Hans": "右车道结束",
+        "zh-Hant": "右車道結束"
+      },
+      "C": {
+        "en": "Keep right",
+        "zh-Hans": "靠右行驶",
+        "zh-Hant": "靠右行駛"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "RIGHT TURN ONLY means vehicles in this lane must turn right.",
+      "zh-Hans": "RIGHT TURN ONLY表示此车道的车辆必须右转。",
+      "zh-Hant": "RIGHT TURN ONLY表示此車道的車輛必須右轉。"
+    }
+  },
+  {
+    "id": 46,
+    "category": "Traffic Signs",
+    "image": "/images/signs/TWO WAY LEFTTUAN.webp",
+    "question": {
+      "en": "This sign indicates:",
+      "zh-Hans": "这个标志表示：",
+      "zh-Hant": "這個標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Left turn lane only",
+        "zh-Hans": "仅限左转车道",
+        "zh-Hant": "僅限左轉車道"
+      },
+      "B": {
+        "en": "Two-way left turn lane (center lane for left turns from both directions)",
+        "zh-Hans": "双向左转车道（中间车道供双向车辆左转使用）",
+        "zh-Hant": "雙向左轉車道（中間車道供雙向車輛左轉使用）"
+      },
+      "C": {
+        "en": "U-turn lane",
+        "zh-Hans": "掉头车道",
+        "zh-Hant": "掉頭車道"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This sign marks a center lane that can be used by traffic from both directions for making left turns.",
+      "zh-Hans": "这个标志标示中间车道可供双向车流进行左转使用。",
+      "zh-Hant": "這個標誌標示中間車道可供雙向車流進行左轉使用。"
+    }
+  },
+  {
+    "id": 47,
+    "category": "Traffic Signs",
+    "image": "/images/signs/EMERGENCYPARKINGONLY.jpg",
+    "question": {
+      "en": "This sign means:",
+      "zh-Hans": "这个标志表示：",
+      "zh-Hant": "這個標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Parking for emergency vehicles only",
+        "zh-Hans": "仅限紧急车辆停车",
+        "zh-Hant": "僅限緊急車輛停車"
+      },
+      "B": {
+        "en": "Parking only in case of vehicle emergency",
+        "zh-Hans": "仅在车辆紧急情况下可停车",
+        "zh-Hant": "僅在車輛緊急情況下可停車"
+      },
+      "C": {
+        "en": "Emergency exit parking",
+        "zh-Hans": "紧急出口停车",
+        "zh-Hant": "緊急出口停車"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "EMERGENCY PARKING ONLY means you can only park here if your vehicle has a mechanical problem.",
+      "zh-Hans": "EMERGENCY PARKING ONLY表示只有在车辆发生机械故障时才能在此停车。",
+      "zh-Hant": "EMERGENCY PARKING ONLY表示只有在車輛發生機械故障時才能在此停車。"
+    }
+  },
+  {
+    "id": 48,
+    "category": "Traffic Signs",
+    "image": "/images/signs/road closed ahead.webp",
+    "question": {
+      "en": "This orange sign means:",
+      "zh-Hans": "这个橙色标志表示：",
+      "zh-Hant": "這個橙色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Road work ahead",
+        "zh-Hans": "前方道路施工",
+        "zh-Hant": "前方道路施工"
+      },
+      "B": {
+        "en": "Road closed ahead",
+        "zh-Hans": "前方道路封闭",
+        "zh-Hant": "前方道路封閉"
+      },
+      "C": {
+        "en": "Detour recommended",
+        "zh-Hans": "建议绕行",
+        "zh-Hant": "建議繞行"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "ROAD CLOSED AHEAD means the road is blocked and you must find an alternate route.",
+      "zh-Hans": "ROAD CLOSED AHEAD表示前方道路封闭，您必须找到替代路线。",
+      "zh-Hant": "ROAD CLOSED AHEAD表示前方道路封閉，您必須找到替代路線。"
+    }
+  },
+  {
+    "id": 49,
+    "category": "Traffic Signs",
+    "image": "/images/signs/One Lane Road Ahead.jpg",
+    "question": {
+      "en": "This orange sign means:",
+      "zh-Hans": "这个橙色标志表示：",
+      "zh-Hant": "這個橙色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "One lane road ahead",
+        "zh-Hans": "前方单车道道路",
+        "zh-Hant": "前方單車道道路"
+      },
+      "B": {
+        "en": "Lane merge ahead",
+        "zh-Hans": "前方车道合并",
+        "zh-Hant": "前方車道合併"
+      },
+      "C": {
+        "en": "Narrow bridge",
+        "zh-Hans": "窄桥",
+        "zh-Hant": "窄橋"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "ONE LANE ROAD AHEAD warns that the road narrows to one lane. Prepare for possible oncoming traffic.",
+      "zh-Hans": "ONE LANE ROAD AHEAD警告道路变为单车道。准备可能有对向来车。",
+      "zh-Hant": "ONE LANE ROAD AHEAD警告道路變為單車道。準備可能有對向來車。"
+    }
+  },
+  {
+    "id": 50,
+    "category": "Traffic Signs",
+    "image": "/images/signs/lane closed.png",
+    "question": {
+      "en": "This orange sign means:",
+      "zh-Hans": "这个橙色标志表示：",
+      "zh-Hant": "這個橙色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Right lane closed ahead",
+        "zh-Hans": "前方右车道关闭",
+        "zh-Hant": "前方右車道關閉"
+      },
+      "B": {
+        "en": "Left lane only",
+        "zh-Hans": "仅左车道",
+        "zh-Hant": "僅左車道"
+      },
+      "C": {
+        "en": "Merge left",
+        "zh-Hans": "向左合并",
+        "zh-Hant": "向左合併"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "This construction sign warns that a lane is closed ahead and you need to merge.",
+      "zh-Hans": "这个施工标志警告前方有车道关闭，您需要并入其他车道。",
+      "zh-Hant": "這個施工標誌警告前方有車道關閉，您需要併入其他車道。"
+    }
+  },
+  {
+    "id": 51,
+    "category": "Traffic Signs",
+    "image": "/images/signs/wokers .png",
+    "question": {
+      "en": "This orange sign with a worker figure means:",
+      "zh-Hans": "这个带工人图案的橙色标志表示：",
+      "zh-Hant": "這個帶工人圖案的橙色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Pedestrian crossing",
+        "zh-Hans": "人行横道",
+        "zh-Hant": "人行橫道"
+      },
+      "B": {
+        "en": "Workers present in construction zone",
+        "zh-Hans": "施工区有工人",
+        "zh-Hant": "施工區有工人"
+      },
+      "C": {
+        "en": "School zone",
+        "zh-Hans": "学校区域",
+        "zh-Hant": "學校區域"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This sign warns that workers are present. Fines are doubled in construction zones.",
+      "zh-Hans": "这个标志警告有工人在场。施工区违章罚款翻倍。",
+      "zh-Hant": "這個標誌警告有工人在場。施工區違章罰款翻倍。"
+    }
+  },
+  {
+    "id": 52,
+    "category": "Traffic Signs",
+    "image": "/images/signs/loose gravel.webp",
+    "question": {
+      "en": "This orange sign means:",
+      "zh-Hans": "这个橙色标志表示：",
+      "zh-Hant": "這個橙色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Slippery road",
+        "zh-Hans": "湿滑路面",
+        "zh-Hant": "濕滑路面"
+      },
+      "B": {
+        "en": "Loose gravel on road",
+        "zh-Hans": "路面有碎石",
+        "zh-Hant": "路面有碎石"
+      },
+      "C": {
+        "en": "Rough road ahead",
+        "zh-Hans": "前方路面不平",
+        "zh-Hant": "前方路面不平"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "LOOSE GRAVEL warns of rocks or gravel on the road surface. Slow down to avoid losing control.",
+      "zh-Hans": "LOOSE GRAVEL警告路面有碎石或砾石。请减速以避免失控。",
+      "zh-Hant": "LOOSE GRAVEL警告路面有碎石或礫石。請減速以避免失控。"
+    }
+  },
+  {
+    "id": 53,
+    "category": "Traffic Signs",
+    "image": "/images/signs/no shoulder.jpg",
+    "question": {
+      "en": "This orange sign means:",
+      "zh-Hans": "这个橙色标志表示：",
+      "zh-Hant": "這個橙色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "No parking on shoulder",
+        "zh-Hans": "路肩禁止停车",
+        "zh-Hant": "路肩禁止停車"
+      },
+      "B": {
+        "en": "No shoulder (road edge drops off)",
+        "zh-Hans": "没有路肩（路边有落差）",
+        "zh-Hant": "沒有路肩（路邊有落差）"
+      },
+      "C": {
+        "en": "Shoulder closed",
+        "zh-Hans": "路肩关闭",
+        "zh-Hant": "路肩關閉"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "NO SHOULDER warns that there is no paved shoulder. Stay on the road and do not drive off the edge.",
+      "zh-Hans": "NO SHOULDER警告没有铺设路肩。请待在道路上，不要驶出路边。",
+      "zh-Hant": "NO SHOULDER警告沒有鋪設路肩。請待在道路上，不要駛出路邊。"
+    }
+  },
+  {
+    "id": 54,
+    "category": "Traffic Signs",
+    "image": "/images/signs/carpool lane entrance.png",
+    "question": {
+      "en": "This sign indicates:",
+      "zh-Hans": "这个标志表示：",
+      "zh-Hant": "這個標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Carpool/HOV lane entrance",
+        "zh-Hans": "拼车/HOV车道入口",
+        "zh-Hant": "拼車/HOV車道入口"
+      },
+      "B": {
+        "en": "Parking lot entrance",
+        "zh-Hans": "停车场入口",
+        "zh-Hant": "停車場入口"
+      },
+      "C": {
+        "en": "Bus stop",
+        "zh-Hans": "公交站",
+        "zh-Hant": "公交站"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "This sign marks the entrance to a carpool (HOV) lane. Usually requires 2+ occupants.",
+      "zh-Hans": "这个标志标示拼车（HOV）车道入口。通常需要2人以上乘车。",
+      "zh-Hant": "這個標誌標示拼車（HOV）車道入口。通常需要2人以上乘車。"
+    }
+  },
+  {
+    "id": 55,
+    "category": "Traffic Signs",
+    "image": "/images/signs/CARPOOL VIOLATION .png",
+    "question": {
+      "en": "This sign warns about:",
+      "zh-Hans": "这个标志警告：",
+      "zh-Hant": "這個標誌警告："
+    },
+    "options": {
+      "A": {
+        "en": "Carpool lane ahead",
+        "zh-Hans": "前方拼车道",
+        "zh-Hant": "前方拼車道"
+      },
+      "B": {
+        "en": "Minimum fine for carpool lane violation",
+        "zh-Hans": "违规使用拼车道的最低罚款",
+        "zh-Hant": "違規使用拼車道的最低罰款"
+      },
+      "C": {
+        "en": "Carpool discount",
+        "zh-Hans": "拼车优惠",
+        "zh-Hant": "拼車優惠"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This sign shows the minimum fine for illegally using an HOV/carpool lane without enough passengers.",
+      "zh-Hans": "这个标志显示非法使用拼车道（乘客不足）的最低罚款金额。",
+      "zh-Hant": "這個標誌顯示非法使用拼車道（乘客不足）的最低罰款金額。"
+    }
+  },
+  {
+    "id": 56,
+    "category": "Traffic Signs",
+    "image": "/images/signs/TURNING TRAFFIC MUST YIELD TO PEDESTRIANS.png",
+    "question": {
+      "en": "This sign means:",
+      "zh-Hans": "这个标志表示：",
+      "zh-Hant": "這個標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Pedestrians must yield to cars",
+        "zh-Hans": "行人必须让车",
+        "zh-Hant": "行人必須讓車"
+      },
+      "B": {
+        "en": "Turning vehicles must yield to pedestrians",
+        "zh-Hans": "转弯车辆必须让行人",
+        "zh-Hant": "轉彎車輛必須讓行人"
+      },
+      "C": {
+        "en": "No pedestrians allowed",
+        "zh-Hans": "禁止行人",
+        "zh-Hant": "禁止行人"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Vehicles making turns must always yield the right-of-way to pedestrians in crosswalks.",
+      "zh-Hans": "转弯车辆必须始终让行人行横道上的行人先行。",
+      "zh-Hant": "轉彎車輛必須始終讓人行橫道上的行人先行。"
+    }
+  },
+  {
+    "id": 57,
+    "category": "Traffic Signs",
+    "image": "/images/signs/slower traffic use turnouts.png",
+    "question": {
+      "en": "This sign means:",
+      "zh-Hans": "这个标志表示：",
+      "zh-Hant": "這個標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Rest area ahead",
+        "zh-Hans": "前方有休息区",
+        "zh-Hant": "前方有休息區"
+      },
+      "B": {
+        "en": "Slower vehicles should use turnouts to let others pass",
+        "zh-Hans": "慢速车辆应使用避让处让其他车辆通过",
+        "zh-Hant": "慢速車輛應使用避讓處讓其他車輛通過"
+      },
+      "C": {
+        "en": "Exit ahead",
+        "zh-Hans": "前方有出口",
+        "zh-Hant": "前方有出口"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "On mountain roads, slower vehicles should pull into turnout areas to let faster traffic pass.",
+      "zh-Hans": "在山路上，慢速车辆应驶入避让区让更快的车辆通过。",
+      "zh-Hant": "在山路上，慢速車輛應駛入避讓區讓更快的車輛通過。"
+    }
+  },
+  {
+    "id": 58,
+    "category": "Traffic Signs",
+    "image": "/images/signs/YIELDTOUPHILLTRAFFIC.jpg",
+    "question": {
+      "en": "This sign tells you to:",
+      "zh-Hans": "这个标志告诉您：",
+      "zh-Hant": "這個標誌告訴您："
+    },
+    "options": {
+      "A": {
+        "en": "Yield to downhill traffic",
+        "zh-Hans": "让行下坡车辆",
+        "zh-Hant": "讓行下坡車輛"
+      },
+      "B": {
+        "en": "Yield to uphill traffic",
+        "zh-Hans": "让行上坡车辆",
+        "zh-Hant": "讓行上坡車輛"
+      },
+      "C": {
+        "en": "Uphill traffic has yield",
+        "zh-Hans": "上坡车辆须让行",
+        "zh-Hant": "上坡車輛須讓行"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "On narrow mountain roads, downhill traffic must yield to uphill traffic because it's harder to restart uphill.",
+      "zh-Hans": "在狭窄的山路上，下坡车辆必须让行上坡车辆，因为上坡重新起步更困难。",
+      "zh-Hant": "在狹窄的山路上，下坡車輛必須讓行上坡車輛，因為上坡重新起步更困難。"
+    }
+  },
+  {
+    "id": 59,
+    "category": "Traffic Signs",
+    "image": "/images/signs/exit.jpg",
+    "question": {
+      "en": "This green sign indicates:",
+      "zh-Hans": "这个绿色标志表示：",
+      "zh-Hant": "這個綠色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Highway exit ahead",
+        "zh-Hans": "前方高速公路出口",
+        "zh-Hant": "前方高速公路出口"
+      },
+      "B": {
+        "en": "Emergency exit",
+        "zh-Hans": "紧急出口",
+        "zh-Hant": "緊急出口"
+      },
+      "C": {
+        "en": "Rest area exit",
+        "zh-Hans": "休息区出口",
+        "zh-Hant": "休息區出口"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Green EXIT signs indicate upcoming freeway or highway exits.",
+      "zh-Hans": "绿色EXIT标志表示即将到来的高速公路出口。",
+      "zh-Hant": "綠色EXIT標誌表示即將到來的高速公路出口。"
+    }
+  },
+  {
+    "id": 60,
+    "category": "Traffic Signs",
+    "image": "/images/signs/Pavement Ends.jpg",
+    "question": {
+      "en": "This yellow sign means:",
+      "zh-Hans": "这个黄色标志表示：",
+      "zh-Hant": "這個黃色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Road ends ahead",
+        "zh-Hans": "前方道路结束",
+        "zh-Hant": "前方道路結束"
+      },
+      "B": {
+        "en": "Paved road ends, unpaved road ahead",
+        "zh-Hans": "铺装路面结束，前方为非铺装路面",
+        "zh-Hant": "鋪裝路面結束，前方為非鋪裝路面"
+      },
+      "C": {
+        "en": "Railroad crossing",
+        "zh-Hans": "铁路道口",
+        "zh-Hant": "鐵路道口"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "PAVEMENT ENDS means the paved surface ends and the road becomes gravel or dirt.",
+      "zh-Hans": "PAVEMENT ENDS表示铺装路面结束，道路变为砾石或土路。",
+      "zh-Hant": "PAVEMENT ENDS表示鋪裝路面結束，道路變為礫石或土路。"
+    }
+  },
+  {
+    "id": 61,
+    "category": "Traffic Signs",
+    "image": "/images/signs/Soft Shoulder.webp",
+    "question": {
+      "en": "This yellow sign means:",
+      "zh-Hans": "这个黄色标志表示：",
+      "zh-Hant": "這個黃色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Road shoulder is soft and unstable",
+        "zh-Hans": "路肩松软不稳定",
+        "zh-Hant": "路肩鬆軟不穩定"
+      },
+      "B": {
+        "en": "Shoulder is closed",
+        "zh-Hans": "路肩关闭",
+        "zh-Hant": "路肩關閉"
+      },
+      "C": {
+        "en": "No parking on shoulder",
+        "zh-Hans": "路肩禁止停车",
+        "zh-Hant": "路肩禁止停車"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "SOFT SHOULDER means the road edge is not stable. Do not drive off the pavement.",
+      "zh-Hans": "SOFT SHOULDER表示路边不稳定。不要驶离铺装路面。",
+      "zh-Hant": "SOFT SHOULDER表示路邊不穩定。不要駛離鋪裝路面。"
+    }
+  },
+  {
+    "id": 62,
+    "category": "Traffic Signs",
+    "image": "/images/signs/Right Lane Must Turn Right.jpg",
+    "question": {
+      "en": "This sign means:",
+      "zh-Hans": "这个标志表示：",
+      "zh-Hant": "這個標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Right turn recommended",
+        "zh-Hans": "建议右转",
+        "zh-Hant": "建議右轉"
+      },
+      "B": {
+        "en": "Right lane must turn right",
+        "zh-Hans": "右车道必须右转",
+        "zh-Hant": "右車道必須右轉"
+      },
+      "C": {
+        "en": "Right lane ends",
+        "zh-Hans": "右车道结束",
+        "zh-Hant": "右車道結束"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "If you are in the right lane, you must turn right at the intersection.",
+      "zh-Hans": "如果您在右车道，必须在路口右转。",
+      "zh-Hant": "如果您在右車道，必須在路口右轉。"
+    }
+  },
+  {
+    "id": 63,
+    "category": "Traffic Signs",
+    "image": "/images/signs/slide area.gif",
+    "question": {
+      "en": "This yellow sign warns of:",
+      "zh-Hans": "这个黄色标志警告：",
+      "zh-Hant": "這個黃色標誌警告："
+    },
+    "options": {
+      "A": {
+        "en": "Icy road conditions",
+        "zh-Hans": "结冰路况",
+        "zh-Hant": "結冰路況"
+      },
+      "B": {
+        "en": "Possible landslides or rock slides in the area",
+        "zh-Hans": "该区域可能发生山体滑坡或落石",
+        "zh-Hant": "該區域可能發生山體滑坡或落石"
+      },
+      "C": {
+        "en": "Playground ahead",
+        "zh-Hans": "前方有游乐场",
+        "zh-Hant": "前方有遊樂場"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "SLIDE AREA warns that rocks or earth may slide onto the road, especially after rain.",
+      "zh-Hans": "SLIDE AREA警告该区域可能有落石或泥石流，特别是雨后。",
+      "zh-Hant": "SLIDE AREA警告該區域可能有落石或泥石流，特別是雨後。"
+    }
+  },
+  {
+    "id": 64,
+    "category": "Traffic Signs",
+    "image": "/images/signs/Cross Traffic Ahead.gif",
+    "question": {
+      "en": "This yellow sign means:",
+      "zh-Hans": "这个黄色标志表示：",
+      "zh-Hant": "這個黃色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Crosswalk ahead",
+        "zh-Hans": "前方有人行横道",
+        "zh-Hant": "前方有人行橫道"
+      },
+      "B": {
+        "en": "Cross traffic does not stop",
+        "zh-Hans": "横向交通不停车",
+        "zh-Hant": "橫向交通不停車"
+      },
+      "C": {
+        "en": "Four-way intersection",
+        "zh-Hans": "四向路口",
+        "zh-Hant": "四向路口"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "CROSS TRAFFIC DOES NOT STOP warns that vehicles on the cross street do not have a stop sign.",
+      "zh-Hans": "CROSS TRAFFIC DOES NOT STOP警告横向道路上的车辆没有停车标志。",
+      "zh-Hant": "CROSS TRAFFIC DOES NOT STOP警告橫向道路上的車輛沒有停車標誌。"
+    }
+  },
+  {
+    "id": 65,
+    "category": "Traffic Signs",
+    "image": "/images/signs/added lane.webp",
+    "question": {
+      "en": "This yellow sign means:",
+      "zh-Hans": "这个黄色标志表示：",
+      "zh-Hant": "這個黃色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Lane ends ahead",
+        "zh-Hans": "前方车道结束",
+        "zh-Hant": "前方車道結束"
+      },
+      "B": {
+        "en": "Additional lane added (no merge needed)",
+        "zh-Hans": "增加了车道（无需合并）",
+        "zh-Hant": "增加了車道（無需合併）"
+      },
+      "C": {
+        "en": "Two lanes merge",
+        "zh-Hans": "两车道合并",
+        "zh-Hant": "兩車道合併"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "ADDED LANE means a new lane is being added to the highway. Merging traffic has their own lane.",
+      "zh-Hans": "ADDED LANE表示高速公路正在增加一条新车道。汇入车流有自己的专用车道。",
+      "zh-Hant": "ADDED LANE表示高速公路正在增加一條新車道。匯入車流有自己的專用車道。"
+    }
+  },
+  {
+    "id": 66,
+    "category": "Traffic Signs",
+    "image": "/images/signs/right turn.webp",
+    "question": {
+      "en": "This yellow sign means:",
+      "zh-Hans": "这个黄色标志表示：",
+      "zh-Hant": "這個黃色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Right turn only",
+        "zh-Hans": "只能右转",
+        "zh-Hant": "只能右轉"
+      },
+      "B": {
+        "en": "Sharp right curve ahead",
+        "zh-Hans": "前方有急右弯",
+        "zh-Hant": "前方有急右彎"
+      },
+      "C": {
+        "en": "Keep right",
+        "zh-Hans": "靠右行驶",
+        "zh-Hant": "靠右行駛"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This warning sign indicates a sharp right curve ahead. Slow down before the curve.",
+      "zh-Hans": "这个警告标志表示前方有急右弯。请在弯道前减速。",
+      "zh-Hant": "這個警告標誌表示前方有急右彎。請在彎道前減速。"
+    }
+  },
+  {
+    "id": 67,
+    "category": "Traffic Signs",
+    "image": "/images/signs/NOTURNS.jpg",
+    "question": {
+      "en": "This sign means:",
+      "zh-Hans": "这个标志表示：",
+      "zh-Hant": "這個標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "No left turns",
+        "zh-Hans": "禁止左转",
+        "zh-Hant": "禁止左轉"
+      },
+      "B": {
+        "en": "No turns allowed (neither left nor right)",
+        "zh-Hans": "禁止转弯（不允许左转或右转）",
+        "zh-Hant": "禁止轉彎（不允許左轉或右轉）"
+      },
+      "C": {
+        "en": "No U-turn",
+        "zh-Hans": "禁止掉头",
+        "zh-Hant": "禁止掉頭"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "NO TURNS means you cannot turn left or right at this intersection.",
+      "zh-Hans": "NO TURNS表示在此路口不能左转或右转。",
+      "zh-Hant": "NO TURNS表示在此路口不能左轉或右轉。"
+    }
+  },
+  {
+    "id": 68,
+    "category": "Traffic Signs",
+    "image": "/images/signs/rode narrows.webp",
+    "question": {
+      "en": "This yellow sign means:",
+      "zh-Hans": "这个黄色标志表示：",
+      "zh-Hant": "這個黃色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Bridge ahead",
+        "zh-Hans": "前方有桥",
+        "zh-Hant": "前方有橋"
+      },
+      "B": {
+        "en": "Road narrows ahead",
+        "zh-Hans": "前方道路变窄",
+        "zh-Hant": "前方道路變窄"
+      },
+      "C": {
+        "en": "Lane ends",
+        "zh-Hans": "车道结束",
+        "zh-Hant": "車道結束"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "ROAD NARROWS warns that the road becomes narrower ahead. Reduce speed.",
+      "zh-Hans": "ROAD NARROWS警告前方道路变窄。请减速。",
+      "zh-Hant": "ROAD NARROWS警告前方道路變窄。請減速。"
+    }
+  },
+  {
+    "id": 69,
+    "category": "Traffic Signs",
+    "image": "/images/signs/4 tracks.jpg",
+    "question": {
+      "en": "This sign at a railroad crossing means:",
+      "zh-Hans": "这个铁路道口的标志表示：",
+      "zh-Hant": "這個鐵路道口的標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "4 trains pass per hour",
+        "zh-Hans": "每小时4列火车通过",
+        "zh-Hant": "每小時4列火車通過"
+      },
+      "B": {
+        "en": "4 railroad tracks ahead",
+        "zh-Hans": "前方有4条铁轨",
+        "zh-Hant": "前方有4條鐵軌"
+      },
+      "C": {
+        "en": "Train arrives in 4 minutes",
+        "zh-Hans": "火车4分钟后到达",
+        "zh-Hant": "火車4分鐘後到達"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "The number below the crossbuck indicates how many railroad tracks cross the road at this point.",
+      "zh-Hans": "交叉标志下方的数字表示此处有多少条铁轨穿过道路。",
+      "zh-Hant": "交叉標誌下方的數字表示此處有多少條鐵軌穿過道路。"
+    }
+  },
+  {
+    "id": 70,
+    "category": "Traffic Signs",
+    "image": "/images/signs/BIKE LANE.jpg",
+    "question": {
+      "en": "This sign means:",
+      "zh-Hans": "这个标志表示：",
+      "zh-Hant": "這個標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Bicycles not allowed",
+        "zh-Hans": "禁止自行车",
+        "zh-Hant": "禁止自行車"
+      },
+      "B": {
+        "en": "Bicycle lane - for bicycles only",
+        "zh-Hans": "自行车道 - 仅供自行车使用",
+        "zh-Hant": "自行車道 - 僅供自行車使用"
+      },
+      "C": {
+        "en": "Share the road with bicycles",
+        "zh-Hans": "与自行车共享道路",
+        "zh-Hant": "與自行車共享道路"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "BIKE LANE indicates a lane reserved for bicycles. Motor vehicles should not drive in this lane.",
+      "zh-Hans": "BIKE LANE表示专门为自行车预留的车道。机动车不应驶入此车道。",
+      "zh-Hant": "BIKE LANE表示專門為自行車預留的車道。機動車不應駛入此車道。"
+    }
+  },
+  {
+    "id": 71,
+    "category": "Traffic Signs",
+    "image": "/images/signs/bus caprool lane ahead.png",
+    "question": {
+      "en": "This sign indicates:",
+      "zh-Hans": "这个标志表示：",
+      "zh-Hant": "這個標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Bus stop ahead",
+        "zh-Hans": "前方公交站",
+        "zh-Hant": "前方公交站"
+      },
+      "B": {
+        "en": "Bus and carpool lane ahead",
+        "zh-Hans": "前方有公交和拼车道",
+        "zh-Hant": "前方有公交和拼車道"
+      },
+      "C": {
+        "en": "Parking for buses only",
+        "zh-Hans": "仅限公交停靠",
+        "zh-Hant": "僅限公交停靠"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This sign indicates a lane reserved for buses and carpools is ahead.",
+      "zh-Hans": "这个标志表示前方有公交和拼车专用道。",
+      "zh-Hant": "這個標誌表示前方有公交和拼車專用道。"
+    }
+  },
+  {
+    "id": 72,
+    "category": "Traffic Signs",
+    "image": "/images/signs/no parking.webp",
+    "question": {
+      "en": "This sign with a P crossed out means:",
+      "zh-Hans": "这个画有P并打叉的标志表示：",
+      "zh-Hant": "這個畫有P並打叉的標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Parking allowed",
+        "zh-Hans": "允许停车",
+        "zh-Hant": "允許停車"
+      },
+      "B": {
+        "en": "No parking",
+        "zh-Hans": "禁止停车",
+        "zh-Hant": "禁止停車"
+      },
+      "C": {
+        "en": "Paid parking only",
+        "zh-Hans": "仅限付费停车",
+        "zh-Hant": "僅限付費停車"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "A crossed-out P means parking is not allowed in this area.",
+      "zh-Hans": "打叉的P表示此区域禁止停车。",
+      "zh-Hant": "打叉的P表示此區域禁止停車。"
+    }
+  },
+  {
+    "id": 73,
+    "category": "Traffic Signs",
+    "image": "/images/signs/rail road crossroad.webp",
+    "question": {
+      "en": "This white X-shaped sign at a railroad crossing is called:",
+      "zh-Hans": "铁路道口这个白色X形标志叫做：",
+      "zh-Hant": "鐵路道口這個白色X形標誌叫做："
+    },
+    "options": {
+      "A": {
+        "en": "Railroad warning sign",
+        "zh-Hans": "铁路警告标志",
+        "zh-Hant": "鐵路警告標誌"
+      },
+      "B": {
+        "en": "Crossbuck",
+        "zh-Hans": "铁路交叉标志（Crossbuck）",
+        "zh-Hant": "鐵路交叉標誌（Crossbuck）"
+      },
+      "C": {
+        "en": "Stop sign",
+        "zh-Hans": "停车标志",
+        "zh-Hant": "停車標誌"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "The crossbuck marks the actual railroad crossing location. Treat it like a yield sign.",
+      "zh-Hans": "Crossbuck标示铁路道口的实际位置。如同让行标志一样对待。",
+      "zh-Hant": "Crossbuck標示鐵路道口的實際位置。如同讓行標誌一樣對待。"
+    }
+  },
+  {
+    "id": 74,
+    "category": "Traffic Signs",
+    "image": "/images/signs/TURNOUT14 MILE.png",
+    "question": {
+      "en": "This sign means:",
+      "zh-Hans": "这个标志表示：",
+      "zh-Hant": "這個標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Exit in 1/4 mile",
+        "zh-Hans": "1/4英里后有出口",
+        "zh-Hant": "1/4英哩後有出口"
+      },
+      "B": {
+        "en": "Turnout area in 1/4 mile for slower vehicles to pull over",
+        "zh-Hans": "1/4英里后有避让区供慢速车辆靠边",
+        "zh-Hant": "1/4英哩後有避讓區供慢速車輛靠邊"
+      },
+      "C": {
+        "en": "Rest area 1/4 mile",
+        "zh-Hans": "1/4英里后有休息区",
+        "zh-Hant": "1/4英哩後有休息區"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "TURNOUT signs indicate pull-off areas where slower vehicles can let faster traffic pass.",
+      "zh-Hans": "TURNOUT标志表示避让区，慢速车辆可以在此靠边让更快的车辆通过。",
+      "zh-Hant": "TURNOUT標誌表示避讓區，慢速車輛可以在此靠邊讓更快的車輛通過。"
+    }
+  },
+  {
+    "id": 75,
+    "category": "Traffic Signs",
+    "image": "/images/signs/RIGHT LANEMUSTEXIT.png",
+    "question": {
+      "en": "This sign means:",
+      "zh-Hans": "这个标志表示：",
+      "zh-Hant": "這個標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Right lane recommended for exit",
+        "zh-Hans": "建议右车道驶出",
+        "zh-Hant": "建議右車道駛出"
+      },
+      "B": {
+        "en": "Right lane must exit the freeway",
+        "zh-Hans": "右车道必须驶出高速公路",
+        "zh-Hant": "右車道必須駛出高速公路"
+      },
+      "C": {
+        "en": "Right lane closed",
+        "zh-Hans": "右车道关闭",
+        "zh-Hant": "右車道關閉"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "RIGHT LANE MUST EXIT means if you're in the right lane, you will be forced to exit.",
+      "zh-Hans": "RIGHT LANE MUST EXIT表示如果您在右车道，必须驶出高速公路。",
+      "zh-Hant": "RIGHT LANE MUST EXIT表示如果您在右車道，必須駛出高速公路。"
+    }
+  },
+  {
+    "id": 76,
+    "category": "Traffic Signs",
+    "image": "/images/signs/end freeway12 mi.jpg",
+    "question": {
+      "en": "This yellow sign means:",
+      "zh-Hans": "这个黄色标志表示：",
+      "zh-Hant": "這個黃色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Exit in 1/2 mile",
+        "zh-Hans": "1/2英里后有出口",
+        "zh-Hant": "1/2英哩後有出口"
+      },
+      "B": {
+        "en": "Freeway ends in 1/2 mile",
+        "zh-Hans": "1/2英里后高速公路结束",
+        "zh-Hant": "1/2英哩後高速公路結束"
+      },
+      "C": {
+        "en": "Speed limit changes",
+        "zh-Hans": "限速变化",
+        "zh-Hant": "限速變化"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "END FREEWAY warns that the freeway will end soon. Prepare for different road conditions.",
+      "zh-Hans": "END FREEWAY警告高速公路即将结束。准备好应对不同的路况。",
+      "zh-Hant": "END FREEWAY警告高速公路即將結束。準備好應對不同的路況。"
+    }
+  },
+  {
+    "id": 77,
+    "category": "Traffic Signs",
+    "image": "/images/signs/Thru Traffic Merge Left.webp",
+    "question": {
+      "en": "This sign means:",
+      "zh-Hans": "这个标志表示：",
+      "zh-Hant": "這個標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Left turn only",
+        "zh-Hans": "仅限左转",
+        "zh-Hant": "僅限左轉"
+      },
+      "B": {
+        "en": "Through traffic should merge into the left lane",
+        "zh-Hans": "直行车辆应并入左车道",
+        "zh-Hant": "直行車輛應併入左車道"
+      },
+      "C": {
+        "en": "Left lane closed",
+        "zh-Hans": "左车道关闭",
+        "zh-Hant": "左車道關閉"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "THRU TRAFFIC MERGE LEFT tells drivers going straight to move to the left lane.",
+      "zh-Hans": "THRU TRAFFIC MERGE LEFT告诉直行驾驶员并入左车道。",
+      "zh-Hant": "THRU TRAFFIC MERGE LEFT告訴直行駕駛員併入左車道。"
+    }
+  },
+  {
+    "id": 78,
+    "category": "Traffic Signs",
+    "image": "/images/signs/lane_ends.png",
+    "question": {
+      "en": "This yellow sign means:",
+      "zh-Hans": "这个黄色标志表示：",
+      "zh-Hant": "這個黃色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Added lane ahead",
+        "zh-Hans": "前方增加车道",
+        "zh-Hant": "前方增加車道"
+      },
+      "B": {
+        "en": "Lane ends - merge needed",
+        "zh-Hans": "车道结束 - 需要合并",
+        "zh-Hant": "車道結束 - 需要合併"
+      },
+      "C": {
+        "en": "Road narrows",
+        "zh-Hans": "道路变窄",
+        "zh-Hant": "道路變窄"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "LANE ENDS sign warns that your lane is ending and you need to merge into the adjacent lane.",
+      "zh-Hans": "LANE ENDS标志警告您的车道即将结束，需要并入相邻车道。",
+      "zh-Hant": "LANE ENDS標誌警告您的車道即將結束，需要併入相鄰車道。"
+    }
+  },
+  {
+    "id": 79,
+    "category": "Traffic Signs",
+    "image": "/images/signs/truck rollover reduce speed.jpg",
+    "question": {
+      "en": "This yellow sign with a tilting truck means:",
+      "zh-Hans": "这个带倾斜卡车图案的黄色标志表示：",
+      "zh-Hant": "這個帶傾斜卡車圖案的黃色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Trucks must stop",
+        "zh-Hans": "卡车必须停车",
+        "zh-Hant": "卡車必須停車"
+      },
+      "B": {
+        "en": "Truck rollover risk - reduce speed",
+        "zh-Hans": "卡车有翻车风险 - 请减速",
+        "zh-Hant": "卡車有翻車風險 - 請減速"
+      },
+      "C": {
+        "en": "Truck parking ahead",
+        "zh-Hans": "前方卡车停车场",
+        "zh-Hant": "前方卡車停車場"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This warning sign indicates a curve where trucks may roll over if driving too fast.",
+      "zh-Hans": "这个警告标志表示弯道处卡车如果速度太快可能翻车。",
+      "zh-Hant": "這個警告標誌表示彎道處卡車如果速度太快可能翻車。"
+    }
+  },
+  {
+    "id": 80,
+    "category": "Traffic Signs",
+    "image": "/images/signs/Left Turn Yield On Green.webp",
+    "question": {
+      "en": "This sign means:",
+      "zh-Hans": "这个标志表示：",
+      "zh-Hant": "這個標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Left turn has priority on green",
+        "zh-Hans": "绿灯时左转有优先权",
+        "zh-Hant": "綠燈時左轉有優先權"
+      },
+      "B": {
+        "en": "Left turn must yield to oncoming traffic on green light",
+        "zh-Hans": "绿灯左转必须让行对向来车",
+        "zh-Hant": "綠燈左轉必須讓行對向來車"
+      },
+      "C": {
+        "en": "No left turn on green",
+        "zh-Hans": "绿灯禁止左转",
+        "zh-Hant": "綠燈禁止左轉"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "LEFT TURN YIELD ON GREEN means left-turning vehicles must wait for oncoming traffic to clear.",
+      "zh-Hans": "LEFT TURN YIELD ON GREEN表示左转车辆必须等对向来车通过后方可转弯。",
+      "zh-Hant": "LEFT TURN YIELD ON GREEN表示左轉車輛必須等對向來車通過後方可轉彎。"
+    }
+  },
+  {
+    "id": 81,
+    "category": "Traffic Signs",
+    "image": "/images/signs/Direction Arrow.webp",
+    "question": {
+      "en": "This yellow chevron arrow sign means:",
+      "zh-Hans": "这个黄色人字形箭头标志表示：",
+      "zh-Hant": "這個黃色人字形箭頭標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "One-way street",
+        "zh-Hans": "单行道",
+        "zh-Hant": "單行道"
+      },
+      "B": {
+        "en": "Sharp curve in the direction of the arrow",
+        "zh-Hans": "箭头方向有急弯",
+        "zh-Hant": "箭頭方向有急彎"
+      },
+      "C": {
+        "en": "Merge ahead",
+        "zh-Hans": "前方合并",
+        "zh-Hant": "前方合併"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Chevron alignment signs mark a sharp curve and show the direction you should travel.",
+      "zh-Hans": "人字形对齐标志标示急弯并显示您应该行驶的方向。",
+      "zh-Hant": "人字形對齊標誌標示急彎並顯示您應該行駛的方向。"
+    }
+  },
+  {
+    "id": 82,
+    "category": "Traffic Signs",
+    "image": "/images/signs/STRAIGHT NO U-TURN.jpg",
+    "question": {
+      "en": "This sign means:",
+      "zh-Hans": "这个标志表示：",
+      "zh-Hant": "這個標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Go straight only, no U-turn allowed",
+        "zh-Hans": "只能直行，禁止掉头",
+        "zh-Hant": "只能直行，禁止掉頭"
+      },
+      "B": {
+        "en": "U-turn only",
+        "zh-Hans": "只能掉头",
+        "zh-Hant": "只能掉頭"
+      },
+      "C": {
+        "en": "No left turn",
+        "zh-Hans": "禁止左转",
+        "zh-Hant": "禁止左轉"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "This sign indicates you must go straight and U-turns are prohibited.",
+      "zh-Hans": "这个标志表示必须直行，禁止掉头。",
+      "zh-Hant": "這個標誌表示必須直行，禁止掉頭。"
+    }
+  },
+  {
+    "id": 83,
+    "category": "Traffic Signs",
+    "image": "/images/signs/Two Way Traffic Ahead.png",
+    "question": {
+      "en": "This regulatory sign means:",
+      "zh-Hans": "这个管理标志表示：",
+      "zh-Hant": "這個管理標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Divided highway ahead",
+        "zh-Hans": "前方分隔式公路",
+        "zh-Hant": "前方分隔式公路"
+      },
+      "B": {
+        "en": "Two-way traffic ahead",
+        "zh-Hans": "前方双向交通",
+        "zh-Hant": "前方雙向交通"
+      },
+      "C": {
+        "en": "Road narrows",
+        "zh-Hans": "道路变窄",
+        "zh-Hant": "道路變窄"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This sign warns that you are entering an area with two-way traffic.",
+      "zh-Hans": "这个标志警告您正在进入双向交通区域。",
+      "zh-Hant": "這個標誌警告您正在進入雙向交通區域。"
+    }
+  },
+  {
+    "id": 84,
+    "category": "Traffic Signs",
+    "image": "/images/signs/next services 23 miles.png",
+    "question": {
+      "en": "This blue sign indicates:",
+      "zh-Hans": "这个蓝色标志表示：",
+      "zh-Hant": "這個藍色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Speed limit 23 mph",
+        "zh-Hans": "限速23英里",
+        "zh-Hant": "限速23英哩"
+      },
+      "B": {
+        "en": "Next services (gas, food, lodging) are 23 miles away",
+        "zh-Hans": "下一个服务区（加油、餐饮、住宿）在23英里后",
+        "zh-Hant": "下一個服務區（加油、餐飲、住宿）在23英哩後"
+      },
+      "C": {
+        "en": "Exit 23",
+        "zh-Hans": "23号出口",
+        "zh-Hant": "23號出口"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "NEXT SERVICES signs tell you how far until the next gas station, restaurant, or hotel.",
+      "zh-Hans": "NEXT SERVICES标志告诉您到下一个加油站、餐厅或酒店还有多远。",
+      "zh-Hant": "NEXT SERVICES標誌告訴您到下一個加油站、餐廳或酒店還有多遠。"
+    }
+  },
+  {
+    "id": 85,
+    "category": "Traffic Signs",
+    "image": "/images/signs/park and ride.jpg",
+    "question": {
+      "en": "This sign indicates:",
+      "zh-Hans": "这个标志表示：",
+      "zh-Hant": "這個標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Amusement park ahead",
+        "zh-Hans": "前方游乐园",
+        "zh-Hant": "前方遊樂園"
+      },
+      "B": {
+        "en": "Park and ride lot (parking for transit users)",
+        "zh-Hans": "停车换乘点（公交乘客停车场）",
+        "zh-Hant": "停車換乘點（公交乘客停車場）"
+      },
+      "C": {
+        "en": "State park entrance",
+        "zh-Hans": "州立公园入口",
+        "zh-Hant": "州立公園入口"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "PARK AND RIDE indicates a parking lot where you can leave your car and take public transit.",
+      "zh-Hans": "PARK AND RIDE表示停车换乘点，您可以停车然后乘坐公共交通。",
+      "zh-Hant": "PARK AND RIDE表示停車換乘點，您可以停車然後乘坐公共交通。"
+    }
+  },
+  {
+    "id": 86,
+    "category": "Traffic Signs",
+    "image": "/images/signs/bike route.jpg",
+    "question": {
+      "en": "This green sign indicates:",
+      "zh-Hans": "这个绿色标志表示：",
+      "zh-Hant": "這個綠色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Bicycle parking",
+        "zh-Hans": "自行车停车处",
+        "zh-Hant": "自行車停車處"
+      },
+      "B": {
+        "en": "Designated bicycle route",
+        "zh-Hans": "指定自行车路线",
+        "zh-Hant": "指定自行車路線"
+      },
+      "C": {
+        "en": "Bicycles prohibited",
+        "zh-Hans": "禁止自行车",
+        "zh-Hant": "禁止自行車"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "BIKE ROUTE signs mark roads that are preferred routes for bicyclists.",
+      "zh-Hans": "BIKE ROUTE标志标示骑行者的优选路线。",
+      "zh-Hant": "BIKE ROUTE標誌標示騎行者的優選路線。"
+    }
+  },
+  {
+    "id": 87,
+    "category": "Traffic Signs",
+    "image": "/images/signs/trolley.jpg",
+    "question": {
+      "en": "This sign warns of:",
+      "zh-Hans": "这个标志警告：",
+      "zh-Hant": "這個標誌警告："
+    },
+    "options": {
+      "A": {
+        "en": "Bus stop ahead",
+        "zh-Hans": "前方公交站",
+        "zh-Hant": "前方公交站"
+      },
+      "B": {
+        "en": "Light rail or trolley crossing",
+        "zh-Hans": "轻轨或有轨电车穿越",
+        "zh-Hant": "輕軌或有軌電車穿越"
+      },
+      "C": {
+        "en": "Train station",
+        "zh-Hans": "火车站",
+        "zh-Hant": "火車站"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This sign warns of a light rail/trolley crossing. Watch for trains on the tracks.",
+      "zh-Hans": "这个标志警告有轻轨/有轨电车穿越。注意轨道上的列车。",
+      "zh-Hant": "這個標誌警告有輕軌/有軌電車穿越。注意軌道上的列車。"
+    }
+  },
+  {
+    "id": 88,
+    "category": "Traffic Signs",
+    "image": "/images/signs/divided road 2 miles ahead.png",
+    "question": {
+      "en": "This sign indicates:",
+      "zh-Hans": "这个标志表示：",
+      "zh-Hant": "這個標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Divided road begins in 2 miles",
+        "zh-Hans": "2英里后分隔式道路开始",
+        "zh-Hant": "2英哩後分隔式道路開始"
+      },
+      "B": {
+        "en": "Road splits into 2 lanes",
+        "zh-Hans": "道路分为2车道",
+        "zh-Hant": "道路分為2車道"
+      },
+      "C": {
+        "en": "Speed limit 2 miles ahead",
+        "zh-Hans": "2英里后限速",
+        "zh-Hant": "2英哩後限速"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "This sign warns that a divided highway with a median will begin in 2 miles.",
+      "zh-Hans": "这个标志警告2英里后将开始有中央隔离带的分隔式公路。",
+      "zh-Hant": "這個標誌警告2英哩後將開始有中央隔離帶的分隔式公路。"
+    }
+  },
+  {
+    "id": 89,
+    "category": "Traffic Signs",
+    "image": "/images/signs/ramp closed.png",
+    "question": {
+      "en": "This orange sign means:",
+      "zh-Hans": "这个橙色标志表示：",
+      "zh-Hant": "這個橙色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Exit ramp ahead",
+        "zh-Hans": "前方出口匝道",
+        "zh-Hant": "前方出口匝道"
+      },
+      "B": {
+        "en": "Ramp closed - use alternate route",
+        "zh-Hans": "匝道关闭 - 请使用替代路线",
+        "zh-Hant": "匝道關閉 - 請使用替代路線"
+      },
+      "C": {
+        "en": "Ramp speed 25 mph",
+        "zh-Hans": "匝道限速25英里",
+        "zh-Hant": "匝道限速25英哩"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "RAMP CLOSED means the entrance or exit ramp is not accessible. Find another way.",
+      "zh-Hans": "RAMP CLOSED表示入口或出口匝道不可通行。请找其他路线。",
+      "zh-Hant": "RAMP CLOSED表示入口或出口匝道不可通行。請找其他路線。"
+    }
+  },
+  {
+    "id": 90,
+    "category": "Traffic Signs",
+    "image": "/images/signs/use next exit.png",
+    "question": {
+      "en": "This orange sign means:",
+      "zh-Hans": "这个橙色标志表示：",
+      "zh-Hant": "這個橙色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Next exit recommended",
+        "zh-Hans": "建议走下一个出口",
+        "zh-Hant": "建議走下一個出口"
+      },
+      "B": {
+        "en": "Current exit closed, use next exit instead",
+        "zh-Hans": "当前出口关闭，请使用下一个出口",
+        "zh-Hant": "當前出口關閉，請使用下一個出口"
+      },
+      "C": {
+        "en": "Exit here for detour",
+        "zh-Hans": "从此处驶出绕行",
+        "zh-Hant": "從此處駛出繞行"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "USE NEXT EXIT indicates the current exit is closed and you should proceed to the next one.",
+      "zh-Hans": "USE NEXT EXIT表示当前出口关闭，应继续前往下一个出口。",
+      "zh-Hant": "USE NEXT EXIT表示當前出口關閉，應繼續前往下一個出口。"
+    }
+  },
+  {
+    "id": 91,
+    "category": "Traffic Signs",
+    "image": "/images/signs/shoulder work ahead.jpg",
+    "question": {
+      "en": "This orange sign means:",
+      "zh-Hans": "这个橙色标志表示：",
+      "zh-Hant": "這個橙色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Shoulder closed",
+        "zh-Hans": "路肩关闭",
+        "zh-Hant": "路肩關閉"
+      },
+      "B": {
+        "en": "Work being done on the road shoulder ahead",
+        "zh-Hans": "前方路肩正在施工",
+        "zh-Hant": "前方路肩正在施工"
+      },
+      "C": {
+        "en": "Soft shoulder",
+        "zh-Hans": "松软路肩",
+        "zh-Hant": "鬆軟路肩"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "SHOULDER WORK AHEAD warns that workers are doing construction on the road shoulder.",
+      "zh-Hans": "SHOULDER WORK AHEAD警告前方路肩正在施工。",
+      "zh-Hant": "SHOULDER WORK AHEAD警告前方路肩正在施工。"
+    }
+  },
+  {
+    "id": 92,
+    "category": "Traffic Signs",
+    "image": "/images/signs/road work next 5 miles.jpg",
+    "question": {
+      "en": "This orange sign means:",
+      "zh-Hans": "这个橙色标志表示：",
+      "zh-Hant": "這個橙色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Road work for the next 5 miles",
+        "zh-Hans": "接下来5英里有道路施工",
+        "zh-Hant": "接下來5英哩有道路施工"
+      },
+      "B": {
+        "en": "Speed limit 5 mph",
+        "zh-Hans": "限速5英里",
+        "zh-Hant": "限速5英哩"
+      },
+      "C": {
+        "en": "5 miles to construction zone",
+        "zh-Hans": "5英里后是施工区",
+        "zh-Hant": "5英哩後是施工區"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "This sign indicates road construction continues for the next 5 miles. Stay alert.",
+      "zh-Hans": "这个标志表示接下来5英里有道路施工。请保持警惕。",
+      "zh-Hant": "這個標誌表示接下來5英哩有道路施工。請保持警惕。"
+    }
+  },
+  {
+    "id": 93,
+    "category": "Traffic Signs",
+    "image": "/images/signs/telephone.gif",
+    "question": {
+      "en": "This blue sign indicates:",
+      "zh-Hans": "这个蓝色标志表示：",
+      "zh-Hant": "這個藍色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Cell phone use allowed",
+        "zh-Hans": "允许使用手机",
+        "zh-Hant": "允許使用手機"
+      },
+      "B": {
+        "en": "Public telephone available",
+        "zh-Hans": "有公用电话",
+        "zh-Hant": "有公用電話"
+      },
+      "C": {
+        "en": "Emergency call box",
+        "zh-Hans": "紧急呼叫箱",
+        "zh-Hant": "緊急呼叫箱"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This service sign indicates a public telephone is available nearby.",
+      "zh-Hans": "这个服务标志表示附近有公用电话。",
+      "zh-Hant": "這個服務標誌表示附近有公用電話。"
+    }
+  },
+  {
+    "id": 94,
+    "category": "Traffic Signs",
+    "image": "/images/signs/emergency call 911 .webp",
+    "question": {
+      "en": "This blue sign indicates:",
+      "zh-Hans": "这个蓝色标志表示：",
+      "zh-Hant": "這個藍色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Police station ahead",
+        "zh-Hans": "前方警察局",
+        "zh-Hant": "前方警察局"
+      },
+      "B": {
+        "en": "Emergency phone or call 911 for help",
+        "zh-Hans": "紧急电话或拨打911求助",
+        "zh-Hant": "緊急電話或撥打911求助"
+      },
+      "C": {
+        "en": "No cell phone use",
+        "zh-Hans": "禁止使用手机",
+        "zh-Hant": "禁止使用手機"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This sign indicates an emergency phone is available or reminds you to call 911 in emergencies.",
+      "zh-Hans": "这个标志表示有紧急电话可用或提醒您紧急情况下拨打911。",
+      "zh-Hant": "這個標誌表示有緊急電話可用或提醒您緊急情況下撥打911。"
+    }
+  },
+  {
+    "id": 95,
+    "category": "Traffic Signs",
+    "image": "/images/signs/PUSHBUTTON FOR.png",
+    "question": {
+      "en": "This sign at a crosswalk means:",
+      "zh-Hans": "人行横道处这个标志表示：",
+      "zh-Hant": "人行橫道處這個標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Push button to request walk signal",
+        "zh-Hans": "按按钮请求行人信号",
+        "zh-Hant": "按按鈕請求行人信號"
+      },
+      "B": {
+        "en": "Automatic crossing signal",
+        "zh-Hans": "自动过街信号",
+        "zh-Hant": "自動過街信號"
+      },
+      "C": {
+        "en": "Do not cross",
+        "zh-Hans": "禁止通行",
+        "zh-Hant": "禁止通行"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Pedestrians should push the button and wait for the walk signal to cross safely.",
+      "zh-Hans": "行人应按下按钮并等待行人信号灯亮起后安全通过。",
+      "zh-Hant": "行人應按下按鈕並等待行人信號燈亮起後安全通過。"
+    }
+  },
+  {
+    "id": 96,
+    "category": "Traffic Signs",
+    "image": "/images/signs/Right Turn Arrow ONLY.png",
+    "question": {
+      "en": "This sign means:",
+      "zh-Hans": "这个标志表示：",
+      "zh-Hant": "這個標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Right turn signal only",
+        "zh-Hans": "仅右转信号",
+        "zh-Hant": "僅右轉信號"
+      },
+      "B": {
+        "en": "This lane is for right turns only",
+        "zh-Hans": "此车道仅供右转使用",
+        "zh-Hant": "此車道僅供右轉使用"
+      },
+      "C": {
+        "en": "Right lane ends",
+        "zh-Hans": "右车道结束",
+        "zh-Hant": "右車道結束"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This overhead lane sign indicates the lane below is for right turns only.",
+      "zh-Hans": "这个车道上方标志表示下方车道仅供右转使用。",
+      "zh-Hant": "這個車道上方標誌表示下方車道僅供右轉使用。"
+    }
+  },
+  {
+    "id": 97,
+    "category": "Traffic Signs",
+    "image": "/images/signs/Left & U-Turn Lanes sign.jpg",
+    "question": {
+      "en": "This sign indicates:",
+      "zh-Hans": "这个标志表示：",
+      "zh-Hant": "這個標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "No U-turn allowed",
+        "zh-Hans": "禁止掉头",
+        "zh-Hant": "禁止掉頭"
+      },
+      "B": {
+        "en": "Left turn and U-turn lanes available",
+        "zh-Hans": "有左转和掉头车道",
+        "zh-Hant": "有左轉和掉頭車道"
+      },
+      "C": {
+        "en": "Left turn only",
+        "zh-Hans": "仅限左转",
+        "zh-Hant": "僅限左轉"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This sign shows which lanes can be used for left turns and U-turns.",
+      "zh-Hans": "这个标志显示哪些车道可用于左转和掉头。",
+      "zh-Hant": "這個標誌顯示哪些車道可用於左轉和掉頭。"
+    }
+  },
+  {
+    "id": 98,
+    "category": "Traffic Signs",
+    "image": "/images/signs/pedestrian_crossing.jpg",
+    "question": {
+      "en": "This yellow-green fluorescent sign means:",
+      "zh-Hans": "这个黄绿色荧光标志表示：",
+      "zh-Hant": "這個黃綠色螢光標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "School zone ahead",
+        "zh-Hans": "前方学校区域",
+        "zh-Hant": "前方學校區域"
+      },
+      "B": {
+        "en": "Pedestrian crossing or school crossing zone",
+        "zh-Hans": "人行横道或学校过街区",
+        "zh-Hant": "人行橫道或學校過街區"
+      },
+      "C": {
+        "en": "Playground ahead",
+        "zh-Hans": "前方游乐场",
+        "zh-Hant": "前方遊樂場"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Yellow-green fluorescent signs highlight pedestrian and school crossings for better visibility.",
+      "zh-Hans": "黄绿色荧光标志用于突出显示人行横道和学校过街区，以提高可见性。",
+      "zh-Hant": "黃綠色螢光標誌用於突出顯示人行橫道和學校過街區，以提高可見性。"
+    }
+  }
+]
