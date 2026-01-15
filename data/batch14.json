@@ -1,0 +1,382 @@
+[
+    {
+        "id": 1141,
+        "category": "General Knowledge",
+        "question": {
+            "en": "What is an out-of-service order?",
+            "zh-Hans": "什么是停驶令 (Out-of-Service Order)？",
+            "zh-Hant": "什麼是停駛令 (Out-of-Service Order)？"
+        },
+        "options": {
+            "A": {
+                "en": "An order to deliver goods faster",
+                "zh-Hans": "加快货物交付的命令",
+                "zh-Hant": "加快貨物交付的命令"
+            },
+            "B": {
+                "en": "A violation citation requiring the vehicle or driver to cease operation",
+                "zh-Hans": "要求车辆或司机停止运营的违规传票",
+                "zh-Hant": "要求車輛或司機停止運營的違規傳票"
+            },
+            "C": {
+                "en": "An order for new parts",
+                "zh-Hans": "新零件的订单",
+                "zh-Hant": "新零件的訂單"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "An out-of-service order means you cannot drive until the problem is corrected.",
+            "zh-Hans": "停驶令意味着在问题解决之前你不能驾驶。",
+            "zh-Hant": "停駛令意味著在問題解決之前你不能駕駛。"
+        },
+        "dmv_ref": {
+            "page": "1-7",
+            "section": "Compliance",
+            "analysis_zh-Hans": "严重违规会导致停驶。",
+            "analysis_zh-Hant": "嚴重違規會導致停駛。"
+        }
+    },
+    {
+        "id": 1142,
+        "category": "General Knowledge",
+        "question": {
+            "en": "When driving at highway speeds, look at least:",
+            "zh-Hans": "在高速公路速度行驶时，至少向前看：",
+            "zh-Hant": "在高速公路速度行駛時，至少向前看："
+        },
+        "options": {
+            "A": {
+                "en": "50 feet ahead",
+                "zh-Hans": "50英尺",
+                "zh-Hant": "50英尺"
+            },
+            "B": {
+                "en": "A quarter mile ahead",
+                "zh-Hans": "四分之一英里",
+                "zh-Hant": "四分之一英里"
+            },
+            "C": {
+                "en": "100 feet ahead",
+                "zh-Hans": "100英尺",
+                "zh-Hant": "100英尺"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "At highway speeds, look at least a quarter mile ahead (about 12-15 seconds).",
+            "zh-Hans": "在高速公路速度时，至少向前看四分之一英里（约12-15秒）。",
+            "zh-Hant": "在高速公路速度時，至少向前看四分之一英里（約12-15秒）。"
+        },
+        "dmv_ref": {
+            "page": "2-23",
+            "section": "Seeing Ahead",
+            "analysis_zh-Hans": "1/4英里=12-15秒=高速视距。",
+            "analysis_zh-Hant": "1/4英里=12-15秒=高速視距。"
+        }
+    },
+    {
+        "id": 1143,
+        "category": "General Knowledge",
+        "question": {
+            "en": "When can you drive a commercial motor vehicle with corroded battery cables?",
+            "zh-Hans": "你什么时候可以驾驶电池电缆腐蚀的商用车？",
+            "zh-Hant": "你什麼時候可以駕駛電池電纜腐蝕的商用車？"
+        },
+        "options": {
+            "A": {
+                "en": "If you are driving less than 25 miles",
+                "zh-Hans": "如果你驾驶不到25英里",
+                "zh-Hant": "如果你駕駛不到25英里"
+            },
+            "B": {
+                "en": "Never",
+                "zh-Hans": "永远不能",
+                "zh-Hant": "永遠不能"
+            },
+            "C": {
+                "en": "If it's during daylight hours",
+                "zh-Hans": "如果是在白天",
+                "zh-Hant": "如果是在白天"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Corroded cables are a safety hazard. The vehicle must be repaired before driving.",
+            "zh-Hans": "腐蚀的电缆是安全隐患。必须修好后才能驾驶。",
+            "zh-Hant": "腐蝕的電纜是安全隱患。必須修好後才能駕駛。"
+        },
+        "dmv_ref": {
+            "page": "2-8",
+            "section": "Electrical System",
+            "analysis_zh-Hans": "电气故障=不能出车。",
+            "analysis_zh-Hant": "電氣故障=不能出車。"
+        }
+    },
+    {
+        "id": 1144,
+        "category": "General Knowledge",
+        "question": {
+            "en": "The purpose of the 30-minute break requirement is:",
+            "zh-Hans": "30分钟休息要求的目的是：",
+            "zh-Hant": "30分鐘休息要求的目的是："
+        },
+        "options": {
+            "A": {
+                "en": "To allow time for vehicle inspections",
+                "zh-Hans": "允许时间进行车辆检查",
+                "zh-Hant": "允許時間進行車輛檢查"
+            },
+            "B": {
+                "en": "To reduce driver fatigue",
+                "zh-Hans": "减少司机疲劳",
+                "zh-Hant": "減少司機疲勞"
+            },
+            "C": {
+                "en": "To save fuel",
+                "zh-Hans": "节省燃料",
+                "zh-Hant": "節省燃料"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Drivers must take a 30-minute break after 8 hours of driving to combat fatigue.",
+            "zh-Hans": "司机在驾驶8小时后必须休息30分钟以对抗疲劳。",
+            "zh-Hant": "司機在駕駛8小時後必須休息30分鐘以對抗疲勞。"
+        },
+        "dmv_ref": {
+            "page": "1-9",
+            "section": "Hours of Service",
+            "analysis_zh-Hans": "8小时后必须休息30分钟。",
+            "analysis_zh-Hant": "8小時後必須休息30分鐘。"
+        }
+    },
+    {
+        "id": 1145,
+        "category": "General Knowledge",
+        "question": {
+            "en": "If you feel drowsy while driving, the best solution is:",
+            "zh-Hans": "如果你在驾驶时感到昏昏欲睡，最好的解决办法是：",
+            "zh-Hant": "如果你在駕駛時感到昏昏欲睡，最好的解決辦法是："
+        },
+        "options": {
+            "A": {
+                "en": "Turn on loud music",
+                "zh-Hans": "打开大声的音乐",
+                "zh-Hant": "打開大聲的音樂"
+            },
+            "B": {
+                "en": "Drink energy drinks",
+                "zh-Hans": "喝功能饮料",
+                "zh-Hant": "喝功能飲料"
+            },
+            "C": {
+                "en": "Pull over and rest or sleep",
+                "zh-Hans": "靠边休息或睡觉",
+                "zh-Hant": "靠邊休息或睡覺"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "Sleep is the only cure for fatigue. All other methods are temporary.",
+            "zh-Hans": "睡眠是唯一解决疲劳的方法。其他所有方法都是临时的。",
+            "zh-Hant": "睡眠是唯一解決疲勞的方法。其他所有方法都是臨時的。"
+        },
+        "dmv_ref": {
+            "page": "2-33",
+            "section": "Fatigue",
+            "analysis_zh-Hans": "只有睡眠能真正解决疲劳。",
+            "analysis_zh-Hant": "只有睡眠能真正解決疲勞。"
+        }
+    },
+    {
+        "id": 1146,
+        "category": "General Knowledge",
+        "question": {
+            "en": "Vehicles required to stop at all railroad crossings include:",
+            "zh-Hans": "以下哪些车辆必须在所有铁路道口停车？",
+            "zh-Hant": "以下哪些車輛必須在所有鐵路道口停車？"
+        },
+        "options": {
+            "A": {
+                "en": "All passenger vehicles",
+                "zh-Hans": "所有乘用车",
+                "zh-Hant": "所有乘用車"
+            },
+            "B": {
+                "en": "School buses, passenger buses, and placarded hazmat vehicles",
+                "zh-Hans": "校车、客运巴士和贴有危险品标牌的车辆",
+                "zh-Hant": "校車、客運巴士和貼有危險品標牌的車輛"
+            },
+            "C": {
+                "en": "Only motorcycles",
+                "zh-Hans": "仅摩托车",
+                "zh-Hant": "僅摩托車"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "School buses, passenger buses, and vehicles with hazmat placards must stop at all railroad crossings.",
+            "zh-Hans": "校车、客运巴士和贴有危险品标牌的车辆必须在所有铁路道口停车。",
+            "zh-Hant": "校車、客運巴士和貼有危險品標牌的車輛必須在所有鐵路道口停車。"
+        },
+        "dmv_ref": {
+            "page": "2-19",
+            "section": "Railroad Crossings",
+            "analysis_zh-Hans": "这些车辆无论有无信号都必须停。",
+            "analysis_zh-Hant": "這些車輛無論有無信號都必須停。"
+        }
+    },
+    {
+        "id": 1147,
+        "category": "General Knowledge",
+        "question": {
+            "en": "When passing another vehicle, you should:",
+            "zh-Hans": "超车时，你应该：",
+            "zh-Hant": "超車時，你應該："
+        },
+        "options": {
+            "A": {
+                "en": "Speed up significantly above the speed limit",
+                "zh-Hans": "大幅超过限速",
+                "zh-Hant": "大幅超過限速"
+            },
+            "B": {
+                "en": "Signal, check blind spots, and pass only when it's safe and legal",
+                "zh-Hans": "打灯，检查盲区，只有在安全合法时才超车",
+                "zh-Hant": "打燈，檢查盲區，只有在安全合法時才超車"
+            },
+            "C": {
+                "en": "Honk your horn while passing",
+                "zh-Hans": "超车时鸣笛",
+                "zh-Hant": "超車時鳴笛"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Signal, check mirrors and blind spots, pass when safe and legal, and return to your lane only when you can see the vehicle in your mirrors.",
+            "zh-Hans": "打灯，检查后视镜和盲区，在安全合法时超车，只有当你能在后视镜中看到被超车辆时才回到原车道。",
+            "zh-Hant": "打燈，檢查後視鏡和盲區，在安全合法時超車，只有當你能在後視鏡中看到被超車輛時才回到原車道。"
+        },
+        "dmv_ref": {
+            "page": "2-22",
+            "section": "Passing",
+            "analysis_zh-Hans": "超车前后都要打灯。",
+            "analysis_zh-Hant": "超車前後都要打燈。"
+        }
+    },
+    {
+        "id": 1148,
+        "category": "General Knowledge",
+        "question": {
+            "en": "What is the purpose of the 34-hour restart provision?",
+            "zh-Hans": "34小时重置规定的目的是什么？",
+            "zh-Hant": "34小時重置規定的目的是什麼？"
+        },
+        "options": {
+            "A": {
+                "en": "To reset the driving time limit",
+                "zh-Hans": "重置驾驶时间限制",
+                "zh-Hant": "重置駕駛時間限制"
+            },
+            "B": {
+                "en": "To reset the 60/70 hour on-duty limit",
+                "zh-Hans": "重置60/70小时值班限制",
+                "zh-Hant": "重置60/70小時值班限制"
+            },
+            "C": {
+                "en": "To require a mechanic check",
+                "zh-Hans": "要求机械师检查",
+                "zh-Hant": "要求機械師檢查"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "After 34 consecutive hours off duty, the 60/70 hour clock is reset to zero.",
+            "zh-Hans": "连续休息34小时后，60/70小时时钟重置为零。",
+            "zh-Hant": "連續休息34小時後，60/70小時時鐘重置為零。"
+        },
+        "dmv_ref": {
+            "page": "1-9",
+            "section": "Hours of Service",
+            "analysis_zh-Hans": "34小时休息可重置累计时间。",
+            "analysis_zh-Hant": "34小時休息可重置累計時間。"
+        }
+    },
+    {
+        "id": 1149,
+        "category": "General Knowledge",
+        "question": {
+            "en": "What documents must you carry while driving a CMV?",
+            "zh-Hans": "驾驶商用车时必须携带哪些文件？",
+            "zh-Hant": "駕駛商用車時必須攜帶哪些文件？"
+        },
+        "options": {
+            "A": {
+                "en": "Just your CDL",
+                "zh-Hans": "只需你的CDL",
+                "zh-Hant": "只需你的CDL"
+            },
+            "B": {
+                "en": "CDL, medical certificate, shipping papers, and daily log",
+                "zh-Hans": "CDL、体检证明、运单和每日日志",
+                "zh-Hant": "CDL、體檢證明、運單和每日日誌"
+            },
+            "C": {
+                "en": "Only shipping papers",
+                "zh-Hans": "仅运单",
+                "zh-Hant": "僅運單"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "You must carry your CDL, medical certificate, shipping papers (if applicable), and daily log or ELD records.",
+            "zh-Hans": "你必须携带CDL、体检证明、运单（如适用）和每日日志或ELD记录。",
+            "zh-Hant": "你必須攜帶CDL、體檢證明、運單（如適用）和每日日誌或ELD記錄。"
+        },
+        "dmv_ref": {
+            "page": "1-7",
+            "section": "Required Documents",
+            "analysis_zh-Hans": "四大必备文件。",
+            "analysis_zh-Hant": "四大必備文件。"
+        }
+    },
+    {
+        "id": 1150,
+        "category": "General Knowledge",
+        "question": {
+            "en": "What is the purpose of the medical certificate?",
+            "zh-Hans": "体检证明的目的是什么？",
+            "zh-Hant": "體檢證明的目的是什麼？"
+        },
+        "options": {
+            "A": {
+                "en": "To prove you can lift heavy cargo",
+                "zh-Hans": "证明你能搬运重货",
+                "zh-Hant": "證明你能搬運重貨"
+            },
+            "B": {
+                "en": "To verify you are physically qualified to drive a CMV safely",
+                "zh-Hans": "验证你身体上有资格安全驾驶商用车",
+                "zh-Hant": "驗證你身體上有資格安全駕駛商用車"
+            },
+            "C": {
+                "en": "To prove your vision is perfect",
+                "zh-Hans": "证明你视力完美",
+                "zh-Hant": "證明你視力完美"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "The medical certificate verifies that you meet physical requirements to safely operate a CMV.",
+            "zh-Hans": "体检证明验证你符合安全操作商用车的身体要求。",
+            "zh-Hant": "體檢證明驗證你符合安全操作商用車的身體要求。"
+        },
+        "dmv_ref": {
+            "page": "1-2",
+            "section": "Medical Requirements",
+            "analysis_zh-Hans": "体检证明一般有效期1-2年。",
+            "analysis_zh-Hant": "體檢證明一般有效期1-2年。"
+        }
+    }
+]

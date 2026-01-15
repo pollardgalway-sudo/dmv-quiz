@@ -48,7 +48,7 @@ export default function DeepDivePage() {
   useEffect(() => {
     setMounted(true)
     setLoading(true)
-    fetch('/data/questions-deepdive.json')
+    fetch('/data/cdl-air-brakes.json')
       .then(res => {
         if (!res.ok) {
           throw new Error(`HTTP error! status: ${res.status}`)
@@ -193,7 +193,7 @@ export default function DeepDivePage() {
             <div className="flex-1">
               <h1 className="text-xl sm:text-2xl md:text-3xl font-bold flex items-center gap-2">
                 <span className="animate-bounce-subtle">🎯</span>
-                <span className="gradient-text">专项突破</span>
+                <span className="gradient-text">气制动 (Air Brakes)</span>
               </h1>
               <p className="text-sm text-muted-foreground mt-1">
                 正确率: {score.total > 0 ? Math.round((score.correct / score.total) * 100) : 0}%

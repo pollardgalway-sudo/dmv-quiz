@@ -1,0 +1,382 @@
+[
+    {
+        "id": 1041,
+        "category": "General Knowledge",
+        "question": {
+            "en": "Which of these is a sign of tire failure?",
+            "zh-Hans": "以下哪项是轮胎故障的迹象？",
+            "zh-Hant": "以下哪項是輪胎故障的跡象？"
+        },
+        "options": {
+            "A": {
+                "en": "Steering wheel vibration",
+                "zh-Hans": "方向盘震动",
+                "zh-Hant": "方向盤震動"
+            },
+            "B": {
+                "en": "Smooth ride",
+                "zh-Hans": "平稳行驶",
+                "zh-Hant": "平穩行駛"
+            },
+            "C": {
+                "en": "Increased fuel efficiency",
+                "zh-Hans": "油耗降低",
+                "zh-Hant": "油耗降低"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Vibration or thumping sounds indicate a possible tire failure. Pull over safely if you experience this.",
+            "zh-Hans": "震动或撞击声表明可能有轮胎故障。如果遇到这种情况，请安全靠边停车。",
+            "zh-Hant": "震動或撞擊聲表明可能有輪胎故障。如果遇到這種情況，請安全靠邊停車。"
+        },
+        "dmv_ref": {
+            "page": "2-35",
+            "section": "Emergencies",
+            "analysis_zh-Hans": "轮胎爆胎前通常有预兆。",
+            "analysis_zh-Hant": "輪胎爆胎前通常有預兆。"
+        }
+    },
+    {
+        "id": 1042,
+        "category": "General Knowledge",
+        "question": {
+            "en": "If your tire blows out, you should:",
+            "zh-Hans": "如果轮胎爆胎，你应该：",
+            "zh-Hant": "如果輪胎爆胎，你應該："
+        },
+        "options": {
+            "A": {
+                "en": "Brake hard immediately",
+                "zh-Hans": "立即用力刹车",
+                "zh-Hant": "立即用力剎車"
+            },
+            "B": {
+                "en": "Hold the steering wheel firmly and stay off the brakes until the vehicle slows",
+                "zh-Hans": "紧握方向盘，不踩刹车直到车辆减速",
+                "zh-Hant": "緊握方向盤，不踩剎車直到車輛減速"
+            },
+            "C": {
+                "en": "Speed up to move out of traffic",
+                "zh-Hans": "加速驶离车流",
+                "zh-Hant": "加速駛離車流"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Hold the steering firmly, stay off brakes initially, slow down gradually, then brake gently and pull off the road.",
+            "zh-Hans": "紧握方向盘，最初不踩刹车，逐渐减速，然后轻踩刹车靠边停车。",
+            "zh-Hant": "緊握方向盤，最初不踩剎車，逐漸減速，然後輕踩剎車靠邊停車。"
+        },
+        "dmv_ref": {
+            "page": "2-35",
+            "section": "Tire Failure",
+            "analysis_zh-Hans": "突然刹车会导致失控。",
+            "analysis_zh-Hant": "突然剎車會導致失控。"
+        }
+    },
+    {
+        "id": 1043,
+        "category": "General Knowledge",
+        "question": {
+            "en": "A properly adjusted convex (curved) mirror will:",
+            "zh-Hans": "正确调整的凸面镜会：",
+            "zh-Hant": "正確調整的凸面鏡會："
+        },
+        "options": {
+            "A": {
+                "en": "Make objects appear closer than they are",
+                "zh-Hans": "使物体看起来比实际更近",
+                "zh-Hant": "使物體看起來比實際更近"
+            },
+            "B": {
+                "en": "Make objects appear farther away than they are",
+                "zh-Hans": "使物体看起来比实际更远",
+                "zh-Hant": "使物體看起來比實際更遠"
+            },
+            "C": {
+                "en": "Show objects at their actual distance",
+                "zh-Hans": "显示物体的实际距离",
+                "zh-Hant": "顯示物體的實際距離"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Convex mirrors show a wider area but make objects appear smaller and farther away. Be aware of this when judging distances.",
+            "zh-Hans": "凸面镜显示更宽的区域，但使物体看起来更小更远。判断距离时要注意这点。",
+            "zh-Hant": "凸面鏡顯示更寬的區域，但使物體看起來更小更遠。判斷距離時要注意這點。"
+        },
+        "dmv_ref": {
+            "page": "2-23",
+            "section": "Mirrors",
+            "analysis_zh-Hans": "凸面镜经典考题。",
+            "analysis_zh-Hant": "凸面鏡經典考題。"
+        }
+    },
+    {
+        "id": 1044,
+        "category": "General Knowledge",
+        "question": {
+            "en": "You should avoid driving through deep puddles or flowing water because:",
+            "zh-Hans": "你应该避免驶过深水坑或流水，因为：",
+            "zh-Hant": "你應該避免駛過深水坑或流水，因為："
+        },
+        "options": {
+            "A": {
+                "en": "It might splash pedestrians",
+                "zh-Hans": "可能会溅到行人",
+                "zh-Hant": "可能會濺到行人"
+            },
+            "B": {
+                "en": "Water can get into the brakes and make them less effective",
+                "zh-Hans": "水会进入刹车系统，降低制动效果",
+                "zh-Hant": "水會進入剎車系統，降低制動效果"
+            },
+            "C": {
+                "en": "The engine might overheat",
+                "zh-Hans": "发动机可能过热",
+                "zh-Hant": "發動機可能過熱"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Water in brakes can reduce their effectiveness. If you must drive through water, apply light brake pressure afterward to dry them.",
+            "zh-Hans": "刹车进水会降低效果。如果必须过水，之后轻踩刹车使其干燥。",
+            "zh-Hant": "剎車進水會降低效果。如果必須過水，之後輕踩剎車使其乾燥。"
+        },
+        "dmv_ref": {
+            "page": "2-34",
+            "section": "Wet Brakes",
+            "analysis_zh-Hans": "过水后要烘干刹车。",
+            "analysis_zh-Hant": "過水後要烘乾剎車。"
+        }
+    },
+    {
+        "id": 1045,
+        "category": "General Knowledge",
+        "question": {
+            "en": "Which of these statements about double clutching is true?",
+            "zh-Hans": "关于两脚离合(双脚离合)，以下哪项陈述是正确的？",
+            "zh-Hant": "關於兩腳離合(雙腳離合)，以下哪項陳述是正確的？"
+        },
+        "options": {
+            "A": {
+                "en": "It is used only in vehicles with automatic transmissions",
+                "zh-Hans": "仅用于自动变速箱车辆",
+                "zh-Hant": "僅用於自動變速箱車輛"
+            },
+            "B": {
+                "en": "It is required to change gears in most large trucks",
+                "zh-Hans": "大多数大卡车换挡时需要使用",
+                "zh-Hant": "大多數大卡車換擋時需要使用"
+            },
+            "C": {
+                "en": "It is illegal in most states",
+                "zh-Hans": "在大多数州是违法的",
+                "zh-Hant": "在大多數州是違法的"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Double clutching is required to change gears in most heavy trucks with non-synchronized transmissions.",
+            "zh-Hans": "两脚离合用于大多数非同步变速箱的重型卡车换挡。",
+            "zh-Hant": "兩腳離合用於大多數非同步變速箱的重型卡車換擋。"
+        },
+        "dmv_ref": {
+            "page": "2-15",
+            "section": "Shifting",
+            "analysis_zh-Hans": "手动挡卡车的基本技能。",
+            "analysis_zh-Hant": "手動擋卡車的基本技能。"
+        }
+    },
+    {
+        "id": 1046,
+        "category": "General Knowledge",
+        "question": {
+            "en": "When driving on slippery surfaces, you should:",
+            "zh-Hans": "在湿滑路面驾驶时，你应该：",
+            "zh-Hant": "在濕滑路面駕駛時，你應該："
+        },
+        "options": {
+            "A": {
+                "en": "Drive faster to maintain traction",
+                "zh-Hans": "开快点以保持抓地力",
+                "zh-Hant": "開快點以保持抓地力"
+            },
+            "B": {
+                "en": "Make turns as quickly as possible",
+                "zh-Hans": "尽快完成转弯",
+                "zh-Hant": "盡快完成轉彎"
+            },
+            "C": {
+                "en": "Decrease speed and increase following distance",
+                "zh-Hans": "减速并增加跟车距离",
+                "zh-Hant": "減速並增加跟車距離"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "On slippery surfaces, decrease your speed and increase your following distance to allow for longer stopping distances.",
+            "zh-Hans": "在湿滑路面上，减速并增加跟车距离，因为制动距离会更长。",
+            "zh-Hant": "在濕滑路面上，減速並增加跟車距離，因為制動距離會更長。"
+        },
+        "dmv_ref": {
+            "page": "2-34",
+            "section": "Slippery Surfaces",
+            "analysis_zh-Hans": "湿滑路面制动距离可能增加10倍。",
+            "analysis_zh-Hant": "濕滑路面制動距離可能增加10倍。"
+        }
+    },
+    {
+        "id": 1047,
+        "category": "General Knowledge",
+        "question": {
+            "en": "The total weight of a vehicle plus its load is called:",
+            "zh-Hans": "车辆加上货物的总重量叫做：",
+            "zh-Hant": "車輛加上貨物的總重量叫做："
+        },
+        "options": {
+            "A": {
+                "en": "Curb weight",
+                "zh-Hans": "路边重量",
+                "zh-Hant": "路邊重量"
+            },
+            "B": {
+                "en": "Gross Vehicle Weight (GVW)",
+                "zh-Hans": "总车重 (GVW)",
+                "zh-Hant": "總車重 (GVW)"
+            },
+            "C": {
+                "en": "Axle weight",
+                "zh-Hans": "轴重",
+                "zh-Hant": "軸重"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "GVW is the total weight of the vehicle plus cargo, passengers, and fuel. Must not exceed GVWR.",
+            "zh-Hans": "GVW是车辆加上货物、乘客和燃料的总重量。不得超过GVWR。",
+            "zh-Hant": "GVW是車輛加上貨物、乘客和燃料的總重量。不得超過GVWR。"
+        },
+        "dmv_ref": {
+            "page": "3-1",
+            "section": "Weight Limits",
+            "analysis_zh-Hans": "GVW vs GVWR：actual vs rated。",
+            "analysis_zh-Hant": "GVW vs GVWR：actual vs rated。"
+        }
+    },
+    {
+        "id": 1048,
+        "category": "General Knowledge",
+        "question": {
+            "en": "When you are parked on the side of the road at night, you must:",
+            "zh-Hans": "夜间在路边停车时，你必须：",
+            "zh-Hant": "夜間在路邊停車時，你必須："
+        },
+        "options": {
+            "A": {
+                "en": "Turn on your four-way flashers",
+                "zh-Hans": "打开双闪灯",
+                "zh-Hant": "打開雙閃燈"
+            },
+            "B": {
+                "en": "Turn off all lights to save battery",
+                "zh-Hans": "关闭所有灯以节省电池",
+                "zh-Hant": "關閉所有燈以節省電池"
+            },
+            "C": {
+                "en": "Use only low beam headlights",
+                "zh-Hans": "只使用近光灯",
+                "zh-Hant": "只使用近光燈"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "When parked on the side of a road at night, turn on your flashers and use reflective triangles.",
+            "zh-Hans": "夜间在路边停车时，打开双闪灯并使用反光三角标志。",
+            "zh-Hant": "夜間在路邊停車時，打開雙閃燈並使用反光三角標誌。"
+        },
+        "dmv_ref": {
+            "page": "2-32",
+            "section": "Night Parking",
+            "analysis_zh-Hans": "三角标志必须放置在车后10-100-200英尺。",
+            "analysis_zh-Hant": "三角標誌必須放置在車後10-100-200英尺。"
+        }
+    },
+    {
+        "id": 1049,
+        "category": "General Knowledge",
+        "question": {
+            "en": "Reflective triangles must be placed within ___ of stopping on a roadway.",
+            "zh-Hans": "在道路上停车后，必须在 ___ 内放置反光三角标志。",
+            "zh-Hant": "在道路上停車後，必須在 ___ 內放置反光三角標誌。"
+        },
+        "options": {
+            "A": {
+                "en": "10 minutes",
+                "zh-Hans": "10分钟",
+                "zh-Hant": "10分鐘"
+            },
+            "B": {
+                "en": "30 minutes",
+                "zh-Hans": "30分钟",
+                "zh-Hant": "30分鐘"
+            },
+            "C": {
+                "en": "1 hour",
+                "zh-Hans": "1小时",
+                "zh-Hant": "1小時"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Place the triangles within 10 minutes of stopping on the roadway.",
+            "zh-Hans": "在道路上停车后10分钟内放置三角标志。",
+            "zh-Hant": "在道路上停車後10分鐘內放置三角標誌。"
+        },
+        "dmv_ref": {
+            "page": "2-32",
+            "section": "Breakdowns",
+            "analysis_zh-Hans": "10分钟是关键数字。",
+            "analysis_zh-Hant": "10分鐘是關鍵數字。"
+        }
+    },
+    {
+        "id": 1050,
+        "category": "General Knowledge",
+        "question": {
+            "en": "Which of these is the proper placement of reflective triangles?",
+            "zh-Hans": "以下哪项是反光三角标志的正确放置方式？",
+            "zh-Hant": "以下哪項是反光三角標誌的正確放置方式？"
+        },
+        "options": {
+            "A": {
+                "en": "10, 100, and 200 feet from the rear",
+                "zh-Hans": "距车尾10、100和200英尺",
+                "zh-Hant": "距車尾10、100和200英尺"
+            },
+            "B": {
+                "en": "50, 100, and 150 feet from the rear",
+                "zh-Hans": "距车尾50、100和150英尺",
+                "zh-Hant": "距車尾50、100和150英尺"
+            },
+            "C": {
+                "en": "Only one triangle directly behind the vehicle",
+                "zh-Hans": "只在车正后方放一个",
+                "zh-Hant": "只在車正後方放一個"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Place triangles at 10, 100, and 200 feet behind the vehicle towards approaching traffic.",
+            "zh-Hans": "在距车尾10、100和200英尺处朝来车方向放置三角标志。",
+            "zh-Hant": "在距車尾10、100和200英尺處朝來車方向放置三角標誌。"
+        },
+        "dmv_ref": {
+            "page": "2-32",
+            "section": "Breakdowns",
+            "analysis_zh-Hans": "10-100-200是必考数字。",
+            "analysis_zh-Hant": "10-100-200是必考數字。"
+        }
+    }
+]

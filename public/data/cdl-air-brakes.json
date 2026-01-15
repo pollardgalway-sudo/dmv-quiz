@@ -1,0 +1,2282 @@
+[
+  {
+    "id": 2001,
+    "category": "Air Brakes",
+    "question": {
+      "en": "Why must you drain water from compressed air tanks?",
+      "zh-Hans": "为什么必须从压缩空气罐中排水？",
+      "zh-Hant": "為什麼必須從壓縮空氣罐中排水？"
+    },
+    "options": {
+      "A": {
+        "en": "Water can freeze in cold weather and cause brake failure",
+        "zh-Hans": "水在寒冷天气下会结冰，导致刹车失灵",
+        "zh-Hant": "水在寒冷天氣下會結冰，導致剎車失靈"
+      },
+      "B": {
+        "en": "To cool the air compressor",
+        "zh-Hans": "为了冷却空气压缩机",
+        "zh-Hant": "為了冷卻空氣壓縮機"
+      },
+      "C": {
+        "en": "To removing oil from the lines",
+        "zh-Hans": "为了清除管路中的油",
+        "zh-Hant": "為了清除管路中的油"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Compressed air usually has some water and some compressor oil in it. The water can freeze in cold weather and cause brake failure.",
+      "zh-Hans": "压缩空气通常含有水和油。在寒冷天气下，水会结冰并堵塞管路，导致刹车失灵。",
+      "zh-Hant": "壓縮空氣通常含有水和油。在寒冷天氣下，水會結冰並堵塞管路，導致剎車失靈。"
+    },
+    "dmv_ref": {
+      "page": "5-2",
+      "section": "Air Tank Drains",
+      "analysis_zh-Hans": "气制动系统最基础的维护知识。",
+      "analysis_zh-Hant": "氣制動系統最基礎的維護知識。"
+    }
+  },
+  {
+    "id": 2002,
+    "category": "Air Brakes",
+    "question": {
+      "en": "The safety valve is set to automatically reduce pressure at __ psi.",
+      "zh-Hans": "安全阀 (Safety Valve) 设置为在 __ psi 时自动减压。",
+      "zh-Hant": "安全閥 (Safety Valve) 設置為在 __ psi 時自動減壓。"
+    },
+    "options": {
+      "A": {
+        "en": "50",
+        "zh-Hans": "50",
+        "zh-Hant": "50"
+      },
+      "B": {
+        "en": "100",
+        "zh-Hans": "100",
+        "zh-Hant": "100"
+      },
+      "C": {
+        "en": "150",
+        "zh-Hans": "150",
+        "zh-Hant": "150"
+      }
+    },
+    "answer": "C",
+    "explanation": {
+      "en": "The safety valve protects the tank and the rest of the system from too much pressure. It is usually set to open at 150 psi.",
+      "zh-Hans": "安全阀保护储气罐和系统免受过高压力的影响。通常设置为150 psi时开启。",
+      "zh-Hant": "安全閥保護儲氣罐和系統免受過高壓力的影響。通常設置為150 psi時開啟。"
+    },
+    "dmv_ref": {
+      "page": "5-3",
+      "section": "Safety Valve",
+      "analysis_zh-Hans": "也是常考的数字题。",
+      "analysis_zh-Hant": "也是常考的數字題。"
+    }
+  },
+  {
+    "id": 2003,
+    "category": "Air Brakes",
+    "question": {
+      "en": "Your vehicle has a dual air brake system. If a low air pressure warning comes on for the secondary system, you should:",
+      "zh-Hans": "你的车辆有双管路气制动系统。如果副系统 (Secondary System) 的低气压警报亮起，你应该：",
+      "zh-Hant": "你的車輛有雙管路氣制動系統。如果副系統 (Secondary System) 的低氣壓警報亮起，你應該："
+    },
+    "options": {
+      "A": {
+        "en": "Continue driving until you reach a service release",
+        "zh-Hans": "继续驾驶直到到达服务站",
+        "zh-Hant": "繼續駕駛直到到達服務站"
+      },
+      "B": {
+        "en": "Stop safely and park the vehicle until the system is repaired",
+        "zh-Hans": "安全停车并泊车，直到系统修复",
+        "zh-Hant": "安全停車並泊車，直到系統修復"
+      },
+      "C": {
+        "en": "Use the parking brake to help safely slow down",
+        "zh-Hans": "使用驻车制动来辅助减速",
+        "zh-Hant": "使用駐車制動來輔助減速"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "If the warning light comes on, you must stop. The secondary system often operates the front axle brakes. You might lose braking power.",
+      "zh-Hans": "如果警报亮起，必须立即安全停车。因为这意味着你可能已经失去了一部分刹车能力（通常是前轴）。",
+      "zh-Hant": "如果警報亮起，必須立即安全停車。因為這意味著你可能已經失去了一部分剎車能力（通常是前軸）。"
+    },
+    "dmv_ref": {
+      "page": "5-6",
+      "section": "Dual Air Brake",
+      "analysis_zh-Hans": "双系统任何一方故障都必须停车。",
+      "analysis_zh-Hant": "雙系統任何一方故障都必須停車。"
+    }
+  },
+  {
+    "id": 2004,
+    "category": "Air Brakes",
+    "question": {
+      "en": "The brake pedal in an air brake system:",
+      "zh-Hans": "气制动系统中的刹车踏板 (Brake Pedal)：",
+      "zh-Hant": "氣制動系統中的剎車踏板 (Brake Pedal)："
+    },
+    "options": {
+      "A": {
+        "en": "Controls the speed of the air compressor",
+        "zh-Hans": "控制空气压缩机的速度",
+        "zh-Hant": "控制空氣壓縮機的速度"
+      },
+      "B": {
+        "en": "Controls the air pressure applied to put on the brakes",
+        "zh-Hans": "控制施加在刹车上的气压",
+        "zh-Hant": "控制施加在剎車上的氣壓"
+      },
+      "C": {
+        "en": "Is connected to the slack adjusters by a cable",
+        "zh-Hans": "通过拉线连接到调节臂",
+        "zh-Hant": "通過拉線連接到調節臂"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Pressing and releasing the pedal lets air into and out of the brake chambers. Harder pressure lets in more air.",
+      "zh-Hans": "踩下或松开踏板控制进入刹车气室的空气量。踩得越重，进入的气压越大。",
+      "zh-Hant": "踩下或鬆開踏板控制進入剎車氣室的空氣量。踩得越重，進入的氣壓越大。"
+    },
+    "dmv_ref": {
+      "page": "5-3",
+      "section": "The Brake Pedal",
+      "analysis_zh-Hans": "气刹踏板不仅仅是个开关，它像水龙头一样控制气流。",
+      "analysis_zh-Hant": "氣剎踏板不僅僅是個開關，它像水龍頭一樣控制氣流。"
+    }
+  },
+  {
+    "id": 2005,
+    "category": "Air Brakes",
+    "question": {
+      "en": "Spring brakes are held back by:",
+      "zh-Hans": "弹簧刹车 (Spring Brakes) 是靠什么保持在松开状态的？",
+      "zh-Hant": "彈簧剎車 (Spring Brakes) 是靠什麼保持在鬆開狀態的？"
+    },
+    "options": {
+      "A": {
+        "en": "Air pressure",
+        "zh-Hans": "气压",
+        "zh-Hant": "氣壓"
+      },
+      "B": {
+        "en": "Springs",
+        "zh-Hans": "弹簧",
+        "zh-Hant": "彈簧"
+      },
+      "C": {
+        "en": "Centrifugal force",
+        "zh-Hans": "离心力",
+        "zh-Hant": "離心力"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Spring brakes are held back by air pressure. If the air pressure is removed, the springs put on the brakes.",
+      "zh-Hans": "弹簧刹车是靠气压顶住的。如果气压消失，弹簧就会弹出锁死刹车。",
+      "zh-Hant": "彈簧剎車是靠氣壓頂住的。如果氣壓消失，彈簧就會彈出鎖死剎車。"
+    },
+    "dmv_ref": {
+      "page": "5-5",
+      "section": "Parking Brake",
+      "analysis_zh-Hans": "这是气刹最核心的安全机制：没气=自动刹车。",
+      "analysis_zh-Hant": "這是氣剎最核心的安全機制：沒氣=自動剎車。"
+    }
+  },
+  {
+    "id": 2006,
+    "category": "Air Brakes",
+    "question": {
+      "en": "A straight truck air brake system should not leak at a rate of more than __ psi per minute with the engine off and the brakes released.",
+      "zh-Hans": "对于单车（非拖挂），当发动机熄火且松开刹车时，气压泄漏率不应超过每分钟 __ psi。",
+      "zh-Hant": "對於單車（非拖掛），當發動機熄火且鬆開剎車時，氣壓洩漏率不應超過每分鐘 __ psi。"
+    },
+    "options": {
+      "A": {
+        "en": "2",
+        "zh-Hans": "2",
+        "zh-Hant": "2"
+      },
+      "B": {
+        "en": "3",
+        "zh-Hans": "3",
+        "zh-Hant": "3"
+      },
+      "C": {
+        "en": "4",
+        "zh-Hans": "4",
+        "zh-Hant": "4"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Static leakage rate for a straight truck: less than 2 psi/minute. For combination: less than 3 psi/minute.",
+      "zh-Hans": "单车的静态泄漏率（不踩刹车）应小于2 psi/分钟。组合车应小于3 psi/分钟。",
+      "zh-Hant": "單車的靜態洩漏率（不踩剎車）應小於2 psi/分鐘。組合車應小於3 psi/分鐘。"
+    },
+    "dmv_ref": {
+      "page": "5-7",
+      "section": "Air Leakage Rate",
+      "analysis_zh-Hans": "行前检查必考：2-3-4规律（单车静2压3，组合静3压4）。",
+      "analysis_zh-Hant": "行前檢查必考：2-3-4規律（單車靜2壓3，組合靜3壓4）。"
+    }
+  },
+  {
+    "id": 2007,
+    "category": "Air Brakes",
+    "question": {
+      "en": "When forcing the slack adjusters, if it moves more than about __ inch, it probably needs adjustment.",
+      "zh-Hans": "检查调节臂 (Slack Adjuster) 时，如用手拉动的位移超过 __ 英寸，则可能需要调整。",
+      "zh-Hant": "檢查調節臂 (Slack Adjuster) 時，如用手拉動的位移超過 __ 英寸，則可能需要調整。"
+    },
+    "options": {
+      "A": {
+        "en": "1",
+        "zh-Hans": "1",
+        "zh-Hant": "1"
+      },
+      "B": {
+        "en": "2",
+        "zh-Hans": "2",
+        "zh-Hant": "2"
+      },
+      "C": {
+        "en": "3",
+        "zh-Hans": "3",
+        "zh-Hant": "3"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "If the slack adjuster moves more than about one inch where the push rod attaches to it, it probably needs adjustment.",
+      "zh-Hans": "如果推杆连接处的位移超过1英寸，通常意味着刹车间隙过大，需要调整。",
+      "zh-Hant": "如果推桿連接處的位移超過1英寸，通常意味著剎車間隙過大，需要調整。"
+    },
+    "dmv_ref": {
+      "page": "5-8",
+      "section": "Check Slack Adjusters",
+      "analysis_zh-Hans": "这是检查刹车是否有效的重要步骤。",
+      "analysis_zh-Hant": "這是檢查剎車是否有效的重要步驟。"
+    }
+  },
+  {
+    "id": 2008,
+    "category": "Air Brakes",
+    "question": {
+      "en": "The S-cam forces the brake shoes away from one another and presses them against:",
+      "zh-Hans": "S型凸轮 (S-cam) 将刹车蹄片撑开，并压向：",
+      "zh-Hant": "S型凸輪 (S-cam) 將剎車蹄片撐開，並壓向："
+    },
+    "options": {
+      "A": {
+        "en": "The brake drum",
+        "zh-Hans": "刹车鼓 (Brake Drum)",
+        "zh-Hant": "剎車鼓 (Brake Drum)"
+      },
+      "B": {
+        "en": "The slack adjuster",
+        "zh-Hans": "调节臂",
+        "zh-Hant": "調節臂"
+      },
+      "C": {
+        "en": "The axle",
+        "zh-Hans": "车轴",
+        "zh-Hant": "車軸"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "The S-cam forces the brake shoes against the inside of the brake drum. Friction slows the vehicle.",
+      "zh-Hans": "S型凸轮转动时撑开蹄片，摩擦刹车鼓内壁来减速。",
+      "zh-Hant": "S型凸輪轉動時撐開蹄片，摩擦剎車鼓內壁來減速。"
+    },
+    "dmv_ref": {
+      "page": "5-3",
+      "section": "Foundation Brakes",
+      "analysis_zh-Hans": "理解最常见的S-cam鼓式刹车原理。",
+      "analysis_zh-Hant": "理解最常見的S-cam鼓式剎車原理。"
+    }
+  },
+  {
+    "id": 2009,
+    "category": "Air Brakes",
+    "question": {
+      "en": "Excessive heat caused by using your brakes too often can also cause:",
+      "zh-Hans": "过度频繁使用刹车导致的高温可能会导致：",
+      "zh-Hant": "過度頻繁使用剎車導致的高溫可能會導致："
+    },
+    "options": {
+      "A": {
+        "en": "Brake fade or failure",
+        "zh-Hans": "刹车衰退或失灵 (Brake Fade)",
+        "zh-Hant": "剎車衰退或失靈 (Brake Fade)"
+      },
+      "B": {
+        "en": "Modulated braking",
+        "zh-Hans": "点刹",
+        "zh-Hant": "點剎"
+      },
+      "C": {
+        "en": "Brake adjustment",
+        "zh-Hans": "刹车自动调整",
+        "zh-Hant": "剎車自動調整"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Excessive heat can cause the brake drums to expand, moving away from the brake shoes, leading to brake fade or failure.",
+      "zh-Hans": "过热会导致刹车鼓膨胀从而远离蹄片，导致制动力下降（衰退）甚至完全失灵。",
+      "zh-Hant": "過熱會導致剎車鼓膨脹從而遠離蹄片，導致制動力下降（衰退）甚至完全失靈。"
+    },
+    "dmv_ref": {
+      "page": "5-10",
+      "section": "Brake Fading",
+      "analysis_zh-Hans": "这也是为什么下长坡要用低档位配合发动机制动，而不是一直踩刹车。",
+      "analysis_zh-Hant": "這也是為什麼下長坡要用低檔位配合發動機制動，而不是一直踩剎車。"
+    }
+  },
+  {
+    "id": 2010,
+    "category": "Air Brakes",
+    "question": {
+      "en": "Under normal conditions, in order to engage the parking brake the driver must:",
+      "zh-Hans": "在正常情况下，要启用驻车制动 (Parking Brake)，司机必须：",
+      "zh-Hant": "在正常情況下，要啟用駐車制動 (Parking Brake)，司機必須："
+    },
+    "options": {
+      "A": {
+        "en": "Turn off the engine",
+        "zh-Hans": "关闭发动机",
+        "zh-Hant": "關閉發動機"
+      },
+      "B": {
+        "en": "Let the air out of the air brake system",
+        "zh-Hans": "放掉气制动系统的气",
+        "zh-Hant": "放掉氣制動系統的氣"
+      },
+      "C": {
+        "en": "Pull out the air brake control knob",
+        "zh-Hans": "拉出空气制动控制钮 (黄色菱形钮)",
+        "zh-Hant": "拉出空氣制動控制鈕 (黃色菱形鈕)"
+      }
+    },
+    "answer": "C",
+    "explanation": {
+      "en": "Pulling out the yellow diamond-shaped knob engages the parking brakes.",
+      "zh-Hans": "拉出黄色的菱形按钮会排出驻车气路的气体，从而弹簧弹出锁死刹车。",
+      "zh-Hant": "拉出黃色的菱形按鈕會排出駐車氣路的氣體，從而彈簧彈出鎖死剎車。"
+    },
+    "dmv_ref": {
+      "page": "5-5",
+      "section": "Parking Brake Controls",
+      "analysis_zh-Hans": "Push to release, Pull to apply.（推松拉刹）这是口诀。",
+      "analysis_zh-Hant": "Push to release, Pull to apply.（推鬆拉剎）這是口訣。"
+    }
+  },
+  {
+    "id": 2011,
+    "category": "Air Brakes",
+    "question": {
+      "en": "The governor controls when the air compressor will pump air into the storage tanks. It is set to cut-out at about:",
+      "zh-Hans": "调压阀 (Governor) 控制空气压缩机何时向储气罐充气。它设置为在大约 ___ psi 时停止充气 (Cut-out)。",
+      "zh-Hant": "調壓閥 (Governor) 控制空氣壓縮機何時向儲氣罐充氣。它設置為在大約 ___ psi 時停止充氣 (Cut-out)。"
+    },
+    "options": {
+      "A": {
+        "en": "100 psi",
+        "zh-Hans": "100 psi",
+        "zh-Hant": "100 psi"
+      },
+      "B": {
+        "en": "125 psi",
+        "zh-Hans": "125 psi",
+        "zh-Hant": "125 psi"
+      },
+      "C": {
+        "en": "150 psi",
+        "zh-Hans": "150 psi",
+        "zh-Hant": "150 psi"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "The governor cut-out is around 125 psi. It cuts-in (starts pumping) at around 100 psi.",
+      "zh-Hans": "调压阀在约125 psi时停止充气（Cut-out），在约100 psi时开始充气（Cut-in）。",
+      "zh-Hant": "調壓閥在約125 psi時停止充氣（Cut-out），在約100 psi時開始充氣（Cut-in）。"
+    },
+    "dmv_ref": {
+      "page": "5-1",
+      "section": "Governor",
+      "analysis_zh-Hans": "100 cut-in, 125 cut-out是必考数字。",
+      "analysis_zh-Hant": "100 cut-in, 125 cut-out是必考數字。"
+    }
+  },
+  {
+    "id": 2012,
+    "category": "Air Brakes",
+    "question": {
+      "en": "What tells you how much air pressure is in the air tanks?",
+      "zh-Hans": "什么告诉你储气罐里有多少气压？",
+      "zh-Hant": "什麼告訴你儲氣罐裡有多少氣壓？"
+    },
+    "options": {
+      "A": {
+        "en": "Air gauge",
+        "zh-Hans": "气压表",
+        "zh-Hant": "氣壓表"
+      },
+      "B": {
+        "en": "Governor",
+        "zh-Hans": "调压阀",
+        "zh-Hant": "調壓閥"
+      },
+      "C": {
+        "en": "Tachometer",
+        "zh-Hans": "转速表",
+        "zh-Hant": "轉速表"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "The air pressure gauge shows how much pressure is in the air tanks.",
+      "zh-Hans": "气压表显示储气罐中的压力。",
+      "zh-Hant": "氣壓表顯示儲氣罐中的壓力。"
+    },
+    "dmv_ref": {
+      "page": "5-3",
+      "section": "Gauges",
+      "analysis_zh-Hans": "每次行前检查都要看气压表。",
+      "analysis_zh-Hant": "每次行前檢查都要看氣壓表。"
+    }
+  },
+  {
+    "id": 2013,
+    "category": "Air Brakes",
+    "question": {
+      "en": "The low air pressure warning light should come on before the pressure drops below:",
+      "zh-Hans": "低气压警告灯应在气压低于 ___ psi 之前亮起。",
+      "zh-Hant": "低氣壓警告燈應在氣壓低於 ___ psi 之前亮起。"
+    },
+    "options": {
+      "A": {
+        "en": "40 psi",
+        "zh-Hans": "40 psi",
+        "zh-Hant": "40 psi"
+      },
+      "B": {
+        "en": "55 psi",
+        "zh-Hans": "55 psi",
+        "zh-Hant": "55 psi"
+      },
+      "C": {
+        "en": "60 psi",
+        "zh-Hans": "60 psi",
+        "zh-Hant": "60 psi"
+      }
+    },
+    "answer": "C",
+    "explanation": {
+      "en": "The warning light should come on before pressure drops below 60 psi.",
+      "zh-Hans": "警告灯应在气压低于60 psi之前亮起。",
+      "zh-Hant": "警告燈應在氣壓低於60 psi之前亮起。"
+    },
+    "dmv_ref": {
+      "page": "5-4",
+      "section": "Warning Light",
+      "analysis_zh-Hans": "60 psi是警报触发点。",
+      "analysis_zh-Hant": "60 psi是警報觸發點。"
+    }
+  },
+  {
+    "id": 2014,
+    "category": "Air Brakes",
+    "question": {
+      "en": "If the air compressor has a water-cooled oil cooler, you should check the:",
+      "zh-Hans": "如果空气压缩机有水冷油冷器，你应该检查：",
+      "zh-Hant": "如果空氣壓縮機有水冷油冷器，你應該檢查："
+    },
+    "options": {
+      "A": {
+        "en": "Tire pressure",
+        "zh-Hans": "轮胎气压",
+        "zh-Hant": "輪胎氣壓"
+      },
+      "B": {
+        "en": "Oil supply and hose connections for leaks",
+        "zh-Hans": "油位和软管连接是否泄漏",
+        "zh-Hant": "油位和軟管連接是否洩漏"
+      },
+      "C": {
+        "en": "Transmission fluid",
+        "zh-Hans": "变速箱油",
+        "zh-Hant": "變速箱油"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Check the oil supply and look for leaks in the hose connections.",
+      "zh-Hans": "检查油位并检查软管连接是否有泄漏。",
+      "zh-Hant": "檢查油位並檢查軟管連接是否有洩漏。"
+    },
+    "dmv_ref": {
+      "page": "5-2",
+      "section": "Air Compressor",
+      "analysis_zh-Hans": "压缩机保养的基本检查项。",
+      "analysis_zh-Hant": "壓縮機保養的基本檢查項。"
+    }
+  },
+  {
+    "id": 2015,
+    "category": "Air Brakes",
+    "question": {
+      "en": "The modulating control valve is used to:",
+      "zh-Hans": "调节控制阀 (Modulating Control Valve) 用于：",
+      "zh-Hant": "調節控制閥 (Modulating Control Valve) 用於："
+    },
+    "options": {
+      "A": {
+        "en": "Apply the parking brakes gradually when parking",
+        "zh-Hans": "在驻车时逐渐施加驻车制动",
+        "zh-Hant": "在駐車時逐漸施加駐車制動"
+      },
+      "B": {
+        "en": "Apply the spring brakes gradually",
+        "zh-Hans": "逐渐施加弹簧刹车",
+        "zh-Hant": "逐漸施加彈簧剎車"
+      },
+      "C": {
+        "en": "Start the engine",
+        "zh-Hans": "启动发动机",
+        "zh-Hant": "啟動發動機"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Some vehicles have a modulating control valve that allows the driver to apply spring brakes gradually.",
+      "zh-Hans": "一些车辆有调节控制阀，允许司机逐渐施加弹簧刹车。",
+      "zh-Hant": "一些車輛有調節控制閥，允許司機逐漸施加彈簧剎車。"
+    },
+    "dmv_ref": {
+      "page": "5-5",
+      "section": "Modulating Valve",
+      "analysis_zh-Hans": "用于紧急情况下控制弹簧刹车。",
+      "analysis_zh-Hant": "用於緊急情況下控制彈簧剎車。"
+    }
+  },
+  {
+    "id": 2016,
+    "category": "Air Brakes",
+    "question": {
+      "en": "Total stopping distance for air brakes is longer than hydraulic brakes because:",
+      "zh-Hans": "气刹的总制动距离比液压刹车更长，因为：",
+      "zh-Hant": "氣剎的總制動距離比液壓剎車更長，因為："
+    },
+    "options": {
+      "A": {
+        "en": "Air takes time to travel through the lines (brake lag)",
+        "zh-Hans": "空气在管路中传输需要时间（刹车延迟）",
+        "zh-Hant": "空氣在管路中傳輸需要時間（剎車延遲）"
+      },
+      "B": {
+        "en": "Air brakes are weaker",
+        "zh-Hans": "气刹更弱",
+        "zh-Hant": "氣剎更弱"
+      },
+      "C": {
+        "en": "Air brakes are only on the rear wheels",
+        "zh-Hans": "气刹只在后轮",
+        "zh-Hant": "氣剎只在後輪"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Brake lag (time for air to travel through lines) adds about 1/2 second or 32 feet at 55 mph.",
+      "zh-Hans": "刹车延迟（空气通过管路的时间）增加了约1/2秒，在55英里/小时时约32英尺。",
+      "zh-Hant": "剎車延遲（空氣通過管路的時間）增加了約1/2秒，在55英里/小時時約32英尺。"
+    },
+    "dmv_ref": {
+      "page": "5-9",
+      "section": "Brake Lag",
+      "analysis_zh-Hans": "这是气刹特有的，液压刹没有。",
+      "analysis_zh-Hant": "這是氣剎特有的，液壓剎沒有。"
+    }
+  },
+  {
+    "id": 2017,
+    "category": "Air Brakes",
+    "question": {
+      "en": "What happens if the pushrod travel exceeds the adjustment limit?",
+      "zh-Hans": "如果推杆行程超过调整限制会怎样？",
+      "zh-Hant": "如果推桿行程超過調整限制會怎樣？"
+    },
+    "options": {
+      "A": {
+        "en": "The brakes will be more effective",
+        "zh-Hans": "刹车会更有效",
+        "zh-Hant": "剎車會更有效"
+      },
+      "B": {
+        "en": "Braking power will be reduced",
+        "zh-Hans": "制动力会降低",
+        "zh-Hant": "制動力會降低"
+      },
+      "C": {
+        "en": "The air compressor will work harder",
+        "zh-Hans": "空气压缩机会更费力",
+        "zh-Hant": "空氣壓縮機會更費力"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "If pushrod travel is too long, the brakes won't work as well or may fail completely.",
+      "zh-Hans": "如果推杆行程过长，刹车效果会下降甚至完全失效。",
+      "zh-Hant": "如果推桿行程過長，剎車效果會下降甚至完全失效。"
+    },
+    "dmv_ref": {
+      "page": "5-8",
+      "section": "Pushrod Travel",
+      "analysis_zh-Hans": "推杆行程过大=刹车失效。",
+      "analysis_zh-Hant": "推桿行程過大=剎車失效。"
+    }
+  },
+  {
+    "id": 2018,
+    "category": "Air Brakes",
+    "question": {
+      "en": "To make an emergency stop with air brakes, you should:",
+      "zh-Hans": "要用气刹进行紧急制动，你应该：",
+      "zh-Hant": "要用氣剎進行緊急制動，你應該："
+    },
+    "options": {
+      "A": {
+        "en": "Push the brake pedal down as hard as you can",
+        "zh-Hans": "尽可能用力踩下刹车踏板",
+        "zh-Hant": "盡可能用力踩下剎車踏板"
+      },
+      "B": {
+        "en": "Apply pressure until wheels lock, then release and reapply",
+        "zh-Hans": "用力踩直到车轮锁死，然后松开再踩",
+        "zh-Hant": "用力踩直到車輪鎖死，然後鬆開再踩"
+      },
+      "C": {
+        "en": "Only use the parking brake",
+        "zh-Hans": "只使用驻车刹",
+        "zh-Hant": "只使用駐車剎"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Use the braking power you have. Push the pedal all the way down if necessary.",
+      "zh-Hans": "使用你拥有的所有制动力。如果需要，把踏板踩到底。",
+      "zh-Hant": "使用你擁有的所有制動力。如果需要，把踏板踩到底。"
+    },
+    "dmv_ref": {
+      "page": "5-10",
+      "section": "Emergency Braking",
+      "analysis_zh-Hans": "有ABS踩住，没ABS点刹。",
+      "analysis_zh-Hant": "有ABS踩住，沒ABS點剎。"
+    }
+  },
+  {
+    "id": 2019,
+    "category": "Air Brakes",
+    "question": {
+      "en": "The parking or emergency brake on a heavy vehicle is applied by:",
+      "zh-Hans": "重型车辆的驻车或紧急制动是通过以下方式施加的：",
+      "zh-Hant": "重型車輛的駐車或緊急制動是通過以下方式施加的："
+    },
+    "options": {
+      "A": {
+        "en": "Spring pressure",
+        "zh-Hans": "弹簧压力",
+        "zh-Hant": "彈簧壓力"
+      },
+      "B": {
+        "en": "Air pressure",
+        "zh-Hans": "气压",
+        "zh-Hant": "氣壓"
+      },
+      "C": {
+        "en": "Hydraulic pressure",
+        "zh-Hans": "液压",
+        "zh-Hant": "液壓"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Parking brakes are applied by spring pressure and released by air pressure.",
+      "zh-Hans": "驻车制动由弹簧压力施加，由气压释放。",
+      "zh-Hant": "駐車制動由彈簧壓力施加，由氣壓釋放。"
+    },
+    "dmv_ref": {
+      "page": "5-5",
+      "section": "Spring Brakes",
+      "analysis_zh-Hans": "记住：弹簧刹车是fail-safe设计。",
+      "analysis_zh-Hant": "記住：彈簧剎車是fail-safe設計。"
+    }
+  },
+  {
+    "id": 2020,
+    "category": "Air Brakes",
+    "question": {
+      "en": "The air compressor is connected to the engine through:",
+      "zh-Hans": "空气压缩机通过 ___ 与发动机连接：",
+      "zh-Hant": "空氣壓縮機通過 ___ 與發動機連接："
+    },
+    "options": {
+      "A": {
+        "en": "The drive shaft",
+        "zh-Hans": "传动轴",
+        "zh-Hant": "傳動軸"
+      },
+      "B": {
+        "en": "Gears or a v-belt",
+        "zh-Hans": "齿轮或V型皮带",
+        "zh-Hant": "齒輪或V型皮帶"
+      },
+      "C": {
+        "en": "Air hoses",
+        "zh-Hans": "气管",
+        "zh-Hant": "氣管"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "The compressor is connected to the engine through gears or a v-belt.",
+      "zh-Hans": "压缩机通过齿轮或V型皮带与发动机连接。",
+      "zh-Hant": "壓縮機通過齒輪或V型皮帶與發動機連接。"
+    },
+    "dmv_ref": {
+      "page": "5-1",
+      "section": "Air Compressor",
+      "analysis_zh-Hans": "发动机运转时压缩机才工作。",
+      "analysis_zh-Hant": "發動機運轉時壓縮機才工作。"
+    }
+  },
+  {
+    "id": 2021,
+    "category": "Air Brakes",
+    "question": {
+      "en": "Air reservoir tanks are used to:",
+      "zh-Hans": "储气罐的作用是：",
+      "zh-Hant": "儲氣罐的作用是："
+    },
+    "options": {
+      "A": {
+        "en": "Cool the compressor",
+        "zh-Hans": "冷却压缩机",
+        "zh-Hant": "冷卻壓縮機"
+      },
+      "B": {
+        "en": "Hold compressed air for braking use",
+        "zh-Hans": "储存压缩空气供制动使用",
+        "zh-Hant": "儲存壓縮空氣供制動使用"
+      },
+      "C": {
+        "en": "Warm the brake fluid",
+        "zh-Hans": "加热刹车液",
+        "zh-Hant": "加熱剎車液"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Air tanks (reservoirs) store compressed air so there is a reserve for braking.",
+      "zh-Hans": "储气罐储存压缩空气，为制动提供备用气源。",
+      "zh-Hant": "儲氣罐儲存壓縮空氣，為制動提供備用氣源。"
+    },
+    "dmv_ref": {
+      "page": "5-2",
+      "section": "Air Tanks",
+      "analysis_zh-Hans": "储气罐是气刹系统的能量储备。",
+      "analysis_zh-Hant": "儲氣罐是氣剎系統的能量儲備。"
+    }
+  },
+  {
+    "id": 2022,
+    "category": "Air Brakes",
+    "question": {
+      "en": "During a pre-trip inspection, you should check the brake drums by:",
+      "zh-Hans": "行前检查时，你应该通过以下方式检查刹车鼓：",
+      "zh-Hant": "行前檢查時，你應該通過以下方式檢查剎車鼓："
+    },
+    "options": {
+      "A": {
+        "en": "Checking for cracks or excessive wear",
+        "zh-Hans": "检查裂缝或过度磨损",
+        "zh-Hant": "檢查裂縫或過度磨損"
+      },
+      "B": {
+        "en": "Listening for air leaks",
+        "zh-Hans": "听是否有气体泄漏",
+        "zh-Hant": "聽是否有氣體洩漏"
+      },
+      "C": {
+        "en": "Measuring tire pressure",
+        "zh-Hans": "测量轮胎气压",
+        "zh-Hant": "測量輪胎氣壓"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Check drums for cracks, dents, or signs of overheating (blue coloring).",
+      "zh-Hans": "检查刹车鼓是否有裂缝、凹痕或过热迹象（蓝色）。",
+      "zh-Hant": "檢查剎車鼓是否有裂縫、凹痕或過熱跡象（藍色）。"
+    },
+    "dmv_ref": {
+      "page": "5-8",
+      "section": "Drum Inspection",
+      "analysis_zh-Hans": "蓝色刹车鼓=过热史。",
+      "analysis_zh-Hant": "藍色剎車鼓=過熱史。"
+    }
+  },
+  {
+    "id": 2023,
+    "category": "Air Brakes",
+    "question": {
+      "en": "Fanning the brakes repeatedly will:",
+      "zh-Hans": "反复点刹会：",
+      "zh-Hant": "反覆點剎會："
+    },
+    "options": {
+      "A": {
+        "en": "Cool the brakes",
+        "zh-Hans": "冷却刹车",
+        "zh-Hant": "冷卻剎車"
+      },
+      "B": {
+        "en": "Use up the air faster than the compressor can replace it",
+        "zh-Hans": "消耗空气的速度比压缩机补充的更快",
+        "zh-Hant": "消耗空氣的速度比壓縮機補充的更快"
+      },
+      "C": {
+        "en": "Have no effect on air supply",
+        "zh-Hans": "对气源没有影响",
+        "zh-Hant": "對氣源沒有影響"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Fanning uses up air faster than it can be refilled, potentially causing brake failure.",
+      "zh-Hans": "点刹消耗空气的速度比补充更快，可能导致刹车失效。",
+      "zh-Hant": "點剎消耗空氣的速度比補充更快，可能導致剎車失效。"
+    },
+    "dmv_ref": {
+      "page": "5-10",
+      "section": "Fanning the Brakes",
+      "analysis_zh-Hans": "不要在下坡时频繁点刹。",
+      "analysis_zh-Hant": "不要在下坡時頻繁點剎。"
+    }
+  },
+  {
+    "id": 2024,
+    "category": "Air Brakes",
+    "question": {
+      "en": "Air loss in a single vehicle should not exceed __ psi per minute with brakes applied.",
+      "zh-Hans": "对于单车，踩住刹车时气压损失不应超过每分钟 __ psi。",
+      "zh-Hant": "對於單車，踩住剎車時氣壓損失不應超過每分鐘 __ psi。"
+    },
+    "options": {
+      "A": {
+        "en": "2",
+        "zh-Hans": "2",
+        "zh-Hant": "2"
+      },
+      "B": {
+        "en": "3",
+        "zh-Hans": "3",
+        "zh-Hant": "3"
+      },
+      "C": {
+        "en": "4",
+        "zh-Hans": "4",
+        "zh-Hant": "4"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "For single vehicles with brakes applied: max 3 psi/min. For combinations: max 4 psi/min.",
+      "zh-Hans": "单车踩刹车时：最大3 psi/分钟。组合车：最大4 psi/分钟。",
+      "zh-Hant": "單車踩剎車時：最大3 psi/分鐘。組合車：最大4 psi/分鐘。"
+    },
+    "dmv_ref": {
+      "page": "5-7",
+      "section": "Applied Leak Rate",
+      "analysis_zh-Hans": "记住：静态2/3，踩刹3/4。",
+      "analysis_zh-Hant": "記住：靜態2/3，踩剎3/4。"
+    }
+  },
+  {
+    "id": 2025,
+    "category": "Air Brakes",
+    "question": {
+      "en": "What is the purpose of the alcohol evaporator?",
+      "zh-Hans": "酒精蒸发器的作用是什么？",
+      "zh-Hant": "酒精蒸發器的作用是什麼？"
+    },
+    "options": {
+      "A": {
+        "en": "To add alcohol to the fuel",
+        "zh-Hans": "向燃料中添加酒精",
+        "zh-Hant": "向燃料中添加酒精"
+      },
+      "B": {
+        "en": "To help reduce the risk of ice in air brake valves and lines",
+        "zh-Hans": "帮助减少气刹阀门和管路中结冰的风险",
+        "zh-Hant": "幫助減少氣剎閥門和管路中結冰的風險"
+      },
+      "C": {
+        "en": "To clean brake fluid",
+        "zh-Hans": "清洁刹车液",
+        "zh-Hant": "清潔剎車液"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Alcohol evaporators put alcohol into the air system to help reduce the risk of ice forming.",
+      "zh-Hans": "酒精蒸发器将酒精注入气路系统，帮助减少结冰风险。",
+      "zh-Hant": "酒精蒸發器將酒精注入氣路系統，幫助減少結冰風險。"
+    },
+    "dmv_ref": {
+      "page": "5-2",
+      "section": "Alcohol Evaporator",
+      "analysis_zh-Hans": "冬季防冻的一种方法。",
+      "analysis_zh-Hant": "冬季防凍的一種方法。"
+    }
+  },
+  {
+    "id": 2026,
+    "category": "Air Brakes",
+    "question": {
+      "en": "The air brake lag distance at 55 mph on dry pavement adds about how many feet to your stopping distance?",
+      "zh-Hans": "在55英里/小时的干燥路面上，气刹延迟距离大约增加多少英尺？",
+      "zh-Hant": "在55英里/小時的乾燥路面上，氣剎延遲距離大約增加多少英尺？"
+    },
+    "options": {
+      "A": {
+        "en": "10 feet",
+        "zh-Hans": "10英尺",
+        "zh-Hant": "10英尺"
+      },
+      "B": {
+        "en": "32 feet",
+        "zh-Hans": "32英尺",
+        "zh-Hant": "32英尺"
+      },
+      "C": {
+        "en": "100 feet",
+        "zh-Hans": "100英尺",
+        "zh-Hant": "100英尺"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "At 55 mph, brake lag adds about 32 feet (1/2 second delay for air to travel through lines).",
+      "zh-Hans": "在55英里/小时时，刹车延迟增加约32英尺（空气通过管路的1/2秒延迟）。",
+      "zh-Hant": "在55英里/小時時，剎車延遲增加約32英尺（空氣通過管路的1/2秒延遲）。"
+    },
+    "dmv_ref": {
+      "page": "5-9",
+      "section": "Brake Lag",
+      "analysis_zh-Hans": "32英尺是55mph时的延迟距离。",
+      "analysis_zh-Hant": "32英尺是55mph時的延遲距離。"
+    }
+  },
+  {
+    "id": 2027,
+    "category": "Air Brakes",
+    "question": {
+      "en": "The stop light switch:",
+      "zh-Hans": "刹车灯开关的作用是：",
+      "zh-Hant": "剎車燈開關的作用是："
+    },
+    "options": {
+      "A": {
+        "en": "Turns on the brake lights when air pressure is applied",
+        "zh-Hans": "当气压施加时打开刹车灯",
+        "zh-Hant": "當氣壓施加時打開剎車燈"
+      },
+      "B": {
+        "en": "Stops the vehicle",
+        "zh-Hans": "停住车辆",
+        "zh-Hant": "停住車輛"
+      },
+      "C": {
+        "en": "Controls the air compressor",
+        "zh-Hans": "控制空气压缩机",
+        "zh-Hant": "控制空氣壓縮機"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "The stop light switch turns on brake lights when you apply air pressure to the brakes.",
+      "zh-Hans": "当你施加气压刹车时，刹车灯开关会打开刹车灯。",
+      "zh-Hant": "當你施加氣壓剎車時，剎車燈開關會打開剎車燈。"
+    },
+    "dmv_ref": {
+      "page": "5-4",
+      "section": "Stop Light Switch",
+      "analysis_zh-Hans": "气动而不是机械触发刹车灯。",
+      "analysis_zh-Hant": "氣動而不是機械觸發剎車燈。"
+    }
+  },
+  {
+    "id": 2028,
+    "category": "Air Brakes",
+    "question": {
+      "en": "You should not use the parking brakes if:",
+      "zh-Hans": "在以下情况下，你不应该使用驻车刹车：",
+      "zh-Hant": "在以下情況下，你不應該使用駐車剎車："
+    },
+    "options": {
+      "A": {
+        "en": "You are parking on a hill",
+        "zh-Hans": "你在坡道上停车",
+        "zh-Hant": "你在坡道上停車"
+      },
+      "B": {
+        "en": "The brakes are very hot",
+        "zh-Hans": "刹车非常烫",
+        "zh-Hant": "剎車非常燙"
+      },
+      "C": {
+        "en": "It is raining",
+        "zh-Hans": "下雨时",
+        "zh-Hant": "下雨時"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "If brakes are very hot, using parking brakes can cause them to be damaged. Use wheel chocks instead.",
+      "zh-Hans": "如果刹车非常烫，使用驻车刹可能会损坏它们。改用轮挡。",
+      "zh-Hant": "如果剎車非常燙，使用駐車剎可能會損壞它們。改用輪擋。"
+    },
+    "dmv_ref": {
+      "page": "5-5",
+      "section": "Parking Brakes",
+      "analysis_zh-Hans": "热刹+弹簧压力=可能抱死或损坏。",
+      "analysis_zh-Hant": "熱剎+彈簧壓力=可能抱死或損壞。"
+    }
+  },
+  {
+    "id": 2029,
+    "category": "Air Brakes",
+    "question": {
+      "en": "The first tank the air compressor pumps air into is the:",
+      "zh-Hans": "空气压缩机首先将空气泵入的是：",
+      "zh-Hant": "空氣壓縮機首先將空氣泵入的是："
+    },
+    "options": {
+      "A": {
+        "en": "Primary tank",
+        "zh-Hans": "主储气罐",
+        "zh-Hant": "主儲氣罐"
+      },
+      "B": {
+        "en": "Wet tank (supply tank)",
+        "zh-Hans": "湿罐（供气罐）",
+        "zh-Hant": "濕罐（供氣罐）"
+      },
+      "C": {
+        "en": "Dry tank",
+        "zh-Hans": "干罐",
+        "zh-Hant": "乾罐"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Air goes to the wet (supply) tank first, where water and oil can settle before going to other tanks.",
+      "zh-Hans": "空气首先进入湿罐（供气罐），水和油在此沉淀后再进入其他储气罐。",
+      "zh-Hant": "空氣首先進入濕罐（供氣罐），水和油在此沉澱後再進入其他儲氣罐。"
+    },
+    "dmv_ref": {
+      "page": "5-2",
+      "section": "Air Tanks",
+      "analysis_zh-Hans": "湿罐是第一道过滤。",
+      "analysis_zh-Hant": "濕罐是第一道過濾。"
+    }
+  },
+  {
+    "id": 2030,
+    "category": "Air Brakes",
+    "question": {
+      "en": "If your vehicle has an air brake system, it needs to build up to at least __ psi before you can begin driving.",
+      "zh-Hans": "如果你的车辆有气刹系统，在开始驾驶前气压需要达到至少 __ psi。",
+      "zh-Hant": "如果你的車輛有氣剎系統，在開始駕駛前氣壓需要達到至少 __ psi。"
+    },
+    "options": {
+      "A": {
+        "en": "60",
+        "zh-Hans": "60",
+        "zh-Hant": "60"
+      },
+      "B": {
+        "en": "100",
+        "zh-Hans": "100",
+        "zh-Hant": "100"
+      },
+      "C": {
+        "en": "125",
+        "zh-Hans": "125",
+        "zh-Hant": "125"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "You should wait until air pressure is at least 100 psi before driving.",
+      "zh-Hans": "在气压达到至少100 psi之前，你不应该开始驾驶。",
+      "zh-Hant": "在氣壓達到至少100 psi之前，你不應該開始駕駛。"
+    },
+    "dmv_ref": {
+      "page": "5-7",
+      "section": "Minimum Pressure",
+      "analysis_zh-Hans": "100 psi是最低行驶气压。",
+      "analysis_zh-Hant": "100 psi是最低行駛氣壓。"
+    }
+  },
+  {
+    "id": 2031,
+    "category": "Air Brakes",
+    "question": {
+      "en": "If the spring brakes are on, when would pressing the brake pedal be a bad idea?",
+      "zh-Hans": "如果弹簧刹车已经启用，什么时候踩刹车踏板是个坏主意？",
+      "zh-Hant": "如果彈簧剎車已經啟用，什麼時候踩剎車踏板是個壞主意？"
+    },
+    "options": {
+      "A": {
+        "en": "When the air pressure is very low",
+        "zh-Hans": "当气压很低时",
+        "zh-Hant": "當氣壓很低時"
+      },
+      "B": {
+        "en": "When stopped on a hill",
+        "zh-Hans": "在坡道上停车时",
+        "zh-Hant": "在坡道上停車時"
+      },
+      "C": {
+        "en": "When the engine is running",
+        "zh-Hans": "当发动机运转时",
+        "zh-Hant": "當發動機運轉時"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "When air is very low, pressing the pedal can release remaining air, reducing the spring brake force.",
+      "zh-Hans": "气压很低时，踩踏板可能会释放剩余气体，减少弹簧刹车的力量。",
+      "zh-Hant": "氣壓很低時，踩踏板可能會釋放剩餘氣體，減少彈簧剎車的力量。"
+    },
+    "dmv_ref": {
+      "page": "5-6",
+      "section": "Low Air Emergency",
+      "analysis_zh-Hans": "低气压时不要踩刹车踏板。",
+      "analysis_zh-Hant": "低氣壓時不要踩剎車踏板。"
+    }
+  },
+  {
+    "id": 2032,
+    "category": "Air Brakes",
+    "question": {
+      "en": "The first thing to do if the low air pressure warning comes on is to:",
+      "zh-Hans": "如果低气压警报亮起，首先要做的是：",
+      "zh-Hant": "如果低氣壓警報亮起，首先要做的是："
+    },
+    "options": {
+      "A": {
+        "en": "Speed up to find a service station",
+        "zh-Hans": "加速找服务站",
+        "zh-Hant": "加速找服務站"
+      },
+      "B": {
+        "en": "Stop and safely park as soon as possible",
+        "zh-Hans": "尽快安全停车",
+        "zh-Hant": "盡快安全停車"
+      },
+      "C": {
+        "en": "Pump the brakes to build up pressure",
+        "zh-Hans": "泵踩刹车以增加气压",
+        "zh-Hant": "泵踩剎車以增加氣壓"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Stop as soon as safely possible. The vehicle may lose all braking power if air pressure continues to drop.",
+      "zh-Hans": "尽快安全停车。如果气压继续下降，车辆可能会完全失去制动力。",
+      "zh-Hant": "盡快安全停車。如果氣壓繼續下降，車輛可能會完全失去制動力。"
+    },
+    "dmv_ref": {
+      "page": "5-6",
+      "section": "Low Air Warning",
+      "analysis_zh-Hans": "低气压警报=立即停车。",
+      "analysis_zh-Hant": "低氣壓警報=立即停車。"
+    }
+  },
+  {
+    "id": 2033,
+    "category": "Air Brakes",
+    "question": {
+      "en": "Why should you check the brake adjustment often?",
+      "zh-Hans": "为什么应该经常检查刹车调整？",
+      "zh-Hant": "為什麼應該經常檢查剎車調整？"
+    },
+    "options": {
+      "A": {
+        "en": "Because brakes can go out of adjustment quickly",
+        "zh-Hans": "因为刹车可能很快就会失调",
+        "zh-Hant": "因為剎車可能很快就會失調"
+      },
+      "B": {
+        "en": "To save fuel",
+        "zh-Hans": "为了省油",
+        "zh-Hant": "為了省油"
+      },
+      "C": {
+        "en": "To reduce tire wear",
+        "zh-Hans": "为了减少轮胎磨损",
+        "zh-Hant": "為了減少輪胎磨損"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Brakes can go out of adjustment from use and heat. Check them often to ensure safe braking.",
+      "zh-Hans": "刹车可能因使用和高温而失调。经常检查以确保安全制动。",
+      "zh-Hant": "剎車可能因使用和高溫而失調。經常檢查以確保安全制動。"
+    },
+    "dmv_ref": {
+      "page": "5-8",
+      "section": "Brake Adjustment",
+      "analysis_zh-Hans": "失调的刹车=无效刹车。",
+      "analysis_zh-Hant": "失調的剎車=無效剎車。"
+    }
+  },
+  {
+    "id": 2034,
+    "category": "Air Brakes",
+    "question": {
+      "en": "A dual air brake system has:",
+      "zh-Hans": "双管路气刹系统有：",
+      "zh-Hant": "雙管路氣剎系統有："
+    },
+    "options": {
+      "A": {
+        "en": "One set of brake controls that works two sets of brakes",
+        "zh-Hans": "一套控制器控制两套刹车",
+        "zh-Hant": "一套控制器控制兩套剎車"
+      },
+      "B": {
+        "en": "Two completely independent brake systems",
+        "zh-Hans": "两套完全独立的刹车系统",
+        "zh-Hant": "兩套完全獨立的剎車系統"
+      },
+      "C": {
+        "en": "Two brake pedals",
+        "zh-Hans": "两个刹车踏板",
+        "zh-Hant": "兩個剎車踏板"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Dual air brakes have one set of controls for two separate systems (usually front and rear axles).",
+      "zh-Hans": "双管路气刹有一套控制器控制两个独立系统（通常是前后轴）。",
+      "zh-Hant": "雙管路氣剎有一套控制器控制兩個獨立系統（通常是前後軸）。"
+    },
+    "dmv_ref": {
+      "page": "5-6",
+      "section": "Dual Air Brakes",
+      "analysis_zh-Hans": "一个失效另一个还能用。",
+      "analysis_zh-Hant": "一個失效另一個還能用。"
+    }
+  },
+  {
+    "id": 2035,
+    "category": "Air Brakes",
+    "question": {
+      "en": "At 55 mph, total stopping distance for a loaded truck with good brakes on a dry surface is about:",
+      "zh-Hans": "在55英里/小时时，满载卡车在良好干燥路面上的总制动距离约为：",
+      "zh-Hant": "在55英里/小時時，滿載卡車在良好乾燥路面上的總制動距離約為："
+    },
+    "options": {
+      "A": {
+        "en": "200 feet",
+        "zh-Hans": "200英尺",
+        "zh-Hant": "200英尺"
+      },
+      "B": {
+        "en": "310 feet",
+        "zh-Hans": "310英尺",
+        "zh-Hant": "310英尺"
+      },
+      "C": {
+        "en": "450 feet",
+        "zh-Hans": "450英尺",
+        "zh-Hant": "450英尺"
+      }
+    },
+    "answer": "C",
+    "explanation": {
+      "en": "At 55 mph, total stopping distance is about 450 feet (including perception, reaction, brake lag, and braking).",
+      "zh-Hans": "在55英里/小时时，总制动距离约为450英尺（包括感知、反应、刹车延迟和制动）。",
+      "zh-Hant": "在55英里/小時時，總制動距離約為450英尺（包括感知、反應、剎車延遲和制動）。"
+    },
+    "dmv_ref": {
+      "page": "5-9",
+      "section": "Stopping Distance",
+      "analysis_zh-Hans": "气刹比液压刹停车距离长。",
+      "analysis_zh-Hant": "氣剎比液壓剎停車距離長。"
+    }
+  },
+  {
+    "id": 2036,
+    "category": "Air Brakes",
+    "question": {
+      "en": "The supply pressure gauge shows:",
+      "zh-Hans": "供气压力表显示：",
+      "zh-Hant": "供氣壓力表顯示："
+    },
+    "options": {
+      "A": {
+        "en": "Air pressure going to the brakes",
+        "zh-Hans": "进入刹车的气压",
+        "zh-Hant": "進入剎車的氣壓"
+      },
+      "B": {
+        "en": "How much air is in the air tanks",
+        "zh-Hans": "储气罐中有多少气压",
+        "zh-Hant": "儲氣罐中有多少氣壓"
+      },
+      "C": {
+        "en": "Engine RPM",
+        "zh-Hans": "发动机转速",
+        "zh-Hant": "發動機轉速"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "The supply gauge shows the amount of air pressure in the air tanks.",
+      "zh-Hans": "供气压力表显示储气罐中的气压量。",
+      "zh-Hant": "供氣壓力表顯示儲氣罐中的氣壓量。"
+    },
+    "dmv_ref": {
+      "page": "5-3",
+      "section": "Gauges",
+      "analysis_zh-Hans": "区分供气表和应用表。",
+      "analysis_zh-Hant": "區分供氣表和應用表。"
+    }
+  },
+  {
+    "id": 2037,
+    "category": "Air Brakes",
+    "question": {
+      "en": "When using ABS, you should:",
+      "zh-Hans": "使用ABS时，你应该：",
+      "zh-Hant": "使用ABS時，你應該："
+    },
+    "options": {
+      "A": {
+        "en": "Pump the brakes",
+        "zh-Hans": "泵踩刹车",
+        "zh-Hant": "泵踩剎車"
+      },
+      "B": {
+        "en": "Apply firm, continuous pressure",
+        "zh-Hans": "施加持续稳定的压力",
+        "zh-Hant": "施加持續穩定的壓力"
+      },
+      "C": {
+        "en": "Only use light pressure",
+        "zh-Hans": "只使用轻压力",
+        "zh-Hant": "只使用輕壓力"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "With ABS, apply firm, continuous pressure. The system will pump the brakes for you.",
+      "zh-Hans": "有ABS时，施加持续稳定的压力。系统会自动为你点刹。",
+      "zh-Hant": "有ABS時，施加持續穩定的壓力。系統會自動為你點剎。"
+    },
+    "dmv_ref": {
+      "page": "5-11",
+      "section": "ABS",
+      "analysis_zh-Hans": "ABS自动防锁死，你只需踩住。",
+      "analysis_zh-Hant": "ABS自動防鎖死，你只需踩住。"
+    }
+  },
+  {
+    "id": 2038,
+    "category": "Air Brakes",
+    "question": {
+      "en": "If your truck has manual slack adjusters, how often should they be checked?",
+      "zh-Hans": "如果你的卡车有手动调节臂，应该多久检查一次？",
+      "zh-Hant": "如果你的卡車有手動調節臂，應該多久檢查一次？"
+    },
+    "options": {
+      "A": {
+        "en": "Once a year",
+        "zh-Hans": "一年一次",
+        "zh-Hant": "一年一次"
+      },
+      "B": {
+        "en": "Every day when doing a pre-trip inspection",
+        "zh-Hans": "每天行前检查时",
+        "zh-Hant": "每天行前檢查時"
+      },
+      "C": {
+        "en": "Every 10,000 miles",
+        "zh-Hans": "每10,000英里",
+        "zh-Hant": "每10,000英里"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Check slack adjusters during every pre-trip inspection.",
+      "zh-Hans": "每次行前检查时都要检查调节臂。",
+      "zh-Hant": "每次行前檢查時都要檢查調節臂。"
+    },
+    "dmv_ref": {
+      "page": "5-8",
+      "section": "Slack Adjusters",
+      "analysis_zh-Hans": "行前检查的必检项目。",
+      "analysis_zh-Hant": "行前檢查的必檢項目。"
+    }
+  },
+  {
+    "id": 2039,
+    "category": "Air Brakes",
+    "question": {
+      "en": "Air brake equipped vehicles must have:",
+      "zh-Hans": "配备气刹的车辆必须有：",
+      "zh-Hant": "配備氣剎的車輛必須有："
+    },
+    "options": {
+      "A": {
+        "en": "A low air pressure warning device",
+        "zh-Hans": "低气压警告装置",
+        "zh-Hant": "低氣壓警告裝置"
+      },
+      "B": {
+        "en": "An extra air tank for emergencies",
+        "zh-Hans": "用于紧急情况的额外储气罐",
+        "zh-Hant": "用於緊急情況的額外儲氣罐"
+      },
+      "C": {
+        "en": "A backup hydraulic system",
+        "zh-Hans": "备用液压系统",
+        "zh-Hant": "備用液壓系統"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Federal law requires a low air pressure warning device that activates before pressure drops below 60 psi.",
+      "zh-Hans": "联邦法律要求低气压警告装置在气压低于60 psi之前启动。",
+      "zh-Hant": "聯邦法律要求低氣壓警告裝置在氣壓低於60 psi之前啟動。"
+    },
+    "dmv_ref": {
+      "page": "5-4",
+      "section": "Warning Devices",
+      "analysis_zh-Hans": "法律要求的安全装置。",
+      "analysis_zh-Hant": "法律要求的安全裝置。"
+    }
+  },
+  {
+    "id": 2040,
+    "category": "Air Brakes",
+    "question": {
+      "en": "Brake drums should be checked for:",
+      "zh-Hans": "应该检查刹车鼓的：",
+      "zh-Hant": "應該檢查剎車鼓的："
+    },
+    "options": {
+      "A": {
+        "en": "Proper inflation",
+        "zh-Hans": "正确充气",
+        "zh-Hant": "正確充氣"
+      },
+      "B": {
+        "en": "Cracks, dents, or discoloration from overheating",
+        "zh-Hans": "裂缝、凹痕或过热变色",
+        "zh-Hant": "裂縫、凹痕或過熱變色"
+      },
+      "C": {
+        "en": "Alignment",
+        "zh-Hans": "校准",
+        "zh-Hant": "校準"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Check drums for cracks, dents, or blue discoloration (sign of overheating).",
+      "zh-Hans": "检查刹车鼓是否有裂缝、凹痕或蓝色变色（过热迹象）。",
+      "zh-Hant": "檢查剎車鼓是否有裂縫、凹痕或藍色變色（過熱跡象）。"
+    },
+    "dmv_ref": {
+      "page": "5-8",
+      "section": "Drum Check",
+      "analysis_zh-Hans": "蓝色=曾经过热=可能已损坏。",
+      "analysis_zh-Hant": "藍色=曾經過熱=可能已損壞。"
+    }
+  },
+  {
+    "id": 2041,
+    "category": "Air Brakes",
+    "question": {
+      "en": "A combination vehicle air brake should build pressure from 85 to 100 psi in __ seconds.",
+      "zh-Hans": "组合车辆气刹应在 __ 秒内将气压从85 psi升至100 psi。",
+      "zh-Hant": "組合車輛氣剎應在 __ 秒內將氣壓從85 psi升至100 psi。"
+    },
+    "options": {
+      "A": {
+        "en": "15",
+        "zh-Hans": "15",
+        "zh-Hant": "15"
+      },
+      "B": {
+        "en": "45",
+        "zh-Hans": "45",
+        "zh-Hant": "45"
+      },
+      "C": {
+        "en": "90",
+        "zh-Hans": "90",
+        "zh-Hant": "90"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "For combination vehicles, pressure should build from 85 to 100 psi within 45 seconds.",
+      "zh-Hans": "对于组合车辆，气压应在45秒内从85 psi升至100 psi。",
+      "zh-Hant": "對於組合車輛，氣壓應在45秒內從85 psi升至100 psi。"
+    },
+    "dmv_ref": {
+      "page": "5-7",
+      "section": "Build-up Time",
+      "analysis_zh-Hans": "45秒是组合车的标准。",
+      "analysis_zh-Hant": "45秒是組合車的標準。"
+    }
+  },
+  {
+    "id": 2042,
+    "category": "Air Brakes",
+    "question": {
+      "en": "The application pressure gauge shows:",
+      "zh-Hans": "应用压力表显示：",
+      "zh-Hant": "應用壓力表顯示："
+    },
+    "options": {
+      "A": {
+        "en": "Tank air pressure",
+        "zh-Hans": "储气罐气压",
+        "zh-Hant": "儲氣罐氣壓"
+      },
+      "B": {
+        "en": "How much air pressure you are applying to the brakes",
+        "zh-Hans": "你施加到刹车上的气压量",
+        "zh-Hant": "你施加到剎車上的氣壓量"
+      },
+      "C": {
+        "en": "Engine oil pressure",
+        "zh-Hans": "发动机油压",
+        "zh-Hant": "發動機油壓"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "The application gauge shows the amount of air pressure being applied to the brakes.",
+      "zh-Hans": "应用压力表显示施加到刹车上的气压量。",
+      "zh-Hant": "應用壓力表顯示施加到剎車上的氣壓量。"
+    },
+    "dmv_ref": {
+      "page": "5-3",
+      "section": "Application Gauge",
+      "analysis_zh-Hans": "供气表和应用表是两个不同的仪表。",
+      "analysis_zh-Hant": "供氣表和應用表是兩個不同的儀表。"
+    }
+  },
+  {
+    "id": 2043,
+    "category": "Air Brakes",
+    "question": {
+      "en": "S-cam brakes are named after:",
+      "zh-Hans": "S型凸轮刹车之所以叫这个名字是因为：",
+      "zh-Hant": "S型凸輪剎車之所以叫這個名字是因為："
+    },
+    "options": {
+      "A": {
+        "en": "Their inventor Sam",
+        "zh-Hans": "发明者Sam",
+        "zh-Hant": "發明者Sam"
+      },
+      "B": {
+        "en": "The shape of the cam inside the brake drum",
+        "zh-Hans": "刹车鼓内凸轮的形状",
+        "zh-Hant": "剎車鼓內凸輪的形狀"
+      },
+      "C": {
+        "en": "The S-shaped brake pedal",
+        "zh-Hans": "S形刹车踏板",
+        "zh-Hant": "S形剎車踏板"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "The cam is shaped like an 'S'. When it turns, it pushes the brake shoes apart and against the drum.",
+      "zh-Hans": "凸轮形状像字母'S'。当它转动时，会撑开刹车蹄片并压向刹车鼓。",
+      "zh-Hant": "凸輪形狀像字母'S'。當它轉動時，會撐開剎車蹄片並壓向剎車鼓。"
+    },
+    "dmv_ref": {
+      "page": "5-3",
+      "section": "S-cam Brakes",
+      "analysis_zh-Hans": "最常见的鼓式刹车类型。",
+      "analysis_zh-Hant": "最常見的鼓式剎車類型。"
+    }
+  },
+  {
+    "id": 2044,
+    "category": "Air Brakes",
+    "question": {
+      "en": "Brake shoe lining should be checked for:",
+      "zh-Hans": "应该检查刹车蹄片衬垫的：",
+      "zh-Hant": "應該檢查剎車蹄片襯墊的："
+    },
+    "options": {
+      "A": {
+        "en": "Minimum thickness of 1/4 inch",
+        "zh-Hans": "最小厚度1/4英寸",
+        "zh-Hant": "最小厚度1/4英寸"
+      },
+      "B": {
+        "en": "Color",
+        "zh-Hans": "颜色",
+        "zh-Hant": "顏色"
+      },
+      "C": {
+        "en": "Weight",
+        "zh-Hans": "重量",
+        "zh-Hant": "重量"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Brake lining must be at least 1/4 inch thick (for drums with metal shoes, larger for other types).",
+      "zh-Hans": "刹车衬垫厚度必须至少为1/4英寸。",
+      "zh-Hant": "剎車襯墊厚度必須至少為1/4英寸。"
+    },
+    "dmv_ref": {
+      "page": "5-8",
+      "section": "Lining Thickness",
+      "analysis_zh-Hans": "1/4英寸是最低标准。",
+      "analysis_zh-Hant": "1/4英寸是最低標準。"
+    }
+  },
+  {
+    "id": 2045,
+    "category": "Air Brakes",
+    "question": {
+      "en": "For air brakes on a single vehicle, the air pressure should build from 85 to 100 psi within:",
+      "zh-Hans": "对于单车的气刹，气压应在 ___ 秒内从85 psi升至100 psi。",
+      "zh-Hant": "對於單車的氣剎，氣壓應在 ___ 秒內從85 psi升至100 psi。"
+    },
+    "options": {
+      "A": {
+        "en": "30 seconds",
+        "zh-Hans": "30秒",
+        "zh-Hant": "30秒"
+      },
+      "B": {
+        "en": "45 seconds",
+        "zh-Hans": "45秒",
+        "zh-Hant": "45秒"
+      },
+      "C": {
+        "en": "60 seconds",
+        "zh-Hans": "60秒",
+        "zh-Hant": "60秒"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Single vehicles: 30 seconds. Combination vehicles: 45 seconds.",
+      "zh-Hans": "单车：30秒。组合车：45秒。",
+      "zh-Hant": "單車：30秒。組合車：45秒。"
+    },
+    "dmv_ref": {
+      "page": "5-7",
+      "section": "Build-up Test",
+      "analysis_zh-Hans": "单车30秒，组合45秒。",
+      "analysis_zh-Hant": "單車30秒，組合45秒。"
+    }
+  },
+  {
+    "id": 2046,
+    "category": "Air Brakes",
+    "question": {
+      "en": "What color is the parking brake control knob?",
+      "zh-Hans": "驻车刹车控制旋钮是什么颜色的？",
+      "zh-Hant": "駐車剎車控制旋鈕是什麼顏色的？"
+    },
+    "options": {
+      "A": {
+        "en": "Red",
+        "zh-Hans": "红色",
+        "zh-Hant": "紅色"
+      },
+      "B": {
+        "en": "Yellow",
+        "zh-Hans": "黄色",
+        "zh-Hant": "黃色"
+      },
+      "C": {
+        "en": "Blue",
+        "zh-Hans": "蓝色",
+        "zh-Hant": "藍色"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "The parking brake control is a yellow, diamond-shaped push-pull knob.",
+      "zh-Hans": "驻车刹车控制是黄色菱形的推拉旋钮。",
+      "zh-Hant": "駐車剎車控制是黃色菱形的推拉旋鈕。"
+    },
+    "dmv_ref": {
+      "page": "5-5",
+      "section": "Parking Control",
+      "analysis_zh-Hans": "黄色=驻车刹，红色=挂车应急。",
+      "analysis_zh-Hant": "黃色=駐車剎，紅色=掛車應急。"
+    }
+  },
+  {
+    "id": 2047,
+    "category": "Air Brakes",
+    "question": {
+      "en": "The relay valve allows:",
+      "zh-Hans": "继电器阀允许：",
+      "zh-Hant": "繼電器閥允許："
+    },
+    "options": {
+      "A": {
+        "en": "The front brakes to be applied",
+        "zh-Hans": "前刹车被施加",
+        "zh-Hant": "前剎車被施加"
+      },
+      "B": {
+        "en": "Quick application of air from the reservoir to the brake chambers",
+        "zh-Hans": "从储气罐快速向刹车气室供气",
+        "zh-Hant": "從儲氣罐快速向剎車氣室供氣"
+      },
+      "C": {
+        "en": "The driver to release the parking brake",
+        "zh-Hans": "司机释放驻车刹",
+        "zh-Hant": "司機釋放駐車剎"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "The relay valve provides quick air delivery from the reservoir to the brake chambers.",
+      "zh-Hans": "继电器阀可从储气罐快速向刹车气室供气。",
+      "zh-Hant": "繼電器閥可從儲氣罐快速向剎車氣室供氣。"
+    },
+    "dmv_ref": {
+      "page": "5-4",
+      "section": "Relay Valve",
+      "analysis_zh-Hans": "减少刹车延迟的装置。",
+      "analysis_zh-Hant": "減少剎車延遲的裝置。"
+    }
+  },
+  {
+    "id": 2048,
+    "category": "Air Brakes",
+    "question": {
+      "en": "After the initial drop, how much pressure loss is acceptable in 1 minute with brakes applied?",
+      "zh-Hans": "初始压降后，踩住刹车1分钟内可接受的压力损失是多少？",
+      "zh-Hant": "初始壓降後，踩住剎車1分鐘內可接受的壓力損失是多少？"
+    },
+    "options": {
+      "A": {
+        "en": "1 psi for single, 2 psi for combination",
+        "zh-Hans": "单车1 psi，组合2 psi",
+        "zh-Hant": "單車1 psi，組合2 psi"
+      },
+      "B": {
+        "en": "3 psi for single, 4 psi for combination",
+        "zh-Hans": "单车3 psi，组合4 psi",
+        "zh-Hant": "單車3 psi，組合4 psi"
+      },
+      "C": {
+        "en": "5 psi for all vehicles",
+        "zh-Hans": "所有车辆5 psi",
+        "zh-Hant": "所有車輛5 psi"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "With brakes applied: single vehicle max 3 psi/min, combination max 4 psi/min.",
+      "zh-Hans": "踩刹车时：单车最大3 psi/分钟，组合车最大4 psi/分钟。",
+      "zh-Hant": "踩剎車時：單車最大3 psi/分鐘，組合車最大4 psi/分鐘。"
+    },
+    "dmv_ref": {
+      "page": "5-7",
+      "section": "Applied Leak Rate",
+      "analysis_zh-Hans": "牢记：静态2/3，踩刹3/4。",
+      "analysis_zh-Hant": "牢記：靜態2/3，踩剎3/4。"
+    }
+  },
+  {
+    "id": 2049,
+    "category": "Air Brakes",
+    "question": {
+      "en": "Tractor protection valve will close automatically when air pressure drops to about:",
+      "zh-Hans": "当气压降至约 ___ psi时，牵引车保护阀会自动关闭。",
+      "zh-Hant": "當氣壓降至約 ___ psi時，牽引車保護閥會自動關閉。"
+    },
+    "options": {
+      "A": {
+        "en": "20-45 psi",
+        "zh-Hans": "20-45 psi",
+        "zh-Hant": "20-45 psi"
+      },
+      "B": {
+        "en": "60 psi",
+        "zh-Hans": "60 psi",
+        "zh-Hant": "60 psi"
+      },
+      "C": {
+        "en": "100 psi",
+        "zh-Hans": "100 psi",
+        "zh-Hant": "100 psi"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "The tractor protection valve closes at 20-45 psi to protect the tractor's air supply.",
+      "zh-Hans": "牵引车保护阀在20-45 psi时关闭，以保护牵引车的气源。",
+      "zh-Hant": "牽引車保護閥在20-45 psi時關閉，以保護牽引車的氣源。"
+    },
+    "dmv_ref": {
+      "page": "6-4",
+      "section": "Tractor Protection",
+      "analysis_zh-Hans": "20-45 psi自动切断挂车气管。",
+      "analysis_zh-Hant": "20-45 psi自動切斷掛車氣管。"
+    }
+  },
+  {
+    "id": 2050,
+    "category": "Air Brakes",
+    "question": {
+      "en": "Front wheel brakes are good because:",
+      "zh-Hans": "前轮刹车好的原因是：",
+      "zh-Hant": "前輪剎車好的原因是："
+    },
+    "options": {
+      "A": {
+        "en": "They are easier to maintain",
+        "zh-Hans": "更容易维护",
+        "zh-Hant": "更容易維護"
+      },
+      "B": {
+        "en": "They provide 60% or more of braking power under heavy braking",
+        "zh-Hans": "在重刹时提供60%或更多的制动力",
+        "zh-Hant": "在重剎時提供60%或更多的制動力"
+      },
+      "C": {
+        "en": "They don't overheat",
+        "zh-Hans": "不会过热",
+        "zh-Hant": "不會過熱"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Under heavy braking, weight transfers forward. Front brakes can do 60% or more of the braking.",
+      "zh-Hans": "重刹时重量前移。前刹可以承担60%或更多的制动力。",
+      "zh-Hant": "重剎時重量前移。前剎可以承擔60%或更多的制動力。"
+    },
+    "dmv_ref": {
+      "page": "5-3",
+      "section": "Front Brakes",
+      "analysis_zh-Hans": "重量转移=前刹更重要。",
+      "analysis_zh-Hant": "重量轉移=前剎更重要。"
+    }
+  },
+  {
+    "id": 2051,
+    "category": "Air Brakes",
+    "question": {
+      "en": "During the applied pressure test, the maximum air leakage for a combination vehicle is:",
+      "zh-Hans": "在踩刹车压力测试中，组合车辆的最大气压泄漏是：",
+      "zh-Hant": "在踩剎車壓力測試中，組合車輛的最大氣壓洩漏是："
+    },
+    "options": {
+      "A": {
+        "en": "3 psi/min",
+        "zh-Hans": "每分钟3 psi",
+        "zh-Hant": "每分鐘3 psi"
+      },
+      "B": {
+        "en": "4 psi/min",
+        "zh-Hans": "每分钟4 psi",
+        "zh-Hant": "每分鐘4 psi"
+      },
+      "C": {
+        "en": "5 psi/min",
+        "zh-Hans": "每分钟5 psi",
+        "zh-Hant": "每分鐘5 psi"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "For combination vehicles with brakes applied, max leakage is 4 psi/min.",
+      "zh-Hans": "对于踩刹车的组合车辆，最大泄漏为每分钟4 psi。",
+      "zh-Hant": "對於踩剎車的組合車輛，最大洩漏為每分鐘4 psi。"
+    },
+    "dmv_ref": {
+      "page": "5-7",
+      "section": "Leak Test",
+      "analysis_zh-Hans": "组合车踩刹车4 psi/min上限。",
+      "analysis_zh-Hant": "組合車踩剎車4 psi/min上限。"
+    }
+  },
+  {
+    "id": 2052,
+    "category": "Air Brakes",
+    "question": {
+      "en": "When driving down a long steep hill, you should:",
+      "zh-Hans": "下长陡坡时，你应该：",
+      "zh-Hant": "下長陡坡時，你應該："
+    },
+    "options": {
+      "A": {
+        "en": "Use a low gear and light, steady brake application",
+        "zh-Hans": "使用低档并轻柔稳定地踩刹车",
+        "zh-Hant": "使用低檔並輕柔穩定地踩剎車"
+      },
+      "B": {
+        "en": "Coast in neutral and use your brakes",
+        "zh-Hans": "空挡滑行并使用刹车",
+        "zh-Hant": "空檔滑行並使用剎車"
+      },
+      "C": {
+        "en": "Apply brakes only when necessary",
+        "zh-Hans": "仅在必要时踩刹车",
+        "zh-Hant": "僅在必要時踩剎車"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Use a low gear before the downgrade. Use light, steady brake pressure.",
+      "zh-Hans": "下坡前使用低档。使用轻柔稳定的刹车压力。",
+      "zh-Hant": "下坡前使用低檔。使用輕柔穩定的剎車壓力。"
+    },
+    "dmv_ref": {
+      "page": "5-10",
+      "section": "Downhill Braking",
+      "analysis_zh-Hans": "下坡前减速换挡是关键。",
+      "analysis_zh-Hant": "下坡前減速換擋是關鍵。"
+    }
+  },
+  {
+    "id": 2053,
+    "category": "Air Brakes",
+    "question": {
+      "en": "What is the function of the air dryer?",
+      "zh-Hans": "空气干燥器的作用是什么？",
+      "zh-Hant": "空氣乾燥器的作用是什麼？"
+    },
+    "options": {
+      "A": {
+        "en": "To cool the engine",
+        "zh-Hans": "冷却发动机",
+        "zh-Hant": "冷卻發動機"
+      },
+      "B": {
+        "en": "To remove moisture from the air before it reaches the tanks",
+        "zh-Hans": "在空气进入储气罐前去除水分",
+        "zh-Hant": "在空氣進入儲氣罐前去除水分"
+      },
+      "C": {
+        "en": "To increase air pressure",
+        "zh-Hans": "增加气压",
+        "zh-Hant": "增加氣壓"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "The air dryer removes moisture from compressed air before it goes into the air tanks.",
+      "zh-Hans": "空气干燥器在压缩空气进入储气罐前去除水分。",
+      "zh-Hant": "空氣乾燥器在壓縮空氣進入儲氣罐前去除水分。"
+    },
+    "dmv_ref": {
+      "page": "5-2",
+      "section": "Air Dryer",
+      "analysis_zh-Hans": "现代车辆用干燥器代替手动排水。",
+      "analysis_zh-Hant": "現代車輛用乾燥器代替手動排水。"
+    }
+  },
+  {
+    "id": 2054,
+    "category": "Air Brakes",
+    "question": {
+      "en": "If your vehicle has an alcohol evaporator, you should:",
+      "zh-Hans": "如果你的车辆有酒精蒸发器，你应该：",
+      "zh-Hant": "如果你的車輛有酒精蒸發器，你應該："
+    },
+    "options": {
+      "A": {
+        "en": "Fill it with antifreeze",
+        "zh-Hans": "加满防冻液",
+        "zh-Hant": "加滿防凍液"
+      },
+      "B": {
+        "en": "Check and fill the alcohol level during cold weather",
+        "zh-Hans": "在寒冷天气检查并填充酒精液位",
+        "zh-Hant": "在寒冷天氣檢查並填充酒精液位"
+      },
+      "C": {
+        "en": "Never fill it",
+        "zh-Hans": "永远不要填充",
+        "zh-Hant": "永遠不要填充"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Check the alcohol level daily in cold weather. Alcohol helps prevent ice in the air lines.",
+      "zh-Hans": "在寒冷天气每天检查酒精液位。酒精有助于防止气管结冰。",
+      "zh-Hant": "在寒冷天氣每天檢查酒精液位。酒精有助於防止氣管結冰。"
+    },
+    "dmv_ref": {
+      "page": "5-2",
+      "section": "Alcohol Evaporator",
+      "analysis_zh-Hans": "冬季维护要点。",
+      "analysis_zh-Hant": "冬季維護要點。"
+    }
+  },
+  {
+    "id": 2055,
+    "category": "Air Brakes",
+    "question": {
+      "en": "In air brake vehicles, the weights and roles of the primary and secondary systems are:",
+      "zh-Hans": "在气刹车辆中，主系统和副系统的权重和作用是：",
+      "zh-Hant": "在氣剎車輛中，主系統和副系統的權重和作用是："
+    },
+    "options": {
+      "A": {
+        "en": "Primary controls front, secondary controls rear",
+        "zh-Hans": "主系统控制前轴，副系统控制后轴",
+        "zh-Hant": "主系統控制前軸，副系統控制後軸"
+      },
+      "B": {
+        "en": "They are configured differently depending on the vehicle",
+        "zh-Hans": "根据车辆不同配置不同",
+        "zh-Hant": "根據車輛不同配置不同"
+      },
+      "C": {
+        "en": "Both control all wheels equally",
+        "zh-Hans": "两者平等控制所有车轮",
+        "zh-Hant": "兩者平等控制所有車輪"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Configuration varies by manufacturer. Often one controls front, one controls rear axles.",
+      "zh-Hans": "配置因制造商而异。通常一个控制前轴，一个控制后轴。",
+      "zh-Hant": "配置因製造商而異。通常一個控制前軸，一個控制後軸。"
+    },
+    "dmv_ref": {
+      "page": "5-6",
+      "section": "Dual System",
+      "analysis_zh-Hans": "具体配置看车型。",
+      "analysis_zh-Hant": "具體配置看車型。"
+    }
+  },
+  {
+    "id": 2056,
+    "category": "Air Brakes",
+    "question": {
+      "en": "What should you do during the air brake check if the low pressure warning comes on before 60 psi?",
+      "zh-Hans": "如果在气压降至60 psi之前低压警报亮起，你应该怎么做？",
+      "zh-Hant": "如果在氣壓降至60 psi之前低壓警報亮起，你應該怎麼做？"
+    },
+    "options": {
+      "A": {
+        "en": "This is normal, continue driving",
+        "zh-Hans": "这是正常的，继续驾驶",
+        "zh-Hant": "這是正常的，繼續駕駛"
+      },
+      "B": {
+        "en": "The warning is working correctly, proceed with trip",
+        "zh-Hans": "警报工作正常，继续行程",
+        "zh-Hant": "警報工作正常，繼續行程"
+      },
+      "C": {
+        "en": "Have the system checked - warning should come on before dropping below 60 psi",
+        "zh-Hans": "检查系统——警报应该在气压降至60 psi之前亮起",
+        "zh-Hant": "檢查系統——警報應該在氣壓降至60 psi之前亮起"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This means the warning is working correctly (activating before 60 psi). If it didn't activate until below 60, that would be a problem.",
+      "zh-Hans": "这意味着警报工作正常（在60 psi之前启动）。如果直到60 psi以下才启动，那才是问题。",
+      "zh-Hant": "這意味著警報工作正常（在60 psi之前啟動）。如果直到60 psi以下才啟動，那才是問題。"
+    },
+    "dmv_ref": {
+      "page": "5-7",
+      "section": "Warning Test",
+      "analysis_zh-Hans": "60 psi之前亮起=正常。",
+      "analysis_zh-Hant": "60 psi之前亮起=正常。"
+    }
+  },
+  {
+    "id": 2057,
+    "category": "Air Brakes",
+    "question": {
+      "en": "Wedge brakes are different from S-cam brakes because:",
+      "zh-Hans": "楔形刹车与S型凸轮刹车的区别在于：",
+      "zh-Hant": "楔形剎車與S型凸輪剎車的區別在於："
+    },
+    "options": {
+      "A": {
+        "en": "They use a wedge shape to push the brake linings against the drum",
+        "zh-Hans": "它们使用楔形来推动刹车衬片压向刹车鼓",
+        "zh-Hant": "它們使用楔形來推動剎車襯片壓向剎車鼓"
+      },
+      "B": {
+        "en": "They are only for front wheels",
+        "zh-Hans": "它们只用于前轮",
+        "zh-Hant": "它們只用於前輪"
+      },
+      "C": {
+        "en": "They don't require air pressure",
+        "zh-Hans": "它们不需要气压",
+        "zh-Hant": "它們不需要氣壓"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Wedge brakes use a wedge and roller to push the brake shoes apart and against the drum.",
+      "zh-Hans": "楔形刹车使用楔块和滚轮将刹车蹄片撑开并压向刹车鼓。",
+      "zh-Hant": "楔形剎車使用楔塊和滾輪將剎車蹄片撐開並壓向剎車鼓。"
+    },
+    "dmv_ref": {
+      "page": "5-3",
+      "section": "Wedge Brakes",
+      "analysis_zh-Hans": "另一种基础刹车类型。",
+      "analysis_zh-Hant": "另一種基礎剎車類型。"
+    }
+  },
+  {
+    "id": 2058,
+    "category": "Air Brakes",
+    "question": {
+      "en": "Disc brakes work by:",
+      "zh-Hans": "盘式刹车的工作原理是：",
+      "zh-Hant": "盤式剎車的工作原理是："
+    },
+    "options": {
+      "A": {
+        "en": "Pushing brake pads against a rotating disc",
+        "zh-Hans": "将刹车片压向旋转的制动盘",
+        "zh-Hant": "將剎車片壓向旋轉的制動盤"
+      },
+      "B": {
+        "en": "Expanding shoes against a drum",
+        "zh-Hans": "让蹄片向外撑开压向刹车鼓",
+        "zh-Hant": "讓蹄片向外撐開壓向剎車鼓"
+      },
+      "C": {
+        "en": "Using engine compression",
+        "zh-Hans": "使用发动机压缩",
+        "zh-Hant": "使用發動機壓縮"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Air-operated disc brakes work by clamping brake pads onto a rotating disc (rotor).",
+      "zh-Hans": "气动盘式刹车通过将刹车片夹紧到旋转的制动盘（转子）上工作。",
+      "zh-Hant": "氣動盤式剎車通過將剎車片夾緊到旋轉的制動盤（轉子）上工作。"
+    },
+    "dmv_ref": {
+      "page": "5-4",
+      "section": "Disc Brakes",
+      "analysis_zh-Hans": "与鼓式刹车不同的结构。",
+      "analysis_zh-Hant": "與鼓式剎車不同的結構。"
+    }
+  },
+  {
+    "id": 2059,
+    "category": "Air Brakes",
+    "question": {
+      "en": "Which of these is NOT a type of brake fade?",
+      "zh-Hans": "以下哪项不是刹车衰退的类型？",
+      "zh-Hant": "以下哪項不是剎車衰退的類型？"
+    },
+    "options": {
+      "A": {
+        "en": "Mechanical fade",
+        "zh-Hans": "机械衰退",
+        "zh-Hant": "機械衰退"
+      },
+      "B": {
+        "en": "Water fade",
+        "zh-Hans": "水衰退",
+        "zh-Hant": "水衰退"
+      },
+      "C": {
+        "en": "Pressure fade",
+        "zh-Hans": "压力衰退",
+        "zh-Hant": "壓力衰退"
+      }
+    },
+    "answer": "C",
+    "explanation": {
+      "en": "Types of brake fade include mechanical fade (drum expansion) and water fade. Pressure fade is not a term.",
+      "zh-Hans": "刹车衰退类型包括机械衰退（刹车鼓膨胀）和水衰退。压力衰退不是术语。",
+      "zh-Hant": "剎車衰退類型包括機械衰退（剎車鼓膨脹）和水衰退。壓力衰退不是術語。"
+    },
+    "dmv_ref": {
+      "page": "5-10",
+      "section": "Brake Fade",
+      "analysis_zh-Hans": "机械衰退是最常见的。",
+      "analysis_zh-Hant": "機械衰退是最常見的。"
+    }
+  },
+  {
+    "id": 2060,
+    "category": "Air Brakes",
+    "question": {
+      "en": "After the parking brake valve is pushed in:",
+      "zh-Hans": "驻车刹车阀推入后：",
+      "zh-Hant": "駐車剎車閥推入後："
+    },
+    "options": {
+      "A": {
+        "en": "The parking brakes are applied",
+        "zh-Hans": "驻车刹车被施加",
+        "zh-Hant": "駐車剎車被施加"
+      },
+      "B": {
+        "en": "The parking brakes are released",
+        "zh-Hans": "驻车刹车被释放",
+        "zh-Hant": "駐車剎車被釋放"
+      },
+      "C": {
+        "en": "The air compressor stops",
+        "zh-Hans": "空气压缩机停止",
+        "zh-Hant": "空氣壓縮機停止"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Push to release (air goes to release the spring brakes), Pull to apply (releases air, springs engage).",
+      "zh-Hans": "推入释放（气体进入释放弹簧刹车），拉出施加（释放气体，弹簧接合）。",
+      "zh-Hant": "推入釋放（氣體進入釋放彈簧剎車），拉出施加（釋放氣體，彈簧接合）。"
+    },
+    "dmv_ref": {
+      "page": "5-5",
+      "section": "Parking Control",
+      "analysis_zh-Hans": "Push to release, Pull to apply.",
+      "analysis_zh-Hant": "Push to release, Pull to apply."
+    }
+  }
+]

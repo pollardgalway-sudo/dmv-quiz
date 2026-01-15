@@ -1,0 +1,382 @@
+[
+    {
+        "id": 2041,
+        "category": "Air Brakes",
+        "question": {
+            "en": "A combination vehicle air brake should build pressure from 85 to 100 psi in __ seconds.",
+            "zh-Hans": "组合车辆气刹应在 __ 秒内将气压从85 psi升至100 psi。",
+            "zh-Hant": "組合車輛氣剎應在 __ 秒內將氣壓從85 psi升至100 psi。"
+        },
+        "options": {
+            "A": {
+                "en": "15",
+                "zh-Hans": "15",
+                "zh-Hant": "15"
+            },
+            "B": {
+                "en": "45",
+                "zh-Hans": "45",
+                "zh-Hant": "45"
+            },
+            "C": {
+                "en": "90",
+                "zh-Hans": "90",
+                "zh-Hant": "90"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "For combination vehicles, pressure should build from 85 to 100 psi within 45 seconds.",
+            "zh-Hans": "对于组合车辆，气压应在45秒内从85 psi升至100 psi。",
+            "zh-Hant": "對於組合車輛，氣壓應在45秒內從85 psi升至100 psi。"
+        },
+        "dmv_ref": {
+            "page": "5-7",
+            "section": "Build-up Time",
+            "analysis_zh-Hans": "45秒是组合车的标准。",
+            "analysis_zh-Hant": "45秒是組合車的標準。"
+        }
+    },
+    {
+        "id": 2042,
+        "category": "Air Brakes",
+        "question": {
+            "en": "The application pressure gauge shows:",
+            "zh-Hans": "应用压力表显示：",
+            "zh-Hant": "應用壓力表顯示："
+        },
+        "options": {
+            "A": {
+                "en": "Tank air pressure",
+                "zh-Hans": "储气罐气压",
+                "zh-Hant": "儲氣罐氣壓"
+            },
+            "B": {
+                "en": "How much air pressure you are applying to the brakes",
+                "zh-Hans": "你施加到刹车上的气压量",
+                "zh-Hant": "你施加到剎車上的氣壓量"
+            },
+            "C": {
+                "en": "Engine oil pressure",
+                "zh-Hans": "发动机油压",
+                "zh-Hant": "發動機油壓"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "The application gauge shows the amount of air pressure being applied to the brakes.",
+            "zh-Hans": "应用压力表显示施加到刹车上的气压量。",
+            "zh-Hant": "應用壓力表顯示施加到剎車上的氣壓量。"
+        },
+        "dmv_ref": {
+            "page": "5-3",
+            "section": "Application Gauge",
+            "analysis_zh-Hans": "供气表和应用表是两个不同的仪表。",
+            "analysis_zh-Hant": "供氣表和應用表是兩個不同的儀表。"
+        }
+    },
+    {
+        "id": 2043,
+        "category": "Air Brakes",
+        "question": {
+            "en": "S-cam brakes are named after:",
+            "zh-Hans": "S型凸轮刹车之所以叫这个名字是因为：",
+            "zh-Hant": "S型凸輪剎車之所以叫這個名字是因為："
+        },
+        "options": {
+            "A": {
+                "en": "Their inventor Sam",
+                "zh-Hans": "发明者Sam",
+                "zh-Hant": "發明者Sam"
+            },
+            "B": {
+                "en": "The shape of the cam inside the brake drum",
+                "zh-Hans": "刹车鼓内凸轮的形状",
+                "zh-Hant": "剎車鼓內凸輪的形狀"
+            },
+            "C": {
+                "en": "The S-shaped brake pedal",
+                "zh-Hans": "S形刹车踏板",
+                "zh-Hant": "S形剎車踏板"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "The cam is shaped like an 'S'. When it turns, it pushes the brake shoes apart and against the drum.",
+            "zh-Hans": "凸轮形状像字母'S'。当它转动时，会撑开刹车蹄片并压向刹车鼓。",
+            "zh-Hant": "凸輪形狀像字母'S'。當它轉動時，會撐開剎車蹄片並壓向剎車鼓。"
+        },
+        "dmv_ref": {
+            "page": "5-3",
+            "section": "S-cam Brakes",
+            "analysis_zh-Hans": "最常见的鼓式刹车类型。",
+            "analysis_zh-Hant": "最常見的鼓式剎車類型。"
+        }
+    },
+    {
+        "id": 2044,
+        "category": "Air Brakes",
+        "question": {
+            "en": "Brake shoe lining should be checked for:",
+            "zh-Hans": "应该检查刹车蹄片衬垫的：",
+            "zh-Hant": "應該檢查剎車蹄片襯墊的："
+        },
+        "options": {
+            "A": {
+                "en": "Minimum thickness of 1/4 inch",
+                "zh-Hans": "最小厚度1/4英寸",
+                "zh-Hant": "最小厚度1/4英寸"
+            },
+            "B": {
+                "en": "Color",
+                "zh-Hans": "颜色",
+                "zh-Hant": "顏色"
+            },
+            "C": {
+                "en": "Weight",
+                "zh-Hans": "重量",
+                "zh-Hant": "重量"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Brake lining must be at least 1/4 inch thick (for drums with metal shoes, larger for other types).",
+            "zh-Hans": "刹车衬垫厚度必须至少为1/4英寸。",
+            "zh-Hant": "剎車襯墊厚度必須至少為1/4英寸。"
+        },
+        "dmv_ref": {
+            "page": "5-8",
+            "section": "Lining Thickness",
+            "analysis_zh-Hans": "1/4英寸是最低标准。",
+            "analysis_zh-Hant": "1/4英寸是最低標準。"
+        }
+    },
+    {
+        "id": 2045,
+        "category": "Air Brakes",
+        "question": {
+            "en": "For air brakes on a single vehicle, the air pressure should build from 85 to 100 psi within:",
+            "zh-Hans": "对于单车的气刹，气压应在 ___ 秒内从85 psi升至100 psi。",
+            "zh-Hant": "對於單車的氣剎，氣壓應在 ___ 秒內從85 psi升至100 psi。"
+        },
+        "options": {
+            "A": {
+                "en": "30 seconds",
+                "zh-Hans": "30秒",
+                "zh-Hant": "30秒"
+            },
+            "B": {
+                "en": "45 seconds",
+                "zh-Hans": "45秒",
+                "zh-Hant": "45秒"
+            },
+            "C": {
+                "en": "60 seconds",
+                "zh-Hans": "60秒",
+                "zh-Hant": "60秒"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Single vehicles: 30 seconds. Combination vehicles: 45 seconds.",
+            "zh-Hans": "单车：30秒。组合车：45秒。",
+            "zh-Hant": "單車：30秒。組合車：45秒。"
+        },
+        "dmv_ref": {
+            "page": "5-7",
+            "section": "Build-up Test",
+            "analysis_zh-Hans": "单车30秒，组合45秒。",
+            "analysis_zh-Hant": "單車30秒，組合45秒。"
+        }
+    },
+    {
+        "id": 2046,
+        "category": "Air Brakes",
+        "question": {
+            "en": "What color is the parking brake control knob?",
+            "zh-Hans": "驻车刹车控制旋钮是什么颜色的？",
+            "zh-Hant": "駐車剎車控制旋鈕是什麼顏色的？"
+        },
+        "options": {
+            "A": {
+                "en": "Red",
+                "zh-Hans": "红色",
+                "zh-Hant": "紅色"
+            },
+            "B": {
+                "en": "Yellow",
+                "zh-Hans": "黄色",
+                "zh-Hant": "黃色"
+            },
+            "C": {
+                "en": "Blue",
+                "zh-Hans": "蓝色",
+                "zh-Hant": "藍色"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "The parking brake control is a yellow, diamond-shaped push-pull knob.",
+            "zh-Hans": "驻车刹车控制是黄色菱形的推拉旋钮。",
+            "zh-Hant": "駐車剎車控制是黃色菱形的推拉旋鈕。"
+        },
+        "dmv_ref": {
+            "page": "5-5",
+            "section": "Parking Control",
+            "analysis_zh-Hans": "黄色=驻车刹，红色=挂车应急。",
+            "analysis_zh-Hant": "黃色=駐車剎，紅色=掛車應急。"
+        }
+    },
+    {
+        "id": 2047,
+        "category": "Air Brakes",
+        "question": {
+            "en": "The relay valve allows:",
+            "zh-Hans": "继电器阀允许：",
+            "zh-Hant": "繼電器閥允許："
+        },
+        "options": {
+            "A": {
+                "en": "The front brakes to be applied",
+                "zh-Hans": "前刹车被施加",
+                "zh-Hant": "前剎車被施加"
+            },
+            "B": {
+                "en": "Quick application of air from the reservoir to the brake chambers",
+                "zh-Hans": "从储气罐快速向刹车气室供气",
+                "zh-Hant": "從儲氣罐快速向剎車氣室供氣"
+            },
+            "C": {
+                "en": "The driver to release the parking brake",
+                "zh-Hans": "司机释放驻车刹",
+                "zh-Hant": "司機釋放駐車剎"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "The relay valve provides quick air delivery from the reservoir to the brake chambers.",
+            "zh-Hans": "继电器阀可从储气罐快速向刹车气室供气。",
+            "zh-Hant": "繼電器閥可從儲氣罐快速向剎車氣室供氣。"
+        },
+        "dmv_ref": {
+            "page": "5-4",
+            "section": "Relay Valve",
+            "analysis_zh-Hans": "减少刹车延迟的装置。",
+            "analysis_zh-Hant": "減少剎車延遲的裝置。"
+        }
+    },
+    {
+        "id": 2048,
+        "category": "Air Brakes",
+        "question": {
+            "en": "After the initial drop, how much pressure loss is acceptable in 1 minute with brakes applied?",
+            "zh-Hans": "初始压降后，踩住刹车1分钟内可接受的压力损失是多少？",
+            "zh-Hant": "初始壓降後，踩住剎車1分鐘內可接受的壓力損失是多少？"
+        },
+        "options": {
+            "A": {
+                "en": "1 psi for single, 2 psi for combination",
+                "zh-Hans": "单车1 psi，组合2 psi",
+                "zh-Hant": "單車1 psi，組合2 psi"
+            },
+            "B": {
+                "en": "3 psi for single, 4 psi for combination",
+                "zh-Hans": "单车3 psi，组合4 psi",
+                "zh-Hant": "單車3 psi，組合4 psi"
+            },
+            "C": {
+                "en": "5 psi for all vehicles",
+                "zh-Hans": "所有车辆5 psi",
+                "zh-Hant": "所有車輛5 psi"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "With brakes applied: single vehicle max 3 psi/min, combination max 4 psi/min.",
+            "zh-Hans": "踩刹车时：单车最大3 psi/分钟，组合车最大4 psi/分钟。",
+            "zh-Hant": "踩剎車時：單車最大3 psi/分鐘，組合車最大4 psi/分鐘。"
+        },
+        "dmv_ref": {
+            "page": "5-7",
+            "section": "Applied Leak Rate",
+            "analysis_zh-Hans": "牢记：静态2/3，踩刹3/4。",
+            "analysis_zh-Hant": "牢記：靜態2/3，踩剎3/4。"
+        }
+    },
+    {
+        "id": 2049,
+        "category": "Air Brakes",
+        "question": {
+            "en": "Tractor protection valve will close automatically when air pressure drops to about:",
+            "zh-Hans": "当气压降至约 ___ psi时，牵引车保护阀会自动关闭。",
+            "zh-Hant": "當氣壓降至約 ___ psi時，牽引車保護閥會自動關閉。"
+        },
+        "options": {
+            "A": {
+                "en": "20-45 psi",
+                "zh-Hans": "20-45 psi",
+                "zh-Hant": "20-45 psi"
+            },
+            "B": {
+                "en": "60 psi",
+                "zh-Hans": "60 psi",
+                "zh-Hant": "60 psi"
+            },
+            "C": {
+                "en": "100 psi",
+                "zh-Hans": "100 psi",
+                "zh-Hant": "100 psi"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "The tractor protection valve closes at 20-45 psi to protect the tractor's air supply.",
+            "zh-Hans": "牵引车保护阀在20-45 psi时关闭，以保护牵引车的气源。",
+            "zh-Hant": "牽引車保護閥在20-45 psi時關閉，以保護牽引車的氣源。"
+        },
+        "dmv_ref": {
+            "page": "6-4",
+            "section": "Tractor Protection",
+            "analysis_zh-Hans": "20-45 psi自动切断挂车气管。",
+            "analysis_zh-Hant": "20-45 psi自動切斷掛車氣管。"
+        }
+    },
+    {
+        "id": 2050,
+        "category": "Air Brakes",
+        "question": {
+            "en": "Front wheel brakes are good because:",
+            "zh-Hans": "前轮刹车好的原因是：",
+            "zh-Hant": "前輪剎車好的原因是："
+        },
+        "options": {
+            "A": {
+                "en": "They are easier to maintain",
+                "zh-Hans": "更容易维护",
+                "zh-Hant": "更容易維護"
+            },
+            "B": {
+                "en": "They provide 60% or more of braking power under heavy braking",
+                "zh-Hans": "在重刹时提供60%或更多的制动力",
+                "zh-Hant": "在重剎時提供60%或更多的制動力"
+            },
+            "C": {
+                "en": "They don't overheat",
+                "zh-Hans": "不会过热",
+                "zh-Hant": "不會過熱"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Under heavy braking, weight transfers forward. Front brakes can do 60% or more of the braking.",
+            "zh-Hans": "重刹时重量前移。前刹可以承担60%或更多的制动力。",
+            "zh-Hant": "重剎時重量前移。前剎可以承擔60%或更多的制動力。"
+        },
+        "dmv_ref": {
+            "page": "5-3",
+            "section": "Front Brakes",
+            "analysis_zh-Hans": "重量转移=前刹更重要。",
+            "analysis_zh-Hant": "重量轉移=前剎更重要。"
+        }
+    }
+]

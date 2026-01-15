@@ -1,0 +1,382 @@
+[
+    {
+        "id": 1091,
+        "category": "General Knowledge",
+        "question": {
+            "en": "When approaching a railroad crossing, you should:",
+            "zh-Hans": "接近铁路道口时，你应该：",
+            "zh-Hant": "接近鐵路道口時，你應該："
+        },
+        "options": {
+            "A": {
+                "en": "Speed up to cross quickly",
+                "zh-Hans": "加速快速通过",
+                "zh-Hant": "加速快速通過"
+            },
+            "B": {
+                "en": "Never shift gears while on the tracks",
+                "zh-Hans": "在轨道上绝不换挡",
+                "zh-Hant": "在軌道上絕不換擋"
+            },
+            "C": {
+                "en": "Rely only on the warning signals to stop",
+                "zh-Hans": "只依靠警告信号停车",
+                "zh-Hant": "只依靠警告信號停車"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Never shift gears while crossing tracks - you might stall on the tracks.",
+            "zh-Hans": "过轨道时绝不换挡——你可能会在轨道上熄火。",
+            "zh-Hant": "過軌道時絕不換擋——你可能會在軌道上熄火。"
+        },
+        "dmv_ref": {
+            "page": "2-19",
+            "section": "Railroad Crossings",
+            "analysis_zh-Hans": "换挡=可能熄火=车停在轨道上。",
+            "analysis_zh-Hant": "換擋=可能熄火=車停在軌道上。"
+        }
+    },
+    {
+        "id": 1092,
+        "category": "General Knowledge",
+        "question": {
+            "en": "Your vehicle is stuck on railroad tracks. What should you do?",
+            "zh-Hans": "你的车辆卡在铁路轨道上。你应该怎么做？",
+            "zh-Hant": "你的車輛卡在鐵路軌道上。你應該怎麼做？"
+        },
+        "options": {
+            "A": {
+                "en": "Stay in the vehicle and call for help",
+                "zh-Hans": "待在车里等救援",
+                "zh-Hant": "待在車裡等救援"
+            },
+            "B": {
+                "en": "Get out and walk toward the train at an angle",
+                "zh-Hans": "下车并沿斜角方向朝火车方向走",
+                "zh-Hant": "下車並沿斜角方向朝火車方向走"
+            },
+            "C": {
+                "en": "Try to push the vehicle off the tracks",
+                "zh-Hans": "尝试把车推下轨道",
+                "zh-Hant": "嘗試把車推下軌道"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Get out immediately and move toward the train at an angle - debris will fly in the direction of train travel.",
+            "zh-Hans": "立即下车并沿斜角方向朝火车方向移动——碎片会沿火车行驶方向飞溅。",
+            "zh-Hant": "立即下車並沿斜角方向朝火車方向移動——碎片會沿火車行駛方向飛濺。"
+        },
+        "dmv_ref": {
+            "page": "2-19",
+            "section": "Railroad Emergency",
+            "analysis_zh-Hans": "朝火车走是为了避开碎片。",
+            "analysis_zh-Hant": "朝火車走是為了避開碎片。"
+        }
+    },
+    {
+        "id": 1093,
+        "category": "General Knowledge",
+        "question": {
+            "en": "What is the minimum legal age to obtain a CDL?",
+            "zh-Hans": "获得CDL的最低法定年龄是多少？",
+            "zh-Hant": "獲得CDL的最低法定年齡是多少？"
+        },
+        "options": {
+            "A": {
+                "en": "16",
+                "zh-Hans": "16岁",
+                "zh-Hant": "16歲"
+            },
+            "B": {
+                "en": "18 for intrastate, 21 for interstate",
+                "zh-Hans": "州内18岁，跨州21岁",
+                "zh-Hant": "州內18歲，跨州21歲"
+            },
+            "C": {
+                "en": "25",
+                "zh-Hans": "25岁",
+                "zh-Hant": "25歲"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "18 years for driving within the state (intrastate), 21 years for driving across state lines (interstate).",
+            "zh-Hans": "州内驾驶18岁，跨州驾驶21岁。",
+            "zh-Hant": "州內駕駛18歲，跨州駕駛21歲。"
+        },
+        "dmv_ref": {
+            "page": "1-2",
+            "section": "CDL Requirements",
+            "analysis_zh-Hans": "18州内，21跨州是关键年龄。",
+            "analysis_zh-Hant": "18州內，21跨州是關鍵年齡。"
+        }
+    },
+    {
+        "id": 1094,
+        "category": "General Knowledge",
+        "question": {
+            "en": "If your tire blows out, which action should you NOT take?",
+            "zh-Hans": "如果轮胎爆胎，你不应该采取以下哪个动作？",
+            "zh-Hant": "如果輪胎爆胎，你不應該採取以下哪個動作？"
+        },
+        "options": {
+            "A": {
+                "en": "Hold the steering wheel firmly",
+                "zh-Hans": "紧握方向盘",
+                "zh-Hant": "緊握方向盤"
+            },
+            "B": {
+                "en": "Brake hard immediately",
+                "zh-Hans": "立即用力刹车",
+                "zh-Hant": "立即用力剎車"
+            },
+            "C": {
+                "en": "Stay off the brake until speed drops",
+                "zh-Hans": "在速度下降前不踩刹车",
+                "zh-Hant": "在速度下降前不踩剎車"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Do NOT brake hard - this can cause loss of control. Hold steering, stay off brakes, let vehicle slow naturally.",
+            "zh-Hans": "不要用力刹车——这会导致失控。握住方向盘，不踩刹车，让车自然减速。",
+            "zh-Hant": "不要用力剎車——這會導致失控。握住方向盤，不踩剎車，讓車自然減速。"
+        },
+        "dmv_ref": {
+            "page": "2-35",
+            "section": "Tire Failure",
+            "analysis_zh-Hans": "爆胎时刹车=失控。",
+            "analysis_zh-Hant": "爆胎時剎車=失控。"
+        }
+    },
+    {
+        "id": 1095,
+        "category": "General Knowledge",
+        "question": {
+            "en": "Which of these is NOT a correct statement about radiator caps?",
+            "zh-Hans": "以下关于水箱盖的陈述，哪项是不正确的？",
+            "zh-Hant": "以下關於水箱蓋的陳述，哪項是不正確的？"
+        },
+        "options": {
+            "A": {
+                "en": "Never remove if hot",
+                "zh-Hans": "热时绝不打开",
+                "zh-Hant": "熱時絕不打開"
+            },
+            "B": {
+                "en": "Has a relief valve",
+                "zh-Hans": "有减压阀",
+                "zh-Hant": "有減壓閥"
+            },
+            "C": {
+                "en": "Can be removed anytime safely",
+                "zh-Hans": "可以随时安全移除",
+                "zh-Hant": "可以隨時安全移除"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "Never remove a radiator cap when the engine is hot - you can be burned by pressurized steam.",
+            "zh-Hans": "发动机热时绝不打开水箱盖——高压蒸汽会烫伤你。",
+            "zh-Hant": "發動機熱時絕不打開水箱蓋——高壓蒸汽會燙傷你。"
+        },
+        "dmv_ref": {
+            "page": "2-8",
+            "section": "Cooling System",
+            "analysis_zh-Hans": "热水箱=高压炸弹。",
+            "analysis_zh-Hant": "熱水箱=高壓炸彈。"
+        }
+    },
+    {
+        "id": 1096,
+        "category": "General Knowledge",
+        "question": {
+            "en": "What is indicated when an oil temperature gauge goes above normal?",
+            "zh-Hans": "油温表超过正常范围时表明什么？",
+            "zh-Hant": "油溫表超過正常範圍時表明什麼？"
+        },
+        "options": {
+            "A": {
+                "en": "Everything is fine",
+                "zh-Hans": "一切正常",
+                "zh-Hant": "一切正常"
+            },
+            "B": {
+                "en": "Oil is not doing its job",
+                "zh-Hans": "机油没有正常工作",
+                "zh-Hant": "機油沒有正常工作"
+            },
+            "C": {
+                "en": "Engine is cold",
+                "zh-Hans": "发动机冷了",
+                "zh-Hant": "發動機冷了"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "High oil temp means the oil isn't cooling the engine properly. Stop and find the problem.",
+            "zh-Hans": "油温过高意味着机油没有正确冷却发动机。停车找到问题。",
+            "zh-Hant": "油溫過高意味著機油沒有正確冷卻發動機。停車找到問題。"
+        },
+        "dmv_ref": {
+            "page": "2-11",
+            "section": "Gauges",
+            "analysis_zh-Hans": "高油温=润滑不良=发动机损坏。",
+            "analysis_zh-Hant": "高油溫=潤滑不良=發動機損壞。"
+        }
+    },
+    {
+        "id": 1097,
+        "category": "General Knowledge",
+        "question": {
+            "en": "Perception distance plus reaction distance equals:",
+            "zh-Hans": "感知距离加反应距离等于：",
+            "zh-Hant": "感知距離加反應距離等於："
+        },
+        "options": {
+            "A": {
+                "en": "Braking distance",
+                "zh-Hans": "制动距离",
+                "zh-Hant": "制動距離"
+            },
+            "B": {
+                "en": "Total stopping distance",
+                "zh-Hans": "总制动距离",
+                "zh-Hant": "總制動距離"
+            },
+            "C": {
+                "en": "Human factor distance",
+                "zh-Hans": "人为因素距离",
+                "zh-Hant": "人為因素距離"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "Perception distance + reaction distance = human factor distance. This plus braking distance = total stopping distance.",
+            "zh-Hans": "感知距离+反应距离=人为因素距离。加上制动距离=总制动距离。",
+            "zh-Hant": "感知距離+反應距離=人為因素距離。加上制動距離=總制動距離。"
+        },
+        "dmv_ref": {
+            "page": "2-17",
+            "section": "Stopping Distance",
+            "analysis_zh-Hans": "感知+反应+制动=总距离。",
+            "analysis_zh-Hant": "感知+反應+制動=總距離。"
+        }
+    },
+    {
+        "id": 1098,
+        "category": "General Knowledge",
+        "question": {
+            "en": "Which type of cargo do NOT need to be covered?",
+            "zh-Hans": "哪种货物不需要覆盖？",
+            "zh-Hant": "哪種貨物不需要覆蓋？"
+        },
+        "options": {
+            "A": {
+                "en": "Paper rolls",
+                "zh-Hans": "纸卷",
+                "zh-Hant": "紙卷"
+            },
+            "B": {
+                "en": "Sand or gravel",
+                "zh-Hans": "沙子或砾石",
+                "zh-Hant": "沙子或礫石"
+            },
+            "C": {
+                "en": "Sealed containers that won't spill",
+                "zh-Hans": "不会泄漏的密封容器",
+                "zh-Hant": "不會洩漏的密封容器"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "Sealed, leakproof containers don't need covering. Loose cargo like sand must be covered to prevent spillage.",
+            "zh-Hans": "密封防漏的容器不需要覆盖。沙子等松散货物必须覆盖以防洒落。",
+            "zh-Hant": "密封防漏的容器不需要覆蓋。沙子等鬆散貨物必須覆蓋以防灑落。"
+        },
+        "dmv_ref": {
+            "page": "3-5",
+            "section": "Cargo Covering",
+            "analysis_zh-Hans": "覆盖是为了防撒落。",
+            "analysis_zh-Hant": "覆蓋是為了防撒落。"
+        }
+    },
+    {
+        "id": 1099,
+        "category": "General Knowledge",
+        "question": {
+            "en": "At highway speeds, controlled braking is:",
+            "zh-Hans": "在高速公路速度下，控制制动是：",
+            "zh-Hant": "在高速公路速度下，控制制動是："
+        },
+        "options": {
+            "A": {
+                "en": "Applying brakes hard enough to lock the wheels",
+                "zh-Hans": "用力刹车直到车轮锁死",
+                "zh-Hant": "用力剎車直到車輪鎖死"
+            },
+            "B": {
+                "en": "Applying brakes as hard as you can without locking wheels",
+                "zh-Hans": "尽可能用力刹车但不锁死车轮",
+                "zh-Hant": "盡可能用力剎車但不鎖死車輪"
+            },
+            "C": {
+                "en": "Releasing the brakes completely",
+                "zh-Hans": "完全松开刹车",
+                "zh-Hant": "完全鬆開剎車"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Controlled braking is applying maximum brake pressure without locking the wheels.",
+            "zh-Hans": "控制制动是施加最大刹车压力但不锁死车轮。",
+            "zh-Hant": "控制制動是施加最大剎車壓力但不鎖死車輪。"
+        },
+        "dmv_ref": {
+            "page": "2-29",
+            "section": "Braking Techniques",
+            "analysis_zh-Hans": "边缘制动=最大减速不打滑。",
+            "analysis_zh-Hant": "邊緣制動=最大減速不打滑。"
+        }
+    },
+    {
+        "id": 1100,
+        "category": "General Knowledge",
+        "question": {
+            "en": "Before driving, you should check that the steering play is no more than:",
+            "zh-Hans": "驾驶前，你应该检查方向盘自由行程不超过：",
+            "zh-Hant": "駕駛前，你應該檢查方向盤自由行程不超過："
+        },
+        "options": {
+            "A": {
+                "en": "10 degrees",
+                "zh-Hans": "10度",
+                "zh-Hant": "10度"
+            },
+            "B": {
+                "en": "25 degrees",
+                "zh-Hans": "25度",
+                "zh-Hant": "25度"
+            },
+            "C": {
+                "en": "45 degrees",
+                "zh-Hans": "45度",
+                "zh-Hant": "45度"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Steering play should not exceed 10 degrees (about 2 inches on a 20-inch wheel).",
+            "zh-Hans": "方向盘自由行程不应超过10度（20英寸方向盘约2英寸）。",
+            "zh-Hant": "方向盤自由行程不應超過10度（20英寸方向盤約2英寸）。"
+        },
+        "dmv_ref": {
+            "page": "2-6",
+            "section": "Steering Check",
+            "analysis_zh-Hans": "10度是方向盘检查标准。",
+            "analysis_zh-Hant": "10度是方向盤檢查標準。"
+        }
+    }
+]

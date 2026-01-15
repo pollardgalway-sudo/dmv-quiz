@@ -1,0 +1,382 @@
+[
+    {
+        "id": 1021,
+        "category": "General Knowledge",
+        "question": {
+            "en": "The length of time you should signal before making a lane change is:",
+            "zh-Hans": "变道前应该提前多长时间打转向灯？",
+            "zh-Hant": "變道前應該提前多長時間打轉向燈？"
+        },
+        "options": {
+            "A": {
+                "en": "At least 5 seconds",
+                "zh-Hans": "至少5秒",
+                "zh-Hant": "至少5秒"
+            },
+            "B": {
+                "en": "At least 100 feet before the lane change",
+                "zh-Hans": "至少在变道前100英尺",
+                "zh-Hant": "至少在變道前100英尺"
+            },
+            "C": {
+                "en": "Just before you change lanes",
+                "zh-Hans": "变道前一刻",
+                "zh-Hant": "變道前一刻"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Signal at least 5 seconds before changing lanes on a highway to give other drivers time to react.",
+            "zh-Hans": "在高速公路上变道前至少提前5秒打灯，给其他司机反应时间。",
+            "zh-Hant": "在高速公路上變道前至少提前5秒打燈，給其他司機反應時間。"
+        },
+        "dmv_ref": {
+            "page": "2-22",
+            "section": "Communicating",
+            "analysis_zh-Hans": "城市道路100英尺，高速5秒。",
+            "analysis_zh-Hant": "城市道路100英尺，高速5秒。"
+        }
+    },
+    {
+        "id": 1022,
+        "category": "General Knowledge",
+        "question": {
+            "en": "If you have to cross traffic or enter a busy road:",
+            "zh-Hans": "如果你需要穿过交通流或进入繁忙道路：",
+            "zh-Hant": "如果你需要穿過交通流或進入繁忙道路："
+        },
+        "options": {
+            "A": {
+                "en": "Rely on the other drivers to let you in",
+                "zh-Hans": "依赖其他司机让你进入",
+                "zh-Hant": "依賴其他司機讓你進入"
+            },
+            "B": {
+                "en": "Assume there is a gap if you cannot see clearly",
+                "zh-Hans": "如果看不清，就假设有空档",
+                "zh-Hant": "如果看不清，就假設有空檔"
+            },
+            "C": {
+                "en": "Make sure you have a large enough gap before crossing",
+                "zh-Hans": "确保有足够大的空档再通过",
+                "zh-Hant": "確保有足夠大的空檔再通過"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "Large vehicles need more time and space to cross traffic. Never assume a gap - make sure.",
+            "zh-Hans": "大型车辆需要更多的时间和空间穿过交通流。不要假设有空档，要确认。",
+            "zh-Hant": "大型車輛需要更多的時間和空間穿過交通流。不要假設有空檔，要確認。"
+        },
+        "dmv_ref": {
+            "page": "2-24",
+            "section": "Space Management",
+            "analysis_zh-Hans": "大车加速慢，需要更大空档。",
+            "analysis_zh-Hant": "大車加速慢，需要更大空檔。"
+        }
+    },
+    {
+        "id": 1023,
+        "category": "General Knowledge",
+        "question": {
+            "en": "How much total stopping distance increases when you double your speed?",
+            "zh-Hans": "当你速度翻倍时，总制动距离会增加多少？",
+            "zh-Hant": "當你速度翻倍時，總制動距離會增加多少？"
+        },
+        "options": {
+            "A": {
+                "en": "Twice as much",
+                "zh-Hans": "2倍",
+                "zh-Hant": "2倍"
+            },
+            "B": {
+                "en": "Four times as much",
+                "zh-Hans": "4倍",
+                "zh-Hant": "4倍"
+            },
+            "C": {
+                "en": "Three times as much",
+                "zh-Hans": "3倍",
+                "zh-Hant": "3倍"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "When you double your speed, your stopping distance increases four times.",
+            "zh-Hans": "速度翻倍，制动距离增加4倍。这是物理定律。",
+            "zh-Hant": "速度翻倍，制動距離增加4倍。這是物理定律。"
+        },
+        "dmv_ref": {
+            "page": "2-17",
+            "section": "Stopping Distance",
+            "analysis_zh-Hans": "制动距离与速度的平方成正比。",
+            "analysis_zh-Hant": "制動距離與速度的平方成正比。"
+        }
+    },
+    {
+        "id": 1024,
+        "category": "General Knowledge",
+        "question": {
+            "en": "What is the most common cause of serious vehicle skids?",
+            "zh-Hans": "导致严重车辆打滑的最常见原因是什么？",
+            "zh-Hant": "導致嚴重車輛打滑的最常見原因是什麼？"
+        },
+        "options": {
+            "A": {
+                "en": "Worn tires",
+                "zh-Hans": "轮胎磨损",
+                "zh-Hant": "輪胎磨損"
+            },
+            "B": {
+                "en": "Driving too fast for conditions",
+                "zh-Hans": "超速行驶（相对于路况）",
+                "zh-Hant": "超速行駛（相對於路況）"
+            },
+            "C": {
+                "en": "Wet pavement",
+                "zh-Hans": "湿滑路面",
+                "zh-Hant": "濕滑路面"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Most skids are caused by driving too fast for road conditions. Slow down on wet, icy, or curved roads.",
+            "zh-Hans": "大多数打滑是由于相对路况超速造成的。在湿滑、结冰或弯道时减速。",
+            "zh-Hant": "大多數打滑是由於相對路況超速造成的。在濕滑、結冰或彎道時減速。"
+        },
+        "dmv_ref": {
+            "page": "2-34",
+            "section": "Skid Control",
+            "analysis_zh-Hans": "速度是打滑的根本原因。",
+            "analysis_zh-Hant": "速度是打滑的根本原因。"
+        }
+    },
+    {
+        "id": 1025,
+        "category": "General Knowledge",
+        "question": {
+            "en": "When going down a long steep hill, you should:",
+            "zh-Hans": "下长陡坡时，你应该：",
+            "zh-Hant": "下長陡坡時，你應該："
+        },
+        "options": {
+            "A": {
+                "en": "Use a low gear and light, steady pressure on the brakes",
+                "zh-Hans": "使用低挡位配合轻柔稳定的刹车",
+                "zh-Hant": "使用低檔位配合輕柔穩定的剎車"
+            },
+            "B": {
+                "en": "Coast in neutral to save fuel",
+                "zh-Hans": "空挡滑行省油",
+                "zh-Hant": "空檔滑行省油"
+            },
+            "C": {
+                "en": "Use only the service brakes",
+                "zh-Hans": "只使用行车制动",
+                "zh-Hant": "只使用行車制動"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Shift to a low gear BEFORE starting down the hill. Use light, steady brake pressure.",
+            "zh-Hans": "下坡前换到低挡位。使用轻柔稳定的刹车压力。",
+            "zh-Hant": "下坡前換到低檔位。使用輕柔穩定的剎車壓力。"
+        },
+        "dmv_ref": {
+            "page": "2-21",
+            "section": "Mountain Driving",
+            "analysis_zh-Hans": "下坡前减速换挡，不要下坡后再踩刹车。",
+            "analysis_zh-Hant": "下坡前減速換擋，不要下坡後再踩剎車。"
+        }
+    },
+    {
+        "id": 1026,
+        "category": "General Knowledge",
+        "question": {
+            "en": "When should you downshift automatic transmissions?",
+            "zh-Hans": "什么时候应该降低自动变速箱的挡位？",
+            "zh-Hant": "什麼時候應該降低自動變速箱的檔位？"
+        },
+        "options": {
+            "A": {
+                "en": "When going up a steep hill",
+                "zh-Hans": "上陡坡时",
+                "zh-Hant": "上陡坡時"
+            },
+            "B": {
+                "en": "When going down a steep hill",
+                "zh-Hans": "下陡坡时",
+                "zh-Hant": "下陡坡時"
+            },
+            "C": {
+                "en": "Both A and B",
+                "zh-Hans": "A和B都对",
+                "zh-Hant": "A和B都對"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "Downshift when going both up and down steep grades for better control.",
+            "zh-Hans": "上下陡坡时都应该降挡，以获得更好的控制。",
+            "zh-Hant": "上下陡坡時都應該降檔，以獲得更好的控制。"
+        },
+        "dmv_ref": {
+            "page": "2-21",
+            "section": "Mountain Driving",
+            "analysis_zh-Hans": "自动挡也需要手动干预换挡。",
+            "analysis_zh-Hant": "自動擋也需要手動干預換擋。"
+        }
+    },
+    {
+        "id": 1027,
+        "category": "General Knowledge",
+        "question": {
+            "en": "How often should you check your mirrors while driving?",
+            "zh-Hans": "驾驶时应该多久检查一次后视镜？",
+            "zh-Hant": "駕駛時應該多久檢查一次後視鏡？"
+        },
+        "options": {
+            "A": {
+                "en": "Every 5-8 seconds",
+                "zh-Hans": "每5-8秒",
+                "zh-Hant": "每5-8秒"
+            },
+            "B": {
+                "en": "Every 30 seconds",
+                "zh-Hans": "每30秒",
+                "zh-Hant": "每30秒"
+            },
+            "C": {
+                "en": "Only when changing lanes",
+                "zh-Hans": "只在变道时",
+                "zh-Hant": "只在變道時"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Check mirrors regularly, every 5-8 seconds, and before braking, lane changes, and turns.",
+            "zh-Hans": "定期检查后视镜，每5-8秒一次，以及在刹车、变道和转弯前。",
+            "zh-Hant": "定期檢查後視鏡，每5-8秒一次，以及在剎車、變道和轉彎前。"
+        },
+        "dmv_ref": {
+            "page": "2-23",
+            "section": "Seeing",
+            "analysis_zh-Hans": "5-8秒是关键数字。",
+            "analysis_zh-Hant": "5-8秒是關鍵數字。"
+        }
+    },
+    {
+        "id": 1028,
+        "category": "General Knowledge",
+        "question": {
+            "en": "A vehicle marked with a red triangle slow moving vehicle sign means:",
+            "zh-Hans": "标有红色三角形慢速车辆标志的车辆表示：",
+            "zh-Hant": "標有紅色三角形慢速車輛標誌的車輛表示："
+        },
+        "options": {
+            "A": {
+                "en": "The vehicle is carrying hazardous materials",
+                "zh-Hans": "该车辆运载危险品",
+                "zh-Hant": "該車輛運載危險品"
+            },
+            "B": {
+                "en": "The vehicle travels at speeds of 25 mph or less",
+                "zh-Hans": "该车辆行驶速度在25英里/小时或以下",
+                "zh-Hant": "該車輛行駛速度在25英里/小時或以下"
+            },
+            "C": {
+                "en": "The vehicle is about to make a turn",
+                "zh-Hans": "该车辆即将转弯",
+                "zh-Hant": "該車輛即將轉彎"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "The orange/red triangle identifies slow-moving vehicles traveling at 25 mph or less.",
+            "zh-Hans": "橙色/红色三角标志表示该车辆行驶速度在25英里/小时或以下。",
+            "zh-Hant": "橙色/紅色三角標誌表示該車輛行駛速度在25英里/小時或以下。"
+        },
+        "dmv_ref": {
+            "page": "2-26",
+            "section": "Slow Vehicles",
+            "analysis_zh-Hans": "农用车辆常见此标志。",
+            "analysis_zh-Hant": "農用車輛常見此標誌。"
+        }
+    },
+    {
+        "id": 1029,
+        "category": "General Knowledge",
+        "question": {
+            "en": "You are checking your brakes during a pre-trip inspection. The brake pedal should:",
+            "zh-Hans": "行前检查刹车时，刹车踏板应该：",
+            "zh-Hant": "行前檢查剎車時，剎車踏板應該："
+        },
+        "options": {
+            "A": {
+                "en": "Go all the way to the floor",
+                "zh-Hans": "踩到底",
+                "zh-Hant": "踩到底"
+            },
+            "B": {
+                "en": "Not go down more than 1 inch",
+                "zh-Hans": "下沉不超过1英寸",
+                "zh-Hant": "下沉不超過1英寸"
+            },
+            "C": {
+                "en": "Feel firm and not sink under steady pressure",
+                "zh-Hans": "感觉结实，在稳定压力下不下沉",
+                "zh-Hant": "感覺結實，在穩定壓力下不下沉"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "The brake pedal should feel firm. If it sinks slowly, there may be a hydraulic leak.",
+            "zh-Hans": "刹车踏板应该感觉结实。如果缓慢下沉，可能有液压泄漏。",
+            "zh-Hant": "剎車踏板應該感覺結實。如果緩慢下沉，可能有液壓洩漏。"
+        },
+        "dmv_ref": {
+            "page": "2-5",
+            "section": "Brakes",
+            "analysis_zh-Hans": "软踏板可能意味着制动液泄漏。",
+            "analysis_zh-Hant": "軟踏板可能意味著制動液洩漏。"
+        }
+    },
+    {
+        "id": 1030,
+        "category": "General Knowledge",
+        "question": {
+            "en": "When should you use your four-way flashers?",
+            "zh-Hans": "什么时候应该使用双闪灯？",
+            "zh-Hant": "什麼時候應該使用雙閃燈？"
+        },
+        "options": {
+            "A": {
+                "en": "When driving slowly",
+                "zh-Hans": "慢速行驶时",
+                "zh-Hant": "慢速行駛時"
+            },
+            "B": {
+                "en": "When stopped or driving very slowly on the roadway",
+                "zh-Hans": "在道路上停车或非常缓慢行驶时",
+                "zh-Hant": "在道路上停車或非常緩慢行駛時"
+            },
+            "C": {
+                "en": "When making turns",
+                "zh-Hans": "转弯时",
+                "zh-Hant": "轉彎時"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Use flashers when you are stopped or driving slowly on the roadway to warn other drivers.",
+            "zh-Hans": "在道路上停车或非常缓慢行驶时使用双闪灯，警告其他司机。",
+            "zh-Hant": "在道路上停車或非常緩慢行駛時使用雙閃燈，警告其他司機。"
+        },
+        "dmv_ref": {
+            "page": "2-22",
+            "section": "Signaling",
+            "analysis_zh-Hans": "双闪用于警示异常情况。",
+            "analysis_zh-Hant": "雙閃用於警示異常情況。"
+        }
+    }
+]

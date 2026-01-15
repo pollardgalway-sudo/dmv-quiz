@@ -1,0 +1,382 @@
+[
+    {
+        "id": 2011,
+        "category": "Air Brakes",
+        "question": {
+            "en": "The governor controls when the air compressor will pump air into the storage tanks. It is set to cut-out at about:",
+            "zh-Hans": "调压阀 (Governor) 控制空气压缩机何时向储气罐充气。它设置为在大约 ___ psi 时停止充气 (Cut-out)。",
+            "zh-Hant": "調壓閥 (Governor) 控制空氣壓縮機何時向儲氣罐充氣。它設置為在大約 ___ psi 時停止充氣 (Cut-out)。"
+        },
+        "options": {
+            "A": {
+                "en": "100 psi",
+                "zh-Hans": "100 psi",
+                "zh-Hant": "100 psi"
+            },
+            "B": {
+                "en": "125 psi",
+                "zh-Hans": "125 psi",
+                "zh-Hant": "125 psi"
+            },
+            "C": {
+                "en": "150 psi",
+                "zh-Hans": "150 psi",
+                "zh-Hant": "150 psi"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "The governor cut-out is around 125 psi. It cuts-in (starts pumping) at around 100 psi.",
+            "zh-Hans": "调压阀在约125 psi时停止充气（Cut-out），在约100 psi时开始充气（Cut-in）。",
+            "zh-Hant": "調壓閥在約125 psi時停止充氣（Cut-out），在約100 psi時開始充氣（Cut-in）。"
+        },
+        "dmv_ref": {
+            "page": "5-1",
+            "section": "Governor",
+            "analysis_zh-Hans": "100 cut-in, 125 cut-out是必考数字。",
+            "analysis_zh-Hant": "100 cut-in, 125 cut-out是必考數字。"
+        }
+    },
+    {
+        "id": 2012,
+        "category": "Air Brakes",
+        "question": {
+            "en": "What tells you how much air pressure is in the air tanks?",
+            "zh-Hans": "什么告诉你储气罐里有多少气压？",
+            "zh-Hant": "什麼告訴你儲氣罐裡有多少氣壓？"
+        },
+        "options": {
+            "A": {
+                "en": "Air gauge",
+                "zh-Hans": "气压表",
+                "zh-Hant": "氣壓表"
+            },
+            "B": {
+                "en": "Governor",
+                "zh-Hans": "调压阀",
+                "zh-Hant": "調壓閥"
+            },
+            "C": {
+                "en": "Tachometer",
+                "zh-Hans": "转速表",
+                "zh-Hant": "轉速表"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "The air pressure gauge shows how much pressure is in the air tanks.",
+            "zh-Hans": "气压表显示储气罐中的压力。",
+            "zh-Hant": "氣壓表顯示儲氣罐中的壓力。"
+        },
+        "dmv_ref": {
+            "page": "5-3",
+            "section": "Gauges",
+            "analysis_zh-Hans": "每次行前检查都要看气压表。",
+            "analysis_zh-Hant": "每次行前檢查都要看氣壓表。"
+        }
+    },
+    {
+        "id": 2013,
+        "category": "Air Brakes",
+        "question": {
+            "en": "The low air pressure warning light should come on before the pressure drops below:",
+            "zh-Hans": "低气压警告灯应在气压低于 ___ psi 之前亮起。",
+            "zh-Hant": "低氣壓警告燈應在氣壓低於 ___ psi 之前亮起。"
+        },
+        "options": {
+            "A": {
+                "en": "40 psi",
+                "zh-Hans": "40 psi",
+                "zh-Hant": "40 psi"
+            },
+            "B": {
+                "en": "55 psi",
+                "zh-Hans": "55 psi",
+                "zh-Hant": "55 psi"
+            },
+            "C": {
+                "en": "60 psi",
+                "zh-Hans": "60 psi",
+                "zh-Hant": "60 psi"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "The warning light should come on before pressure drops below 60 psi.",
+            "zh-Hans": "警告灯应在气压低于60 psi之前亮起。",
+            "zh-Hant": "警告燈應在氣壓低於60 psi之前亮起。"
+        },
+        "dmv_ref": {
+            "page": "5-4",
+            "section": "Warning Light",
+            "analysis_zh-Hans": "60 psi是警报触发点。",
+            "analysis_zh-Hant": "60 psi是警報觸發點。"
+        }
+    },
+    {
+        "id": 2014,
+        "category": "Air Brakes",
+        "question": {
+            "en": "If the air compressor has a water-cooled oil cooler, you should check the:",
+            "zh-Hans": "如果空气压缩机有水冷油冷器，你应该检查：",
+            "zh-Hant": "如果空氣壓縮機有水冷油冷器，你應該檢查："
+        },
+        "options": {
+            "A": {
+                "en": "Tire pressure",
+                "zh-Hans": "轮胎气压",
+                "zh-Hant": "輪胎氣壓"
+            },
+            "B": {
+                "en": "Oil supply and hose connections for leaks",
+                "zh-Hans": "油位和软管连接是否泄漏",
+                "zh-Hant": "油位和軟管連接是否洩漏"
+            },
+            "C": {
+                "en": "Transmission fluid",
+                "zh-Hans": "变速箱油",
+                "zh-Hant": "變速箱油"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Check the oil supply and look for leaks in the hose connections.",
+            "zh-Hans": "检查油位并检查软管连接是否有泄漏。",
+            "zh-Hant": "檢查油位並檢查軟管連接是否有洩漏。"
+        },
+        "dmv_ref": {
+            "page": "5-2",
+            "section": "Air Compressor",
+            "analysis_zh-Hans": "压缩机保养的基本检查项。",
+            "analysis_zh-Hant": "壓縮機保養的基本檢查項。"
+        }
+    },
+    {
+        "id": 2015,
+        "category": "Air Brakes",
+        "question": {
+            "en": "The modulating control valve is used to:",
+            "zh-Hans": "调节控制阀 (Modulating Control Valve) 用于：",
+            "zh-Hant": "調節控制閥 (Modulating Control Valve) 用於："
+        },
+        "options": {
+            "A": {
+                "en": "Apply the parking brakes gradually when parking",
+                "zh-Hans": "在驻车时逐渐施加驻车制动",
+                "zh-Hant": "在駐車時逐漸施加駐車制動"
+            },
+            "B": {
+                "en": "Apply the spring brakes gradually",
+                "zh-Hans": "逐渐施加弹簧刹车",
+                "zh-Hant": "逐漸施加彈簧剎車"
+            },
+            "C": {
+                "en": "Start the engine",
+                "zh-Hans": "启动发动机",
+                "zh-Hant": "啟動發動機"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Some vehicles have a modulating control valve that allows the driver to apply spring brakes gradually.",
+            "zh-Hans": "一些车辆有调节控制阀，允许司机逐渐施加弹簧刹车。",
+            "zh-Hant": "一些車輛有調節控制閥，允許司機逐漸施加彈簧剎車。"
+        },
+        "dmv_ref": {
+            "page": "5-5",
+            "section": "Modulating Valve",
+            "analysis_zh-Hans": "用于紧急情况下控制弹簧刹车。",
+            "analysis_zh-Hant": "用於緊急情況下控制彈簧剎車。"
+        }
+    },
+    {
+        "id": 2016,
+        "category": "Air Brakes",
+        "question": {
+            "en": "Total stopping distance for air brakes is longer than hydraulic brakes because:",
+            "zh-Hans": "气刹的总制动距离比液压刹车更长，因为：",
+            "zh-Hant": "氣剎的總制動距離比液壓剎車更長，因為："
+        },
+        "options": {
+            "A": {
+                "en": "Air takes time to travel through the lines (brake lag)",
+                "zh-Hans": "空气在管路中传输需要时间（刹车延迟）",
+                "zh-Hant": "空氣在管路中傳輸需要時間（剎車延遲）"
+            },
+            "B": {
+                "en": "Air brakes are weaker",
+                "zh-Hans": "气刹更弱",
+                "zh-Hant": "氣剎更弱"
+            },
+            "C": {
+                "en": "Air brakes are only on the rear wheels",
+                "zh-Hans": "气刹只在后轮",
+                "zh-Hant": "氣剎只在後輪"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Brake lag (time for air to travel through lines) adds about 1/2 second or 32 feet at 55 mph.",
+            "zh-Hans": "刹车延迟（空气通过管路的时间）增加了约1/2秒，在55英里/小时时约32英尺。",
+            "zh-Hant": "剎車延遲（空氣通過管路的時間）增加了約1/2秒，在55英里/小時時約32英尺。"
+        },
+        "dmv_ref": {
+            "page": "5-9",
+            "section": "Brake Lag",
+            "analysis_zh-Hans": "这是气刹特有的，液压刹没有。",
+            "analysis_zh-Hant": "這是氣剎特有的，液壓剎沒有。"
+        }
+    },
+    {
+        "id": 2017,
+        "category": "Air Brakes",
+        "question": {
+            "en": "What happens if the pushrod travel exceeds the adjustment limit?",
+            "zh-Hans": "如果推杆行程超过调整限制会怎样？",
+            "zh-Hant": "如果推桿行程超過調整限制會怎樣？"
+        },
+        "options": {
+            "A": {
+                "en": "The brakes will be more effective",
+                "zh-Hans": "刹车会更有效",
+                "zh-Hant": "剎車會更有效"
+            },
+            "B": {
+                "en": "Braking power will be reduced",
+                "zh-Hans": "制动力会降低",
+                "zh-Hant": "制動力會降低"
+            },
+            "C": {
+                "en": "The air compressor will work harder",
+                "zh-Hans": "空气压缩机会更费力",
+                "zh-Hant": "空氣壓縮機會更費力"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "If pushrod travel is too long, the brakes won't work as well or may fail completely.",
+            "zh-Hans": "如果推杆行程过长，刹车效果会下降甚至完全失效。",
+            "zh-Hant": "如果推桿行程過長，剎車效果會下降甚至完全失效。"
+        },
+        "dmv_ref": {
+            "page": "5-8",
+            "section": "Pushrod Travel",
+            "analysis_zh-Hans": "推杆行程过大=刹车失效。",
+            "analysis_zh-Hant": "推桿行程過大=剎車失效。"
+        }
+    },
+    {
+        "id": 2018,
+        "category": "Air Brakes",
+        "question": {
+            "en": "To make an emergency stop with air brakes, you should:",
+            "zh-Hans": "要用气刹进行紧急制动，你应该：",
+            "zh-Hant": "要用氣剎進行緊急制動，你應該："
+        },
+        "options": {
+            "A": {
+                "en": "Push the brake pedal down as hard as you can",
+                "zh-Hans": "尽可能用力踩下刹车踏板",
+                "zh-Hant": "盡可能用力踩下剎車踏板"
+            },
+            "B": {
+                "en": "Apply pressure until wheels lock, then release and reapply",
+                "zh-Hans": "用力踩直到车轮锁死，然后松开再踩",
+                "zh-Hant": "用力踩直到車輪鎖死，然後鬆開再踩"
+            },
+            "C": {
+                "en": "Only use the parking brake",
+                "zh-Hans": "只使用驻车刹",
+                "zh-Hant": "只使用駐車剎"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Use the braking power you have. Push the pedal all the way down if necessary.",
+            "zh-Hans": "使用你拥有的所有制动力。如果需要，把踏板踩到底。",
+            "zh-Hant": "使用你擁有的所有制動力。如果需要，把踏板踩到底。"
+        },
+        "dmv_ref": {
+            "page": "5-10",
+            "section": "Emergency Braking",
+            "analysis_zh-Hans": "有ABS踩住，没ABS点刹。",
+            "analysis_zh-Hant": "有ABS踩住，沒ABS點剎。"
+        }
+    },
+    {
+        "id": 2019,
+        "category": "Air Brakes",
+        "question": {
+            "en": "The parking or emergency brake on a heavy vehicle is applied by:",
+            "zh-Hans": "重型车辆的驻车或紧急制动是通过以下方式施加的：",
+            "zh-Hant": "重型車輛的駐車或緊急制動是通過以下方式施加的："
+        },
+        "options": {
+            "A": {
+                "en": "Spring pressure",
+                "zh-Hans": "弹簧压力",
+                "zh-Hant": "彈簧壓力"
+            },
+            "B": {
+                "en": "Air pressure",
+                "zh-Hans": "气压",
+                "zh-Hant": "氣壓"
+            },
+            "C": {
+                "en": "Hydraulic pressure",
+                "zh-Hans": "液压",
+                "zh-Hant": "液壓"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Parking brakes are applied by spring pressure and released by air pressure.",
+            "zh-Hans": "驻车制动由弹簧压力施加，由气压释放。",
+            "zh-Hant": "駐車制動由彈簧壓力施加，由氣壓釋放。"
+        },
+        "dmv_ref": {
+            "page": "5-5",
+            "section": "Spring Brakes",
+            "analysis_zh-Hans": "记住：弹簧刹车是fail-safe设计。",
+            "analysis_zh-Hant": "記住：彈簧剎車是fail-safe設計。"
+        }
+    },
+    {
+        "id": 2020,
+        "category": "Air Brakes",
+        "question": {
+            "en": "The air compressor is connected to the engine through:",
+            "zh-Hans": "空气压缩机通过 ___ 与发动机连接：",
+            "zh-Hant": "空氣壓縮機通過 ___ 與發動機連接："
+        },
+        "options": {
+            "A": {
+                "en": "The drive shaft",
+                "zh-Hans": "传动轴",
+                "zh-Hant": "傳動軸"
+            },
+            "B": {
+                "en": "Gears or a v-belt",
+                "zh-Hans": "齿轮或V型皮带",
+                "zh-Hant": "齒輪或V型皮帶"
+            },
+            "C": {
+                "en": "Air hoses",
+                "zh-Hans": "气管",
+                "zh-Hant": "氣管"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "The compressor is connected to the engine through gears or a v-belt.",
+            "zh-Hans": "压缩机通过齿轮或V型皮带与发动机连接。",
+            "zh-Hant": "壓縮機通過齒輪或V型皮帶與發動機連接。"
+        },
+        "dmv_ref": {
+            "page": "5-1",
+            "section": "Air Compressor",
+            "analysis_zh-Hans": "发动机运转时压缩机才工作。",
+            "analysis_zh-Hant": "發動機運轉時壓縮機才工作。"
+        }
+    }
+]

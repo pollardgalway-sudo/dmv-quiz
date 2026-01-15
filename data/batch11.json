@@ -1,0 +1,382 @@
+[
+    {
+        "id": 1111,
+        "category": "General Knowledge",
+        "question": {
+            "en": "ABS (Anti-lock Braking System) helps you:",
+            "zh-Hans": "ABS（防抱死制动系统）帮助你：",
+            "zh-Hant": "ABS（防抱死制動系統）幫助你："
+        },
+        "options": {
+            "A": {
+                "en": "Stop faster",
+                "zh-Hans": "更快停车",
+                "zh-Hant": "更快停車"
+            },
+            "B": {
+                "en": "Maintain steering control while braking hard",
+                "zh-Hans": "在用力刹车时保持转向控制",
+                "zh-Hant": "在用力剎車時保持轉向控制"
+            },
+            "C": {
+                "en": "Stop on wet roads only",
+                "zh-Hans": "只在湿滑路面停车",
+                "zh-Hant": "只在濕滑路面停車"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "ABS helps you maintain steering control during hard braking by preventing wheel lockup.",
+            "zh-Hans": "ABS通过防止车轮锁死，帮助你在用力刹车时保持转向控制。",
+            "zh-Hant": "ABS通過防止車輪鎖死，幫助你在用力剎車時保持轉向控制。"
+        },
+        "dmv_ref": {
+            "page": "2-29",
+            "section": "ABS",
+            "analysis_zh-Hans": "ABS不缩短距离，只保持转向。",
+            "analysis_zh-Hant": "ABS不縮短距離，只保持轉向。"
+        }
+    },
+    {
+        "id": 1112,
+        "category": "General Knowledge",
+        "question": {
+            "en": "What does an ABS warning light mean if it stays on?",
+            "zh-Hans": "如果ABS警告灯保持亮起是什么意思？",
+            "zh-Hant": "如果ABS警告燈保持亮起是什麼意思？"
+        },
+        "options": {
+            "A": {
+                "en": "ABS is working normally",
+                "zh-Hans": "ABS正常工作",
+                "zh-Hant": "ABS正常工作"
+            },
+            "B": {
+                "en": "ABS is not working",
+                "zh-Hans": "ABS不工作",
+                "zh-Hant": "ABS不工作"
+            },
+            "C": {
+                "en": "Brakes have failed completely",
+                "zh-Hans": "刹车完全失灵",
+                "zh-Hant": "剎車完全失靈"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "If ABS light stays on, the ABS is not working. You still have normal brakes, but not anti-lock.",
+            "zh-Hans": "如果ABS灯保持亮起，ABS不工作。你仍有普通刹车，但没有防抱死功能。",
+            "zh-Hant": "如果ABS燈保持亮起，ABS不工作。你仍有普通剎車，但沒有防抱死功能。"
+        },
+        "dmv_ref": {
+            "page": "2-29",
+            "section": "ABS Warning",
+            "analysis_zh-Hans": "ABS故障≠刹车故障。",
+            "analysis_zh-Hant": "ABS故障≠剎車故障。"
+        }
+    },
+    {
+        "id": 1113,
+        "category": "General Knowledge",
+        "question": {
+            "en": "When driving with ABS, if your brakes lock up, you should:",
+            "zh-Hans": "驾驶有ABS的车辆时，如果刹车锁死，你应该：",
+            "zh-Hant": "駕駛有ABS的車輛時，如果剎車鎖死，你應該："
+        },
+        "options": {
+            "A": {
+                "en": "Release and reapply the brakes",
+                "zh-Hans": "松开并重新踩刹车",
+                "zh-Hant": "鬆開並重新踩剎車"
+            },
+            "B": {
+                "en": "Keep firm, continuous pressure on the brake pedal",
+                "zh-Hans": "持续用力踩住刹车踏板",
+                "zh-Hant": "持續用力踩住剎車踏板"
+            },
+            "C": {
+                "en": "Pump the brakes",
+                "zh-Hans": "泵踩刹车",
+                "zh-Hant": "泵踩剎車"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "With ABS, maintain steady pressure. The system will pump the brakes automatically.",
+            "zh-Hans": "有ABS时，保持稳定压力。系统会自动泵踩刹车。",
+            "zh-Hant": "有ABS時，保持穩定壓力。系統會自動泵踩剎車。"
+        },
+        "dmv_ref": {
+            "page": "2-29",
+            "section": "Using ABS",
+            "analysis_zh-Hans": "ABS会自动点刹，你只需踩住。",
+            "analysis_zh-Hant": "ABS會自動點剎，你只需踩住。"
+        }
+    },
+    {
+        "id": 1114,
+        "category": "General Knowledge",
+        "question": {
+            "en": "How many hours of off-duty time is required before driving again?",
+            "zh-Hans": "再次驾驶前需要多少小时的休息时间？",
+            "zh-Hant": "再次駕駛前需要多少小時的休息時間？"
+        },
+        "options": {
+            "A": {
+                "en": "8 hours",
+                "zh-Hans": "8小时",
+                "zh-Hant": "8小時"
+            },
+            "B": {
+                "en": "10 hours",
+                "zh-Hans": "10小时",
+                "zh-Hant": "10小時"
+            },
+            "C": {
+                "en": "7 hours",
+                "zh-Hans": "7小时",
+                "zh-Hant": "7小時"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "You need 10 consecutive hours off duty before driving again.",
+            "zh-Hans": "再次驾驶前需要连续10小时的休息时间。",
+            "zh-Hant": "再次駕駛前需要連續10小時的休息時間。"
+        },
+        "dmv_ref": {
+            "page": "1-9",
+            "section": "Hours of Service",
+            "analysis_zh-Hans": "10休息-11驾驶-14值班。",
+            "analysis_zh-Hant": "10休息-11駕駛-14值班。"
+        }
+    },
+    {
+        "id": 1115,
+        "category": "General Knowledge",
+        "question": {
+            "en": "The 14-hour rule means:",
+            "zh-Hans": "14小时规则是指：",
+            "zh-Hant": "14小時規則是指："
+        },
+        "options": {
+            "A": {
+                "en": "You must take a 14-hour break",
+                "zh-Hans": "你必须休息14小时",
+                "zh-Hant": "你必須休息14小時"
+            },
+            "B": {
+                "en": "You may not drive after 14 consecutive hours on duty",
+                "zh-Hans": "连续值班14小时后不得驾驶",
+                "zh-Hant": "連續值班14小時後不得駕駛"
+            },
+            "C": {
+                "en": "You must drive 14 hours per day",
+                "zh-Hans": "你必须每天驾驶14小时",
+                "zh-Hant": "你必須每天駕駛14小時"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "The 14-hour window starts when you come on duty. All driving must be completed within this window.",
+            "zh-Hans": "14小时窗口从你开始值班时计算。所有驾驶必须在此窗口内完成。",
+            "zh-Hant": "14小時窗口從你開始值班時計算。所有駕駛必須在此窗口內完成。"
+        },
+        "dmv_ref": {
+            "page": "1-9",
+            "section": "Hours of Service",
+            "analysis_zh-Hans": "14小时包括驾驶和非驾驶值班时间。",
+            "analysis_zh-Hant": "14小時包括駕駛和非駕駛值班時間。"
+        }
+    },
+    {
+        "id": 1116,
+        "category": "General Knowledge",
+        "question": {
+            "en": "What does the 60/70 hour rule refer to?",
+            "zh-Hans": "60/70小时规则是指什么？",
+            "zh-Hant": "60/70小時規則是指什麼？"
+        },
+        "options": {
+            "A": {
+                "en": "Maximum miles driven",
+                "zh-Hans": "最大行驶里程",
+                "zh-Hant": "最大行駛里程"
+            },
+            "B": {
+                "en": "Maximum hours on duty in 7/8 consecutive days",
+                "zh-Hans": "连续7/8天内的最大值班时间",
+                "zh-Hant": "連續7/8天內的最大值班時間"
+            },
+            "C": {
+                "en": "Maximum speed limit",
+                "zh-Hans": "最高限速",
+                "zh-Hant": "最高限速"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "60 hours in 7 days OR 70 hours in 8 days maximum on-duty time.",
+            "zh-Hans": "7天内最多60小时或8天内最多70小时的值班时间。",
+            "zh-Hant": "7天內最多60小時或8天內最多70小時的值班時間。"
+        },
+        "dmv_ref": {
+            "page": "1-9",
+            "section": "Hours of Service",
+            "analysis_zh-Hans": "60/7或70/8是累计值班上限。",
+            "analysis_zh-Hant": "60/7或70/8是累計值班上限。"
+        }
+    },
+    {
+        "id": 1117,
+        "category": "General Knowledge",
+        "question": {
+            "en": "What is the minimum amount of liability insurance required for general freight?",
+            "zh-Hans": "普通货物的最低责任保险金额是多少？",
+            "zh-Hant": "普通貨物的最低責任保險金額是多少？"
+        },
+        "options": {
+            "A": {
+                "en": "$300,000",
+                "zh-Hans": "30万美元",
+                "zh-Hant": "30萬美元"
+            },
+            "B": {
+                "en": "$750,000",
+                "zh-Hans": "75万美元",
+                "zh-Hant": "75萬美元"
+            },
+            "C": {
+                "en": "$1,000,000",
+                "zh-Hans": "100万美元",
+                "zh-Hant": "100萬美元"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "General freight carriers must have at least $750,000 in liability insurance.",
+            "zh-Hans": "普通货物承运人必须至少有75万美元的责任保险。",
+            "zh-Hant": "普通貨物承運人必須至少有75萬美元的責任保險。"
+        },
+        "dmv_ref": {
+            "page": "1-6",
+            "section": "Insurance",
+            "analysis_zh-Hans": "普通货物75万，危险品500万。",
+            "analysis_zh-Hant": "普通貨物75萬，危險品500萬。"
+        }
+    },
+    {
+        "id": 1118,
+        "category": "General Knowledge",
+        "question": {
+            "en": "Stopping distance at 55 mph on dry pavement is about:",
+            "zh-Hans": "在干燥路面上以55英里/小时行驶的制动距离约为：",
+            "zh-Hant": "在乾燥路面上以55英里/小時行駛的制動距離約為："
+        },
+        "options": {
+            "A": {
+                "en": "100 feet",
+                "zh-Hans": "100英尺",
+                "zh-Hant": "100英尺"
+            },
+            "B": {
+                "en": "200 feet",
+                "zh-Hans": "200英尺",
+                "zh-Hant": "200英尺"
+            },
+            "C": {
+                "en": "Over 300 feet",
+                "zh-Hans": "超过300英尺",
+                "zh-Hant": "超過300英尺"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "At 55 mph, it takes about 335 feet to stop on dry pavement (perception + reaction + braking).",
+            "zh-Hans": "以55英里/小时的速度，在干燥路面上大约需要335英尺来停车（感知+反应+制动）。",
+            "zh-Hant": "以55英里/小時的速度，在乾燥路面上大約需要335英尺來停車（感知+反應+制動）。"
+        },
+        "dmv_ref": {
+            "page": "2-17",
+            "section": "Stopping Distance",
+            "analysis_zh-Hans": "55mph≈335英尺。",
+            "analysis_zh-Hant": "55mph≈335英尺。"
+        }
+    },
+    {
+        "id": 1119,
+        "category": "General Knowledge",
+        "question": {
+            "en": "You should avoid driving next to other vehicles because:",
+            "zh-Hans": "你应该避免与其他车辆并排行驶，因为：",
+            "zh-Hant": "你應該避免與其他車輛並排行駛，因為："
+        },
+        "options": {
+            "A": {
+                "en": "It's illegal",
+                "zh-Hans": "这是违法的",
+                "zh-Hant": "這是違法的"
+            },
+            "B": {
+                "en": "Someone may change lanes and hit you",
+                "zh-Hans": "有人可能变道撞到你",
+                "zh-Hant": "有人可能變道撞到你"
+            },
+            "C": {
+                "en": "It uses more fuel",
+                "zh-Hans": "这会消耗更多燃料",
+                "zh-Hant": "這會消耗更多燃料"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Don't stay in other drivers' blind spots. Either pass or drop back.",
+            "zh-Hans": "不要停留在其他司机的盲区。要么超车，要么后退。",
+            "zh-Hant": "不要停留在其他司機的盲區。要麼超車，要麼後退。"
+        },
+        "dmv_ref": {
+            "page": "2-24",
+            "section": "Space Management",
+            "analysis_zh-Hans": "避开盲区=避开危险。",
+            "analysis_zh-Hant": "避開盲區=避開危險。"
+        }
+    },
+    {
+        "id": 1120,
+        "category": "General Knowledge",
+        "question": {
+            "en": "What should you do if oncoming traffic has its high beams on?",
+            "zh-Hans": "如果对面来车开着远光灯，你应该怎么做？",
+            "zh-Hant": "如果對面來車開著遠光燈，你應該怎麼做？"
+        },
+        "options": {
+            "A": {
+                "en": "Turn on your high beams too",
+                "zh-Hans": "也打开你的远光灯",
+                "zh-Hant": "也打開你的遠光燈"
+            },
+            "B": {
+                "en": "Look toward the right edge of your lane",
+                "zh-Hans": "看向你车道的右边缘",
+                "zh-Hant": "看向你車道的右邊緣"
+            },
+            "C": {
+                "en": "Flash your lights repeatedly",
+                "zh-Hans": "反复闪灯",
+                "zh-Hant": "反覆閃燈"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Look toward the right edge of your lane to avoid being blinded. Flash once to signal them.",
+            "zh-Hans": "看向你车道的右边缘以避免被眩目。可以闪一次灯提示对方。",
+            "zh-Hant": "看向你車道的右邊緣以避免被眩目。可以閃一次燈提示對方。"
+        },
+        "dmv_ref": {
+            "page": "2-30",
+            "section": "Night Driving",
+            "analysis_zh-Hans": "看右边，避免直视眩光。",
+            "analysis_zh-Hant": "看右邊，避免直視眩光。"
+        }
+    }
+]

@@ -1,0 +1,382 @@
+[
+    {
+        "id": 1081,
+        "category": "General Knowledge",
+        "question": {
+            "en": "What is a common cause of truck fires?",
+            "zh-Hans": "卡车火灾的常见原因是什么？",
+            "zh-Hant": "卡車火災的常見原因是什麼？"
+        },
+        "options": {
+            "A": {
+                "en": "Clean exhaust system",
+                "zh-Hans": "干净的排气系统",
+                "zh-Hant": "乾淨的排氣系統"
+            },
+            "B": {
+                "en": "Spilled fuel, poor electrical wiring",
+                "zh-Hans": "燃油泄漏、电线不良",
+                "zh-Hant": "燃油洩漏、電線不良"
+            },
+            "C": {
+                "en": "Regular maintenance",
+                "zh-Hans": "定期保养",
+                "zh-Hant": "定期保養"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Spilled fuel, electrical shorts, and improper use of flares are common causes of truck fires.",
+            "zh-Hans": "燃油泄漏、电气短路和不当使用照明弹是卡车火灾的常见原因。",
+            "zh-Hant": "燃油洩漏、電氣短路和不當使用照明彈是卡車火災的常見原因。"
+        },
+        "dmv_ref": {
+            "page": "2-37",
+            "section": "Fire Causes",
+            "analysis_zh-Hans": "预防胜于救火。",
+            "analysis_zh-Hant": "預防勝於救火。"
+        }
+    },
+    {
+        "id": 1082,
+        "category": "General Knowledge",
+        "question": {
+            "en": "If your engine catches fire, you should:",
+            "zh-Hans": "如果发动机着火，你应该：",
+            "zh-Hant": "如果發動機著火，你應該："
+        },
+        "options": {
+            "A": {
+                "en": "Open the hood wide to access the fire",
+                "zh-Hans": "打开引擎盖以接近火源",
+                "zh-Hant": "打開引擎蓋以接近火源"
+            },
+            "B": {
+                "en": "Shoot the extinguisher through louvers, grille, or gap under the hood",
+                "zh-Hans": "通过百叶窗、格栅或引擎盖缝隙喷射灭火器",
+                "zh-Hant": "通過百葉窗、格柵或引擎蓋縫隙噴射滅火器"
+            },
+            "C": {
+                "en": "Pour water on the engine",
+                "zh-Hans": "往发动机上浇水",
+                "zh-Hant": "往發動機上澆水"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Don't open the hood wide - more air feeds the fire. Spray through openings without fully opening.",
+            "zh-Hans": "不要完全打开引擎盖——更多空气会助燃。通过缝隙喷射灭火器。",
+            "zh-Hant": "不要完全打開引擎蓋——更多空氣會助燃。通過縫隙噴射滅火器。"
+        },
+        "dmv_ref": {
+            "page": "2-37",
+            "section": "Fighting Fires",
+            "analysis_zh-Hans": "开盖=加氧=火更大。",
+            "analysis_zh-Hant": "開蓋=加氧=火更大。"
+        }
+    },
+    {
+        "id": 1083,
+        "category": "General Knowledge",
+        "question": {
+            "en": "Which of these statements about using turn signals is correct?",
+            "zh-Hans": "关于使用转向灯，以下哪项陈述是正确的？",
+            "zh-Hant": "關於使用轉向燈，以下哪項陳述是正確的？"
+        },
+        "options": {
+            "A": {
+                "en": "Signal only if other vehicles are visible",
+                "zh-Hans": "只有看到其他车辆时才打灯",
+                "zh-Hant": "只有看到其他車輛時才打燈"
+            },
+            "B": {
+                "en": "Signal 100 feet before turning on city streets",
+                "zh-Hans": "在城市道路上转弯前100英尺打灯",
+                "zh-Hant": "在城市道路上轉彎前100英尺打燈"
+            },
+            "C": {
+                "en": "Signaling is optional at night",
+                "zh-Hans": "夜间打灯是可选的",
+                "zh-Hant": "夜間打燈是可選的"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Signal at least 100 feet before turning on city streets, and 5 seconds before lane changes on highways.",
+            "zh-Hans": "城市道路上转弯前至少100英尺打灯，高速公路变道前5秒打灯。",
+            "zh-Hant": "城市道路上轉彎前至少100英尺打燈，高速公路變道前5秒打燈。"
+        },
+        "dmv_ref": {
+            "page": "2-22",
+            "section": "Signaling",
+            "analysis_zh-Hans": "100英尺(城市)和5秒(高速)是关键数字。",
+            "analysis_zh-Hant": "100英尺(城市)和5秒(高速)是關鍵數字。"
+        }
+    },
+    {
+        "id": 1084,
+        "category": "General Knowledge",
+        "question": {
+            "en": "When making a left turn, you should begin in the:",
+            "zh-Hans": "左转时，你应该从哪条车道开始？",
+            "zh-Hant": "左轉時，你應該從哪條車道開始？"
+        },
+        "options": {
+            "A": {
+                "en": "Right lane",
+                "zh-Hans": "右车道",
+                "zh-Hant": "右車道"
+            },
+            "B": {
+                "en": "Lane closest to the center line",
+                "zh-Hans": "最靠近中心线的车道",
+                "zh-Hant": "最靠近中心線的車道"
+            },
+            "C": {
+                "en": "Any lane",
+                "zh-Hans": "任何车道",
+                "zh-Hant": "任何車道"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Start left turns from the lane closest to the center line and end in the same lane closest to the center.",
+            "zh-Hans": "从最靠近中心线的车道开始左转，并结束在同样位置的车道。",
+            "zh-Hant": "從最靠近中心線的車道開始左轉，並結束在同樣位置的車道。"
+        },
+        "dmv_ref": {
+            "page": "2-13",
+            "section": "Turning",
+            "analysis_zh-Hans": "左转从左道，右转从右道。",
+            "analysis_zh-Hant": "左轉從左道，右轉從右道。"
+        }
+    },
+    {
+        "id": 1085,
+        "category": "General Knowledge",
+        "question": {
+            "en": "Overloading a vehicle can have all of these effects EXCEPT:",
+            "zh-Hans": "超载车辆会产生以下所有影响，除了：",
+            "zh-Hant": "超載車輛會產生以下所有影響，除了："
+        },
+        "options": {
+            "A": {
+                "en": "Increased stopping distance",
+                "zh-Hans": "增加制动距离",
+                "zh-Hant": "增加制動距離"
+            },
+            "B": {
+                "en": "Better fuel efficiency",
+                "zh-Hans": "更好的燃油效率",
+                "zh-Hant": "更好的燃油效率"
+            },
+            "C": {
+                "en": "Damage to roads and bridges",
+                "zh-Hans": "损坏道路和桥梁",
+                "zh-Hant": "損壞道路和橋樑"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Overloading increases stopping distance, strains brakes, and damages infrastructure. It does NOT improve fuel efficiency.",
+            "zh-Hans": "超载会增加制动距离、加重刹车负担并损坏基础设施。不会提高燃油效率。",
+            "zh-Hant": "超載會增加制動距離、加重剎車負擔並損壞基礎設施。不會提高燃油效率。"
+        },
+        "dmv_ref": {
+            "page": "3-1",
+            "section": "Weight Effects",
+            "analysis_zh-Hans": "超载百害无一利。",
+            "analysis_zh-Hant": "超載百害無一利。"
+        }
+    },
+    {
+        "id": 1086,
+        "category": "General Knowledge",
+        "question": {
+            "en": "What is the proper way to check for hydraulic brake system leaks?",
+            "zh-Hans": "检查液压刹车系统泄漏的正确方法是什么？",
+            "zh-Hant": "檢查液壓剎車系統洩漏的正確方法是什麼？"
+        },
+        "options": {
+            "A": {
+                "en": "Pump the pedal fast",
+                "zh-Hans": "快速泵踩踏板",
+                "zh-Hant": "快速泵踩踏板"
+            },
+            "B": {
+                "en": "Apply steady pressure and watch for loss of pressure",
+                "zh-Hans": "施加稳定压力并观察是否压力下降",
+                "zh-Hant": "施加穩定壓力並觀察是否壓力下降"
+            },
+            "C": {
+                "en": "Listen for hissing sounds",
+                "zh-Hans": "听嘶嘶声",
+                "zh-Hant": "聽嘶嘶聲"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Apply steady pressure to the brake pedal for 5 seconds. If it sinks slowly, there may be a leak.",
+            "zh-Hans": "对刹车踏板施加稳定压力5秒。如果缓慢下沉，可能有泄漏。",
+            "zh-Hant": "對剎車踏板施加穩定壓力5秒。如果緩慢下沉，可能有洩漏。"
+        },
+        "dmv_ref": {
+            "page": "2-5",
+            "section": "Brake Checks",
+            "analysis_zh-Hans": "5秒测试法很重要。",
+            "analysis_zh-Hant": "5秒測試法很重要。"
+        }
+    },
+    {
+        "id": 1087,
+        "category": "General Knowledge",
+        "question": {
+            "en": "What is the function of the governor in an air brake system?",
+            "zh-Hans": "气刹系统中调压阀 (Governor) 的功能是什么？",
+            "zh-Hant": "氣剎系統中調壓閥 (Governor) 的功能是什麼？"
+        },
+        "options": {
+            "A": {
+                "en": "To drain water from air tanks",
+                "zh-Hans": "从气罐中排水",
+                "zh-Hant": "從氣罐中排水"
+            },
+            "B": {
+                "en": "To control when the compressor puts air into storage tanks",
+                "zh-Hans": "控制压缩机何时向储气罐充气",
+                "zh-Hant": "控制壓縮機何時向儲氣罐充氣"
+            },
+            "C": {
+                "en": "To apply the parking brake",
+                "zh-Hans": "启用驻车制动",
+                "zh-Hant": "啟用駐車制動"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "The governor controls the air compressor cut-in (around 100 psi) and cut-out (around 125 psi) pressures.",
+            "zh-Hans": "调压阀控制空气压缩机的启动（约100 psi）和停止（约125 psi）压力。",
+            "zh-Hant": "調壓閥控制空氣壓縮機的啟動（約100 psi）和停止（約125 psi）壓力。"
+        },
+        "dmv_ref": {
+            "page": "5-1",
+            "section": "Air Brakes",
+            "analysis_zh-Hans": "100 cut-in, 125 cut-out.",
+            "analysis_zh-Hant": "100 cut-in, 125 cut-out."
+        }
+    },
+    {
+        "id": 1088,
+        "category": "General Knowledge",
+        "question": {
+            "en": "If you are driving during sunrise or sunset, you should:",
+            "zh-Hans": "如果你在日出或日落时驾驶，你应该：",
+            "zh-Hant": "如果你在日出或日落時駕駛，你應該："
+        },
+        "options": {
+            "A": {
+                "en": "Drive faster to get out of the sun",
+                "zh-Hans": "开快点以躲开太阳",
+                "zh-Hant": "開快點以躲開太陽"
+            },
+            "B": {
+                "en": "Use your sun visor and reduce speed",
+                "zh-Hans": "使用遮阳板并降低速度",
+                "zh-Hant": "使用遮陽板並降低速度"
+            },
+            "C": {
+                "en": "Stare directly at the sun to adjust your eyes",
+                "zh-Hans": "直视太阳以调节眼睛",
+                "zh-Hant": "直視太陽以調節眼睛"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Use sun visor, wear sunglasses, slow down, and keep windshield clean to reduce glare.",
+            "zh-Hans": "使用遮阳板、戴墨镜、减速并保持挡风玻璃干净以减少眩光。",
+            "zh-Hant": "使用遮陽板、戴墨鏡、減速並保持擋風玻璃乾淨以減少眩光。"
+        },
+        "dmv_ref": {
+            "page": "2-31",
+            "section": "Glare",
+            "analysis_zh-Hans": "眩光是危险的能见度障碍。",
+            "analysis_zh-Hant": "眩光是危險的能見度障礙。"
+        }
+    },
+    {
+        "id": 1089,
+        "category": "General Knowledge",
+        "question": {
+            "en": "What color are all warning signs?",
+            "zh-Hans": "所有警告标志是什么颜色的？",
+            "zh-Hant": "所有警告標誌是什麼顏色的？"
+        },
+        "options": {
+            "A": {
+                "en": "Red",
+                "zh-Hans": "红色",
+                "zh-Hant": "紅色"
+            },
+            "B": {
+                "en": "Yellow",
+                "zh-Hans": "黄色",
+                "zh-Hant": "黃色"
+            },
+            "C": {
+                "en": "Green",
+                "zh-Hans": "绿色",
+                "zh-Hant": "綠色"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Warning signs are yellow (or orange for construction zones) with black symbols.",
+            "zh-Hans": "警告标志是黄色的（施工区是橙色），配黑色符号。",
+            "zh-Hant": "警告標誌是黃色的（施工區是橙色），配黑色符號。"
+        },
+        "dmv_ref": {
+            "page": "2-19",
+            "section": "Signs",
+            "analysis_zh-Hans": "黄色=警告，红色=禁止，绿色=指示。",
+            "analysis_zh-Hant": "黃色=警告，紅色=禁止，綠色=指示。"
+        }
+    },
+    {
+        "id": 1090,
+        "category": "General Knowledge",
+        "question": {
+            "en": "When you double your speed, your stopping distance:",
+            "zh-Hans": "当你的速度翻倍时，你的制动距离：",
+            "zh-Hant": "當你的速度翻倍時，你的制動距離："
+        },
+        "options": {
+            "A": {
+                "en": "Doubles",
+                "zh-Hans": "翻倍",
+                "zh-Hant": "翻倍"
+            },
+            "B": {
+                "en": "Triples",
+                "zh-Hans": "变成3倍",
+                "zh-Hant": "變成3倍"
+            },
+            "C": {
+                "en": "Increases by four times",
+                "zh-Hans": "变成4倍",
+                "zh-Hant": "變成4倍"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "Stopping distance is proportional to the square of speed. Double speed = 4x stopping distance.",
+            "zh-Hans": "制动距离与速度的平方成正比。速度翻倍=制动距离变成4倍。",
+            "zh-Hant": "制動距離與速度的平方成正比。速度翻倍=制動距離變成4倍。"
+        },
+        "dmv_ref": {
+            "page": "2-17",
+            "section": "Stopping Distance",
+            "analysis_zh-Hans": "物理原理：动能=1/2mv²。",
+            "analysis_zh-Hant": "物理原理：動能=1/2mv²。"
+        }
+    }
+]

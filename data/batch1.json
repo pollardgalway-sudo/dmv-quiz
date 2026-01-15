@@ -1,0 +1,382 @@
+[
+    {
+        "id": 1011,
+        "category": "General Knowledge",
+        "question": {
+            "en": "Which fires can you use water to extinguish?",
+            "zh-Hans": "哪种火灾可以用水扑灭？",
+            "zh-Hant": "哪種火災可以用水撲滅？"
+        },
+        "options": {
+            "A": {
+                "en": "Electrical fires",
+                "zh-Hans": "电气火灾",
+                "zh-Hant": "電氣火災"
+            },
+            "B": {
+                "en": "Gasoline fires",
+                "zh-Hans": "汽油火灾",
+                "zh-Hant": "汽油火災"
+            },
+            "C": {
+                "en": "Tire fires",
+                "zh-Hans": "轮胎火灾",
+                "zh-Hant": "輪胎火災"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "Water can be used on wood, paper, and cloth fires. For tire fires, water can help cool them. Never use water on electrical or fuel fires.",
+            "zh-Hans": "水可以用于木材、纸张和布料火灾。对于轮胎火灾，水可以帮助降温。切勿用水扑灭电气或燃料火灾。",
+            "zh-Hant": "水可以用於木材、紙張和布料火災。對於輪胎火災，水可以幫助降溫。切勿用水撲滅電氣或燃料火災。"
+        },
+        "dmv_ref": {
+            "page": "2-37",
+            "section": "Fires",
+            "analysis_zh-Hans": "水只适用于A类火灾和轮胎，B类C类火要用灭火器。",
+            "analysis_zh-Hant": "水只適用於A類火災和輪胎，B類C類火要用滅火器。"
+        }
+    },
+    {
+        "id": 1012,
+        "category": "General Knowledge",
+        "question": {
+            "en": "You should use your horn when:",
+            "zh-Hans": "你应该在什么时候使用喇叭？",
+            "zh-Hant": "你應該在什麼時候使用喇叭？"
+        },
+        "options": {
+            "A": {
+                "en": "When another driver cuts you off",
+                "zh-Hans": "当别的司机加塞时",
+                "zh-Hant": "當別的司機加塞時"
+            },
+            "B": {
+                "en": "When necessary to warn others",
+                "zh-Hans": "当需要警告他人时",
+                "zh-Hant": "當需要警告他人時"
+            },
+            "C": {
+                "en": "When stuck in traffic",
+                "zh-Hans": "堵车时",
+                "zh-Hant": "堵車時"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Use your horn only when necessary to warn other drivers, such as when they might not see you.",
+            "zh-Hans": "只有在需要警告其他驾驶员时才使用喇叭，例如当他们可能看不到你时。",
+            "zh-Hant": "只有在需要警告其他駕駛員時才使用喇叭，例如當他們可能看不到你時。"
+        },
+        "dmv_ref": {
+            "page": "2-26",
+            "section": "Use of Horn",
+            "analysis_zh-Hans": "喇叭是通讯工具，不是发泄情绪的工具。",
+            "analysis_zh-Hant": "喇叭是通訊工具，不是發洩情緒的工具。"
+        }
+    },
+    {
+        "id": 1013,
+        "category": "General Knowledge",
+        "question": {
+            "en": "What is the minimum tread depth for front tires?",
+            "zh-Hans": "前轮胎的最小胎纹深度是多少？",
+            "zh-Hant": "前輪胎的最小胎紋深度是多少？"
+        },
+        "options": {
+            "A": {
+                "en": "4/32 inch",
+                "zh-Hans": "4/32英寸",
+                "zh-Hant": "4/32英寸"
+            },
+            "B": {
+                "en": "2/32 inch",
+                "zh-Hans": "2/32英寸",
+                "zh-Hant": "2/32英寸"
+            },
+            "C": {
+                "en": "1/32 inch",
+                "zh-Hans": "1/32英寸",
+                "zh-Hant": "1/32英寸"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Front tires must have at least 4/32 inch tread depth. Other tires must have at least 2/32 inch.",
+            "zh-Hans": "前轮必须至少有4/32英寸的胎纹深度。其他轮胎至少需要2/32英寸。",
+            "zh-Hant": "前輪必須至少有4/32英寸的胎紋深度。其他輪胎至少需要2/32英寸。"
+        },
+        "dmv_ref": {
+            "page": "2-4",
+            "section": "Tires",
+            "analysis_zh-Hans": "前轮4/32，其他2/32是必考数字。",
+            "analysis_zh-Hant": "前輪4/32，其他2/32是必考數字。"
+        }
+    },
+    {
+        "id": 1014,
+        "category": "General Knowledge",
+        "question": {
+            "en": "You are driving in heavy traffic and want to weave from lane to lane. This is:",
+            "zh-Hans": "你在拥堵的交通中频繁变道，这样做：",
+            "zh-Hant": "你在擁堵的交通中頻繁變道，這樣做："
+        },
+        "options": {
+            "A": {
+                "en": "Safe for large trucks",
+                "zh-Hans": "对大卡车来说是安全的",
+                "zh-Hant": "對大卡車來說是安全的"
+            },
+            "B": {
+                "en": "Dangerous and not recommended",
+                "zh-Hans": "危险且不建议",
+                "zh-Hant": "危險且不建議"
+            },
+            "C": {
+                "en": "Only dangerous for small cars",
+                "zh-Hans": "只对小车危险",
+                "zh-Hant": "只對小車危險"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Weaving in and out of traffic is dangerous. Large trucks have blind spots and take longer to stop.",
+            "zh-Hans": "频繁变道是危险的。大卡车有盲区，刹车距离也更长。",
+            "zh-Hant": "頻繁變道是危險的。大卡車有盲區，剎車距離也更長。"
+        },
+        "dmv_ref": {
+            "page": "2-25",
+            "section": "Managing Space",
+            "analysis_zh-Hans": "稳定行驶比抢道更安全。",
+            "analysis_zh-Hant": "穩定行駛比搶道更安全。"
+        }
+    },
+    {
+        "id": 1015,
+        "category": "General Knowledge",
+        "question": {
+            "en": "If you are convicted of a traffic violation that results in a crash, how many points will be put on your driving record?",
+            "zh-Hans": "如果你因交通违规导致事故而被定罪，驾驶记录会被扣多少分？",
+            "zh-Hant": "如果你因交通違規導致事故而被定罪，駕駛記錄會被扣多少分？"
+        },
+        "options": {
+            "A": {
+                "en": "1 point",
+                "zh-Hans": "1分",
+                "zh-Hant": "1分"
+            },
+            "B": {
+                "en": "2 points",
+                "zh-Hans": "2分",
+                "zh-Hant": "2分"
+            },
+            "C": {
+                "en": "It depends on the violation",
+                "zh-Hans": "取决于违规类型",
+                "zh-Hant": "取決於違規類型"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "Point values vary depending on the type of violation. Serious violations result in more points.",
+            "zh-Hans": "扣分多少取决于违规类型。严重违规扣分更多。",
+            "zh-Hant": "扣分多少取決於違規類型。嚴重違規扣分更多。"
+        },
+        "dmv_ref": {
+            "page": "1-3",
+            "section": "Licensing",
+            "analysis_zh-Hans": "不同违规扣分不同，累积过多会吊销驾照。",
+            "analysis_zh-Hant": "不同違規扣分不同，累積過多會吊銷駕照。"
+        }
+    },
+    {
+        "id": 1016,
+        "category": "General Knowledge",
+        "question": {
+            "en": "You must stop on a railroad crossing. How far before the crossing must you stop?",
+            "zh-Hans": "你必须在铁路道口停车。你应该在距离道口多远处停车？",
+            "zh-Hant": "你必須在鐵路道口停車。你應該在距離道口多遠處停車？"
+        },
+        "options": {
+            "A": {
+                "en": "Between 15 and 50 feet",
+                "zh-Hans": "15到50英尺之间",
+                "zh-Hant": "15到50英尺之間"
+            },
+            "B": {
+                "en": "Between 5 and 10 feet",
+                "zh-Hans": "5到10英尺之间",
+                "zh-Hant": "5到10英尺之間"
+            },
+            "C": {
+                "en": "At least 100 feet",
+                "zh-Hans": "至少100英尺",
+                "zh-Hant": "至少100英尺"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Stop between 15 and 50 feet before railroad crossings. Never shift gears while crossing.",
+            "zh-Hans": "在铁路道口前15到50英尺之间停车。过道口时不要换挡。",
+            "zh-Hant": "在鐵路道口前15到50英尺之間停車。過道口時不要換擋。"
+        },
+        "dmv_ref": {
+            "page": "2-19",
+            "section": "Railroad Crossings",
+            "analysis_zh-Hans": "15-50英尺是必考数字。",
+            "analysis_zh-Hant": "15-50英尺是必考數字。"
+        }
+    },
+    {
+        "id": 1017,
+        "category": "General Knowledge",
+        "question": {
+            "en": "If another driver is coming toward you in your lane, you should:",
+            "zh-Hans": "如果另一辆车迎面驶入你的车道，你应该：",
+            "zh-Hant": "如果另一輛車迎面駛入你的車道，你應該："
+        },
+        "options": {
+            "A": {
+                "en": "Stay in your lane and speed up",
+                "zh-Hans": "保持车道并加速",
+                "zh-Hant": "保持車道並加速"
+            },
+            "B": {
+                "en": "Flash your lights, honk, and steer right",
+                "zh-Hans": "闪灯、鸣笛并向右转向",
+                "zh-Hant": "閃燈、鳴笛並向右轉向"
+            },
+            "C": {
+                "en": "Stop immediately",
+                "zh-Hans": "立即停车",
+                "zh-Hant": "立即停車"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Flash your lights, honk your horn, and steer to the right to avoid a head-on collision.",
+            "zh-Hans": "闪灯、鸣笛并向右转向以避免正面碰撞。",
+            "zh-Hant": "閃燈、鳴笛並向右轉向以避免正面碰撞。"
+        },
+        "dmv_ref": {
+            "page": "2-28",
+            "section": "Emergency",
+            "analysis_zh-Hans": "正面碰撞是最致命的事故类型。",
+            "analysis_zh-Hant": "正面碰撞是最致命的事故類型。"
+        }
+    },
+    {
+        "id": 1018,
+        "category": "General Knowledge",
+        "question": {
+            "en": "Cargo securement must be checked within the first ___ miles after beginning a trip.",
+            "zh-Hans": "出发后必须在 ___ 英里内首次检查货物固定情况。",
+            "zh-Hant": "出發後必須在 ___ 英里內首次檢查貨物固定情況。"
+        },
+        "options": {
+            "A": {
+                "en": "50",
+                "zh-Hans": "50",
+                "zh-Hant": "50"
+            },
+            "B": {
+                "en": "100",
+                "zh-Hans": "100",
+                "zh-Hant": "100"
+            },
+            "C": {
+                "en": "150",
+                "zh-Hans": "150",
+                "zh-Hant": "150"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Check cargo within the first 50 miles, then every 150 miles or 3 hours of driving, whichever comes first.",
+            "zh-Hans": "出发后50英里内首次检查，之后每150英里或3小时检查一次，以先到者为准。",
+            "zh-Hant": "出發後50英里內首次檢查，之後每150英里或3小時檢查一次，以先到者為準。"
+        },
+        "dmv_ref": {
+            "page": "3-4",
+            "section": "Cargo Securement",
+            "analysis_zh-Hans": "50-150-3是货物检查的关键数字。",
+            "analysis_zh-Hant": "50-150-3是貨物檢查的關鍵數字。"
+        }
+    },
+    {
+        "id": 1019,
+        "category": "General Knowledge",
+        "question": {
+            "en": "The basic speed limit in a business or residential district is:",
+            "zh-Hans": "在商业区或住宅区的基本限速是：",
+            "zh-Hant": "在商業區或住宅區的基本限速是："
+        },
+        "options": {
+            "A": {
+                "en": "15 mph",
+                "zh-Hans": "15英里/小时",
+                "zh-Hant": "15英里/小時"
+            },
+            "B": {
+                "en": "25 mph",
+                "zh-Hans": "25英里/小时",
+                "zh-Hant": "25英里/小時"
+            },
+            "C": {
+                "en": "35 mph",
+                "zh-Hans": "35英里/小时",
+                "zh-Hant": "35英里/小時"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "The basic speed limit is 25 mph in business and residential districts unless otherwise posted.",
+            "zh-Hans": "商业区和住宅区的基本限速是25英里/小时，除非另有标示。",
+            "zh-Hant": "商業區和住宅區的基本限速是25英里/小時，除非另有標示。"
+        },
+        "dmv_ref": {
+            "page": "2-18",
+            "section": "Speed Limits",
+            "analysis_zh-Hans": "加州基本限速：住宅/商业区25，学校15，高速65。",
+            "analysis_zh-Hant": "加州基本限速：住宅/商業區25，學校15，高速65。"
+        }
+    },
+    {
+        "id": 1020,
+        "category": "General Knowledge",
+        "question": {
+            "en": "Stab braking is:",
+            "zh-Hans": "点刹 (Stab Braking) 是指：",
+            "zh-Hant": "點剎 (Stab Braking) 是指："
+        },
+        "options": {
+            "A": {
+                "en": "Applying the brakes hard and releasing when wheels lock",
+                "zh-Hans": "用力踩刹车，当车轮锁死时松开",
+                "zh-Hant": "用力踩剎車，當車輪鎖死時鬆開"
+            },
+            "B": {
+                "en": "Applying light pressure to the brakes continuously",
+                "zh-Hans": "持续轻踩刹车",
+                "zh-Hant": "持續輕踩剎車"
+            },
+            "C": {
+                "en": "Using engine braking",
+                "zh-Hans": "使用发动机制动",
+                "zh-Hant": "使用發動機制動"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Stab braking: Apply brakes hard, release when wheels lock, reapply when wheels regain traction. Use for vehicles without ABS.",
+            "zh-Hans": "点刹：用力踩刹车，车轮锁死时松开，恢复抓地力后再踩。适用于没有ABS的车辆。",
+            "zh-Hant": "點剎：用力踩剎車，車輪鎖死時鬆開，恢復抓地力後再踩。適用於沒有ABS的車輛。"
+        },
+        "dmv_ref": {
+            "page": "2-29",
+            "section": "Stopping",
+            "analysis_zh-Hans": "点刹和ABS是两种不同的紧急制动方式。",
+            "analysis_zh-Hant": "點剎和ABS是兩種不同的緊急制動方式。"
+        }
+    }
+]

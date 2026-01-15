@@ -1,0 +1,382 @@
+[
+    {
+        "id": 1121,
+        "category": "General Knowledge",
+        "question": {
+            "en": "What should you check on your lights during a pre-trip inspection?",
+            "zh-Hans": "行前检查灯光时应该检查什么？",
+            "zh-Hant": "行前檢查燈光時應該檢查什麼？"
+        },
+        "options": {
+            "A": {
+                "en": "Only headlights",
+                "zh-Hans": "仅前照灯",
+                "zh-Hant": "僅前照燈"
+            },
+            "B": {
+                "en": "All lights: headlights, taillights, brake, turn signals, clearance, reflectors",
+                "zh-Hans": "所有灯光：前照灯、尾灯、刹车灯、转向灯、示廓灯、反光器",
+                "zh-Hant": "所有燈光：前照燈、尾燈、剎車燈、轉向燈、示廓燈、反光器"
+            },
+            "C": {
+                "en": "Only interior lights",
+                "zh-Hans": "仅内饰灯",
+                "zh-Hant": "僅內飾燈"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Check all exterior lights work properly: headlights, taillights, brake, turn signals, clearance lights, and reflectors.",
+            "zh-Hans": "检查所有外部灯光是否正常工作：前照灯、尾灯、刹车灯、转向灯、示廓灯和反光器。",
+            "zh-Hant": "檢查所有外部燈光是否正常工作：前照燈、尾燈、剎車燈、轉向燈、示廓燈和反光器。"
+        },
+        "dmv_ref": {
+            "page": "2-9",
+            "section": "Lights Check",
+            "analysis_zh-Hans": "灯光检查覆盖所有外部灯。",
+            "analysis_zh-Hant": "燈光檢查覆蓋所有外部燈。"
+        }
+    },
+    {
+        "id": 1122,
+        "category": "General Knowledge",
+        "question": {
+            "en": "Truck drivers should control their speed on curves by:",
+            "zh-Hans": "卡车司机应该通过以下方式控制弯道速度：",
+            "zh-Hant": "卡車司機應該通過以下方式控制彎道速度："
+        },
+        "options": {
+            "A": {
+                "en": "Braking in the curve",
+                "zh-Hans": "在弯道中刹车",
+                "zh-Hant": "在彎道中剎車"
+            },
+            "B": {
+                "en": "Slowing down before entering the curve",
+                "zh-Hans": "进入弯道前减速",
+                "zh-Hant": "進入彎道前減速"
+            },
+            "C": {
+                "en": "Speeding up through the curve",
+                "zh-Hans": "加速通过弯道",
+                "zh-Hant": "加速通過彎道"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Slow to a safe speed BEFORE the curve. Braking in a curve can cause skidding or rollover.",
+            "zh-Hans": "在弯道前减速到安全速度。在弯道中刹车可能导致打滑或翻车。",
+            "zh-Hant": "在彎道前減速到安全速度。在彎道中剎車可能導致打滑或翻車。"
+        },
+        "dmv_ref": {
+            "page": "2-20",
+            "section": "Curves",
+            "analysis_zh-Hans": "弯前减速，弯中保持。",
+            "analysis_zh-Hant": "彎前減速，彎中保持。"
+        }
+    },
+    {
+        "id": 1123,
+        "category": "General Knowledge",
+        "question": {
+            "en": "What is the main reason for covering cargo?",
+            "zh-Hans": "覆盖货物的主要原因是什么？",
+            "zh-Hant": "覆蓋貨物的主要原因是什麼？"
+        },
+        "options": {
+            "A": {
+                "en": "To keep it warm",
+                "zh-Hans": "保温",
+                "zh-Hant": "保溫"
+            },
+            "B": {
+                "en": "To protect it from weather and prevent spillage",
+                "zh-Hans": "保护它免受天气影响并防止撒落",
+                "zh-Hant": "保護它免受天氣影響並防止撒落"
+            },
+            "C": {
+                "en": "To hide what you are carrying",
+                "zh-Hans": "隐藏你运载的物品",
+                "zh-Hant": "隱藏你運載的物品"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Cover cargo to protect it from weather and prevent items from falling off or spilling.",
+            "zh-Hans": "覆盖货物以保护它免受天气影响并防止物品掉落或撒落。",
+            "zh-Hant": "覆蓋貨物以保護它免受天氣影響並防止物品掉落或撒落。"
+        },
+        "dmv_ref": {
+            "page": "3-5",
+            "section": "Cargo Covering",
+            "analysis_zh-Hans": "覆盖防护和防撒落两个目的。",
+            "analysis_zh-Hant": "覆蓋防護和防撒落兩個目的。"
+        }
+    },
+    {
+        "id": 1124,
+        "category": "General Knowledge",
+        "question": {
+            "en": "Posted speed limits for curves are:",
+            "zh-Hans": "弯道限速标志：",
+            "zh-Hant": "彎道限速標誌："
+        },
+        "options": {
+            "A": {
+                "en": "Safe for all vehicles regardless of size",
+                "zh-Hans": "对所有车辆都是安全的，无论大小",
+                "zh-Hant": "對所有車輛都是安全的，無論大小"
+            },
+            "B": {
+                "en": "For cars and may be too high for large trucks",
+                "zh-Hans": "为小车设计的，对大卡车可能太快",
+                "zh-Hant": "為小車設計的，對大卡車可能太快"
+            },
+            "C": {
+                "en": "Only for trucks",
+                "zh-Hans": "仅供卡车使用",
+                "zh-Hant": "僅供卡車使用"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Posted curve speeds are for cars. Trucks should slow even more due to higher center of gravity.",
+            "zh-Hans": "弯道限速是为小车设计的。卡车应该减速更多，因为重心更高。",
+            "zh-Hant": "彎道限速是為小車設計的。卡車應該減速更多，因為重心更高。"
+        },
+        "dmv_ref": {
+            "page": "2-20",
+            "section": "Curves",
+            "analysis_zh-Hans": "大车比限速再减5-10mph更安全。",
+            "analysis_zh-Hant": "大車比限速再減5-10mph更安全。"
+        }
+    },
+    {
+        "id": 1125,
+        "category": "General Knowledge",
+        "question": {
+            "en": "When should you use your vehicle's horn?",
+            "zh-Hans": "什么时候应该使用你的车辆喇叭？",
+            "zh-Hant": "什麼時候應該使用你的車輛喇叭？"
+        },
+        "options": {
+            "A": {
+                "en": "When you are angry at another driver",
+                "zh-Hans": "对其他司机生气时",
+                "zh-Hant": "對其他司機生氣時"
+            },
+            "B": {
+                "en": "When it is necessary to warn others",
+                "zh-Hans": "当需要警告他人时",
+                "zh-Hant": "當需要警告他人時"
+            },
+            "C": {
+                "en": "When stuck in traffic",
+                "zh-Hans": "堵车时",
+                "zh-Hant": "堵車時"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Use your horn only when necessary to warn others, not for expressing frustration.",
+            "zh-Hans": "只有在需要警告他人时才使用喇叭，不是用来发泄情绪。",
+            "zh-Hant": "只有在需要警告他人時才使用喇叭，不是用來發洩情緒。"
+        },
+        "dmv_ref": {
+            "page": "2-26",
+            "section": "Horn Use",
+            "analysis_zh-Hans": "喇叭是警告工具，不是泄愤工具。",
+            "analysis_zh-Hant": "喇叭是警告工具，不是洩憤工具。"
+        }
+    },
+    {
+        "id": 1126,
+        "category": "General Knowledge",
+        "question": {
+            "en": "What is a header board?",
+            "zh-Hans": "什么是装货挡板 (Header Board)？",
+            "zh-Hant": "什麼是裝貨擋板 (Header Board)？"
+        },
+        "options": {
+            "A": {
+                "en": "A sign on the back of the truck",
+                "zh-Hans": "卡车后面的标志",
+                "zh-Hant": "卡車後面的標誌"
+            },
+            "B": {
+                "en": "A barrier at the front of the trailer to block cargo from shifting forward",
+                "zh-Hans": "挂车前端的隔板，防止货物向前移动",
+                "zh-Hant": "掛車前端的隔板，防止貨物向前移動"
+            },
+            "C": {
+                "en": "A load rating placard",
+                "zh-Hans": "载重等级标牌",
+                "zh-Hant": "載重等級標牌"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "A header board (headache rack) is a barrier at the front of flatbeds to stop cargo from shifting forward.",
+            "zh-Hans": "装货挡板（头痛架）是平板挂车前端的隔板，用于阻止货物向前移动。",
+            "zh-Hant": "裝貨擋板（頭痛架）是平板掛車前端的隔板，用於阻止貨物向前移動。"
+        },
+        "dmv_ref": {
+            "page": "3-3",
+            "section": "Cargo Equipment",
+            "analysis_zh-Hans": "保护驾驶室免受前移货物撞击。",
+            "analysis_zh-Hant": "保護駕駛室免受前移貨物撞擊。"
+        }
+    },
+    {
+        "id": 1127,
+        "category": "General Knowledge",
+        "question": {
+            "en": "The minimum number of tie-downs for flatbed loads is:",
+            "zh-Hans": "平板货物的最少固定器数量是：",
+            "zh-Hant": "平板貨物的最少固定器數量是："
+        },
+        "options": {
+            "A": {
+                "en": "1",
+                "zh-Hans": "1个",
+                "zh-Hant": "1個"
+            },
+            "B": {
+                "en": "2 (for cargo 5 feet or less), plus 1 for each additional 10 feet",
+                "zh-Hans": "2个（5英尺或以下货物），每增加10英尺加1个",
+                "zh-Hant": "2個（5英尺或以下貨物），每增加10英尺加1個"
+            },
+            "C": {
+                "en": "4",
+                "zh-Hans": "4个",
+                "zh-Hant": "4個"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Minimum 2 tie-downs for 5 feet or less, plus 1 additional for every 10 feet of cargo length.",
+            "zh-Hans": "5英尺或以下货物最少2个固定器，每增加10英尺货物长度加1个。",
+            "zh-Hant": "5英尺或以下貨物最少2個固定器，每增加10英尺貨物長度加1個。"
+        },
+        "dmv_ref": {
+            "page": "3-5",
+            "section": "Tie-downs",
+            "analysis_zh-Hans": "2个起步+每10英尺加1个。",
+            "analysis_zh-Hant": "2個起步+每10英尺加1個。"
+        }
+    },
+    {
+        "id": 1128,
+        "category": "General Knowledge",
+        "question": {
+            "en": "What is reaction distance?",
+            "zh-Hans": "什么是反应距离？",
+            "zh-Hant": "什麼是反應距離？"
+        },
+        "options": {
+            "A": {
+                "en": "Distance traveled while stepping on the brake",
+                "zh-Hans": "踩刹车时行驶的距离",
+                "zh-Hant": "踩剎車時行駛的距離"
+            },
+            "B": {
+                "en": "Distance traveled while brakes are working",
+                "zh-Hans": "刹车工作时行驶的距离",
+                "zh-Hant": "剎車工作時行駛的距離"
+            },
+            "C": {
+                "en": "Distance traveled from seeing hazard to stepping on brake",
+                "zh-Hans": "从看到危险到踩下刹车所行驶的距离",
+                "zh-Hant": "從看到危險到踩下剎車所行駛的距離"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "Reaction distance is the distance traveled from seeing a hazard to physically applying the brakes.",
+            "zh-Hans": "反应距离是从看到危险到实际踩下刹车所行驶的距离。",
+            "zh-Hant": "反應距離是從看到危險到實際踩下剎車所行駛的距離。"
+        },
+        "dmv_ref": {
+            "page": "2-17",
+            "section": "Stopping Distance",
+            "analysis_zh-Hans": "感知+反应+制动=总。",
+            "analysis_zh-Hant": "感知+反應+制動=總。"
+        }
+    },
+    {
+        "id": 1129,
+        "category": "General Knowledge",
+        "question": {
+            "en": "Gross Combination Weight Rating (GCWR) is:",
+            "zh-Hans": "总组合重量额定值 (GCWR) 是指：",
+            "zh-Hant": "總組合重量額定值 (GCWR) 是指："
+        },
+        "options": {
+            "A": {
+                "en": "Maximum weight of the tractor only",
+                "zh-Hans": "仅拖车头的最大重量",
+                "zh-Hant": "僅拖車頭的最大重量"
+            },
+            "B": {
+                "en": "Maximum weight of tractor, trailer, and load combined",
+                "zh-Hans": "拖车头、挂车和货物的总和最大重量",
+                "zh-Hant": "拖車頭、掛車和貨物的總和最大重量"
+            },
+            "C": {
+                "en": "Minimum load required",
+                "zh-Hans": "所需的最小载重",
+                "zh-Hant": "所需的最小載重"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "GCWR is the maximum allowable weight of the complete combination (tractor + trailer + cargo + fuel + passengers).",
+            "zh-Hans": "GCWR是完整组合的最大允许重量（拖车头+挂车+货物+燃料+乘客）。",
+            "zh-Hant": "GCWR是完整組合的最大允許重量（拖車頭+掛車+貨物+燃料+乘客）。"
+        },
+        "dmv_ref": {
+            "page": "3-1",
+            "section": "Weight Definitions",
+            "analysis_zh-Hans": "GVW是单车，GCW是组合车。",
+            "analysis_zh-Hant": "GVW是單車，GCW是組合車。"
+        }
+    },
+    {
+        "id": 1130,
+        "category": "General Knowledge",
+        "question": {
+            "en": "What is the best thing to do if an aggressive driver is following you?",
+            "zh-Hans": "如果有一个激进的司机跟着你，最好的做法是什么？",
+            "zh-Hant": "如果有一個激進的司機跟著你，最好的做法是什麼？"
+        },
+        "options": {
+            "A": {
+                "en": "Speed up to get away",
+                "zh-Hans": "加速逃离",
+                "zh-Hant": "加速逃離"
+            },
+            "B": {
+                "en": "Make eye contact to intimidate them",
+                "zh-Hans": "眼神接触来恐吓他们",
+                "zh-Hant": "眼神接觸來恐嚇他們"
+            },
+            "C": {
+                "en": "Move over and let them pass",
+                "zh-Hans": "靠边让他们超车",
+                "zh-Hant": "靠邊讓他們超車"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "Avoid confrontation. Stay calm, don't make eye contact, and let aggressive drivers pass.",
+            "zh-Hans": "避免对抗。保持冷静，不要眼神接触，让激进的司机超车。",
+            "zh-Hant": "避免對抗。保持冷靜，不要眼神接觸，讓激進的司機超車。"
+        },
+        "dmv_ref": {
+            "page": "2-33",
+            "section": "Aggressive Drivers",
+            "analysis_zh-Hans": "不争论，让他们走。",
+            "analysis_zh-Hant": "不爭論，讓他們走。"
+        }
+    }
+]

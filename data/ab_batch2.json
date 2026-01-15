@@ -1,0 +1,382 @@
+[
+    {
+        "id": 2021,
+        "category": "Air Brakes",
+        "question": {
+            "en": "Air reservoir tanks are used to:",
+            "zh-Hans": "储气罐的作用是：",
+            "zh-Hant": "儲氣罐的作用是："
+        },
+        "options": {
+            "A": {
+                "en": "Cool the compressor",
+                "zh-Hans": "冷却压缩机",
+                "zh-Hant": "冷卻壓縮機"
+            },
+            "B": {
+                "en": "Hold compressed air for braking use",
+                "zh-Hans": "储存压缩空气供制动使用",
+                "zh-Hant": "儲存壓縮空氣供制動使用"
+            },
+            "C": {
+                "en": "Warm the brake fluid",
+                "zh-Hans": "加热刹车液",
+                "zh-Hant": "加熱剎車液"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Air tanks (reservoirs) store compressed air so there is a reserve for braking.",
+            "zh-Hans": "储气罐储存压缩空气，为制动提供备用气源。",
+            "zh-Hant": "儲氣罐儲存壓縮空氣，為制動提供備用氣源。"
+        },
+        "dmv_ref": {
+            "page": "5-2",
+            "section": "Air Tanks",
+            "analysis_zh-Hans": "储气罐是气刹系统的能量储备。",
+            "analysis_zh-Hant": "儲氣罐是氣剎系統的能量儲備。"
+        }
+    },
+    {
+        "id": 2022,
+        "category": "Air Brakes",
+        "question": {
+            "en": "During a pre-trip inspection, you should check the brake drums by:",
+            "zh-Hans": "行前检查时，你应该通过以下方式检查刹车鼓：",
+            "zh-Hant": "行前檢查時，你應該通過以下方式檢查剎車鼓："
+        },
+        "options": {
+            "A": {
+                "en": "Checking for cracks or excessive wear",
+                "zh-Hans": "检查裂缝或过度磨损",
+                "zh-Hant": "檢查裂縫或過度磨損"
+            },
+            "B": {
+                "en": "Listening for air leaks",
+                "zh-Hans": "听是否有气体泄漏",
+                "zh-Hant": "聽是否有氣體洩漏"
+            },
+            "C": {
+                "en": "Measuring tire pressure",
+                "zh-Hans": "测量轮胎气压",
+                "zh-Hant": "測量輪胎氣壓"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Check drums for cracks, dents, or signs of overheating (blue coloring).",
+            "zh-Hans": "检查刹车鼓是否有裂缝、凹痕或过热迹象（蓝色）。",
+            "zh-Hant": "檢查剎車鼓是否有裂縫、凹痕或過熱跡象（藍色）。"
+        },
+        "dmv_ref": {
+            "page": "5-8",
+            "section": "Drum Inspection",
+            "analysis_zh-Hans": "蓝色刹车鼓=过热史。",
+            "analysis_zh-Hant": "藍色剎車鼓=過熱史。"
+        }
+    },
+    {
+        "id": 2023,
+        "category": "Air Brakes",
+        "question": {
+            "en": "Fanning the brakes repeatedly will:",
+            "zh-Hans": "反复点刹会：",
+            "zh-Hant": "反覆點剎會："
+        },
+        "options": {
+            "A": {
+                "en": "Cool the brakes",
+                "zh-Hans": "冷却刹车",
+                "zh-Hant": "冷卻剎車"
+            },
+            "B": {
+                "en": "Use up the air faster than the compressor can replace it",
+                "zh-Hans": "消耗空气的速度比压缩机补充的更快",
+                "zh-Hant": "消耗空氣的速度比壓縮機補充的更快"
+            },
+            "C": {
+                "en": "Have no effect on air supply",
+                "zh-Hans": "对气源没有影响",
+                "zh-Hant": "對氣源沒有影響"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Fanning uses up air faster than it can be refilled, potentially causing brake failure.",
+            "zh-Hans": "点刹消耗空气的速度比补充更快，可能导致刹车失效。",
+            "zh-Hant": "點剎消耗空氣的速度比補充更快，可能導致剎車失效。"
+        },
+        "dmv_ref": {
+            "page": "5-10",
+            "section": "Fanning the Brakes",
+            "analysis_zh-Hans": "不要在下坡时频繁点刹。",
+            "analysis_zh-Hant": "不要在下坡時頻繁點剎。"
+        }
+    },
+    {
+        "id": 2024,
+        "category": "Air Brakes",
+        "question": {
+            "en": "Air loss in a single vehicle should not exceed __ psi per minute with brakes applied.",
+            "zh-Hans": "对于单车，踩住刹车时气压损失不应超过每分钟 __ psi。",
+            "zh-Hant": "對於單車，踩住剎車時氣壓損失不應超過每分鐘 __ psi。"
+        },
+        "options": {
+            "A": {
+                "en": "2",
+                "zh-Hans": "2",
+                "zh-Hant": "2"
+            },
+            "B": {
+                "en": "3",
+                "zh-Hans": "3",
+                "zh-Hant": "3"
+            },
+            "C": {
+                "en": "4",
+                "zh-Hans": "4",
+                "zh-Hant": "4"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "For single vehicles with brakes applied: max 3 psi/min. For combinations: max 4 psi/min.",
+            "zh-Hans": "单车踩刹车时：最大3 psi/分钟。组合车：最大4 psi/分钟。",
+            "zh-Hant": "單車踩剎車時：最大3 psi/分鐘。組合車：最大4 psi/分鐘。"
+        },
+        "dmv_ref": {
+            "page": "5-7",
+            "section": "Applied Leak Rate",
+            "analysis_zh-Hans": "记住：静态2/3，踩刹3/4。",
+            "analysis_zh-Hant": "記住：靜態2/3，踩剎3/4。"
+        }
+    },
+    {
+        "id": 2025,
+        "category": "Air Brakes",
+        "question": {
+            "en": "What is the purpose of the alcohol evaporator?",
+            "zh-Hans": "酒精蒸发器的作用是什么？",
+            "zh-Hant": "酒精蒸發器的作用是什麼？"
+        },
+        "options": {
+            "A": {
+                "en": "To add alcohol to the fuel",
+                "zh-Hans": "向燃料中添加酒精",
+                "zh-Hant": "向燃料中添加酒精"
+            },
+            "B": {
+                "en": "To help reduce the risk of ice in air brake valves and lines",
+                "zh-Hans": "帮助减少气刹阀门和管路中结冰的风险",
+                "zh-Hant": "幫助減少氣剎閥門和管路中結冰的風險"
+            },
+            "C": {
+                "en": "To clean brake fluid",
+                "zh-Hans": "清洁刹车液",
+                "zh-Hant": "清潔剎車液"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Alcohol evaporators put alcohol into the air system to help reduce the risk of ice forming.",
+            "zh-Hans": "酒精蒸发器将酒精注入气路系统，帮助减少结冰风险。",
+            "zh-Hant": "酒精蒸發器將酒精注入氣路系統，幫助減少結冰風險。"
+        },
+        "dmv_ref": {
+            "page": "5-2",
+            "section": "Alcohol Evaporator",
+            "analysis_zh-Hans": "冬季防冻的一种方法。",
+            "analysis_zh-Hant": "冬季防凍的一種方法。"
+        }
+    },
+    {
+        "id": 2026,
+        "category": "Air Brakes",
+        "question": {
+            "en": "The air brake lag distance at 55 mph on dry pavement adds about how many feet to your stopping distance?",
+            "zh-Hans": "在55英里/小时的干燥路面上，气刹延迟距离大约增加多少英尺？",
+            "zh-Hant": "在55英里/小時的乾燥路面上，氣剎延遲距離大約增加多少英尺？"
+        },
+        "options": {
+            "A": {
+                "en": "10 feet",
+                "zh-Hans": "10英尺",
+                "zh-Hant": "10英尺"
+            },
+            "B": {
+                "en": "32 feet",
+                "zh-Hans": "32英尺",
+                "zh-Hant": "32英尺"
+            },
+            "C": {
+                "en": "100 feet",
+                "zh-Hans": "100英尺",
+                "zh-Hant": "100英尺"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "At 55 mph, brake lag adds about 32 feet (1/2 second delay for air to travel through lines).",
+            "zh-Hans": "在55英里/小时时，刹车延迟增加约32英尺（空气通过管路的1/2秒延迟）。",
+            "zh-Hant": "在55英里/小時時，剎車延遲增加約32英尺（空氣通過管路的1/2秒延遲）。"
+        },
+        "dmv_ref": {
+            "page": "5-9",
+            "section": "Brake Lag",
+            "analysis_zh-Hans": "32英尺是55mph时的延迟距离。",
+            "analysis_zh-Hant": "32英尺是55mph時的延遲距離。"
+        }
+    },
+    {
+        "id": 2027,
+        "category": "Air Brakes",
+        "question": {
+            "en": "The stop light switch:",
+            "zh-Hans": "刹车灯开关的作用是：",
+            "zh-Hant": "剎車燈開關的作用是："
+        },
+        "options": {
+            "A": {
+                "en": "Turns on the brake lights when air pressure is applied",
+                "zh-Hans": "当气压施加时打开刹车灯",
+                "zh-Hant": "當氣壓施加時打開剎車燈"
+            },
+            "B": {
+                "en": "Stops the vehicle",
+                "zh-Hans": "停住车辆",
+                "zh-Hant": "停住車輛"
+            },
+            "C": {
+                "en": "Controls the air compressor",
+                "zh-Hans": "控制空气压缩机",
+                "zh-Hant": "控制空氣壓縮機"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "The stop light switch turns on brake lights when you apply air pressure to the brakes.",
+            "zh-Hans": "当你施加气压刹车时，刹车灯开关会打开刹车灯。",
+            "zh-Hant": "當你施加氣壓剎車時，剎車燈開關會打開剎車燈。"
+        },
+        "dmv_ref": {
+            "page": "5-4",
+            "section": "Stop Light Switch",
+            "analysis_zh-Hans": "气动而不是机械触发刹车灯。",
+            "analysis_zh-Hant": "氣動而不是機械觸發剎車燈。"
+        }
+    },
+    {
+        "id": 2028,
+        "category": "Air Brakes",
+        "question": {
+            "en": "You should not use the parking brakes if:",
+            "zh-Hans": "在以下情况下，你不应该使用驻车刹车：",
+            "zh-Hant": "在以下情況下，你不應該使用駐車剎車："
+        },
+        "options": {
+            "A": {
+                "en": "You are parking on a hill",
+                "zh-Hans": "你在坡道上停车",
+                "zh-Hant": "你在坡道上停車"
+            },
+            "B": {
+                "en": "The brakes are very hot",
+                "zh-Hans": "刹车非常烫",
+                "zh-Hant": "剎車非常燙"
+            },
+            "C": {
+                "en": "It is raining",
+                "zh-Hans": "下雨时",
+                "zh-Hant": "下雨時"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "If brakes are very hot, using parking brakes can cause them to be damaged. Use wheel chocks instead.",
+            "zh-Hans": "如果刹车非常烫，使用驻车刹可能会损坏它们。改用轮挡。",
+            "zh-Hant": "如果剎車非常燙，使用駐車剎可能會損壞它們。改用輪擋。"
+        },
+        "dmv_ref": {
+            "page": "5-5",
+            "section": "Parking Brakes",
+            "analysis_zh-Hans": "热刹+弹簧压力=可能抱死或损坏。",
+            "analysis_zh-Hant": "熱剎+彈簧壓力=可能抱死或損壞。"
+        }
+    },
+    {
+        "id": 2029,
+        "category": "Air Brakes",
+        "question": {
+            "en": "The first tank the air compressor pumps air into is the:",
+            "zh-Hans": "空气压缩机首先将空气泵入的是：",
+            "zh-Hant": "空氣壓縮機首先將空氣泵入的是："
+        },
+        "options": {
+            "A": {
+                "en": "Primary tank",
+                "zh-Hans": "主储气罐",
+                "zh-Hant": "主儲氣罐"
+            },
+            "B": {
+                "en": "Wet tank (supply tank)",
+                "zh-Hans": "湿罐（供气罐）",
+                "zh-Hant": "濕罐（供氣罐）"
+            },
+            "C": {
+                "en": "Dry tank",
+                "zh-Hans": "干罐",
+                "zh-Hant": "乾罐"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Air goes to the wet (supply) tank first, where water and oil can settle before going to other tanks.",
+            "zh-Hans": "空气首先进入湿罐（供气罐），水和油在此沉淀后再进入其他储气罐。",
+            "zh-Hant": "空氣首先進入濕罐（供氣罐），水和油在此沉澱後再進入其他儲氣罐。"
+        },
+        "dmv_ref": {
+            "page": "5-2",
+            "section": "Air Tanks",
+            "analysis_zh-Hans": "湿罐是第一道过滤。",
+            "analysis_zh-Hant": "濕罐是第一道過濾。"
+        }
+    },
+    {
+        "id": 2030,
+        "category": "Air Brakes",
+        "question": {
+            "en": "If your vehicle has an air brake system, it needs to build up to at least __ psi before you can begin driving.",
+            "zh-Hans": "如果你的车辆有气刹系统，在开始驾驶前气压需要达到至少 __ psi。",
+            "zh-Hant": "如果你的車輛有氣剎系統，在開始駕駛前氣壓需要達到至少 __ psi。"
+        },
+        "options": {
+            "A": {
+                "en": "60",
+                "zh-Hans": "60",
+                "zh-Hant": "60"
+            },
+            "B": {
+                "en": "100",
+                "zh-Hans": "100",
+                "zh-Hant": "100"
+            },
+            "C": {
+                "en": "125",
+                "zh-Hans": "125",
+                "zh-Hant": "125"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "You should wait until air pressure is at least 100 psi before driving.",
+            "zh-Hans": "在气压达到至少100 psi之前，你不应该开始驾驶。",
+            "zh-Hant": "在氣壓達到至少100 psi之前，你不應該開始駕駛。"
+        },
+        "dmv_ref": {
+            "page": "5-7",
+            "section": "Minimum Pressure",
+            "analysis_zh-Hans": "100 psi是最低行驶气压。",
+            "analysis_zh-Hant": "100 psi是最低行駛氣壓。"
+        }
+    }
+]

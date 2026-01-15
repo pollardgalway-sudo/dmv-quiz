@@ -1,0 +1,1902 @@
+[
+  {
+    "id": 3001,
+    "category": "Combination",
+    "question": {
+      "en": "The 'crack-the-whip' effect that can turnover a trailer occurs most often when you:",
+      "zh-Hans": "最容易导致挂车翻车的“甩尾效应” (Crack-the-whip) 通常发生在你：",
+      "zh-Hant": "最容易導致掛車翻車的“甩尾效應” (Crack-the-whip) 通常發生在你："
+    },
+    "options": {
+      "A": {
+        "en": "Make a sharp lane change",
+        "zh-Hans": "急剧变道时",
+        "zh-Hant": "急劇變道時"
+      },
+      "B": {
+        "en": "Back up",
+        "zh-Hans": "倒车时",
+        "zh-Hant": "倒車時"
+      },
+      "C": {
+        "en": "Brake gently",
+        "zh-Hans": "轻踩刹车时",
+        "zh-Hant": "輕踩剎車時"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Rearward amplification causes the crack-the-whip effect. A quick lane change can turn over the rear trailer even if the tractor stays stable.",
+      "zh-Hans": "后向放大效应会导致甩尾。急剧变道时，即使车头很稳，最后面的挂车也可能因为离心力过大而翻车。",
+      "zh-Hant": "後向放大效應會導致甩尾。急劇變道時，即使車頭很穩，最後面的掛車也可能因為離心力過大而翻車。"
+    },
+    "dmv_ref": {
+      "page": "6-2",
+      "section": "Rollovers",
+      "analysis_zh-Hans": "组合车最危险的物理特性之一。",
+      "analysis_zh-Hant": "組合車最危險的物理特性之一。"
+    }
+  },
+  {
+    "id": 3002,
+    "category": "Combination",
+    "question": {
+      "en": "You are driving a combination vehicle when the trailer breaks away and pulls apart the air lines. You should expect the trailer brakes to apply and:",
+      "zh-Hans": "你驾驶组合车辆时，挂车脱钩并拉断了气管。你应该预期挂车刹车会锁死，并且：",
+      "zh-Hant": "你駕駛組合車輛時，掛車脫鉤並拉斷了氣管。你應該預期掛車剎車會鎖死，並且："
+    },
+    "options": {
+      "A": {
+        "en": "The tractor to lose all air pressure",
+        "zh-Hans": "拖车头失去所有气压",
+        "zh-Hant": "拖車頭失去所有氣壓"
+      },
+      "B": {
+        "en": "The tractor brakes to lock up",
+        "zh-Hans": "拖车头刹车锁死",
+        "zh-Hant": "拖車頭剎車鎖死"
+      },
+      "C": {
+        "en": "The tractor protection valve to close",
+        "zh-Hans": "拖车保护阀 (Tractor Protection Valve) 会关闭",
+        "zh-Hant": "拖車保護閥 (Tractor Protection Valve) 會關閉"
+      }
+    },
+    "answer": "C",
+    "explanation": {
+      "en": "The tractor protection valve is designed to close automatically if air pressure is lost (to the trailer), keeping the air in the tractor.",
+      "zh-Hans": "拖车保护阀的设计目的是在挂车漏气时自动关闭，保留拖车头本身的气压，防止整个系统失灵。",
+      "zh-Hant": "拖車保護閥的設計目的是在掛車漏氣時自動關閉，保留拖車頭本身的氣壓，防止整個系統失靈。"
+    },
+    "dmv_ref": {
+      "page": "6-4",
+      "section": "Tractor Protection Valve",
+      "analysis_zh-Hans": "保护主车不受挂车故障影响的关键装置。",
+      "analysis_zh-Hant": "保護主車不受掛車故障影響的關鍵裝置。"
+    }
+  },
+  {
+    "id": 3003,
+    "category": "Combination",
+    "question": {
+      "en": "When coupling, the fifth wheel jaws should close around the ___ of the kingpin.",
+      "zh-Hans": "连接挂车时，第五轮 (Fifth Wheel) 的卡爪应该锁住主销 (Kingpin) 的 ___。",
+      "zh-Hant": "連接掛車時，第五輪 (Fifth Wheel) 的卡爪應該鎖住主銷 (Kingpin) 的 ___。"
+    },
+    "options": {
+      "A": {
+        "en": "Head",
+        "zh-Hans": "头部",
+        "zh-Hant": "頭部"
+      },
+      "B": {
+        "en": "Shank",
+        "zh-Hans": "柄部（细颈部分）",
+        "zh-Hant": "柄部（細頸部分）"
+      },
+      "C": {
+        "en": "Base",
+        "zh-Hans": "底部",
+        "zh-Hant": "底部"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "The jaws must close around the shank (narrow part) of the kingpin to hold it securely.",
+      "zh-Hans": "卡爪必须锁住主销的柄部（细的部分），否则容易脱钩。",
+      "zh-Hant": "卡爪必須鎖住主銷的柄部（細的部分），否則容易脫鉤。"
+    },
+    "dmv_ref": {
+      "page": "6-7",
+      "section": "Coupling",
+      "analysis_zh-Hans": "如果锁在头部，转弯时可能会脱落。",
+      "analysis_zh-Hant": "如果鎖在頭部，轉彎時可能會脫落。"
+    }
+  },
+  {
+    "id": 3004,
+    "category": "Combination",
+    "question": {
+      "en": "After coupling, there should be no space between:",
+      "zh-Hans": "连接完成后，___ 之间不应有通过光线可见的间隙。",
+      "zh-Hant": "連接完成後，___ 之間不應有通過光線可見的間隙。"
+    },
+    "options": {
+      "A": {
+        "en": "The upper and lower fifth wheel",
+        "zh-Hans": "第五轮上下盖板",
+        "zh-Hant": "第五輪上下蓋板"
+      },
+      "B": {
+        "en": "The tires and the ground",
+        "zh-Hans": "轮胎和地面",
+        "zh-Hant": "輪胎和地面"
+      },
+      "C": {
+        "en": "The kingpin and the apron",
+        "zh-Hans": "主销和裙板",
+        "zh-Hant": "主銷和裙板"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "There should be no space between the upper fifth wheel (trailer apron) and lower fifth wheel (tractor skid plate).",
+      "zh-Hans": "挂车的裙板 (Apron) 应该紧紧压在拖车头的第五轮上，中间不能有缝隙。",
+      "zh-Hant": "掛車的裙板 (Apron) 應該緊緊壓在拖車頭的第五輪上，中間不能有縫隙。"
+    },
+    "dmv_ref": {
+      "page": "6-8",
+      "section": "Check for Space",
+      "analysis_zh-Hans": "有缝隙说明连接不牢，可能会导致Fifth Wheel损坏。",
+      "analysis_zh-Hant": "有縫隙說明連接不牢，可能會導致Fifth Wheel損壞。"
+    }
+  },
+  {
+    "id": 3005,
+    "category": "Combination",
+    "question": {
+      "en": "You have pushed in the trailer supply valve. You should not move the tractor until the whole air system is:",
+      "zh-Hans": "你已经按下了挂车供气阀 (红钮)。你不应该移动车辆，直到整个气制动系统：",
+      "zh-Hant": "你已經按下了掛車供氣閥 (紅鈕)。你不應該移動車輛，直到整個氣制動系統："
+    },
+    "options": {
+      "A": {
+        "en": "At normal pressure",
+        "zh-Hans": "达到正常气压",
+        "zh-Hant": "達到正常氣壓"
+      },
+      "B": {
+        "en": "Empty",
+        "zh-Hans": "排空",
+        "zh-Hant": "排空"
+      },
+      "C": {
+        "en": "Between 60 and 80 psi",
+        "zh-Hans": "在60到80 psi之间",
+        "zh-Hant": "在60到80 psi之間"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Wait until the air pressure is normal before moving. This ensures the trailer brakes are released and you have full braking power.",
+      "zh-Hans": "必须等待气压恢复正常才能行驶，确保挂车刹车已完全松开且你有足够的制动力。",
+      "zh-Hant": "必須等待氣壓恢復正常才能行駛，確保掛車刹車已完全鬆開且你有足夠的制動力。"
+    },
+    "dmv_ref": {
+      "page": "6-5",
+      "section": "Trailer Air Supply",
+      "analysis_zh-Hans": "充气不足就起步是新手常犯错误。",
+      "analysis_zh-Hant": "充氣不足就起步是新手常犯錯誤。"
+    }
+  },
+  {
+    "id": 3006,
+    "category": "Combination",
+    "question": {
+      "en": "Which part of the kingpin should the locking jaws close around?",
+      "zh-Hans": "锁止卡爪 (Locking Jaws) 应该锁住主销的哪个部位？",
+      "zh-Hant": "鎖止卡爪 (Locking Jaws) 應該鎖住主銷的哪個部位？"
+    },
+    "options": {
+      "A": {
+        "en": "The shank",
+        "zh-Hans": "柄部",
+        "zh-Hant": "柄部"
+      },
+      "B": {
+        "en": "The head",
+        "zh-Hans": "头部",
+        "zh-Hant": "頭部"
+      },
+      "C": {
+        "en": "The base",
+        "zh-Hans": "根部",
+        "zh-Hant": "根部"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "The jaws must close around the shank. This is a repeat concept because it is critical.",
+      "zh-Hans": "必须锁在柄部。这是非常关键的安全点。",
+      "zh-Hant": "必須鎖在柄部。這是非常關鍵的安全點。"
+    },
+    "dmv_ref": {
+      "page": "6-7",
+      "section": "Coupling",
+      "analysis_zh-Hans": "同上题，非常重要。",
+      "analysis_zh-Hant": "同上題，非常重要。"
+    }
+  },
+  {
+    "id": 3007,
+    "category": "Combination",
+    "question": {
+      "en": "Why should you lock the tractor glad hands (or dummy couplers) to each other when you are not towing a trailer?",
+      "zh-Hans": "当不拖挂车时，为什么要把拖车头的气管接头 (Glad Hands) 互相扣在一起或扣在假接头上？",
+      "zh-Hant": "當不拖掛車時，為什麼要把拖車頭的氣管接頭 (Glad Hands) 互相扣在一起或扣在假接頭上？"
+    },
+    "options": {
+      "A": {
+        "en": "To keep dirt and water out of the lines",
+        "zh-Hans": "防止泥土和水进入管路",
+        "zh-Hant": "防止泥土和水進入管路"
+      },
+      "B": {
+        "en": "To keep the lines from dragging on the ground",
+        "zh-Hans": "防止管路在地上拖曳",
+        "zh-Hant": "防止管路在地上拖曳"
+      },
+      "C": {
+        "en": "Both A and B",
+        "zh-Hans": "A 和 B 都对",
+        "zh-Hant": "A 和 B 都對"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "The main reason is to keep dirt and water out. Of course, securing them also prevents damage.",
+      "zh-Hans": "主要目的是保持气路清洁。脏东西进入气路会损坏刹车阀。",
+      "zh-Hant": "主要目的是保持氣路清潔。髒東西進入氣路會損壞剎車閥。"
+    },
+    "dmv_ref": {
+      "page": "6-4",
+      "section": "Hose Couplers",
+      "analysis_zh-Hans": "保护气路是职业司机的素养。",
+      "analysis_zh-Hant": "保護氣路是職業司機的素養。"
+    }
+  },
+  {
+    "id": 3008,
+    "category": "Combination",
+    "question": {
+      "en": "When backing a tractor under a trailer, you should expect to:",
+      "zh-Hans": "倒车将拖头接入挂车时，你应该预期：",
+      "zh-Hant": "倒車將拖頭接入掛車時，你應該預期："
+    },
+    "options": {
+      "A": {
+        "en": "Connect the air lines first",
+        "zh-Hans": "先连接气管",
+        "zh-Hant": "先連接氣管"
+      },
+      "B": {
+        "en": "Back up quickly to ensure locking",
+        "zh-Hans": "快速倒车以确保锁止",
+        "zh-Hant": "快速倒車以確保鎖止"
+      },
+      "C": {
+        "en": "Back up slowly until the fifth wheel touches the apron",
+        "zh-Hans": "缓慢倒车，直到第五轮刚刚接触挂车裙板",
+        "zh-Hant": "緩慢倒車，直到第五輪剛剛接觸掛車裙板"
+      }
+    },
+    "answer": "C",
+    "explanation": {
+      "en": "Back up slowly until the 5th wheel just touches the trailer apron. Then you get out and check alignment/height before continuing.",
+      "zh-Hans": "倒车要慢，当第五轮接触到裙板时停下，检查高度和对齐情况，然后再继续。",
+      "zh-Hant": "倒車要慢，當第五輪接觸到裙板時停下，檢查高度和對齊情況，然後再繼續。"
+    },
+    "dmv_ref": {
+      "page": "6-6",
+      "section": "Coupling Steps",
+      "analysis_zh-Hans": "硬撞可能会损坏支腿或者把主销撞弯。",
+      "analysis_zh-Hant": "硬撞可能會損壞支腿或者把主銷撞彎。"
+    }
+  },
+  {
+    "id": 3009,
+    "category": "Combination",
+    "question": {
+      "en": "To unlock the fifth wheel, pull the release handle to the ___ position.",
+      "zh-Hans": "要解锁第五轮，应将释放手柄拉到 ___ 位置。",
+      "zh-Hant": "要解鎖第五輪，應將釋放手柄拉到 ___ 位置。"
+    },
+    "options": {
+      "A": {
+        "en": "Open",
+        "zh-Hans": "开启 (Open)",
+        "zh-Hant": "開啟 (Open)"
+      },
+      "B": {
+        "en": "Closed",
+        "zh-Hans": "关闭 (Closed)",
+        "zh-Hant": "關閉 (Closed)"
+      },
+      "C": {
+        "en": "Neutral",
+        "zh-Hans": "中立",
+        "zh-Hant": "中立"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Pull the release handle to the open position to disengage the locking jaws.",
+      "zh-Hans": "拉到开启位置以松开卡爪。",
+      "zh-Hant": "拉到開啟位置以鬆開卡爪。"
+    },
+    "dmv_ref": {
+      "page": "6-9",
+      "section": "Uncoupling",
+      "analysis_zh-Hans": "解耦操作步骤。",
+      "analysis_zh-Hant": "解耦操作步驟。"
+    }
+  },
+  {
+    "id": 3010,
+    "category": "Combination",
+    "question": {
+      "en": "After coupling, you should test the connection by pulling gently forward against the locked trailer brakes. This is known as a:",
+      "zh-Hans": "连接后，你应该在挂车刹车锁死的情况下轻轻向前拉，以测试连接是否牢固。这被称为：",
+      "zh-Hant": "連接後，你應該在掛車剎車鎖死的情況下輕輕向前拉，以測試連接是否牢固。這被稱為："
+    },
+    "options": {
+      "A": {
+        "en": "Tug test",
+        "zh-Hans": "拉力测试 (Tug Test)",
+        "zh-Hant": "拉力測試 (Tug Test)"
+      },
+      "B": {
+        "en": "Brake test",
+        "zh-Hans": "刹车测试",
+        "zh-Hant": "剎車測試"
+      },
+      "C": {
+        "en": "Pull test",
+        "zh-Hans": "牵引测试",
+        "zh-Hant": "牽引測試"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "The 'tug test' ensures that the 5th wheel jaws have actually locked onto the kingpin.",
+      "zh-Hans": "拉力测试(Tug Test)是确认已经挂上的最后一道保险。",
+      "zh-Hant": "拉力測試(Tug Test)是確認已經掛上的最後一道保險。"
+    },
+    "dmv_ref": {
+      "page": "6-8",
+      "section": "Tug Test",
+      "analysis_zh-Hans": "没做Tug Test就上路，挂车可能会掉下来。",
+      "analysis_zh-Hant": "沒做Tug Test就上路，掛車可能會掉下來。"
+    }
+  },
+  {
+    "id": 3011,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "When you turn suddenly while pulling trailers, you increase the chance of a:",
+      "zh-Hans": "当你牵引拖车时突然转向，会增加以下哪种风险？",
+      "zh-Hant": "當你牽引拖車時突然轉向，會增加以下哪種風險？"
+    },
+    "options": {
+      "A": {
+        "en": "Jackknife or tip-over",
+        "zh-Hans": "折叠（Jackknife）或翻车",
+        "zh-Hant": "折疊（Jackknife）或翻車"
+      },
+      "B": {
+        "en": "Engine stall",
+        "zh-Hans": "发动机熄火",
+        "zh-Hant": "發動機熄火"
+      },
+      "C": {
+        "en": "Flat tire",
+        "zh-Hans": "爆胎",
+        "zh-Hant": "爆胎"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Sudden steering can cause the trailer to jackknife or tip over, especially at higher speeds.",
+      "zh-Hans": "突然转向可能导致拖车折叠或翻车，特别是在高速时。",
+      "zh-Hant": "突然轉向可能導致拖車折疊或翻車，特別是在高速時。"
+    },
+    "dmv_ref": {
+      "page": "6-6",
+      "section": "Rollover Prevention",
+      "analysis_zh-Hans": "预防翻车的关键是平稳驾驶。",
+      "analysis_zh-Hant": "預防翻車的關鍵是平穩駕駛。"
+    }
+  },
+  {
+    "id": 3012,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "The crack-the-whip effect can cause a trailer to:",
+      "zh-Hans": "甩尾效应（Crack-the-whip）会导致拖车：",
+      "zh-Hant": "甩尾效應（Crack-the-whip）會導致拖車："
+    },
+    "options": {
+      "A": {
+        "en": "Roll over",
+        "zh-Hans": "翻车",
+        "zh-Hant": "翻車"
+      },
+      "B": {
+        "en": "Jackknife",
+        "zh-Hans": "折叠",
+        "zh-Hant": "折疊"
+      },
+      "C": {
+        "en": "Go faster",
+        "zh-Hans": "加速",
+        "zh-Hant": "加速"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "The crack-the-whip effect amplifies steering movements at the back of a trailer, causing rollover.",
+      "zh-Hans": "甩尾效应会放大拖车后部的转向运动，导致翻车。",
+      "zh-Hant": "甩尾效應會放大拖車後部的轉向運動，導致翻車。"
+    },
+    "dmv_ref": {
+      "page": "6-6",
+      "section": "Crack-the-whip",
+      "analysis_zh-Hans": "尾部拖车受影响最大。",
+      "analysis_zh-Hant": "尾部拖車受影響最大。"
+    }
+  },
+  {
+    "id": 3013,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "When coupling, after you have backed the tractor under the trailer:",
+      "zh-Hans": "连接时，在将牵引车倒入拖车下方后：",
+      "zh-Hant": "連接時，在將牽引車倒入拖車下方後："
+    },
+    "options": {
+      "A": {
+        "en": "Connect the air lines immediately",
+        "zh-Hans": "立即连接空气管路",
+        "zh-Hant": "立即連接空氣管路"
+      },
+      "B": {
+        "en": "Secure the locking jaws around the kingpin",
+        "zh-Hans": "确保锁定爪锁住主销",
+        "zh-Hant": "確保鎖定爪鎖住主銷"
+      },
+      "C": {
+        "en": "Remove the wheel chocks",
+        "zh-Hans": "移除轮挡",
+        "zh-Hant": "移除輪擋"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "After backing under, raise the landing gear slightly, check that locking jaws are secure around the kingpin.",
+      "zh-Hans": "倒入后，稍微升起支撑腿，检查锁定爪是否牢固锁住主销。",
+      "zh-Hant": "倒入後，稍微升起支撐腿，檢查鎖定爪是否牢固鎖住主銷。"
+    },
+    "dmv_ref": {
+      "page": "6-2",
+      "section": "Coupling Step",
+      "analysis_zh-Hans": "主销锁定是连接的关键步骤。",
+      "analysis_zh-Hant": "主銷鎖定是連接的關鍵步驟。"
+    }
+  },
+  {
+    "id": 3014,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "When uncoupling, after you have lowered the landing gear:",
+      "zh-Hans": "脱钩时，在放下支撑腿后：",
+      "zh-Hant": "脫鉤時，在放下支撐腿後："
+    },
+    "options": {
+      "A": {
+        "en": "Disconnect the air lines and electrical cable",
+        "zh-Hans": "断开空气管路和电线",
+        "zh-Hant": "斷開空氣管路和電線"
+      },
+      "B": {
+        "en": "Leave the trailer connected",
+        "zh-Hans": "让拖车保持连接",
+        "zh-Hant": "讓拖車保持連接"
+      },
+      "C": {
+        "en": "Drive away immediately",
+        "zh-Hans": "立即开走",
+        "zh-Hant": "立即開走"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "After lowering landing gear and chocking wheels, disconnect air lines and electrical cable.",
+      "zh-Hans": "放下支撑腿并塞好轮挡后，断开空气管路和电缆。",
+      "zh-Hant": "放下支撐腿並塞好輪擋後，斷開空氣管路和電纜。"
+    },
+    "dmv_ref": {
+      "page": "6-3",
+      "section": "Uncoupling Step",
+      "analysis_zh-Hans": "断开前要先固定好拖车。",
+      "analysis_zh-Hant": "斷開前要先固定好拖車。"
+    }
+  },
+  {
+    "id": 3015,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "The fifth wheel should be checked for:",
+      "zh-Hans": "第五轮应该检查：",
+      "zh-Hant": "第五輪應該檢查："
+    },
+    "options": {
+      "A": {
+        "en": "Cracks, loose bolts, and proper lubrication",
+        "zh-Hans": "裂缝、松动的螺栓和适当的润滑",
+        "zh-Hant": "裂縫、鬆動的螺栓和適當的潤滑"
+      },
+      "B": {
+        "en": "Tire pressure",
+        "zh-Hans": "轮胎气压",
+        "zh-Hant": "輪胎氣壓"
+      },
+      "C": {
+        "en": "Fuel level",
+        "zh-Hans": "燃油液位",
+        "zh-Hant": "燃油液位"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Check fifth wheel for proper lubrication, damage, and that mounting bolts are secure.",
+      "zh-Hans": "检查第五轮是否润滑适当、有无损坏、以及安装螺栓是否牢固。",
+      "zh-Hant": "檢查第五輪是否潤滑適當、有無損壞、以及安裝螺栓是否牢固。"
+    },
+    "dmv_ref": {
+      "page": "6-1",
+      "section": "Fifth Wheel Check",
+      "analysis_zh-Hans": "第五轮是连接的关键部件。",
+      "analysis_zh-Hant": "第五輪是連接的關鍵部件。"
+    }
+  },
+  {
+    "id": 3016,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "The hand valve (also called trolley valve or trailer brake) is used to:",
+      "zh-Hans": "手阀（也叫电车阀或挂车刹车）用于：",
+      "zh-Hant": "手閥（也叫電車閥或掛車剎車）用於："
+    },
+    "options": {
+      "A": {
+        "en": "Control the tractor brakes only",
+        "zh-Hans": "只控制牵引车刹车",
+        "zh-Hant": "只控制牽引車剎車"
+      },
+      "B": {
+        "en": "Apply the trailer brakes only",
+        "zh-Hans": "只施加挂车刹车",
+        "zh-Hant": "只施加掛車剎車"
+      },
+      "C": {
+        "en": "Steer the vehicle",
+        "zh-Hans": "操控车辆",
+        "zh-Hant": "操控車輛"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "The hand valve applies only the trailer brakes. Don't use it for parking.",
+      "zh-Hans": "手阀只施加挂车刹车。不要将其用于驻车。",
+      "zh-Hant": "手閥只施加掛車剎車。不要將其用於駐車。"
+    },
+    "dmv_ref": {
+      "page": "6-4",
+      "section": "Trailer Brake",
+      "analysis_zh-Hans": "手阀只控制挂车刹车。",
+      "analysis_zh-Hant": "手閥只控制掛車剎車。"
+    }
+  },
+  {
+    "id": 3017,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "What is a tractor jackknife?",
+      "zh-Hans": "什么是牵引车折叠（Tractor Jackknife）？",
+      "zh-Hant": "什麼是牽引車折疊（Tractor Jackknife）？"
+    },
+    "options": {
+      "A": {
+        "en": "When the tractor drive wheels skid and the trailer pushes the tractor sideways",
+        "zh-Hans": "当牵引车驱动轮打滑，拖车将牵引车推向侧面",
+        "zh-Hant": "當牽引車驅動輪打滑，拖車將牽引車推向側面"
+      },
+      "B": {
+        "en": "When the trailer wheels lock up",
+        "zh-Hans": "当拖车车轮锁死",
+        "zh-Hant": "當拖車車輪鎖死"
+      },
+      "C": {
+        "en": "When both the tractor and trailer flip over",
+        "zh-Hans": "当牵引车和拖车都翻车",
+        "zh-Hant": "當牽引車和拖車都翻車"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "A tractor jackknife occurs when the tractor drive wheels lose traction and the trailer pushes the tractor around.",
+      "zh-Hans": "牵引车折叠发生在牵引车驱动轮失去抓地力时，拖车将牵引车推向侧面。",
+      "zh-Hant": "牽引車折疊發生在牽引車驅動輪失去抓地力時，拖車將牽引車推向側面。"
+    },
+    "dmv_ref": {
+      "page": "6-5",
+      "section": "Jackknife",
+      "analysis_zh-Hans": "最常见的折叠类型。",
+      "analysis_zh-Hant": "最常見的折疊類型。"
+    }
+  },
+  {
+    "id": 3018,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "Before coupling, the trailer should be:",
+      "zh-Hans": "连接前，挂车应该：",
+      "zh-Hant": "連接前，掛車應該："
+    },
+    "options": {
+      "A": {
+        "en": "Not too high for the tractor to back under",
+        "zh-Hans": "高度不能太高以至于牵引车无法倒入",
+        "zh-Hant": "高度不能太高以至於牽引車無法倒入"
+      },
+      "B": {
+        "en": "As high as possible",
+        "zh-Hans": "尽可能高",
+        "zh-Hant": "盡可能高"
+      },
+      "C": {
+        "en": "Tilted to the left",
+        "zh-Hans": "向左倾斜",
+        "zh-Hant": "向左傾斜"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "The trailer should be low enough for the tractor to back under but high enough to clear the fifth wheel.",
+      "zh-Hans": "挂车应该足够低以便牵引车倒入，但又足够高以清除第五轮。",
+      "zh-Hant": "掛車應該足夠低以便牽引車倒入，但又足夠高以清除第五輪。"
+    },
+    "dmv_ref": {
+      "page": "6-2",
+      "section": "Coupling Height",
+      "analysis_zh-Hans": "高度要恰到好处。",
+      "analysis_zh-Hant": "高度要恰到好處。"
+    }
+  },
+  {
+    "id": 3019,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "When should you use the trailer hand brake?",
+      "zh-Hans": "什么时候应该使用挂车手刹？",
+      "zh-Hant": "什麼時候應該使用掛車手剎？"
+    },
+    "options": {
+      "A": {
+        "en": "For normal braking",
+        "zh-Hans": "正常刹车时",
+        "zh-Hant": "正常剎車時"
+      },
+      "B": {
+        "en": "When testing trailer brakes",
+        "zh-Hans": "测试挂车刹车时",
+        "zh-Hant": "測試掛車剎車時"
+      },
+      "C": {
+        "en": "For parking the vehicle",
+        "zh-Hans": "驻车时",
+        "zh-Hant": "駐車時"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "The hand valve should only be used to test the trailer brakes. Never use it for parking.",
+      "zh-Hans": "手阀只应用于测试挂车刹车。永远不要用于驻车。",
+      "zh-Hant": "手閥只應用於測試掛車剎車。永遠不要用於駐車。"
+    },
+    "dmv_ref": {
+      "page": "6-4",
+      "section": "Hand Valve Use",
+      "analysis_zh-Hans": "手阀不适合驻车使用。",
+      "analysis_zh-Hant": "手閥不適合駐車使用。"
+    }
+  },
+  {
+    "id": 3020,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "When backing a trailer, turning the wheel to the right will make the trailer go:",
+      "zh-Hans": "倒车挂车时，向右转方向盘会使挂车向哪边移动？",
+      "zh-Hant": "倒車掛車時，向右轉方向盤會使掛車向哪邊移動？"
+    },
+    "options": {
+      "A": {
+        "en": "Right",
+        "zh-Hans": "右",
+        "zh-Hant": "右"
+      },
+      "B": {
+        "en": "Left",
+        "zh-Hans": "左",
+        "zh-Hant": "左"
+      },
+      "C": {
+        "en": "Straight",
+        "zh-Hans": "直行",
+        "zh-Hant": "直行"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "When backing a trailer, the trailer goes the opposite direction of the turn. Right turn = trailer goes left.",
+      "zh-Hans": "倒车挂车时，挂车向转向的相反方向移动。右转=挂车向左。",
+      "zh-Hant": "倒車掛車時，掛車向轉向的相反方向移動。右轉=掛車向左。"
+    },
+    "dmv_ref": {
+      "page": "6-5",
+      "section": "Backing a Trailer",
+      "analysis_zh-Hans": "倒车技巧：方向相反。",
+      "analysis_zh-Hant": "倒車技巧：方向相反。"
+    }
+  },
+  {
+    "id": 3021,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "The kingpin is part of the:",
+      "zh-Hans": "主销是以下哪个部件的一部分？",
+      "zh-Hant": "主銷是以下哪個部件的一部分？"
+    },
+    "options": {
+      "A": {
+        "en": "Tractor",
+        "zh-Hans": "牵引车",
+        "zh-Hant": "牽引車"
+      },
+      "B": {
+        "en": "Trailer",
+        "zh-Hans": "挂车",
+        "zh-Hant": "掛車"
+      },
+      "C": {
+        "en": "Engine",
+        "zh-Hans": "发动机",
+        "zh-Hant": "發動機"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "The kingpin is mounted on the front of the trailer. It locks into the fifth wheel on the tractor.",
+      "zh-Hans": "主销安装在挂车前端。它锁入牵引车的第五轮。",
+      "zh-Hant": "主銷安裝在掛車前端。它鎖入牽引車的第五輪。"
+    },
+    "dmv_ref": {
+      "page": "6-1",
+      "section": "Kingpin",
+      "analysis_zh-Hans": "主销在挂车上，第五轮在牵引车上。",
+      "analysis_zh-Hant": "主銷在掛車上，第五輪在牽引車上。"
+    }
+  },
+  {
+    "id": 3022,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "When should you test the tractor protection valve?",
+      "zh-Hans": "什么时候应该测试牵引车保护阀？",
+      "zh-Hant": "什麼時候應該測試牽引車保護閥？"
+    },
+    "options": {
+      "A": {
+        "en": "During every pre-trip inspection",
+        "zh-Hans": "每次行前检查时",
+        "zh-Hant": "每次行前檢查時"
+      },
+      "B": {
+        "en": "Once a year",
+        "zh-Hans": "一年一次",
+        "zh-Hant": "一年一次"
+      },
+      "C": {
+        "en": "Only when buying a new truck",
+        "zh-Hans": "只在购买新卡车时",
+        "zh-Hant": "只在購買新卡車時"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Test the tractor protection valve during every pre-trip inspection.",
+      "zh-Hans": "每次行前检查时测试牵引车保护阀。",
+      "zh-Hant": "每次行前檢查時測試牽引車保護閥。"
+    },
+    "dmv_ref": {
+      "page": "6-4",
+      "section": "Tractor Protection",
+      "analysis_zh-Hans": "行前检查必检项目。",
+      "analysis_zh-Hant": "行前檢查必檢項目。"
+    }
+  },
+  {
+    "id": 3023,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "After coupling, the trailer air supply control should be:",
+      "zh-Hans": "连接后，挂车气源控制应该：",
+      "zh-Hant": "連接後，掛車氣源控制應該："
+    },
+    "options": {
+      "A": {
+        "en": "Pushed in (normal position)",
+        "zh-Hans": "推入（正常位置）",
+        "zh-Hant": "推入（正常位置）"
+      },
+      "B": {
+        "en": "Pulled out",
+        "zh-Hans": "拉出",
+        "zh-Hant": "拉出"
+      },
+      "C": {
+        "en": "In neutral",
+        "zh-Hans": "空档",
+        "zh-Hant": "空檔"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Push in the trailer air supply control to supply air to the trailer. Pull out = emergency/parking mode.",
+      "zh-Hans": "推入挂车气源控制以向挂车供气。拉出=紧急/驻车模式。",
+      "zh-Hant": "推入掛車氣源控制以向掛車供氣。拉出=緊急/駐車模式。"
+    },
+    "dmv_ref": {
+      "page": "6-3",
+      "section": "Air Supply Control",
+      "analysis_zh-Hans": "红色八角形按钮。",
+      "analysis_zh-Hant": "紅色八角形按鈕。"
+    }
+  },
+  {
+    "id": 3024,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "Glad hands are used to:",
+      "zh-Hans": "快接头 (Glad Hands) 用于：",
+      "zh-Hant": "快接頭 (Glad Hands) 用於："
+    },
+    "options": {
+      "A": {
+        "en": "Connect the air lines between the tractor and trailer",
+        "zh-Hans": "连接牵引车和挂车之间的气管",
+        "zh-Hant": "連接牽引車和掛車之間的氣管"
+      },
+      "B": {
+        "en": "Steer the trailer",
+        "zh-Hans": "操控挂车",
+        "zh-Hant": "操控掛車"
+      },
+      "C": {
+        "en": "Lock the fifth wheel",
+        "zh-Hans": "锁定第五轮",
+        "zh-Hant": "鎖定第五輪"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Glad hands are connectors for the air lines between the tractor and trailer.",
+      "zh-Hans": "快接头是牵引车和挂车之间气管的连接器。",
+      "zh-Hant": "快接頭是牽引車和掛車之間氣管的連接器。"
+    },
+    "dmv_ref": {
+      "page": "6-1",
+      "section": "Glad Hands",
+      "analysis_zh-Hans": "连接前要清洁干净。",
+      "analysis_zh-Hant": "連接前要清潔乾淨。"
+    }
+  },
+  {
+    "id": 3025,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "When must you use chocks for the trailer wheels?",
+      "zh-Hans": "什么时候必须为挂车车轮使用轮挡？",
+      "zh-Hant": "什麼時候必須為掛車車輪使用輪擋？"
+    },
+    "options": {
+      "A": {
+        "en": "Only on hills",
+        "zh-Hans": "只在坡道上",
+        "zh-Hant": "只在坡道上"
+      },
+      "B": {
+        "en": "Whenever the trailer is parked without the tractor",
+        "zh-Hans": "每当挂车在没有牵引车的情况下停放时",
+        "zh-Hant": "每當掛車在沒有牽引車的情況下停放時"
+      },
+      "C": {
+        "en": "Never",
+        "zh-Hans": "从不",
+        "zh-Hant": "從不"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Always use wheel chocks when the trailer is parked without the tractor attached.",
+      "zh-Hans": "挂车在没有牵引车连接的情况下停放时，始终使用轮挡。",
+      "zh-Hant": "掛車在沒有牽引車連接的情況下停放時，始終使用輪擋。"
+    },
+    "dmv_ref": {
+      "page": "6-3",
+      "section": "Uncoupling Safety",
+      "analysis_zh-Hans": "防止挂车滑动。",
+      "analysis_zh-Hant": "防止掛車滑動。"
+    }
+  },
+  {
+    "id": 3026,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "Before uncoupling, you should:",
+      "zh-Hans": "脱钩前，你应该：",
+      "zh-Hant": "脫鉤前，你應該："
+    },
+    "options": {
+      "A": {
+        "en": "Lower the landing gear",
+        "zh-Hans": "放下支撑腿",
+        "zh-Hant": "放下支撐腿"
+      },
+      "B": {
+        "en": "Disconnect the air lines first",
+        "zh-Hans": "先断开气管",
+        "zh-Hant": "先斷開氣管"
+      },
+      "C": {
+        "en": "Drive forward quickly",
+        "zh-Hans": "快速向前开",
+        "zh-Hant": "快速向前開"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Lower the landing gear to support the trailer before uncoupling.",
+      "zh-Hans": "脱钩前放下支撑腿以支撑挂车。",
+      "zh-Hant": "脫鉤前放下支撐腿以支撐掛車。"
+    },
+    "dmv_ref": {
+      "page": "6-3",
+      "section": "Uncoupling Steps",
+      "analysis_zh-Hans": "支撑腿先放好再脱钩。",
+      "analysis_zh-Hant": "支撐腿先放好再脫鉤。"
+    }
+  },
+  {
+    "id": 3027,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "What color is the trailer air supply control knob?",
+      "zh-Hans": "挂车气源控制旋钮是什么颜色的？",
+      "zh-Hant": "掛車氣源控制旋鈕是什麼顏色的？"
+    },
+    "options": {
+      "A": {
+        "en": "Yellow",
+        "zh-Hans": "黄色",
+        "zh-Hant": "黃色"
+      },
+      "B": {
+        "en": "Red",
+        "zh-Hans": "红色",
+        "zh-Hant": "紅色"
+      },
+      "C": {
+        "en": "Blue",
+        "zh-Hans": "蓝色",
+        "zh-Hant": "藍色"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "The trailer air supply control is a red, octagonal (8-sided) knob.",
+      "zh-Hans": "挂车气源控制是红色八角形旋钮。",
+      "zh-Hant": "掛車氣源控制是紅色八角形旋鈕。"
+    },
+    "dmv_ref": {
+      "page": "6-4",
+      "section": "Air Supply Control",
+      "analysis_zh-Hans": "红色八角形=挂车气源，黄色菱形=驻车刹。",
+      "analysis_zh-Hant": "紅色八角形=掛車氣源，黃色菱形=駐車剎。"
+    }
+  },
+  {
+    "id": 3028,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "A trailer jackknife happens when:",
+      "zh-Hans": "挂车折叠发生在：",
+      "zh-Hant": "掛車折疊發生在："
+    },
+    "options": {
+      "A": {
+        "en": "The tractor drive wheels lose traction",
+        "zh-Hans": "牵引车驱动轮失去抓地力",
+        "zh-Hant": "牽引車驅動輪失去抓地力"
+      },
+      "B": {
+        "en": "The trailer wheels lock up and the trailer swings around",
+        "zh-Hans": "挂车车轮锁死，挂车甩动",
+        "zh-Hant": "掛車車輪鎖死，掛車甩動"
+      },
+      "C": {
+        "en": "The engine stalls",
+        "zh-Hans": "发动机熄火",
+        "zh-Hant": "發動機熄火"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "A trailer jackknife occurs when trailer wheels lock up and the trailer swings toward the tractor.",
+      "zh-Hans": "挂车折叠发生在挂车车轮锁死时，挂车向牵引车方向甩动。",
+      "zh-Hant": "掛車折疊發生在掛車車輪鎖死時，掛車向牽引車方向甩動。"
+    },
+    "dmv_ref": {
+      "page": "6-5",
+      "section": "Trailer Jackknife",
+      "analysis_zh-Hans": "挂车折叠和牵引车折叠是不同的。",
+      "analysis_zh-Hant": "掛車折疊和牽引車折疊是不同的。"
+    }
+  },
+  {
+    "id": 3029,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "You should check the landing gear after uncoupling by:",
+      "zh-Hans": "脱钩后，你应该通过以下方式检查支撑腿：",
+      "zh-Hant": "脫鉤後，你應該通過以下方式檢查支撐腿："
+    },
+    "options": {
+      "A": {
+        "en": "Making sure it is fully extended and firm support is provided",
+        "zh-Hans": "确保它完全伸展并提供牢固支撑",
+        "zh-Hant": "確保它完全伸展並提供牢固支撐"
+      },
+      "B": {
+        "en": "Kicking it",
+        "zh-Hans": "踢它",
+        "zh-Hant": "踢它"
+      },
+      "C": {
+        "en": "Shaking the trailer",
+        "zh-Hans": "摇晃挂车",
+        "zh-Hant": "搖晃掛車"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Ensure landing gear is firmly on ground, crank handle secure, and trailer is level.",
+      "zh-Hans": "确保支撑腿牢固接地，曲柄把手固定，挂车水平。",
+      "zh-Hant": "確保支撐腿牢固接地，曲柄把手固定，掛車水平。"
+    },
+    "dmv_ref": {
+      "page": "6-3",
+      "section": "Landing Gear Check",
+      "analysis_zh-Hans": "离开前确认挂车稳定。",
+      "analysis_zh-Hant": "離開前確認掛車穩定。"
+    }
+  },
+  {
+    "id": 3030,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "To prevent rollover when pulling trailers, you should:",
+      "zh-Hans": "为了防止牵引拖车时翻车，你应该：",
+      "zh-Hant": "為了防止牽引拖車時翻車，你應該："
+    },
+    "options": {
+      "A": {
+        "en": "Drive at the posted speed limit on curves",
+        "zh-Hans": "在弯道上以限速行驶",
+        "zh-Hant": "在彎道上以限速行駛"
+      },
+      "B": {
+        "en": "Slow down before curves and ramps",
+        "zh-Hans": "在弯道和匝道前减速",
+        "zh-Hant": "在彎道和匝道前減速"
+      },
+      "C": {
+        "en": "Speed up through curves",
+        "zh-Hans": "在弯道中加速",
+        "zh-Hant": "在彎道中加速"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Slow down before curves. Posted limits are for cars, not heavily loaded trucks.",
+      "zh-Hans": "在弯道前减速。限速是为小车设定的，不是满载卡车。",
+      "zh-Hant": "在彎道前減速。限速是為小車設定的，不是滿載卡車。"
+    },
+    "dmv_ref": {
+      "page": "6-6",
+      "section": "Rollover Prevention",
+      "analysis_zh-Hans": "弯道前减速是防翻车的关键。",
+      "analysis_zh-Hant": "彎道前減速是防翻車的關鍵。"
+    }
+  },
+  {
+    "id": 3031,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "What is the proper way to test that the trailer is securely coupled?",
+      "zh-Hans": "测试挂车是否安全连接的正确方法是什么？",
+      "zh-Hant": "測試掛車是否安全連接的正確方法是什麼？"
+    },
+    "options": {
+      "A": {
+        "en": "Pull forward gently with the trailer brakes locked to see if it holds",
+        "zh-Hans": "在挂车刹车锁定的情况下轻轻向前拉，看是否能固定",
+        "zh-Hant": "在掛車剎車鎖定的情況下輕輕向前拉，看是否能固定"
+      },
+      "B": {
+        "en": "Drive at full speed",
+        "zh-Hans": "全速行驶",
+        "zh-Hant": "全速行駛"
+      },
+      "C": {
+        "en": "Honk the horn",
+        "zh-Hans": "按喇叭",
+        "zh-Hant": "按喇叭"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "With trailer brakes locked, pull forward gently to test that the fifth wheel is locked onto the kingpin.",
+      "zh-Hans": "挂车刹车锁定后，轻轻向前拉以测试第五轮是否锁定在主销上。",
+      "zh-Hant": "掛車剎車鎖定後，輕輕向前拉以測試第五輪是否鎖定在主銷上。"
+    },
+    "dmv_ref": {
+      "page": "6-2",
+      "section": "Coupling Test",
+      "analysis_zh-Hans": "这是检验连接是否牢固的关键步骤。",
+      "analysis_zh-Hant": "這是檢驗連接是否牢固的關鍵步驟。"
+    }
+  },
+  {
+    "id": 3032,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "After coupling, you should raise the landing gear:",
+      "zh-Hans": "连接后，你应该升起支撑腿：",
+      "zh-Hant": "連接後，你應該升起支撐腿："
+    },
+    "options": {
+      "A": {
+        "en": "Only halfway",
+        "zh-Hans": "只升一半",
+        "zh-Hant": "只升一半"
+      },
+      "B": {
+        "en": "All the way up with the crank handle secured",
+        "zh-Hans": "完全升起并固定好曲柄把手",
+        "zh-Hant": "完全升起並固定好曲柄把手"
+      },
+      "C": {
+        "en": "Leave it down",
+        "zh-Hans": "保持放下",
+        "zh-Hant": "保持放下"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Raise landing gear completely and secure the crank handle to prevent damage during driving.",
+      "zh-Hans": "完全升起支撑腿并固定曲柄把手，防止行驶中损坏。",
+      "zh-Hant": "完全升起支撐腿並固定曲柄把手，防止行駛中損壞。"
+    },
+    "dmv_ref": {
+      "page": "6-3",
+      "section": "Landing Gear",
+      "analysis_zh-Hans": "没升好的支撑腿会刮地。",
+      "analysis_zh-Hant": "沒升好的支撐腿會刮地。"
+    }
+  },
+  {
+    "id": 3033,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "The service line is also called:",
+      "zh-Hans": "服务管路也叫做：",
+      "zh-Hant": "服務管路也叫做："
+    },
+    "options": {
+      "A": {
+        "en": "Emergency line",
+        "zh-Hans": "紧急管路",
+        "zh-Hant": "緊急管路"
+      },
+      "B": {
+        "en": "Control line",
+        "zh-Hans": "控制管路",
+        "zh-Hant": "控制管路"
+      },
+      "C": {
+        "en": "Supply line",
+        "zh-Hans": "供气管路",
+        "zh-Hant": "供氣管路"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "The service line (control line) carries the message to apply the brakes. The supply line (emergency line) provides air.",
+      "zh-Hans": "服务管路（控制管路）传递刹车指令。供气管路（紧急管路）提供气源。",
+      "zh-Hant": "服務管路（控制管路）傳遞剎車指令。供氣管路（緊急管路）提供氣源。"
+    },
+    "dmv_ref": {
+      "page": "6-4",
+      "section": "Air Lines",
+      "analysis_zh-Hans": "区分两条管路的功能。",
+      "analysis_zh-Hant": "區分兩條管路的功能。"
+    }
+  },
+  {
+    "id": 3034,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "If the emergency line loses pressure:",
+      "zh-Hans": "如果紧急管路失去压力：",
+      "zh-Hant": "如果緊急管路失去壓力："
+    },
+    "options": {
+      "A": {
+        "en": "Nothing happens",
+        "zh-Hans": "什么都不会发生",
+        "zh-Hant": "什麼都不會發生"
+      },
+      "B": {
+        "en": "The trailer emergency brakes will come on",
+        "zh-Hans": "挂车紧急刹车会启动",
+        "zh-Hant": "掛車緊急剎車會啟動"
+      },
+      "C": {
+        "en": "The engine will stall",
+        "zh-Hans": "发动机会熄火",
+        "zh-Hant": "發動機會熄火"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Loss of air in the emergency (supply) line causes the trailer emergency brakes to activate.",
+      "zh-Hans": "紧急（供气）管路失去气压会导致挂车紧急刹车启动。",
+      "zh-Hant": "緊急（供氣）管路失去氣壓會導致掛車緊急剎車啟動。"
+    },
+    "dmv_ref": {
+      "page": "6-4",
+      "section": "Emergency Line",
+      "analysis_zh-Hans": "这是fail-safe安全设计。",
+      "analysis_zh-Hant": "這是fail-safe安全設計。"
+    }
+  },
+  {
+    "id": 3035,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "When coupling, the fifth wheel should be:",
+      "zh-Hans": "连接时，第五轮应该：",
+      "zh-Hant": "連接時，第五輪應該："
+    },
+    "options": {
+      "A": {
+        "en": "Tilted down toward the rear of the tractor",
+        "zh-Hans": "向牵引车后部倾斜",
+        "zh-Hant": "向牽引車後部傾斜"
+      },
+      "B": {
+        "en": "Level or tilted toward the front",
+        "zh-Hans": "水平或向前倾斜",
+        "zh-Hant": "水平或向前傾斜"
+      },
+      "C": {
+        "en": "Tilted to the left",
+        "zh-Hans": "向左倾斜",
+        "zh-Hant": "向左傾斜"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "The fifth wheel should be tilted down toward the rear so the trailer kingpin can engage properly.",
+      "zh-Hans": "第五轮应该向后倾斜，以便挂车主销能正确接合。",
+      "zh-Hant": "第五輪應該向後傾斜，以便掛車主銷能正確接合。"
+    },
+    "dmv_ref": {
+      "page": "6-2",
+      "section": "Fifth Wheel Position",
+      "analysis_zh-Hans": "向后倾斜便于主销进入。",
+      "analysis_zh-Hant": "向後傾斜便於主銷進入。"
+    }
+  },
+  {
+    "id": 3036,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "Doubles and triples have a higher rollover risk because:",
+      "zh-Hans": "双挂和三挂有更高的翻车风险，因为：",
+      "zh-Hant": "雙掛和三掛有更高的翻車風險，因為："
+    },
+    "options": {
+      "A": {
+        "en": "They have more weight evenly distributed",
+        "zh-Hans": "它们的重量分布更均匀",
+        "zh-Hant": "它們的重量分布更均勻"
+      },
+      "B": {
+        "en": "The crack-the-whip effect is amplified with more trailers",
+        "zh-Hans": "甩尾效应随着更多的挂车而放大",
+        "zh-Hant": "甩尾效應隨著更多的掛車而放大"
+      },
+      "C": {
+        "en": "They are shorter",
+        "zh-Hans": "它们更短",
+        "zh-Hant": "它們更短"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "With doubles and triples, the last trailer feels the most amplified effect of any steering input.",
+      "zh-Hans": "对于双挂和三挂，最后一节挂车感受到的转向输入效应最大。",
+      "zh-Hant": "對於雙掛和三掛，最後一節掛車感受到的轉向輸入效應最大。"
+    },
+    "dmv_ref": {
+      "page": "6-6",
+      "section": "Doubles/Triples",
+      "analysis_zh-Hans": "尾部挂车最容易翻。",
+      "analysis_zh-Hant": "尾部掛車最容易翻。"
+    }
+  },
+  {
+    "id": 3037,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "Before backing with a trailer, you should:",
+      "zh-Hans": "倒车挂车前，你应该：",
+      "zh-Hant": "倒車掛車前，你應該："
+    },
+    "options": {
+      "A": {
+        "en": "Look at your target and path by getting out and walking around",
+        "zh-Hans": "下车走动查看目标和路径",
+        "zh-Hant": "下車走動查看目標和路徑"
+      },
+      "B": {
+        "en": "Just use mirrors",
+        "zh-Hans": "只用后视镜",
+        "zh-Hant": "只用後視鏡"
+      },
+      "C": {
+        "en": "Accelerate quickly",
+        "zh-Hans": "快速加速",
+        "zh-Hant": "快速加速"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Get out and look at your intended path. Check clearances and obstacles.",
+      "zh-Hans": "下车查看你的预定路径。检查间隙和障碍物。",
+      "zh-Hant": "下車查看你的預定路徑。檢查間隙和障礙物。"
+    },
+    "dmv_ref": {
+      "page": "6-5",
+      "section": "Backing Safety",
+      "analysis_zh-Hans": "GOAL: Get Out And Look.",
+      "analysis_zh-Hant": "GOAL: Get Out And Look."
+    }
+  },
+  {
+    "id": 3038,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "What is offtracking?",
+      "zh-Hans": "什么是内轮差（Offtracking）？",
+      "zh-Hant": "什麼是內輪差（Offtracking）？"
+    },
+    "options": {
+      "A": {
+        "en": "When the trailer tires follow a different path than the tractor tires",
+        "zh-Hans": "当挂车轮胎走的路径与牵引车轮胎不同",
+        "zh-Hant": "當掛車輪胎走的路徑與牽引車輪胎不同"
+      },
+      "B": {
+        "en": "When the engine overheats",
+        "zh-Hans": "当发动机过热",
+        "zh-Hant": "當發動機過熱"
+      },
+      "C": {
+        "en": "When the brakes fail",
+        "zh-Hans": "当刹车失灵",
+        "zh-Hant": "當剎車失靈"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Offtracking means the rear wheels of a trailer follow a shorter path than the front wheels in a turn.",
+      "zh-Hans": "内轮差是指挂车后轮在转弯时走的路径比前轮更短。",
+      "zh-Hant": "內輪差是指掛車後輪在轉彎時走的路徑比前輪更短。"
+    },
+    "dmv_ref": {
+      "page": "6-5",
+      "section": "Offtracking",
+      "analysis_zh-Hans": "转弯时后轮向内切。",
+      "analysis_zh-Hant": "轉彎時後輪向內切。"
+    }
+  },
+  {
+    "id": 3039,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "To prevent a jackknife when braking, you should:",
+      "zh-Hans": "为了防止刹车时折叠，你应该：",
+      "zh-Hant": "為了防止剎車時折疊，你應該："
+    },
+    "options": {
+      "A": {
+        "en": "Brake hard and fast",
+        "zh-Hans": "用力快速刹车",
+        "zh-Hant": "用力快速剎車"
+      },
+      "B": {
+        "en": "Keep the trailer and tractor in line, avoid hard braking",
+        "zh-Hans": "保持挂车和牵引车在一条直线上，避免急刹",
+        "zh-Hant": "保持掛車和牽引車在一條直線上，避免急剎"
+      },
+      "C": {
+        "en": "Use the hand valve only",
+        "zh-Hans": "只使用手阀",
+        "zh-Hant": "只使用手閥"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Keep the rig in line, avoid overbraking, and maintain control to prevent jackknifing.",
+      "zh-Hans": "保持车辆在一条直线上，避免过度刹车，保持控制以防止折叠。",
+      "zh-Hant": "保持車輛在一條直線上，避免過度剎車，保持控制以防止折疊。"
+    },
+    "dmv_ref": {
+      "page": "6-5",
+      "section": "Jackknife Prevention",
+      "analysis_zh-Hans": "直线+轻刹=防折叠。",
+      "analysis_zh-Hant": "直線+輕剎=防折疊。"
+    }
+  },
+  {
+    "id": 3040,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "Which is true about the landing gear?",
+      "zh-Hans": "关于支撑腿，以下哪项是正确的？",
+      "zh-Hant": "關於支撐腿，以下哪項是正確的？"
+    },
+    "options": {
+      "A": {
+        "en": "It supports the trailer when not coupled",
+        "zh-Hans": "它在未连接时支撑挂车",
+        "zh-Hant": "它在未連接時支撐掛車"
+      },
+      "B": {
+        "en": "It steers the trailer",
+        "zh-Hans": "它操控挂车",
+        "zh-Hant": "它操控掛車"
+      },
+      "C": {
+        "en": "It applies the brakes",
+        "zh-Hans": "它施加刹车",
+        "zh-Hant": "它施加剎車"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Landing gear supports the front of the trailer when not coupled to the tractor.",
+      "zh-Hans": "支撑腿在未与牵引车连接时支撑挂车前端。",
+      "zh-Hant": "支撐腿在未與牽引車連接時支撐掛車前端。"
+    },
+    "dmv_ref": {
+      "page": "6-1",
+      "section": "Landing Gear",
+      "analysis_zh-Hans": "支撑腿像挂车的腿。",
+      "analysis_zh-Hant": "支撐腿像掛車的腿。"
+    }
+  },
+  {
+    "id": 3041,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "How should you check that the glad hands are correctly connected?",
+      "zh-Hans": "你应该如何检查快接头是否正确连接？",
+      "zh-Hant": "你應該如何檢查快接頭是否正確連接？"
+    },
+    "options": {
+      "A": {
+        "en": "By color coding - blue to blue, red to red",
+        "zh-Hans": "通过颜色编码 - 蓝对蓝，红对红",
+        "zh-Hant": "通過顏色編碼 - 藍對藍，紅對紅"
+      },
+      "B": {
+        "en": "By weight",
+        "zh-Hans": "通过重量",
+        "zh-Hant": "通過重量"
+      },
+      "C": {
+        "en": "By length",
+        "zh-Hans": "通过长度",
+        "zh-Hant": "通過長度"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Connect blue to blue (service) and red to red (emergency/supply). Crossing them is dangerous.",
+      "zh-Hans": "蓝接蓝（服务线）,红接红（紧急/供气线）。接反是危险的。",
+      "zh-Hant": "藍接藍（服務線）,紅接紅（緊急/供氣線）。接反是危險的。"
+    },
+    "dmv_ref": {
+      "page": "6-2",
+      "section": "Glad Hands",
+      "analysis_zh-Hans": "颜色编码防止接错。",
+      "analysis_zh-Hant": "顏色編碼防止接錯。"
+    }
+  },
+  {
+    "id": 3042,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "If the service line is disconnected while driving, what happens?",
+      "zh-Hans": "如果在行驶中服务管路断开，会发生什么？",
+      "zh-Hant": "如果在行駛中服務管路斷開，會發生什麼？"
+    },
+    "options": {
+      "A": {
+        "en": "The trailer brakes will apply fully",
+        "zh-Hans": "挂车刹车会完全启动",
+        "zh-Hant": "掛車剎車會完全啟動"
+      },
+      "B": {
+        "en": "Nothing, the trailer will continue normally",
+        "zh-Hans": "没什么，挂车会继续正常行驶",
+        "zh-Hant": "沒什麼，掛車會繼續正常行駛"
+      },
+      "C": {
+        "en": "You would only lose trailer brake control, not emergency brakes",
+        "zh-Hans": "你只会失去挂车刹车控制，而不是紧急刹车",
+        "zh-Hant": "你只會失去掛車剎車控制，而不是緊急剎車"
+      }
+    },
+    "answer": "C",
+    "explanation": {
+      "en": "Loss of the service line means no normal braking control for the trailer, but the emergency line still holds the spring brakes.",
+      "zh-Hans": "服务线断开意味着挂车没有正常刹车控制，但紧急线仍可保持弹簧刹车。",
+      "zh-Hant": "服務線斷開意味著掛車沒有正常剎車控制，但緊急線仍可保持彈簧剎車。"
+    },
+    "dmv_ref": {
+      "page": "6-4",
+      "section": "Service Line",
+      "analysis_zh-Hans": "两条管路有不同的安全功能。",
+      "analysis_zh-Hant": "兩條管路有不同的安全功能。"
+    }
+  },
+  {
+    "id": 3043,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "During a pre-trip, the fifth wheel locking lever should be:",
+      "zh-Hans": "行前检查时，第五轮锁定杆应该：",
+      "zh-Hant": "行前檢查時，第五輪鎖定桿應該："
+    },
+    "options": {
+      "A": {
+        "en": "In the locked position",
+        "zh-Hans": "在锁定位置",
+        "zh-Hant": "在鎖定位置"
+      },
+      "B": {
+        "en": "In the unlocked position",
+        "zh-Hans": "在解锁位置",
+        "zh-Hant": "在解鎖位置"
+      },
+      "C": {
+        "en": "In neutral",
+        "zh-Hans": "在空档",
+        "zh-Hant": "在空檔"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "The locking lever should be in the locked position; look for gaps between the upper and lower fifth wheel.",
+      "zh-Hans": "锁定杆应该在锁定位置；检查上下第五轮之间是否有间隙。",
+      "zh-Hant": "鎖定桿應該在鎖定位置；檢查上下第五輪之間是否有間隙。"
+    },
+    "dmv_ref": {
+      "page": "6-2",
+      "section": "Fifth Wheel Check",
+      "analysis_zh-Hans": "间隙=连接不良。",
+      "analysis_zh-Hant": "間隙=連接不良。"
+    }
+  },
+  {
+    "id": 3044,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "If you cross the glad hands when coupling, what could happen?",
+      "zh-Hans": "如果连接时快接头接反了，会发生什么？",
+      "zh-Hant": "如果連接時快接頭接反了，會發生什麼？"
+    },
+    "options": {
+      "A": {
+        "en": "Nothing, they are interchangeable",
+        "zh-Hans": "没什么，它们可以互换",
+        "zh-Hant": "沒什麼，它們可以互換"
+      },
+      "B": {
+        "en": "You could release the trailer emergency brakes accidentally",
+        "zh-Hans": "你可能会意外释放挂车紧急刹车",
+        "zh-Hant": "你可能會意外釋放掛車緊急剎車"
+      },
+      "C": {
+        "en": "The engine won't start",
+        "zh-Hans": "发动机无法启动",
+        "zh-Hant": "發動機無法啟動"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Crossing the lines can release the trailer emergency brakes, causing an uncontrolled trailer.",
+      "zh-Hans": "接反管路可能会释放挂车紧急刹车，导致挂车失控。",
+      "zh-Hant": "接反管路可能會釋放掛車緊急剎車，導致掛車失控。"
+    },
+    "dmv_ref": {
+      "page": "6-2",
+      "section": "Crossing Lines",
+      "analysis_zh-Hans": "接反是严重的安全隐患。",
+      "analysis_zh-Hant": "接反是嚴重的安全隱患。"
+    }
+  },
+  {
+    "id": 3045,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "When driving doubles, which trailer should be heaviest?",
+      "zh-Hans": "驾驶双挂时，哪个挂车应该更重？",
+      "zh-Hant": "駕駛雙掛時，哪個掛車應該更重？"
+    },
+    "options": {
+      "A": {
+        "en": "The second trailer",
+        "zh-Hans": "第二节挂车",
+        "zh-Hant": "第二節掛車"
+      },
+      "B": {
+        "en": "The first trailer (closest to tractor)",
+        "zh-Hans": "第一节挂车（最靠近牵引车）",
+        "zh-Hant": "第一節掛車（最靠近牽引車）"
+      },
+      "C": {
+        "en": "Both should be equal",
+        "zh-Hans": "两者应该相等",
+        "zh-Hant": "兩者應該相等"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "The heavier trailer should be in front to reduce the crack-the-whip effect.",
+      "zh-Hans": "较重的挂车应该在前面，以减少甩尾效应。",
+      "zh-Hant": "較重的掛車應該在前面，以減少甩尾效應。"
+    },
+    "dmv_ref": {
+      "page": "6-6",
+      "section": "Doubles Order",
+      "analysis_zh-Hans": "重在前，轻在后。",
+      "analysis_zh-Hant": "重在前，輕在後。"
+    }
+  },
+  {
+    "id": 3046,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "The trailer supply valve (tractor protection valve) closes automatically at what pressure?",
+      "zh-Hans": "挂车供气阀（牵引车保护阀）在什么压力时自动关闭？",
+      "zh-Hant": "掛車供氣閥（牽引車保護閥）在什麼壓力時自動關閉？"
+    },
+    "options": {
+      "A": {
+        "en": "60 psi",
+        "zh-Hans": "60 psi",
+        "zh-Hant": "60 psi"
+      },
+      "B": {
+        "en": "20-45 psi",
+        "zh-Hans": "20-45 psi",
+        "zh-Hant": "20-45 psi"
+      },
+      "C": {
+        "en": "100 psi",
+        "zh-Hans": "100 psi",
+        "zh-Hant": "100 psi"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "The tractor protection valve closes at 20-45 psi to protect the tractor's air supply.",
+      "zh-Hans": "牵引车保护阀在20-45 psi时关闭，以保护牵引车的气源。",
+      "zh-Hant": "牽引車保護閥在20-45 psi時關閉，以保護牽引車的氣源。"
+    },
+    "dmv_ref": {
+      "page": "6-4",
+      "section": "Tractor Protection",
+      "analysis_zh-Hans": "20-45 psi是关键范围。",
+      "analysis_zh-Hant": "20-45 psi是關鍵範圍。"
+    }
+  },
+  {
+    "id": 3047,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "Why is locking the trailer brakes before coupling important?",
+      "zh-Hans": "为什么在连接前锁定挂车刹车很重要？",
+      "zh-Hant": "為什麼在連接前鎖定掛車剎車很重要？"
+    },
+    "options": {
+      "A": {
+        "en": "To save fuel",
+        "zh-Hans": "为了省油",
+        "zh-Hant": "為了省油"
+      },
+      "B": {
+        "en": "To prevent the trailer from moving",
+        "zh-Hans": "为了防止挂车移动",
+        "zh-Hant": "為了防止掛車移動"
+      },
+      "C": {
+        "en": "To test the lights",
+        "zh-Hans": "为了测试灯光",
+        "zh-Hant": "為了測試燈光"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Lock trailer brakes before coupling so the trailer doesn't move when you back into it.",
+      "zh-Hans": "连接前锁定挂车刹车，这样当你倒车时挂车不会移动。",
+      "zh-Hant": "連接前鎖定掛車剎車，這樣當你倒車時掛車不會移動。"
+    },
+    "dmv_ref": {
+      "page": "6-2",
+      "section": "Coupling Safety",
+      "analysis_zh-Hans": "防止挂车滚动。",
+      "analysis_zh-Hant": "防止掛車滾動。"
+    }
+  },
+  {
+    "id": 3048,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "What should you do after connecting the air lines?",
+      "zh-Hans": "连接空气管路后应该做什么？",
+      "zh-Hant": "連接空氣管路後應該做什麼？"
+    },
+    "options": {
+      "A": {
+        "en": "Check for air leaks",
+        "zh-Hans": "检查是否有漏气",
+        "zh-Hant": "檢查是否有漏氣"
+      },
+      "B": {
+        "en": "Immediately drive away",
+        "zh-Hans": "立即开车离开",
+        "zh-Hant": "立即開車離開"
+      },
+      "C": {
+        "en": "Lower the landing gear",
+        "zh-Hans": "放下支撑腿",
+        "zh-Hant": "放下支撐腿"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "After connecting air lines, supply air to the trailer and check for leaks.",
+      "zh-Hans": "连接空气管路后，向挂车供气并检查是否漏气。",
+      "zh-Hant": "連接空氣管路後，向掛車供氣並檢查是否漏氣。"
+    },
+    "dmv_ref": {
+      "page": "6-3",
+      "section": "Air Line Check",
+      "analysis_zh-Hans": "听漏气声，检查压力表。",
+      "analysis_zh-Hant": "聽漏氣聲，檢查壓力表。"
+    }
+  },
+  {
+    "id": 3049,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "When is the emergency relay valve used?",
+      "zh-Hans": "紧急继电器阀什么时候使用？",
+      "zh-Hant": "緊急繼電器閥什麼時候使用？"
+    },
+    "options": {
+      "A": {
+        "en": "During normal braking",
+        "zh-Hans": "正常刹车时",
+        "zh-Hant": "正常剎車時"
+      },
+      "B": {
+        "en": "When the supply line loses pressure",
+        "zh-Hans": "当供气线失去压力时",
+        "zh-Hant": "當供氣線失去壓力時"
+      },
+      "C": {
+        "en": "When starting the engine",
+        "zh-Hans": "启动发动机时",
+        "zh-Hant": "啟動發動機時"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "The emergency relay valve activates the trailer emergency brakes when supply line air is lost.",
+      "zh-Hans": "当供气线失去气压时，紧急继电器阀会启动挂车紧急刹车。",
+      "zh-Hant": "當供氣線失去氣壓時，緊急繼電器閥會啟動掛車緊急剎車。"
+    },
+    "dmv_ref": {
+      "page": "6-4",
+      "section": "Emergency Relay",
+      "analysis_zh-Hans": "自动刹车的安全机制。",
+      "analysis_zh-Hant": "自動剎車的安全機制。"
+    }
+  },
+  {
+    "id": 3050,
+    "category": "Combination Vehicles",
+    "question": {
+      "en": "When uncoupling, after lowering the landing gear, you should:",
+      "zh-Hans": "脱钩时，放下支撑腿后，你应该：",
+      "zh-Hant": "脫鉤時，放下支撐腿後，你應該："
+    },
+    "options": {
+      "A": {
+        "en": "Chock the trailer wheels",
+        "zh-Hans": "塞住挂车车轮",
+        "zh-Hant": "塞住掛車車輪"
+      },
+      "B": {
+        "en": "Connect the air lines",
+        "zh-Hans": "连接气管",
+        "zh-Hant": "連接氣管"
+      },
+      "C": {
+        "en": "Drive away immediately",
+        "zh-Hans": "立即开走",
+        "zh-Hant": "立即開走"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "After lowering landing gear, chock the trailer wheels to prevent movement.",
+      "zh-Hans": "放下支撑腿后，塞住挂车车轮以防止移动。",
+      "zh-Hant": "放下支撐腿後，塞住掛車車輪以防止移動。"
+    },
+    "dmv_ref": {
+      "page": "6-3",
+      "section": "Uncoupling",
+      "analysis_zh-Hans": "轮挡是安全保障。",
+      "analysis_zh-Hant": "輪擋是安全保障。"
+    }
+  }
+]

@@ -1,0 +1,382 @@
+[
+    {
+        "id": 4031,
+        "category": "Traffic Signs",
+        "question": {
+            "en": "A flashing red light means:",
+            "zh-Hans": "闪烁的红灯表示：",
+            "zh-Hant": "閃爍的紅燈表示："
+        },
+        "options": {
+            "A": {
+                "en": "Slow down and proceed",
+                "zh-Hans": "减速通过",
+                "zh-Hant": "減速通過"
+            },
+            "B": {
+                "en": "Stop, yield, then proceed when safe",
+                "zh-Hans": "停车，让行，安全时通过",
+                "zh-Hant": "停車，讓行，安全時通過"
+            },
+            "C": {
+                "en": "Speed up",
+                "zh-Hans": "加速",
+                "zh-Hant": "加速"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "A flashing red light means the same as a STOP sign. Stop, yield, then proceed when safe.",
+            "zh-Hans": "闪烁的红灯与停车标志意义相同。停车，让行，安全时通过。",
+            "zh-Hant": "閃爍的紅燈與停車標誌意義相同。停車，讓行，安全時通過。"
+        },
+        "dmv_ref": {
+            "page": "2-18",
+            "section": "Traffic Signals",
+            "analysis_zh-Hans": "闪红=停车标志。",
+            "analysis_zh-Hant": "閃紅=停車標誌。"
+        }
+    },
+    {
+        "id": 4032,
+        "category": "Traffic Signs",
+        "question": {
+            "en": "A 'DIVIDED HIGHWAY' sign means:",
+            "zh-Hans": "'DIVIDED HIGHWAY'（分隔公路）标志表示：",
+            "zh-Hant": "'DIVIDED HIGHWAY'（分隔公路）標誌表示："
+        },
+        "options": {
+            "A": {
+                "en": "The highway ends",
+                "zh-Hans": "公路结束",
+                "zh-Hant": "公路結束"
+            },
+            "B": {
+                "en": "A divided highway begins ahead",
+                "zh-Hans": "前方开始分隔公路",
+                "zh-Hant": "前方開始分隔公路"
+            },
+            "C": {
+                "en": "Two-way traffic",
+                "zh-Hans": "双向交通",
+                "zh-Hant": "雙向交通"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "This sign warns that you are entering a divided highway with a median between traffic directions.",
+            "zh-Hans": "此标志警告你正在进入一条中央分隔的分隔公路。",
+            "zh-Hant": "此標誌警告你正在進入一條中央分隔的分隔公路。"
+        },
+        "dmv_ref": {
+            "page": "2-19",
+            "section": "Highway Signs",
+            "analysis_zh-Hans": "注意对向车流分隔。",
+            "analysis_zh-Hant": "注意對向車流分隔。"
+        }
+    },
+    {
+        "id": 4033,
+        "category": "Traffic Signs",
+        "question": {
+            "en": "A 'MERGE' sign means:",
+            "zh-Hans": "'MERGE'（合流）标志表示：",
+            "zh-Hant": "'MERGE'（合流）標誌表示："
+        },
+        "options": {
+            "A": {
+                "en": "Your lane is ending, merge into traffic",
+                "zh-Hans": "你的车道即将结束，合流进入车流",
+                "zh-Hant": "你的車道即將結束，合流進入車流"
+            },
+            "B": {
+                "en": "Two roads are separating",
+                "zh-Hans": "两条道路正在分离",
+                "zh-Hant": "兩條道路正在分離"
+            },
+            "C": {
+                "en": "Stop and wait",
+                "zh-Hans": "停车等待",
+                "zh-Hant": "停車等待"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "A Merge sign warns that two lanes of traffic are coming together. Adjust your speed and position.",
+            "zh-Hans": "合流标志警告两条车道正在汇合。调整你的速度和位置。",
+            "zh-Hant": "合流標誌警告兩條車道正在匯合。調整你的速度和位置。"
+        },
+        "dmv_ref": {
+            "page": "2-19",
+            "section": "Merge Signs",
+            "analysis_zh-Hans": "合流时让右侧车辆。",
+            "analysis_zh-Hant": "合流時讓右側車輛。"
+        }
+    },
+    {
+        "id": 4034,
+        "category": "Traffic Signs",
+        "question": {
+            "en": "A 'SLIPPERY WHEN WET' sign means:",
+            "zh-Hans": "'SLIPPERY WHEN WET'（湿滑路面）标志表示：",
+            "zh-Hant": "'SLIPPERY WHEN WET'（濕滑路面）標誌表示："
+        },
+        "options": {
+            "A": {
+                "en": "The road is always slippery",
+                "zh-Hans": "道路一直很滑",
+                "zh-Hant": "道路一直很滑"
+            },
+            "B": {
+                "en": "The road may be slippery in wet conditions",
+                "zh-Hans": "道路在潮湿条件下可能会很滑",
+                "zh-Hant": "道路在潮濕條件下可能會很滑"
+            },
+            "C": {
+                "en": "No ice on the road",
+                "zh-Hans": "道路上没有冰",
+                "zh-Hant": "道路上沒有冰"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "This sign warns that the road surface may become slippery when wet. Reduce speed in rain.",
+            "zh-Hans": "此标志警告道路表面在潮湿时可能变滑。雨天减速。",
+            "zh-Hant": "此標誌警告道路表面在潮濕時可能變滑。雨天減速。"
+        },
+        "dmv_ref": {
+            "page": "2-19",
+            "section": "Warning Signs",
+            "analysis_zh-Hans": "减速并保持更大跟车距离。",
+            "analysis_zh-Hant": "減速並保持更大跟車距離。"
+        }
+    },
+    {
+        "id": 4035,
+        "category": "Traffic Signs",
+        "question": {
+            "en": "A 'BRIDGE ICES BEFORE ROAD' sign means:",
+            "zh-Hans": "'BRIDGE ICES BEFORE ROAD'（桥面先结冰）标志表示：",
+            "zh-Hant": "'BRIDGE ICES BEFORE ROAD'（橋面先結冰）標誌表示："
+        },
+        "options": {
+            "A": {
+                "en": "The bridge is always icy",
+                "zh-Hans": "桥梁一直结冰",
+                "zh-Hant": "橋樑一直結冰"
+            },
+            "B": {
+                "en": "Bridge surface freezes before the rest of the road",
+                "zh-Hans": "桥面比其他路面更早结冰",
+                "zh-Hant": "橋面比其他路面更早結冰"
+            },
+            "C": {
+                "en": "No ice on the bridge",
+                "zh-Hans": "桥上没有冰",
+                "zh-Hant": "橋上沒有冰"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Bridges freeze faster because cold air circulates above and below them.",
+            "zh-Hans": "桥梁结冰更快，因为冷空气在其上下循环。",
+            "zh-Hant": "橋樑結冰更快，因為冷空氣在其上下循環。"
+        },
+        "dmv_ref": {
+            "page": "2-34",
+            "section": "Ice Warning",
+            "analysis_zh-Hans": "桥和高架比普通路面更危险。",
+            "analysis_zh-Hant": "橋和高架比普通路面更危險。"
+        }
+    },
+    {
+        "id": 4036,
+        "category": "Traffic Signs",
+        "question": {
+            "en": "A sign showing two arrows pointing in opposite directions means:",
+            "zh-Hans": "显示两个相反方向箭头的标志表示：",
+            "zh-Hant": "顯示兩個相反方向箭頭的標誌表示："
+        },
+        "options": {
+            "A": {
+                "en": "One-way street",
+                "zh-Hans": "单行道",
+                "zh-Hant": "單行道"
+            },
+            "B": {
+                "en": "Two-way traffic",
+                "zh-Hans": "双向交通",
+                "zh-Hant": "雙向交通"
+            },
+            "C": {
+                "en": "No through traffic",
+                "zh-Hans": "禁止通行",
+                "zh-Hant": "禁止通行"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "This sign warns of two-way traffic ahead. May be placed where a divided highway ends.",
+            "zh-Hans": "此标志警告前方有双向交通。可能放置在分隔公路结束处。",
+            "zh-Hant": "此標誌警告前方有雙向交通。可能放置在分隔公路結束處。"
+        },
+        "dmv_ref": {
+            "page": "2-19",
+            "section": "Two-Way Signs",
+            "analysis_zh-Hans": "注意对向来车。",
+            "analysis_zh-Hant": "注意對向來車。"
+        }
+    },
+    {
+        "id": 4037,
+        "category": "Traffic Signs",
+        "question": {
+            "en": "A 'LANE ENDS' sign means:",
+            "zh-Hans": "'LANE ENDS'（车道结束）标志表示：",
+            "zh-Hant": "'LANE ENDS'（車道結束）標誌表示："
+        },
+        "options": {
+            "A": {
+                "en": "A new lane is starting",
+                "zh-Hans": "新车道开始",
+                "zh-Hant": "新車道開始"
+            },
+            "B": {
+                "en": "Your lane will end and you must merge",
+                "zh-Hans": "你的车道将结束，你必须合流",
+                "zh-Hant": "你的車道將結束，你必須合流"
+            },
+            "C": {
+                "en": "The highway is closing",
+                "zh-Hans": "公路正在关闭",
+                "zh-Hant": "公路正在關閉"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Lane Ends sign warns that your lane will end. Merge into the appropriate lane.",
+            "zh-Hans": "车道结束标志警告你的车道将结束。合流到适当的车道。",
+            "zh-Hant": "車道結束標誌警告你的車道將結束。合流到適當的車道。"
+        },
+        "dmv_ref": {
+            "page": "2-19",
+            "section": "Lane Signs",
+            "analysis_zh-Hans": "提前变道，不要等到最后。",
+            "analysis_zh-Hant": "提前變道，不要等到最後。"
+        }
+    },
+    {
+        "id": 4038,
+        "category": "Traffic Signs",
+        "question": {
+            "en": "A 'DETOUR' sign means:",
+            "zh-Hans": "'DETOUR'（绕行）标志表示：",
+            "zh-Hant": "'DETOUR'（繞行）標誌表示："
+        },
+        "options": {
+            "A": {
+                "en": "The main road is closed, follow the detour route",
+                "zh-Hans": "主路关闭，按绕行路线行驶",
+                "zh-Hant": "主路關閉，按繞行路線行駛"
+            },
+            "B": {
+                "en": "Shortcut available",
+                "zh-Hans": "有捷径",
+                "zh-Hant": "有捷徑"
+            },
+            "C": {
+                "en": "Speed limit increase",
+                "zh-Hans": "限速提高",
+                "zh-Hant": "限速提高"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "A Detour sign indicates the main road is temporarily closed. Follow the marked detour route.",
+            "zh-Hans": "绕行标志表示主路暂时关闭。按标记的绕行路线行驶。",
+            "zh-Hant": "繞行標誌表示主路暫時關閉。按標記的繞行路線行駛。"
+        },
+        "dmv_ref": {
+            "page": "2-19",
+            "section": "Construction Signs",
+            "analysis_zh-Hans": "跟随橙色绕行标志。",
+            "analysis_zh-Hant": "跟隨橙色繞行標誌。"
+        }
+    },
+    {
+        "id": 4039,
+        "category": "Traffic Signs",
+        "question": {
+            "en": "A 'DO NOT ENTER' sign means:",
+            "zh-Hans": "'DO NOT ENTER'（禁止进入）标志表示：",
+            "zh-Hant": "'DO NOT ENTER'（禁止進入）標誌表示："
+        },
+        "options": {
+            "A": {
+                "en": "Slow down",
+                "zh-Hans": "减速",
+                "zh-Hant": "減速"
+            },
+            "B": {
+                "en": "You are going the wrong way - do not enter",
+                "zh-Hans": "你走错路了 - 禁止进入",
+                "zh-Hant": "你走錯路了 - 禁止進入"
+            },
+            "C": {
+                "en": "Road under construction",
+                "zh-Hans": "道路正在施工",
+                "zh-Hant": "道路正在施工"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Do Not Enter signs are placed at exits of one-way streets. You are going the wrong way.",
+            "zh-Hans": "禁止进入标志放置在单行道出口。你走错方向了。",
+            "zh-Hant": "禁止進入標誌放置在單行道出口。你走錯方向了。"
+        },
+        "dmv_ref": {
+            "page": "2-19",
+            "section": "Regulatory Signs",
+            "analysis_zh-Hans": "逆行极端危险。",
+            "analysis_zh-Hant": "逆行極端危險。"
+        }
+    },
+    {
+        "id": 4040,
+        "category": "Traffic Signs",
+        "question": {
+            "en": "A 'WRONG WAY' sign means:",
+            "zh-Hans": "'WRONG WAY'（逆行）标志表示：",
+            "zh-Hant": "'WRONG WAY'（逆行）標誌表示："
+        },
+        "options": {
+            "A": {
+                "en": "Turn around immediately - you are going the wrong direction",
+                "zh-Hans": "立即掉头 - 你走错方向了",
+                "zh-Hant": "立即掉頭 - 你走錯方向了"
+            },
+            "B": {
+                "en": "Construction ahead",
+                "zh-Hans": "前方施工",
+                "zh-Hant": "前方施工"
+            },
+            "C": {
+                "en": "Sharp turn ahead",
+                "zh-Hans": "前方急转弯",
+                "zh-Hant": "前方急轉彎"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "If you see a Wrong Way sign, you are entering a highway or ramp in the wrong direction.",
+            "zh-Hans": "如果你看到逆行标志，你正在逆向进入公路或匝道。",
+            "zh-Hant": "如果你看到逆行標誌，你正在逆向進入公路或匝道。"
+        },
+        "dmv_ref": {
+            "page": "2-19",
+            "section": "Regulatory Signs",
+            "analysis_zh-Hans": "立即安全停车并掉头。",
+            "analysis_zh-Hant": "立即安全停車並掉頭。"
+        }
+    }
+]

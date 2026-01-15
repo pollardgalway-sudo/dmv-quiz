@@ -1,0 +1,382 @@
+[
+    {
+        "id": 3031,
+        "category": "Combination Vehicles",
+        "question": {
+            "en": "What is the proper way to test that the trailer is securely coupled?",
+            "zh-Hans": "测试挂车是否安全连接的正确方法是什么？",
+            "zh-Hant": "測試掛車是否安全連接的正確方法是什麼？"
+        },
+        "options": {
+            "A": {
+                "en": "Pull forward gently with the trailer brakes locked to see if it holds",
+                "zh-Hans": "在挂车刹车锁定的情况下轻轻向前拉，看是否能固定",
+                "zh-Hant": "在掛車剎車鎖定的情況下輕輕向前拉，看是否能固定"
+            },
+            "B": {
+                "en": "Drive at full speed",
+                "zh-Hans": "全速行驶",
+                "zh-Hant": "全速行駛"
+            },
+            "C": {
+                "en": "Honk the horn",
+                "zh-Hans": "按喇叭",
+                "zh-Hant": "按喇叭"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "With trailer brakes locked, pull forward gently to test that the fifth wheel is locked onto the kingpin.",
+            "zh-Hans": "挂车刹车锁定后，轻轻向前拉以测试第五轮是否锁定在主销上。",
+            "zh-Hant": "掛車剎車鎖定後，輕輕向前拉以測試第五輪是否鎖定在主銷上。"
+        },
+        "dmv_ref": {
+            "page": "6-2",
+            "section": "Coupling Test",
+            "analysis_zh-Hans": "这是检验连接是否牢固的关键步骤。",
+            "analysis_zh-Hant": "這是檢驗連接是否牢固的關鍵步驟。"
+        }
+    },
+    {
+        "id": 3032,
+        "category": "Combination Vehicles",
+        "question": {
+            "en": "After coupling, you should raise the landing gear:",
+            "zh-Hans": "连接后，你应该升起支撑腿：",
+            "zh-Hant": "連接後，你應該升起支撐腿："
+        },
+        "options": {
+            "A": {
+                "en": "Only halfway",
+                "zh-Hans": "只升一半",
+                "zh-Hant": "只升一半"
+            },
+            "B": {
+                "en": "All the way up with the crank handle secured",
+                "zh-Hans": "完全升起并固定好曲柄把手",
+                "zh-Hant": "完全升起並固定好曲柄把手"
+            },
+            "C": {
+                "en": "Leave it down",
+                "zh-Hans": "保持放下",
+                "zh-Hant": "保持放下"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Raise landing gear completely and secure the crank handle to prevent damage during driving.",
+            "zh-Hans": "完全升起支撑腿并固定曲柄把手，防止行驶中损坏。",
+            "zh-Hant": "完全升起支撐腿並固定曲柄把手，防止行駛中損壞。"
+        },
+        "dmv_ref": {
+            "page": "6-3",
+            "section": "Landing Gear",
+            "analysis_zh-Hans": "没升好的支撑腿会刮地。",
+            "analysis_zh-Hant": "沒升好的支撐腿會刮地。"
+        }
+    },
+    {
+        "id": 3033,
+        "category": "Combination Vehicles",
+        "question": {
+            "en": "The service line is also called:",
+            "zh-Hans": "服务管路也叫做：",
+            "zh-Hant": "服務管路也叫做："
+        },
+        "options": {
+            "A": {
+                "en": "Emergency line",
+                "zh-Hans": "紧急管路",
+                "zh-Hant": "緊急管路"
+            },
+            "B": {
+                "en": "Control line",
+                "zh-Hans": "控制管路",
+                "zh-Hant": "控制管路"
+            },
+            "C": {
+                "en": "Supply line",
+                "zh-Hans": "供气管路",
+                "zh-Hant": "供氣管路"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "The service line (control line) carries the message to apply the brakes. The supply line (emergency line) provides air.",
+            "zh-Hans": "服务管路（控制管路）传递刹车指令。供气管路（紧急管路）提供气源。",
+            "zh-Hant": "服務管路（控制管路）傳遞剎車指令。供氣管路（緊急管路）提供氣源。"
+        },
+        "dmv_ref": {
+            "page": "6-4",
+            "section": "Air Lines",
+            "analysis_zh-Hans": "区分两条管路的功能。",
+            "analysis_zh-Hant": "區分兩條管路的功能。"
+        }
+    },
+    {
+        "id": 3034,
+        "category": "Combination Vehicles",
+        "question": {
+            "en": "If the emergency line loses pressure:",
+            "zh-Hans": "如果紧急管路失去压力：",
+            "zh-Hant": "如果緊急管路失去壓力："
+        },
+        "options": {
+            "A": {
+                "en": "Nothing happens",
+                "zh-Hans": "什么都不会发生",
+                "zh-Hant": "什麼都不會發生"
+            },
+            "B": {
+                "en": "The trailer emergency brakes will come on",
+                "zh-Hans": "挂车紧急刹车会启动",
+                "zh-Hant": "掛車緊急剎車會啟動"
+            },
+            "C": {
+                "en": "The engine will stall",
+                "zh-Hans": "发动机会熄火",
+                "zh-Hant": "發動機會熄火"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Loss of air in the emergency (supply) line causes the trailer emergency brakes to activate.",
+            "zh-Hans": "紧急（供气）管路失去气压会导致挂车紧急刹车启动。",
+            "zh-Hant": "緊急（供氣）管路失去氣壓會導致掛車緊急剎車啟動。"
+        },
+        "dmv_ref": {
+            "page": "6-4",
+            "section": "Emergency Line",
+            "analysis_zh-Hans": "这是fail-safe安全设计。",
+            "analysis_zh-Hant": "這是fail-safe安全設計。"
+        }
+    },
+    {
+        "id": 3035,
+        "category": "Combination Vehicles",
+        "question": {
+            "en": "When coupling, the fifth wheel should be:",
+            "zh-Hans": "连接时，第五轮应该：",
+            "zh-Hant": "連接時，第五輪應該："
+        },
+        "options": {
+            "A": {
+                "en": "Tilted down toward the rear of the tractor",
+                "zh-Hans": "向牵引车后部倾斜",
+                "zh-Hant": "向牽引車後部傾斜"
+            },
+            "B": {
+                "en": "Level or tilted toward the front",
+                "zh-Hans": "水平或向前倾斜",
+                "zh-Hant": "水平或向前傾斜"
+            },
+            "C": {
+                "en": "Tilted to the left",
+                "zh-Hans": "向左倾斜",
+                "zh-Hant": "向左傾斜"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "The fifth wheel should be tilted down toward the rear so the trailer kingpin can engage properly.",
+            "zh-Hans": "第五轮应该向后倾斜，以便挂车主销能正确接合。",
+            "zh-Hant": "第五輪應該向後傾斜，以便掛車主銷能正確接合。"
+        },
+        "dmv_ref": {
+            "page": "6-2",
+            "section": "Fifth Wheel Position",
+            "analysis_zh-Hans": "向后倾斜便于主销进入。",
+            "analysis_zh-Hant": "向後傾斜便於主銷進入。"
+        }
+    },
+    {
+        "id": 3036,
+        "category": "Combination Vehicles",
+        "question": {
+            "en": "Doubles and triples have a higher rollover risk because:",
+            "zh-Hans": "双挂和三挂有更高的翻车风险，因为：",
+            "zh-Hant": "雙掛和三掛有更高的翻車風險，因為："
+        },
+        "options": {
+            "A": {
+                "en": "They have more weight evenly distributed",
+                "zh-Hans": "它们的重量分布更均匀",
+                "zh-Hant": "它們的重量分布更均勻"
+            },
+            "B": {
+                "en": "The crack-the-whip effect is amplified with more trailers",
+                "zh-Hans": "甩尾效应随着更多的挂车而放大",
+                "zh-Hant": "甩尾效應隨著更多的掛車而放大"
+            },
+            "C": {
+                "en": "They are shorter",
+                "zh-Hans": "它们更短",
+                "zh-Hant": "它們更短"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "With doubles and triples, the last trailer feels the most amplified effect of any steering input.",
+            "zh-Hans": "对于双挂和三挂，最后一节挂车感受到的转向输入效应最大。",
+            "zh-Hant": "對於雙掛和三掛，最後一節掛車感受到的轉向輸入效應最大。"
+        },
+        "dmv_ref": {
+            "page": "6-6",
+            "section": "Doubles/Triples",
+            "analysis_zh-Hans": "尾部挂车最容易翻。",
+            "analysis_zh-Hant": "尾部掛車最容易翻。"
+        }
+    },
+    {
+        "id": 3037,
+        "category": "Combination Vehicles",
+        "question": {
+            "en": "Before backing with a trailer, you should:",
+            "zh-Hans": "倒车挂车前，你应该：",
+            "zh-Hant": "倒車掛車前，你應該："
+        },
+        "options": {
+            "A": {
+                "en": "Look at your target and path by getting out and walking around",
+                "zh-Hans": "下车走动查看目标和路径",
+                "zh-Hant": "下車走動查看目標和路徑"
+            },
+            "B": {
+                "en": "Just use mirrors",
+                "zh-Hans": "只用后视镜",
+                "zh-Hant": "只用後視鏡"
+            },
+            "C": {
+                "en": "Accelerate quickly",
+                "zh-Hans": "快速加速",
+                "zh-Hant": "快速加速"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Get out and look at your intended path. Check clearances and obstacles.",
+            "zh-Hans": "下车查看你的预定路径。检查间隙和障碍物。",
+            "zh-Hant": "下車查看你的預定路徑。檢查間隙和障礙物。"
+        },
+        "dmv_ref": {
+            "page": "6-5",
+            "section": "Backing Safety",
+            "analysis_zh-Hans": "GOAL: Get Out And Look.",
+            "analysis_zh-Hant": "GOAL: Get Out And Look."
+        }
+    },
+    {
+        "id": 3038,
+        "category": "Combination Vehicles",
+        "question": {
+            "en": "What is offtracking?",
+            "zh-Hans": "什么是内轮差（Offtracking）？",
+            "zh-Hant": "什麼是內輪差（Offtracking）？"
+        },
+        "options": {
+            "A": {
+                "en": "When the trailer tires follow a different path than the tractor tires",
+                "zh-Hans": "当挂车轮胎走的路径与牵引车轮胎不同",
+                "zh-Hant": "當掛車輪胎走的路徑與牽引車輪胎不同"
+            },
+            "B": {
+                "en": "When the engine overheats",
+                "zh-Hans": "当发动机过热",
+                "zh-Hant": "當發動機過熱"
+            },
+            "C": {
+                "en": "When the brakes fail",
+                "zh-Hans": "当刹车失灵",
+                "zh-Hant": "當剎車失靈"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Offtracking means the rear wheels of a trailer follow a shorter path than the front wheels in a turn.",
+            "zh-Hans": "内轮差是指挂车后轮在转弯时走的路径比前轮更短。",
+            "zh-Hant": "內輪差是指掛車後輪在轉彎時走的路徑比前輪更短。"
+        },
+        "dmv_ref": {
+            "page": "6-5",
+            "section": "Offtracking",
+            "analysis_zh-Hans": "转弯时后轮向内切。",
+            "analysis_zh-Hant": "轉彎時後輪向內切。"
+        }
+    },
+    {
+        "id": 3039,
+        "category": "Combination Vehicles",
+        "question": {
+            "en": "To prevent a jackknife when braking, you should:",
+            "zh-Hans": "为了防止刹车时折叠，你应该：",
+            "zh-Hant": "為了防止剎車時折疊，你應該："
+        },
+        "options": {
+            "A": {
+                "en": "Brake hard and fast",
+                "zh-Hans": "用力快速刹车",
+                "zh-Hant": "用力快速剎車"
+            },
+            "B": {
+                "en": "Keep the trailer and tractor in line, avoid hard braking",
+                "zh-Hans": "保持挂车和牵引车在一条直线上，避免急刹",
+                "zh-Hant": "保持掛車和牽引車在一條直線上，避免急剎"
+            },
+            "C": {
+                "en": "Use the hand valve only",
+                "zh-Hans": "只使用手阀",
+                "zh-Hant": "只使用手閥"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Keep the rig in line, avoid overbraking, and maintain control to prevent jackknifing.",
+            "zh-Hans": "保持车辆在一条直线上，避免过度刹车，保持控制以防止折叠。",
+            "zh-Hant": "保持車輛在一條直線上，避免過度剎車，保持控制以防止折疊。"
+        },
+        "dmv_ref": {
+            "page": "6-5",
+            "section": "Jackknife Prevention",
+            "analysis_zh-Hans": "直线+轻刹=防折叠。",
+            "analysis_zh-Hant": "直線+輕剎=防折疊。"
+        }
+    },
+    {
+        "id": 3040,
+        "category": "Combination Vehicles",
+        "question": {
+            "en": "Which is true about the landing gear?",
+            "zh-Hans": "关于支撑腿，以下哪项是正确的？",
+            "zh-Hant": "關於支撐腿，以下哪項是正確的？"
+        },
+        "options": {
+            "A": {
+                "en": "It supports the trailer when not coupled",
+                "zh-Hans": "它在未连接时支撑挂车",
+                "zh-Hant": "它在未連接時支撐掛車"
+            },
+            "B": {
+                "en": "It steers the trailer",
+                "zh-Hans": "它操控挂车",
+                "zh-Hant": "它操控掛車"
+            },
+            "C": {
+                "en": "It applies the brakes",
+                "zh-Hans": "它施加刹车",
+                "zh-Hant": "它施加剎車"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Landing gear supports the front of the trailer when not coupled to the tractor.",
+            "zh-Hans": "支撑腿在未与牵引车连接时支撑挂车前端。",
+            "zh-Hant": "支撐腿在未與牽引車連接時支撐掛車前端。"
+        },
+        "dmv_ref": {
+            "page": "6-1",
+            "section": "Landing Gear",
+            "analysis_zh-Hans": "支撑腿像挂车的腿。",
+            "analysis_zh-Hant": "支撐腿像掛車的腿。"
+        }
+    }
+]

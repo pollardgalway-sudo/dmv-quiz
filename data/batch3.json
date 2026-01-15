@@ -1,0 +1,382 @@
+[
+    {
+        "id": 1031,
+        "category": "General Knowledge",
+        "question": {
+            "en": "What is the proper way to hold the steering wheel?",
+            "zh-Hans": "正确的握方向盘方式是什么？",
+            "zh-Hant": "正確的握方向盤方式是什麼？"
+        },
+        "options": {
+            "A": {
+                "en": "10 and 2 o'clock position",
+                "zh-Hans": "10点和2点位置",
+                "zh-Hant": "10點和2點位置"
+            },
+            "B": {
+                "en": "9 and 3 o'clock position",
+                "zh-Hans": "9点和3点位置",
+                "zh-Hant": "9點和3點位置"
+            },
+            "C": {
+                "en": "12 o'clock position with one hand",
+                "zh-Hans": "一只手握12点位置",
+                "zh-Hant": "一隻手握12點位置"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "The 9 and 3 o'clock position gives you the best control and keeps your hands out of the airbag deployment zone.",
+            "zh-Hans": "9点和3点位置提供最佳控制，并使双手远离安全气囊展开区域。",
+            "zh-Hant": "9點和3點位置提供最佳控制，並使雙手遠離安全氣囊展開區域。"
+        },
+        "dmv_ref": {
+            "page": "2-14",
+            "section": "Steering",
+            "analysis_zh-Hans": "现代建议是9-3而非10-2，因为安全气囊。",
+            "analysis_zh-Hant": "現代建議是9-3而非10-2，因為安全氣囊。"
+        }
+    },
+    {
+        "id": 1032,
+        "category": "General Knowledge",
+        "question": {
+            "en": "When driving at night, you should:",
+            "zh-Hans": "夜间驾驶时，你应该：",
+            "zh-Hant": "夜間駕駛時，你應該："
+        },
+        "options": {
+            "A": {
+                "en": "Drive faster to get home sooner",
+                "zh-Hans": "开快点早点到家",
+                "zh-Hant": "開快點早點到家"
+            },
+            "B": {
+                "en": "Use only parking lights",
+                "zh-Hans": "只使用驻车灯",
+                "zh-Hant": "只使用駐車燈"
+            },
+            "C": {
+                "en": "Be able to stop within the distance you can see ahead",
+                "zh-Hans": "能够在可见距离内停车",
+                "zh-Hant": "能夠在可見距離內停車"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "Always be able to stop within the distance illuminated by your headlights.",
+            "zh-Hans": "始终确保能够在前照灯照亮的距离内停车。",
+            "zh-Hant": "始終確保能夠在前照燈照亮的距離內停車。"
+        },
+        "dmv_ref": {
+            "page": "2-30",
+            "section": "Night Driving",
+            "analysis_zh-Hans": "这就是为什么夜间要减速的原因。",
+            "analysis_zh-Hant": "這就是為什麼夜間要減速的原因。"
+        }
+    },
+    {
+        "id": 1033,
+        "category": "General Knowledge",
+        "question": {
+            "en": "The Driver's Daily Log must include:",
+            "zh-Hans": "司机每日行车日志必须包括：",
+            "zh-Hant": "司機每日行車日誌必須包括："
+        },
+        "options": {
+            "A": {
+                "en": "Total miles driven that day",
+                "zh-Hans": "当天行驶的总里程",
+                "zh-Hant": "當天行駛的總里程"
+            },
+            "B": {
+                "en": "Name of co-driver only",
+                "zh-Hans": "仅副驾驶姓名",
+                "zh-Hant": "僅副駕駛姓名"
+            },
+            "C": {
+                "en": "Personal phone number",
+                "zh-Hans": "个人电话号码",
+                "zh-Hant": "個人電話號碼"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "The log must include total miles driven, start and end times, duty status, and other required information.",
+            "zh-Hans": "日志必须包括总里程、开始和结束时间、值班状态和其他必要信息。",
+            "zh-Hant": "日誌必須包括總里程、開始和結束時間、值班狀態和其他必要信息。"
+        },
+        "dmv_ref": {
+            "page": "1-8",
+            "section": "Hours of Service",
+            "analysis_zh-Hans": "ELD电子日志已取代纸质日志。",
+            "analysis_zh-Hant": "ELD電子日誌已取代紙質日誌。"
+        }
+    },
+    {
+        "id": 1034,
+        "category": "General Knowledge",
+        "question": {
+            "en": "What is the maximum driving time allowed in a 24-hour period?",
+            "zh-Hans": "24小时内允许的最长驾驶时间是多少？",
+            "zh-Hant": "24小時內允許的最長駕駛時間是多少？"
+        },
+        "options": {
+            "A": {
+                "en": "11 hours",
+                "zh-Hans": "11小时",
+                "zh-Hant": "11小時"
+            },
+            "B": {
+                "en": "14 hours",
+                "zh-Hans": "14小时",
+                "zh-Hant": "14小時"
+            },
+            "C": {
+                "en": "8 hours",
+                "zh-Hans": "8小时",
+                "zh-Hant": "8小時"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "You may drive a maximum of 11 hours after 10 consecutive hours off duty.",
+            "zh-Hans": "连续休息10小时后，最多可驾驶11小时。",
+            "zh-Hant": "連續休息10小時後，最多可駕駛11小時。"
+        },
+        "dmv_ref": {
+            "page": "1-9",
+            "section": "Hours of Service",
+            "analysis_zh-Hans": "11驾驶-14值班-10休息是关键数字。",
+            "analysis_zh-Hant": "11駕駛-14值班-10休息是關鍵數字。"
+        }
+    },
+    {
+        "id": 1035,
+        "category": "General Knowledge",
+        "question": {
+            "en": "Placards are required for loads of hazardous materials that:",
+            "zh-Hans": "危险品运输需要贴警示标牌的情况是：",
+            "zh-Hant": "危險品運輸需要貼警示標牌的情況是："
+        },
+        "options": {
+            "A": {
+                "en": "Weigh 100 lbs or more",
+                "zh-Hans": "重量100磅或以上",
+                "zh-Hant": "重量100磅或以上"
+            },
+            "B": {
+                "en": "Weigh 1,001 lbs or more (or any amount of certain dangerous materials)",
+                "zh-Hans": "重量1,001磅或以上（或任何数量的某些危险物质）",
+                "zh-Hant": "重量1,001磅或以上（或任何數量的某些危險物質）"
+            },
+            "C": {
+                "en": "All hazardous materials regardless of weight",
+                "zh-Hans": "所有危险品无论重量",
+                "zh-Hant": "所有危險品無論重量"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Placards are required for loads of 1,001 lbs or more, or any amount of certain extremely dangerous materials (Table 1).",
+            "zh-Hans": "1,001磅或以上需要标牌，或表1危险品任何数量都需要。",
+            "zh-Hant": "1,001磅或以上需要標牌，或表1危險品任何數量都需要。"
+        },
+        "dmv_ref": {
+            "page": "9-10",
+            "section": "Hazmat",
+            "analysis_zh-Hans": "1,001磅是关键数字。",
+            "analysis_zh-Hant": "1,001磅是關鍵數字。"
+        }
+    },
+    {
+        "id": 1036,
+        "category": "General Knowledge",
+        "question": {
+            "en": "When you are driving in fog, you should use:",
+            "zh-Hans": "在雾中驾驶时，你应该使用：",
+            "zh-Hant": "在霧中駕駛時，你應該使用："
+        },
+        "options": {
+            "A": {
+                "en": "High beams",
+                "zh-Hans": "远光灯",
+                "zh-Hant": "遠光燈"
+            },
+            "B": {
+                "en": "Low beams",
+                "zh-Hans": "近光灯",
+                "zh-Hant": "近光燈"
+            },
+            "C": {
+                "en": "Parking lights only",
+                "zh-Hans": "仅驻车灯",
+                "zh-Hant": "僅駐車燈"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Use low beams in fog. High beams will reflect off the fog and blind you.",
+            "zh-Hans": "雾中使用近光灯。远光灯会被雾反射，使你眩目。",
+            "zh-Hant": "霧中使用近光燈。遠光燈會被霧反射，使你眩目。"
+        },
+        "dmv_ref": {
+            "page": "2-31",
+            "section": "Fog Driving",
+            "analysis_zh-Hans": "雾、雨、雪都用近光灯。",
+            "analysis_zh-Hant": "霧、雨、雪都用近光燈。"
+        }
+    },
+    {
+        "id": 1037,
+        "category": "General Knowledge",
+        "question": {
+            "en": "CDL drivers are held to a stricter BAC (Blood Alcohol Content) standard. The limit for CDL drivers is:",
+            "zh-Hans": "CDL司机的血液酒精浓度(BAC)标准更严格。CDL司机的限制是：",
+            "zh-Hant": "CDL司機的血液酒精濃度(BAC)標準更嚴格。CDL司機的限制是："
+        },
+        "options": {
+            "A": {
+                "en": "0.08%",
+                "zh-Hans": "0.08%",
+                "zh-Hant": "0.08%"
+            },
+            "B": {
+                "en": "0.04%",
+                "zh-Hans": "0.04%",
+                "zh-Hant": "0.04%"
+            },
+            "C": {
+                "en": "0.02%",
+                "zh-Hans": "0.02%",
+                "zh-Hant": "0.02%"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "CDL drivers are considered under the influence at 0.04% BAC, half of the standard 0.08% limit.",
+            "zh-Hans": "CDL司机在0.04% BAC时被视为酒驾，是标准0.08%限制的一半。",
+            "zh-Hant": "CDL司機在0.04% BAC時被視為酒駕，是標準0.08%限制的一半。"
+        },
+        "dmv_ref": {
+            "page": "1-4",
+            "section": "Alcohol Rules",
+            "analysis_zh-Hans": "CDL标准是普通驾照的一半。",
+            "analysis_zh-Hant": "CDL標準是普通駕照的一半。"
+        }
+    },
+    {
+        "id": 1038,
+        "category": "General Knowledge",
+        "question": {
+            "en": "What should you do if you miss your exit on an expressway?",
+            "zh-Hans": "如果你在高速公路上错过了出口，应该怎么办？",
+            "zh-Hant": "如果你在高速公路上錯過了出口，應該怎麼辦？"
+        },
+        "options": {
+            "A": {
+                "en": "Back up to the exit",
+                "zh-Hans": "倒车回出口",
+                "zh-Hant": "倒車回出口"
+            },
+            "B": {
+                "en": "Go to the next exit",
+                "zh-Hans": "去下一个出口",
+                "zh-Hant": "去下一個出口"
+            },
+            "C": {
+                "en": "Make a U-turn",
+                "zh-Hans": "掉头",
+                "zh-Hant": "掉頭"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Never back up on an expressway. Go to the next exit and find another route.",
+            "zh-Hans": "永远不要在高速公路上倒车。去下一个出口找另一条路。",
+            "zh-Hant": "永遠不要在高速公路上倒車。去下一個出口找另一條路。"
+        },
+        "dmv_ref": {
+            "page": "2-25",
+            "section": "Expressways",
+            "analysis_zh-Hans": "高速倒车和掉头是极度危险的。",
+            "analysis_zh-Hant": "高速倒車和掉頭是極度危險的。"
+        }
+    },
+    {
+        "id": 1039,
+        "category": "General Knowledge",
+        "question": {
+            "en": "The key to safe driving is:",
+            "zh-Hans": "安全驾驶的关键是：",
+            "zh-Hant": "安全駕駛的關鍵是："
+        },
+        "options": {
+            "A": {
+                "en": "Keeping your vehicle in good condition",
+                "zh-Hans": "保持车辆良好状态",
+                "zh-Hant": "保持車輛良好狀態"
+            },
+            "B": {
+                "en": "Constant alertness and anticipation of hazards",
+                "zh-Hans": "时刻保持警觉并预判危险",
+                "zh-Hant": "時刻保持警覺並預判危險"
+            },
+            "C": {
+                "en": "Knowing all traffic laws",
+                "zh-Hans": "了解所有交通法规",
+                "zh-Hant": "了解所有交通法規"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "While all are important, constant alertness and anticipation of potential hazards is the key to safe driving.",
+            "zh-Hans": "虽然所有选项都重要，但时刻保持警觉并预判潜在危险是安全驾驶的关键。",
+            "zh-Hant": "雖然所有選項都重要，但時刻保持警覺並預判潛在危險是安全駕駛的關鍵。"
+        },
+        "dmv_ref": {
+            "page": "2-22",
+            "section": "Safe Driving",
+            "analysis_zh-Hans": "防御性驾驶的核心理念。",
+            "analysis_zh-Hant": "防禦性駕駛的核心理念。"
+        }
+    },
+    {
+        "id": 1040,
+        "category": "General Knowledge",
+        "question": {
+            "en": "When loading cargo, what should you do about the weight distribution?",
+            "zh-Hans": "装货时，应该如何分配重量？",
+            "zh-Hant": "裝貨時，應該如何分配重量？"
+        },
+        "options": {
+            "A": {
+                "en": "Put all heavy items in the rear",
+                "zh-Hans": "把所有重物放在后面",
+                "zh-Hant": "把所有重物放在後面"
+            },
+            "B": {
+                "en": "Put all heavy items in the front",
+                "zh-Hans": "把所有重物放在前面",
+                "zh-Hant": "把所有重物放在前面"
+            },
+            "C": {
+                "en": "Distribute weight evenly from side to side and low to the floor",
+                "zh-Hans": "左右均匀分布并尽量放低",
+                "zh-Hant": "左右均勻分布並盡量放低"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "Distribute weight evenly from side to side, and keep the center of gravity low by placing heavy items on the bottom.",
+            "zh-Hans": "左右均匀分配重量，将重物放在底部以保持低重心。",
+            "zh-Hant": "左右均勻分配重量，將重物放在底部以保持低重心。"
+        },
+        "dmv_ref": {
+            "page": "3-3",
+            "section": "Cargo Handling",
+            "analysis_zh-Hans": "低重心减少翻车风险。",
+            "analysis_zh-Hant": "低重心減少翻車風險。"
+        }
+    }
+]

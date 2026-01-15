@@ -1,0 +1,382 @@
+[
+    {
+        "id": 2031,
+        "category": "Air Brakes",
+        "question": {
+            "en": "If the spring brakes are on, when would pressing the brake pedal be a bad idea?",
+            "zh-Hans": "如果弹簧刹车已经启用，什么时候踩刹车踏板是个坏主意？",
+            "zh-Hant": "如果彈簧剎車已經啟用，什麼時候踩剎車踏板是個壞主意？"
+        },
+        "options": {
+            "A": {
+                "en": "When the air pressure is very low",
+                "zh-Hans": "当气压很低时",
+                "zh-Hant": "當氣壓很低時"
+            },
+            "B": {
+                "en": "When stopped on a hill",
+                "zh-Hans": "在坡道上停车时",
+                "zh-Hant": "在坡道上停車時"
+            },
+            "C": {
+                "en": "When the engine is running",
+                "zh-Hans": "当发动机运转时",
+                "zh-Hant": "當發動機運轉時"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "When air is very low, pressing the pedal can release remaining air, reducing the spring brake force.",
+            "zh-Hans": "气压很低时，踩踏板可能会释放剩余气体，减少弹簧刹车的力量。",
+            "zh-Hant": "氣壓很低時，踩踏板可能會釋放剩餘氣體，減少彈簧剎車的力量。"
+        },
+        "dmv_ref": {
+            "page": "5-6",
+            "section": "Low Air Emergency",
+            "analysis_zh-Hans": "低气压时不要踩刹车踏板。",
+            "analysis_zh-Hant": "低氣壓時不要踩剎車踏板。"
+        }
+    },
+    {
+        "id": 2032,
+        "category": "Air Brakes",
+        "question": {
+            "en": "The first thing to do if the low air pressure warning comes on is to:",
+            "zh-Hans": "如果低气压警报亮起，首先要做的是：",
+            "zh-Hant": "如果低氣壓警報亮起，首先要做的是："
+        },
+        "options": {
+            "A": {
+                "en": "Speed up to find a service station",
+                "zh-Hans": "加速找服务站",
+                "zh-Hant": "加速找服務站"
+            },
+            "B": {
+                "en": "Stop and safely park as soon as possible",
+                "zh-Hans": "尽快安全停车",
+                "zh-Hant": "盡快安全停車"
+            },
+            "C": {
+                "en": "Pump the brakes to build up pressure",
+                "zh-Hans": "泵踩刹车以增加气压",
+                "zh-Hant": "泵踩剎車以增加氣壓"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Stop as soon as safely possible. The vehicle may lose all braking power if air pressure continues to drop.",
+            "zh-Hans": "尽快安全停车。如果气压继续下降，车辆可能会完全失去制动力。",
+            "zh-Hant": "盡快安全停車。如果氣壓繼續下降，車輛可能會完全失去制動力。"
+        },
+        "dmv_ref": {
+            "page": "5-6",
+            "section": "Low Air Warning",
+            "analysis_zh-Hans": "低气压警报=立即停车。",
+            "analysis_zh-Hant": "低氣壓警報=立即停車。"
+        }
+    },
+    {
+        "id": 2033,
+        "category": "Air Brakes",
+        "question": {
+            "en": "Why should you check the brake adjustment often?",
+            "zh-Hans": "为什么应该经常检查刹车调整？",
+            "zh-Hant": "為什麼應該經常檢查剎車調整？"
+        },
+        "options": {
+            "A": {
+                "en": "Because brakes can go out of adjustment quickly",
+                "zh-Hans": "因为刹车可能很快就会失调",
+                "zh-Hant": "因為剎車可能很快就會失調"
+            },
+            "B": {
+                "en": "To save fuel",
+                "zh-Hans": "为了省油",
+                "zh-Hant": "為了省油"
+            },
+            "C": {
+                "en": "To reduce tire wear",
+                "zh-Hans": "为了减少轮胎磨损",
+                "zh-Hant": "為了減少輪胎磨損"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Brakes can go out of adjustment from use and heat. Check them often to ensure safe braking.",
+            "zh-Hans": "刹车可能因使用和高温而失调。经常检查以确保安全制动。",
+            "zh-Hant": "剎車可能因使用和高溫而失調。經常檢查以確保安全制動。"
+        },
+        "dmv_ref": {
+            "page": "5-8",
+            "section": "Brake Adjustment",
+            "analysis_zh-Hans": "失调的刹车=无效刹车。",
+            "analysis_zh-Hant": "失調的剎車=無效剎車。"
+        }
+    },
+    {
+        "id": 2034,
+        "category": "Air Brakes",
+        "question": {
+            "en": "A dual air brake system has:",
+            "zh-Hans": "双管路气刹系统有：",
+            "zh-Hant": "雙管路氣剎系統有："
+        },
+        "options": {
+            "A": {
+                "en": "One set of brake controls that works two sets of brakes",
+                "zh-Hans": "一套控制器控制两套刹车",
+                "zh-Hant": "一套控制器控制兩套剎車"
+            },
+            "B": {
+                "en": "Two completely independent brake systems",
+                "zh-Hans": "两套完全独立的刹车系统",
+                "zh-Hant": "兩套完全獨立的剎車系統"
+            },
+            "C": {
+                "en": "Two brake pedals",
+                "zh-Hans": "两个刹车踏板",
+                "zh-Hant": "兩個剎車踏板"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Dual air brakes have one set of controls for two separate systems (usually front and rear axles).",
+            "zh-Hans": "双管路气刹有一套控制器控制两个独立系统（通常是前后轴）。",
+            "zh-Hant": "雙管路氣剎有一套控制器控制兩個獨立系統（通常是前後軸）。"
+        },
+        "dmv_ref": {
+            "page": "5-6",
+            "section": "Dual Air Brakes",
+            "analysis_zh-Hans": "一个失效另一个还能用。",
+            "analysis_zh-Hant": "一個失效另一個還能用。"
+        }
+    },
+    {
+        "id": 2035,
+        "category": "Air Brakes",
+        "question": {
+            "en": "At 55 mph, total stopping distance for a loaded truck with good brakes on a dry surface is about:",
+            "zh-Hans": "在55英里/小时时，满载卡车在良好干燥路面上的总制动距离约为：",
+            "zh-Hant": "在55英里/小時時，滿載卡車在良好乾燥路面上的總制動距離約為："
+        },
+        "options": {
+            "A": {
+                "en": "200 feet",
+                "zh-Hans": "200英尺",
+                "zh-Hant": "200英尺"
+            },
+            "B": {
+                "en": "310 feet",
+                "zh-Hans": "310英尺",
+                "zh-Hant": "310英尺"
+            },
+            "C": {
+                "en": "450 feet",
+                "zh-Hans": "450英尺",
+                "zh-Hant": "450英尺"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "At 55 mph, total stopping distance is about 450 feet (including perception, reaction, brake lag, and braking).",
+            "zh-Hans": "在55英里/小时时，总制动距离约为450英尺（包括感知、反应、刹车延迟和制动）。",
+            "zh-Hant": "在55英里/小時時，總制動距離約為450英尺（包括感知、反應、剎車延遲和制動）。"
+        },
+        "dmv_ref": {
+            "page": "5-9",
+            "section": "Stopping Distance",
+            "analysis_zh-Hans": "气刹比液压刹停车距离长。",
+            "analysis_zh-Hant": "氣剎比液壓剎停車距離長。"
+        }
+    },
+    {
+        "id": 2036,
+        "category": "Air Brakes",
+        "question": {
+            "en": "The supply pressure gauge shows:",
+            "zh-Hans": "供气压力表显示：",
+            "zh-Hant": "供氣壓力表顯示："
+        },
+        "options": {
+            "A": {
+                "en": "Air pressure going to the brakes",
+                "zh-Hans": "进入刹车的气压",
+                "zh-Hant": "進入剎車的氣壓"
+            },
+            "B": {
+                "en": "How much air is in the air tanks",
+                "zh-Hans": "储气罐中有多少气压",
+                "zh-Hant": "儲氣罐中有多少氣壓"
+            },
+            "C": {
+                "en": "Engine RPM",
+                "zh-Hans": "发动机转速",
+                "zh-Hant": "發動機轉速"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "The supply gauge shows the amount of air pressure in the air tanks.",
+            "zh-Hans": "供气压力表显示储气罐中的气压量。",
+            "zh-Hant": "供氣壓力表顯示儲氣罐中的氣壓量。"
+        },
+        "dmv_ref": {
+            "page": "5-3",
+            "section": "Gauges",
+            "analysis_zh-Hans": "区分供气表和应用表。",
+            "analysis_zh-Hant": "區分供氣表和應用表。"
+        }
+    },
+    {
+        "id": 2037,
+        "category": "Air Brakes",
+        "question": {
+            "en": "When using ABS, you should:",
+            "zh-Hans": "使用ABS时，你应该：",
+            "zh-Hant": "使用ABS時，你應該："
+        },
+        "options": {
+            "A": {
+                "en": "Pump the brakes",
+                "zh-Hans": "泵踩刹车",
+                "zh-Hant": "泵踩剎車"
+            },
+            "B": {
+                "en": "Apply firm, continuous pressure",
+                "zh-Hans": "施加持续稳定的压力",
+                "zh-Hant": "施加持續穩定的壓力"
+            },
+            "C": {
+                "en": "Only use light pressure",
+                "zh-Hans": "只使用轻压力",
+                "zh-Hant": "只使用輕壓力"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "With ABS, apply firm, continuous pressure. The system will pump the brakes for you.",
+            "zh-Hans": "有ABS时，施加持续稳定的压力。系统会自动为你点刹。",
+            "zh-Hant": "有ABS時，施加持續穩定的壓力。系統會自動為你點剎。"
+        },
+        "dmv_ref": {
+            "page": "5-11",
+            "section": "ABS",
+            "analysis_zh-Hans": "ABS自动防锁死，你只需踩住。",
+            "analysis_zh-Hant": "ABS自動防鎖死，你只需踩住。"
+        }
+    },
+    {
+        "id": 2038,
+        "category": "Air Brakes",
+        "question": {
+            "en": "If your truck has manual slack adjusters, how often should they be checked?",
+            "zh-Hans": "如果你的卡车有手动调节臂，应该多久检查一次？",
+            "zh-Hant": "如果你的卡車有手動調節臂，應該多久檢查一次？"
+        },
+        "options": {
+            "A": {
+                "en": "Once a year",
+                "zh-Hans": "一年一次",
+                "zh-Hant": "一年一次"
+            },
+            "B": {
+                "en": "Every day when doing a pre-trip inspection",
+                "zh-Hans": "每天行前检查时",
+                "zh-Hant": "每天行前檢查時"
+            },
+            "C": {
+                "en": "Every 10,000 miles",
+                "zh-Hans": "每10,000英里",
+                "zh-Hant": "每10,000英里"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Check slack adjusters during every pre-trip inspection.",
+            "zh-Hans": "每次行前检查时都要检查调节臂。",
+            "zh-Hant": "每次行前檢查時都要檢查調節臂。"
+        },
+        "dmv_ref": {
+            "page": "5-8",
+            "section": "Slack Adjusters",
+            "analysis_zh-Hans": "行前检查的必检项目。",
+            "analysis_zh-Hant": "行前檢查的必檢項目。"
+        }
+    },
+    {
+        "id": 2039,
+        "category": "Air Brakes",
+        "question": {
+            "en": "Air brake equipped vehicles must have:",
+            "zh-Hans": "配备气刹的车辆必须有：",
+            "zh-Hant": "配備氣剎的車輛必須有："
+        },
+        "options": {
+            "A": {
+                "en": "A low air pressure warning device",
+                "zh-Hans": "低气压警告装置",
+                "zh-Hant": "低氣壓警告裝置"
+            },
+            "B": {
+                "en": "An extra air tank for emergencies",
+                "zh-Hans": "用于紧急情况的额外储气罐",
+                "zh-Hant": "用於緊急情況的額外儲氣罐"
+            },
+            "C": {
+                "en": "A backup hydraulic system",
+                "zh-Hans": "备用液压系统",
+                "zh-Hant": "備用液壓系統"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Federal law requires a low air pressure warning device that activates before pressure drops below 60 psi.",
+            "zh-Hans": "联邦法律要求低气压警告装置在气压低于60 psi之前启动。",
+            "zh-Hant": "聯邦法律要求低氣壓警告裝置在氣壓低於60 psi之前啟動。"
+        },
+        "dmv_ref": {
+            "page": "5-4",
+            "section": "Warning Devices",
+            "analysis_zh-Hans": "法律要求的安全装置。",
+            "analysis_zh-Hant": "法律要求的安全裝置。"
+        }
+    },
+    {
+        "id": 2040,
+        "category": "Air Brakes",
+        "question": {
+            "en": "Brake drums should be checked for:",
+            "zh-Hans": "应该检查刹车鼓的：",
+            "zh-Hant": "應該檢查剎車鼓的："
+        },
+        "options": {
+            "A": {
+                "en": "Proper inflation",
+                "zh-Hans": "正确充气",
+                "zh-Hant": "正確充氣"
+            },
+            "B": {
+                "en": "Cracks, dents, or discoloration from overheating",
+                "zh-Hans": "裂缝、凹痕或过热变色",
+                "zh-Hant": "裂縫、凹痕或過熱變色"
+            },
+            "C": {
+                "en": "Alignment",
+                "zh-Hans": "校准",
+                "zh-Hant": "校準"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Check drums for cracks, dents, or blue discoloration (sign of overheating).",
+            "zh-Hans": "检查刹车鼓是否有裂缝、凹痕或蓝色变色（过热迹象）。",
+            "zh-Hant": "檢查剎車鼓是否有裂縫、凹痕或藍色變色（過熱跡象）。"
+        },
+        "dmv_ref": {
+            "page": "5-8",
+            "section": "Drum Check",
+            "analysis_zh-Hans": "蓝色=曾经过热=可能已损坏。",
+            "analysis_zh-Hant": "藍色=曾經過熱=可能已損壞。"
+        }
+    }
+]

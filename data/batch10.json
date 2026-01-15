@@ -1,0 +1,382 @@
+[
+    {
+        "id": 1101,
+        "category": "General Knowledge",
+        "question": {
+            "en": "Escape ramps are designed to:",
+            "zh-Hans": "紧急逃生坡道 (Escape Ramp) 是用来：",
+            "zh-Hant": "緊急逃生坡道 (Escape Ramp) 是用來："
+        },
+        "options": {
+            "A": {
+                "en": "Provide parking for trucks",
+                "zh-Hans": "为卡车提供停车位",
+                "zh-Hant": "為卡車提供停車位"
+            },
+            "B": {
+                "en": "Stop runaway vehicles that have lost their brakes",
+                "zh-Hans": "停住刹车失灵的失控车辆",
+                "zh-Hant": "停住剎車失靈的失控車輛"
+            },
+            "C": {
+                "en": "Allow trucks to make U-turns",
+                "zh-Hans": "让卡车掉头",
+                "zh-Hant": "讓卡車掉頭"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Escape ramps use sand, gravel, or an upgrade to stop vehicles that have lost brake control.",
+            "zh-Hans": "逃生坡道使用沙子、砾石或上坡来停住刹车失控的车辆。",
+            "zh-Hant": "逃生坡道使用沙子、礫石或上坡來停住剎車失控的車輛。"
+        },
+        "dmv_ref": {
+            "page": "2-21",
+            "section": "Mountain Driving",
+            "analysis_zh-Hans": "不要犹豫使用逃生坡道。",
+            "analysis_zh-Hant": "不要猶豫使用逃生坡道。"
+        }
+    },
+    {
+        "id": 1102,
+        "category": "General Knowledge",
+        "question": {
+            "en": "When must you use snow chains?",
+            "zh-Hans": "什么时候必须使用防滑链？",
+            "zh-Hant": "什麼時候必須使用防滑鏈？"
+        },
+        "options": {
+            "A": {
+                "en": "Only when there is heavy snow",
+                "zh-Hans": "只有下大雪时",
+                "zh-Hant": "只有下大雪時"
+            },
+            "B": {
+                "en": "Whenever required by law or conditions",
+                "zh-Hans": "法律或路况要求时",
+                "zh-Hant": "法律或路況要求時"
+            },
+            "C": {
+                "en": "Never - trucks don't need chains",
+                "zh-Hans": "从不——卡车不需要链条",
+                "zh-Hant": "從不——卡車不需要鏈條"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Use chains when required by law or road conditions. Follow chain control requirements.",
+            "zh-Hans": "法律或路况要求时使用防滑链。遵守链条管控要求。",
+            "zh-Hant": "法律或路況要求時使用防滑鏈。遵守鏈條管控要求。"
+        },
+        "dmv_ref": {
+            "page": "2-34",
+            "section": "Winter Driving",
+            "analysis_zh-Hans": "加州山区冬季有严格的链条管控。",
+            "analysis_zh-Hant": "加州山區冬季有嚴格的鏈條管控。"
+        }
+    },
+    {
+        "id": 1103,
+        "category": "General Knowledge",
+        "question": {
+            "en": "What is the purpose of retarders?",
+            "zh-Hans": "缓速器 (Retarders) 的作用是什么？",
+            "zh-Hant": "緩速器 (Retarders) 的作用是什麼？"
+        },
+        "options": {
+            "A": {
+                "en": "To speed up the vehicle",
+                "zh-Hans": "加速车辆",
+                "zh-Hant": "加速車輛"
+            },
+            "B": {
+                "en": "To help slow the vehicle without using brakes",
+                "zh-Hans": "在不使用刹车的情况下帮助减速",
+                "zh-Hant": "在不使用剎車的情況下幫助減速"
+            },
+            "C": {
+                "en": "To improve fuel economy",
+                "zh-Hans": "提高燃油经济性",
+                "zh-Hant": "提高燃油經濟性"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Retarders (engine, exhaust, hydraulic, electric) slow the vehicle, reducing wear on service brakes.",
+            "zh-Hans": "缓速器（发动机、排气、液压、电动）减慢车辆速度，减少行车制动的磨损。",
+            "zh-Hant": "緩速器（發動機、排氣、液壓、電動）減慢車輛速度，減少行車制動的磨損。"
+        },
+        "dmv_ref": {
+            "page": "2-21",
+            "section": "Retarders",
+            "analysis_zh-Hans": "缓速器保护刹车片。",
+            "analysis_zh-Hant": "緩速器保護剎車片。"
+        }
+    },
+    {
+        "id": 1104,
+        "category": "General Knowledge",
+        "question": {
+            "en": "When should retarders NOT be used?",
+            "zh-Hans": "什么情况下不应该使用缓速器？",
+            "zh-Hant": "什麼情況下不應該使用緩速器？"
+        },
+        "options": {
+            "A": {
+                "en": "On dry roads",
+                "zh-Hans": "在干燥道路上",
+                "zh-Hant": "在乾燥道路上"
+            },
+            "B": {
+                "en": "On slippery roads",
+                "zh-Hans": "在湿滑道路上",
+                "zh-Hant": "在濕滑道路上"
+            },
+            "C": {
+                "en": "When driving uphill",
+                "zh-Hans": "上坡时",
+                "zh-Hant": "上坡時"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Retarders can cause wheels to lose traction on slippery surfaces and lead to skidding.",
+            "zh-Hans": "缓速器可能导致车轮在湿滑路面失去附着力而打滑。",
+            "zh-Hant": "緩速器可能導致車輪在濕滑路面失去附著力而打滑。"
+        },
+        "dmv_ref": {
+            "page": "2-21",
+            "section": "Retarders",
+            "analysis_zh-Hans": "湿滑路面关闭缓速器。",
+            "analysis_zh-Hant": "濕滑路面關閉緩速器。"
+        }
+    },
+    {
+        "id": 1105,
+        "category": "General Knowledge",
+        "question": {
+            "en": "How often must you pull over and check your cargo securement?",
+            "zh-Hans": "你必须多久靠边检查一次货物固定情况？",
+            "zh-Hant": "你必須多久靠邊檢查一次貨物固定情況？"
+        },
+        "options": {
+            "A": {
+                "en": "Only at the beginning of the trip",
+                "zh-Hans": "只在行程开始时",
+                "zh-Hant": "只在行程開始時"
+            },
+            "B": {
+                "en": "Every 50 miles or 3 hours",
+                "zh-Hans": "每50英里或3小时",
+                "zh-Hant": "每50英里或3小時"
+            },
+            "C": {
+                "en": "Within first 50 miles, then every 150 miles or 3 hours",
+                "zh-Hans": "前50英里内，然后每150英里或3小时",
+                "zh-Hant": "前50英里內，然後每150英里或3小時"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "Check within first 50 miles, then every 150 miles or 3 hours, whichever comes first.",
+            "zh-Hans": "前50英里内检查，然后每150英里或3小时检查一次，以先到者为准。",
+            "zh-Hant": "前50英里內檢查，然後每150英里或3小時檢查一次，以先到者為準。"
+        },
+        "dmv_ref": {
+            "page": "3-4",
+            "section": "Cargo Securement",
+            "analysis_zh-Hans": "黄金法则：50-150-3。",
+            "analysis_zh-Hant": "黃金法則：50-150-3。"
+        }
+    },
+    {
+        "id": 1106,
+        "category": "General Knowledge",
+        "question": {
+            "en": "What should you do if your front wheels lose traction?",
+            "zh-Hans": "如果前轮失去附着力，你应该怎么做？",
+            "zh-Hant": "如果前輪失去附著力，你應該怎麼做？"
+        },
+        "options": {
+            "A": {
+                "en": "Accelerate to regain control",
+                "zh-Hans": "加速以恢复控制",
+                "zh-Hant": "加速以恢復控制"
+            },
+            "B": {
+                "en": "Stop braking and let the vehicle slow",
+                "zh-Hans": "停止刹车，让车辆减速",
+                "zh-Hant": "停止剎車，讓車輛減速"
+            },
+            "C": {
+                "en": "Turn the wheel sharply",
+                "zh-Hans": "急转方向盘",
+                "zh-Hant": "急轉方向盤"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "If front wheels lose traction, the vehicle will go straight. Ease off acceleration or brakes to regain steering.",
+            "zh-Hans": "前轮失去附着力时，车辆会直行。松开油门或刹车以恢复转向。",
+            "zh-Hant": "前輪失去附著力時，車輛會直行。鬆開油門或剎車以恢復轉向。"
+        },
+        "dmv_ref": {
+            "page": "2-34",
+            "section": "Front Wheel Skid",
+            "analysis_zh-Hans": "前轮打滑=无法转向。",
+            "analysis_zh-Hant": "前輪打滑=無法轉向。"
+        }
+    },
+    {
+        "id": 1107,
+        "category": "General Knowledge",
+        "question": {
+            "en": "A tandem axle refers to:",
+            "zh-Hans": "双联车轴 (Tandem Axle) 是指：",
+            "zh-Hant": "雙聯車軸 (Tandem Axle) 是指："
+        },
+        "options": {
+            "A": {
+                "en": "A single axle",
+                "zh-Hans": "单轴",
+                "zh-Hant": "單軸"
+            },
+            "B": {
+                "en": "Two or more axles close together",
+                "zh-Hans": "两个或多个相邻的车轴",
+                "zh-Hant": "兩個或多個相鄰的車軸"
+            },
+            "C": {
+                "en": "Axles at the front of the vehicle",
+                "zh-Hans": "车辆前部的车轴",
+                "zh-Hant": "車輛前部的車軸"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Tandem axles are two or more axles mounted close together, allowing greater weight-carrying capacity.",
+            "zh-Hans": "双联轴是两个或多个相邻安装的车轴，可以承载更大的重量。",
+            "zh-Hant": "雙聯軸是兩個或多個相鄰安裝的車軸，可以承載更大的重量。"
+        },
+        "dmv_ref": {
+            "page": "3-2",
+            "section": "Axle Weight",
+            "analysis_zh-Hans": "双联轴限重34,000磅。",
+            "analysis_zh-Hant": "雙聯軸限重34,000磅。"
+        }
+    },
+    {
+        "id": 1108,
+        "category": "General Knowledge",
+        "question": {
+            "en": "Which of these is true about driving in a tunnel?",
+            "zh-Hans": "关于在隧道中驾驶，以下哪项是正确的？",
+            "zh-Hant": "關於在隧道中駕駛，以下哪項是正確的？"
+        },
+        "options": {
+            "A": {
+                "en": "You may need to remove sunglasses",
+                "zh-Hans": "你可能需要摘掉太阳镜",
+                "zh-Hant": "你可能需要摘掉太陽鏡"
+            },
+            "B": {
+                "en": "You should speed up in tunnels",
+                "zh-Hans": "你应该在隧道里加速",
+                "zh-Hant": "你應該在隧道裡加速"
+            },
+            "C": {
+                "en": "Turn off all lights in tunnels",
+                "zh-Hans": "在隧道里关闭所有灯",
+                "zh-Hant": "在隧道裡關閉所有燈"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Remove sunglasses before entering, turn on headlights, and maintain safe following distance.",
+            "zh-Hans": "进入前摘掉太阳镜，打开前照灯，保持安全跟车距离。",
+            "zh-Hant": "進入前摘掉太陽鏡，打開前照燈，保持安全跟車距離。"
+        },
+        "dmv_ref": {
+            "page": "2-31",
+            "section": "Tunnels",
+            "analysis_zh-Hans": "隧道内外亮度变化大。",
+            "analysis_zh-Hant": "隧道內外亮度變化大。"
+        }
+    },
+    {
+        "id": 1109,
+        "category": "General Knowledge",
+        "question": {
+            "en": "Driving too fast for conditions is:",
+            "zh-Hans": "相对于路况超速行驶是：",
+            "zh-Hant": "相對於路況超速行駛是："
+        },
+        "options": {
+            "A": {
+                "en": "Safe as long as you are below posted limit",
+                "zh-Hans": "只要低于限速就是安全的",
+                "zh-Hant": "只要低於限速就是安全的"
+            },
+            "B": {
+                "en": "Dangerous, even if below posted speed limit",
+                "zh-Hans": "危险的，即使低于限速",
+                "zh-Hant": "危險的，即使低於限速"
+            },
+            "C": {
+                "en": "Only dangerous at night",
+                "zh-Hans": "只在夜间危险",
+                "zh-Hant": "只在夜間危險"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Posted limits are for ideal conditions. In rain, fog, or traffic, the safe speed is below the limit.",
+            "zh-Hans": "限速是针对理想条件的。在雨、雾或拥堵情况下，安全速度应低于限速。",
+            "zh-Hant": "限速是針對理想條件的。在雨、霧或擁堵情況下，安全速度應低於限速。"
+        },
+        "dmv_ref": {
+            "page": "2-18",
+            "section": "Speed Limits",
+            "analysis_zh-Hans": "基本速度法则：任何时候速度都应安全。",
+            "analysis_zh-Hant": "基本速度法則：任何時候速度都應安全。"
+        }
+    },
+    {
+        "id": 1110,
+        "category": "General Knowledge",
+        "question": {
+            "en": "Which of these can limit your ability to properly manage space?",
+            "zh-Hans": "以下哪些会限制你正确管理空间的能力？",
+            "zh-Hant": "以下哪些會限制你正確管理空間的能力？"
+        },
+        "options": {
+            "A": {
+                "en": "Good visibility",
+                "zh-Hans": "良好的能见度",
+                "zh-Hant": "良好的能見度"
+            },
+            "B": {
+                "en": "Light traffic",
+                "zh-Hans": "交通畅通",
+                "zh-Hant": "交通暢通"
+            },
+            "C": {
+                "en": "Construction zones and blind spots",
+                "zh-Hans": "施工区和盲区",
+                "zh-Hant": "施工區和盲區"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "Construction zones, blind spots, bad weather, and heavy traffic all make space management harder.",
+            "zh-Hans": "施工区、盲区、恶劣天气和拥堵交通都会使空间管理更困难。",
+            "zh-Hant": "施工區、盲區、惡劣天氣和擁堵交通都會使空間管理更困難。"
+        },
+        "dmv_ref": {
+            "page": "2-24",
+            "section": "Space Management",
+            "analysis_zh-Hans": "了解影响空间管理的因素。",
+            "analysis_zh-Hant": "了解影響空間管理的因素。"
+        }
+    }
+]

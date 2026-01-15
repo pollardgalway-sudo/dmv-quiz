@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "加州DMV驾照考试 - 刷题网站",
-  description: "基于2026版加州DMV官方手册的驾照考试刷题平台，提供300+题目和80+交通标志学习",
+  title: "加州CDL商业驾照考试 - 刷题网站",
+  description: "基于2026版加州DMV官方商业驾驶员手册(CDL Handbook)的刷题平台，涵盖通用知识、气制动、组合车辆等核心考点",
 };
 
 export default function RootLayout({

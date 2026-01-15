@@ -1,0 +1,382 @@
+[
+    {
+        "id": 1131,
+        "category": "General Knowledge",
+        "question": {
+            "en": "What should you do if you become sleepy while driving?",
+            "zh-Hans": "如果你在驾驶时感到困倦，应该怎么做？",
+            "zh-Hant": "如果你在駕駛時感到困倦，應該怎麼做？"
+        },
+        "options": {
+            "A": {
+                "en": "Open the window and turn up the radio",
+                "zh-Hans": "打开窗户并调大收音机",
+                "zh-Hant": "打開窗戶並調大收音機"
+            },
+            "B": {
+                "en": "Pull off the road and sleep",
+                "zh-Hans": "靠边停车睡觉",
+                "zh-Hant": "靠邊停車睡覺"
+            },
+            "C": {
+                "en": "Drink coffee and keep driving",
+                "zh-Hans": "喝咖啡继续开车",
+                "zh-Hant": "喝咖啡繼續開車"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "The only cure for fatigue is sleep. Stop and rest - don't try temporary fixes.",
+            "zh-Hans": "唯一的解决疲劳的方法是睡眠。停车休息，不要尝试临时解决方法。",
+            "zh-Hant": "唯一的解決疲勞的方法是睡眠。停車休息，不要嘗試臨時解決方法。"
+        },
+        "dmv_ref": {
+            "page": "2-33",
+            "section": "Fatigue",
+            "analysis_zh-Hans": "累了就停车睡觉，别强撑。",
+            "analysis_zh-Hant": "累了就停車睡覺，別強撐。"
+        }
+    },
+    {
+        "id": 1132,
+        "category": "General Knowledge",
+        "question": {
+            "en": "The best time to check your mirrors is:",
+            "zh-Hans": "检查后视镜的最佳时机是：",
+            "zh-Hant": "檢查後視鏡的最佳時機是："
+        },
+        "options": {
+            "A": {
+                "en": "Only before changing lanes",
+                "zh-Hans": "只在变道前",
+                "zh-Hant": "只在變道前"
+            },
+            "B": {
+                "en": "Regularly every 5-8 seconds and before any change in traffic flow",
+                "zh-Hans": "每5-8秒定期检查，以及任何交通流变化前",
+                "zh-Hant": "每5-8秒定期檢查，以及任何交通流變化前"
+            },
+            "C": {
+                "en": "Only when you hear a horn",
+                "zh-Hans": "只在听到喇叭时",
+                "zh-Hant": "只在聽到喇叭時"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Check mirrors every 5-8 seconds and before braking, lane changes, turns, and merges.",
+            "zh-Hans": "每5-8秒检查后视镜，以及刹车、变道、转弯和并线前。",
+            "zh-Hant": "每5-8秒檢查後視鏡，以及剎車、變道、轉彎和併線前。"
+        },
+        "dmv_ref": {
+            "page": "2-23",
+            "section": "Mirrors",
+            "analysis_zh-Hans": "5-8秒+变化前=最佳检查频率。",
+            "analysis_zh-Hant": "5-8秒+變化前=最佳檢查頻率。"
+        }
+    },
+    {
+        "id": 1133,
+        "category": "General Knowledge",
+        "question": {
+            "en": "The total stopping distance is made up of:",
+            "zh-Hans": "总制动距离由以下部分组成：",
+            "zh-Hant": "總制動距離由以下部分組成："
+        },
+        "options": {
+            "A": {
+                "en": "Perception distance only",
+                "zh-Hans": "仅感知距离",
+                "zh-Hant": "僅感知距離"
+            },
+            "B": {
+                "en": "Braking distance only",
+                "zh-Hans": "仅制动距离",
+                "zh-Hant": "僅制動距離"
+            },
+            "C": {
+                "en": "Perception, reaction, and braking distance",
+                "zh-Hans": "感知、反应和制动距离",
+                "zh-Hant": "感知、反應和制動距離"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "Total stopping distance = perception distance + reaction distance + braking distance.",
+            "zh-Hans": "总制动距离 = 感知距离 + 反应距离 + 制动距离。",
+            "zh-Hant": "總制動距離 = 感知距離 + 反應距離 + 制動距離。"
+        },
+        "dmv_ref": {
+            "page": "2-17",
+            "section": "Stopping Distance",
+            "analysis_zh-Hans": "三段距离相加=总距离。",
+            "analysis_zh-Hant": "三段距離相加=總距離。"
+        }
+    },
+    {
+        "id": 1134,
+        "category": "General Knowledge",
+        "question": {
+            "en": "Loads that overhang by 4 feet or more must have:",
+            "zh-Hans": "悬伸4英尺或以上的货物必须有：",
+            "zh-Hant": "懸伸4英尺或以上的貨物必須有："
+        },
+        "options": {
+            "A": {
+                "en": "Nothing special",
+                "zh-Hans": "不需要特殊处理",
+                "zh-Hant": "不需要特殊處理"
+            },
+            "B": {
+                "en": "Red or orange warning flags by day, red lights at night",
+                "zh-Hans": "白天红色或橙色警示旗，夜间红灯",
+                "zh-Hant": "白天紅色或橙色警示旗，夜間紅燈"
+            },
+            "C": {
+                "en": "Yellow flags only",
+                "zh-Hans": "仅黄色旗帜",
+                "zh-Hant": "僅黃色旗幟"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Overhang of 4 feet or more requires red/orange flags (18 inches) by day and red lights at night.",
+            "zh-Hans": "4英尺或以上的悬伸需要白天挂红/橙色旗帜（18英寸），夜间挂红灯。",
+            "zh-Hant": "4英尺或以上的懸伸需要白天掛紅/橙色旗幟（18英寸），夜間掛紅燈。"
+        },
+        "dmv_ref": {
+            "page": "3-6",
+            "section": "Overhang",
+            "analysis_zh-Hans": "4英尺触发标记要求。",
+            "analysis_zh-Hant": "4英尺觸發標記要求。"
+        }
+    },
+    {
+        "id": 1135,
+        "category": "General Knowledge",
+        "question": {
+            "en": "Dry bulk tankers have a high center of gravity, which means:",
+            "zh-Hans": "干散货罐车重心高，这意味着：",
+            "zh-Hant": "乾散貨罐車重心高，這意味著："
+        },
+        "options": {
+            "A": {
+                "en": "They are more stable than flatbeds",
+                "zh-Hans": "它们比平板车更稳定",
+                "zh-Hant": "它們比平板車更穩定"
+            },
+            "B": {
+                "en": "They are more likely to roll over on curves",
+                "zh-Hans": "它们更容易在弯道翻车",
+                "zh-Hant": "它們更容易在彎道翻車"
+            },
+            "C": {
+                "en": "They use less fuel",
+                "zh-Hans": "它们更省油",
+                "zh-Hant": "它們更省油"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "High center of gravity makes tankers more prone to rollover, especially on curves and ramps.",
+            "zh-Hans": "高重心使罐车更容易翻车，特别是在弯道和匝道上。",
+            "zh-Hant": "高重心使罐車更容易翻車，特別是在彎道和匝道上。"
+        },
+        "dmv_ref": {
+            "page": "7-1",
+            "section": "Tanks",
+            "analysis_zh-Hans": "罐车翻车风险高。",
+            "analysis_zh-Hant": "罐車翻車風險高。"
+        }
+    },
+    {
+        "id": 1136,
+        "category": "General Knowledge",
+        "question": {
+            "en": "Before crossing a railroad track, you should:",
+            "zh-Hans": "跨越铁路轨道前，你应该：",
+            "zh-Hant": "跨越鐵路軌道前，你應該："
+        },
+        "options": {
+            "A": {
+                "en": "Speed up to clear quickly",
+                "zh-Hans": "加速快速通过",
+                "zh-Hant": "加速快速通過"
+            },
+            "B": {
+                "en": "Stop, look, listen, and check for warning lights",
+                "zh-Hans": "停车、观察、倾听，并检查警示灯",
+                "zh-Hant": "停車、觀察、傾聽，並檢查警示燈"
+            },
+            "C": {
+                "en": "Rely only on the warning signals",
+                "zh-Hans": "只依靠警告信号",
+                "zh-Hant": "只依靠警告信號"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Stop 15-50 feet before the crossing, look and listen both ways before proceeding.",
+            "zh-Hans": "在道口前15-50英尺处停车，向两边看和听后再通过。",
+            "zh-Hant": "在道口前15-50英尺處停車，向兩邊看和聽後再通過。"
+        },
+        "dmv_ref": {
+            "page": "2-19",
+            "section": "Railroad Crossings",
+            "analysis_zh-Hans": "永远不要只依赖警告信号。",
+            "analysis_zh-Hant": "永遠不要只依賴警告信號。"
+        }
+    },
+    {
+        "id": 1137,
+        "category": "General Knowledge",
+        "question": {
+            "en": "Brake lag distance is:",
+            "zh-Hans": "刹车延迟距离是：",
+            "zh-Hant": "剎車延遲距離是："
+        },
+        "options": {
+            "A": {
+                "en": "Distance traveled before air brakes start working",
+                "zh-Hans": "气刹开始工作前行驶的距离",
+                "zh-Hant": "氣剎開始工作前行駛的距離"
+            },
+            "B": {
+                "en": "Distance to stop on ice",
+                "zh-Hans": "在冰面上停车的距离",
+                "zh-Hant": "在冰面上停車的距離"
+            },
+            "C": {
+                "en": "Distance traveled while braking",
+                "zh-Hans": "刹车时行驶的距离",
+                "zh-Hant": "剎車時行駛的距離"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Brake lag is the time/distance for air to travel through lines. At 55 mph, lag adds about 32 feet.",
+            "zh-Hans": "刹车延迟是空气通过管路的时间/距离。在55英里/小时时，延迟增加约32英尺。",
+            "zh-Hant": "剎車延遲是空氣通過管路的時間/距離。在55英里/小時時，延遲增加約32英尺。"
+        },
+        "dmv_ref": {
+            "page": "5-9",
+            "section": "Air Brakes",
+            "analysis_zh-Hans": "气刹专有，液压刹没有。",
+            "analysis_zh-Hant": "氣剎專有，液壓剎沒有。"
+        }
+    },
+    {
+        "id": 1138,
+        "category": "General Knowledge",
+        "question": {
+            "en": "Commercial vehicles must stop at which of these locations if traffic signals are not working?",
+            "zh-Hans": "如果交通信号灯不工作，商用车辆必须在以下哪些地点停车？",
+            "zh-Hant": "如果交通信號燈不工作，商用車輛必須在以下哪些地點停車？"
+        },
+        "options": {
+            "A": {
+                "en": "School bus stops only",
+                "zh-Hans": "仅校车站",
+                "zh-Hant": "僅校車站"
+            },
+            "B": {
+                "en": "Railroad crossings",
+                "zh-Hans": "铁路道口",
+                "zh-Hant": "鐵路道口"
+            },
+            "C": {
+                "en": "Both A and B",
+                "zh-Hans": "A和B都对",
+                "zh-Hant": "A和B都對"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Commercial vehicles must always stop at railroad crossings where signals are not working.",
+            "zh-Hans": "商用车辆必须在信号不工作的铁路道口停车。",
+            "zh-Hant": "商用車輛必須在信號不工作的鐵路道口停車。"
+        },
+        "dmv_ref": {
+            "page": "2-19",
+            "section": "Railroad Crossings",
+            "analysis_zh-Hans": "铁路道口必停规则。",
+            "analysis_zh-Hant": "鐵路道口必停規則。"
+        }
+    },
+    {
+        "id": 1139,
+        "category": "General Knowledge",
+        "question": {
+            "en": "Which of these is TRUE about lane changes?",
+            "zh-Hans": "关于变道，以下哪项是正确的？",
+            "zh-Hant": "關於變道，以下哪項是正確的？"
+        },
+        "options": {
+            "A": {
+                "en": "Use mirrors only, no need to check blind spots",
+                "zh-Hans": "只用后视镜，不需要检查盲区",
+                "zh-Hant": "只用後視鏡，不需要檢查盲區"
+            },
+            "B": {
+                "en": "Check mirrors and turn your head to check blind spots",
+                "zh-Hans": "检查后视镜并转头检查盲区",
+                "zh-Hant": "檢查後視鏡並轉頭檢查盲區"
+            },
+            "C": {
+                "en": "Signal after you complete the lane change",
+                "zh-Hans": "完成变道后再打灯",
+                "zh-Hant": "完成變道後再打燈"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Always check mirrors AND turn your head to check blind spots before changing lanes.",
+            "zh-Hans": "变道前始终检查后视镜并转头检查盲区。",
+            "zh-Hant": "變道前始終檢查後視鏡並轉頭檢查盲區。"
+        },
+        "dmv_ref": {
+            "page": "2-22",
+            "section": "Lane Changes",
+            "analysis_zh-Hans": "后视镜不能完全消除盲区。",
+            "analysis_zh-Hant": "後視鏡不能完全消除盲區。"
+        }
+    },
+    {
+        "id": 1140,
+        "category": "General Knowledge",
+        "question": {
+            "en": "If you must stop on a highway, where should you try to stop?",
+            "zh-Hans": "如果你必须在高速公路上停车，应该尽量在哪里停车？",
+            "zh-Hant": "如果你必須在高速公路上停車，應該盡量在哪裡停車？"
+        },
+        "options": {
+            "A": {
+                "en": "In the left lane",
+                "zh-Hans": "在左车道",
+                "zh-Hant": "在左車道"
+            },
+            "B": {
+                "en": "On the shoulder or a rest area",
+                "zh-Hans": "在路肩或休息区",
+                "zh-Hant": "在路肩或休息區"
+            },
+            "C": {
+                "en": "In the center of the highway",
+                "zh-Hans": "在高速公路中间",
+                "zh-Hant": "在高速公路中間"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Pull completely onto the shoulder or a rest area if you must stop. Never stop in travel lanes.",
+            "zh-Hans": "如果必须停车，完全驶入路肩或休息区。永远不要停在行车道上。",
+            "zh-Hant": "如果必須停車，完全駛入路肩或休息區。永遠不要停在行車道上。"
+        },
+        "dmv_ref": {
+            "page": "2-32",
+            "section": "Breakdowns",
+            "analysis_zh-Hans": "停在安全位置，完全离开行车道。",
+            "analysis_zh-Hant": "停在安全位置，完全離開行車道。"
+        }
+    }
+]

@@ -1,0 +1,382 @@
+[
+    {
+        "id": 1051,
+        "category": "General Knowledge",
+        "question": {
+            "en": "When you see a hazard in the road ahead of you, you should:",
+            "zh-Hans": "当你看到前方道路上有危险时，你应该：",
+            "zh-Hant": "當你看到前方道路上有危險時，你應該："
+        },
+        "options": {
+            "A": {
+                "en": "Steer and brake at the same time",
+                "zh-Hans": "同时转向和刹车",
+                "zh-Hant": "同時轉向和剎車"
+            },
+            "B": {
+                "en": "Take action immediately without thinking",
+                "zh-Hans": "不假思索立即行动",
+                "zh-Hant": "不假思索立即行動"
+            },
+            "C": {
+                "en": "Identify, predict, decide, and execute",
+                "zh-Hans": "识别、预判、决定、执行",
+                "zh-Hant": "識別、預判、決定、執行"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "The SEE system: Search, Evaluate, Execute - see hazards, evaluate options, execute the safest action.",
+            "zh-Hans": "SEE系统：搜索、评估、执行 - 发现危险，评估选项，采取最安全的行动。",
+            "zh-Hant": "SEE系統：搜索、評估、執行 - 發現危險，評估選項，採取最安全的行動。"
+        },
+        "dmv_ref": {
+            "page": "2-26",
+            "section": "Hazard Perception",
+            "analysis_zh-Hans": "SEE系统是防御性驾驶的核心。",
+            "analysis_zh-Hant": "SEE系統是防禦性駕駛的核心。"
+        }
+    },
+    {
+        "id": 1052,
+        "category": "General Knowledge",
+        "question": {
+            "en": "To correct a drive-wheel braking skid, you should:",
+            "zh-Hans": "要纠正驱动轮制动打滑，你应该：",
+            "zh-Hant": "要糾正驅動輪制動打滑，你應該："
+        },
+        "options": {
+            "A": {
+                "en": "Apply more brake pressure",
+                "zh-Hans": "加大刹车力度",
+                "zh-Hant": "加大剎車力度"
+            },
+            "B": {
+                "en": "Release brakes and steer in direction you want to go",
+                "zh-Hans": "松开刹车并朝你想去的方向转向",
+                "zh-Hant": "鬆開剎車並朝你想去的方向轉向"
+            },
+            "C": {
+                "en": "Accelerate quickly",
+                "zh-Hans": "快速加速",
+                "zh-Hant": "快速加速"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Release brakes to let wheels turn freely, then steer in the direction you want to go.",
+            "zh-Hans": "松开刹车让车轮自由转动，然后朝目标方向转向。",
+            "zh-Hant": "鬆開剎車讓車輪自由轉動，然後朝目標方向轉向。"
+        },
+        "dmv_ref": {
+            "page": "2-34",
+            "section": "Skid Recovery",
+            "analysis_zh-Hans": "打滑时首先松开刹车。",
+            "analysis_zh-Hant": "打滑時首先鬆開剎車。"
+        }
+    },
+    {
+        "id": 1053,
+        "category": "General Knowledge",
+        "question": {
+            "en": "You should use low beam headlights when:",
+            "zh-Hans": "你应该在什么时候使用近光灯？",
+            "zh-Hant": "你應該在什麼時候使用近光燈？"
+        },
+        "options": {
+            "A": {
+                "en": "Driving in daylight only",
+                "zh-Hans": "仅在白天驾驶时",
+                "zh-Hant": "僅在白天駕駛時"
+            },
+            "B": {
+                "en": "Within 500 feet of an oncoming vehicle",
+                "zh-Hans": "距对向来车500英尺以内",
+                "zh-Hant": "距對向來車500英尺以內"
+            },
+            "C": {
+                "en": "On an empty highway at night",
+                "zh-Hans": "夜间在空旷的高速公路上",
+                "zh-Hant": "夜間在空曠的高速公路上"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Dim your high beams to low beams within 500 feet of an oncoming vehicle and 300 feet when following.",
+            "zh-Hans": "在距对向来车500英尺内或跟车300英尺内切换为近光灯。",
+            "zh-Hant": "在距對向來車500英尺內或跟車300英尺內切換為近光燈。"
+        },
+        "dmv_ref": {
+            "page": "2-30",
+            "section": "Night Driving",
+            "analysis_zh-Hans": "500英尺(对向)和300英尺(跟车)是关键数字。",
+            "analysis_zh-Hant": "500英尺(對向)和300英尺(跟車)是關鍵數字。"
+        }
+    },
+    {
+        "id": 1054,
+        "category": "General Knowledge",
+        "question": {
+            "en": "If you are driving a stick shift, when should you avoid coasting?",
+            "zh-Hans": "如果你驾驶手动挡车辆，什么时候应该避免滑行？",
+            "zh-Hant": "如果你駕駛手動擋車輛，什麼時候應該避免滑行？"
+        },
+        "options": {
+            "A": {
+                "en": "On flat roads",
+                "zh-Hans": "在平路上",
+                "zh-Hant": "在平路上"
+            },
+            "B": {
+                "en": "When going downhill",
+                "zh-Hans": "下坡时",
+                "zh-Hant": "下坡時"
+            },
+            "C": {
+                "en": "When traffic is light",
+                "zh-Hans": "交通畅通时",
+                "zh-Hant": "交通暢通時"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Never coast (put in neutral) downhill. You need engine braking for control.",
+            "zh-Hans": "下坡时绝不能空挡滑行。你需要发动机制动来控制车辆。",
+            "zh-Hant": "下坡時絕不能空擋滑行。你需要發動機制動來控制車輛。"
+        },
+        "dmv_ref": {
+            "page": "2-21",
+            "section": "Mountain Driving",
+            "analysis_zh-Hans": "空挡下坡极其危险。",
+            "analysis_zh-Hant": "空擋下坡極其危險。"
+        }
+    },
+    {
+        "id": 1055,
+        "category": "General Knowledge",
+        "question": {
+            "en": "You are driving on a two-lane road. An oncoming driver drifts into your lane. What is the best action?",
+            "zh-Hans": "你在双车道公路上行驶。对向车辆驶入你的车道。最佳操作是什么？",
+            "zh-Hant": "你在雙車道公路上行駛。對向車輛駛入你的車道。最佳操作是什麼？"
+        },
+        "options": {
+            "A": {
+                "en": "Steer left",
+                "zh-Hans": "向左转向",
+                "zh-Hant": "向左轉向"
+            },
+            "B": {
+                "en": "Steer right and slow down",
+                "zh-Hans": "向右转向并减速",
+                "zh-Hant": "向右轉向並減速"
+            },
+            "C": {
+                "en": "Speed up to pass quickly",
+                "zh-Hans": "加速快速通过",
+                "zh-Hant": "加速快速通過"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Steer to the right onto the shoulder if possible. Never steer left into oncoming traffic.",
+            "zh-Hans": "如果可能，向右转向路肩。永远不要向左驶入对向车道。",
+            "zh-Hant": "如果可能，向右轉向路肩。永遠不要向左駛入對向車道。"
+        },
+        "dmv_ref": {
+            "page": "2-28",
+            "section": "Emergencies",
+            "analysis_zh-Hans": "向右是更安全的选择。",
+            "analysis_zh-Hant": "向右是更安全的選擇。"
+        }
+    },
+    {
+        "id": 1056,
+        "category": "General Knowledge",
+        "question": {
+            "en": "Which of these should be checked before starting the engine?",
+            "zh-Hans": "以下哪些应该在启动发动机前检查？",
+            "zh-Hant": "以下哪些應該在啟動發動機前檢查？"
+        },
+        "options": {
+            "A": {
+                "en": "Air filter",
+                "zh-Hans": "空气滤清器",
+                "zh-Hant": "空氣濾清器"
+            },
+            "B": {
+                "en": "Oil level and coolant level",
+                "zh-Hans": "机油和冷却液液位",
+                "zh-Hant": "機油和冷卻液液位"
+            },
+            "C": {
+                "en": "Transmission fluid only",
+                "zh-Hans": "仅变速箱油",
+                "zh-Hant": "僅變速箱油"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Check oil level, coolant level, and other fluid levels before starting the engine each day.",
+            "zh-Hans": "每天启动发动机前检查机油、冷却液和其他液体液位。",
+            "zh-Hant": "每天啟動發動機前檢查機油、冷卻液和其他液體液位。"
+        },
+        "dmv_ref": {
+            "page": "2-7",
+            "section": "Pre-trip Inspection",
+            "analysis_zh-Hans": "液体检查是最基本的行前项目。",
+            "analysis_zh-Hant": "液體檢查是最基本的行前項目。"
+        }
+    },
+    {
+        "id": 1057,
+        "category": "General Knowledge",
+        "question": {
+            "en": "How do you test hydraulic brakes for leaks?",
+            "zh-Hans": "如何测试液压刹车是否泄漏？",
+            "zh-Hant": "如何測試液壓剎車是否洩漏？"
+        },
+        "options": {
+            "A": {
+                "en": "Pump the brake pedal",
+                "zh-Hans": "泵踩刹车踏板",
+                "zh-Hant": "泵踩剎車踏板"
+            },
+            "B": {
+                "en": "Hold pressure on the pedal for 5 seconds; it should not drift down",
+                "zh-Hans": "踩住踏板5秒；踏板不应下沉",
+                "zh-Hant": "踩住踏板5秒；踏板不應下沉"
+            },
+            "C": {
+                "en": "Listen for air hissing",
+                "zh-Hans": "听是否有气体嘶嘶声",
+                "zh-Hant": "聽是否有氣體嘶嘶聲"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Apply firm pressure for 5 seconds. If the pedal drifts down, there may be a hydraulic leak.",
+            "zh-Hans": "用力踩住5秒。如果踏板下沉，可能有液压泄漏。",
+            "zh-Hant": "用力踩住5秒。如果踏板下沉，可能有液壓洩漏。"
+        },
+        "dmv_ref": {
+            "page": "2-5",
+            "section": "Brake Check",
+            "analysis_zh-Hans": "5秒测试是标准方法。",
+            "analysis_zh-Hant": "5秒測試是標準方法。"
+        }
+    },
+    {
+        "id": 1058,
+        "category": "General Knowledge",
+        "question": {
+            "en": "To avoid a collision, a truck driver should always look at least ___ seconds ahead.",
+            "zh-Hans": "为了避免碰撞，卡车司机应该始终向前看至少 ___ 秒的距离。",
+            "zh-Hant": "為了避免碰撞，卡車司機應該始終向前看至少 ___ 秒的距離。"
+        },
+        "options": {
+            "A": {
+                "en": "5 seconds",
+                "zh-Hans": "5秒",
+                "zh-Hant": "5秒"
+            },
+            "B": {
+                "en": "12-15 seconds",
+                "zh-Hans": "12-15秒",
+                "zh-Hant": "12-15秒"
+            },
+            "C": {
+                "en": "3 seconds",
+                "zh-Hans": "3秒",
+                "zh-Hant": "3秒"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Look 12-15 seconds ahead (about a quarter mile on the highway) to spot hazards early.",
+            "zh-Hans": "向前看12-15秒的距离（高速公路上约四分之一英里）以便及早发现危险。",
+            "zh-Hant": "向前看12-15秒的距離（高速公路上約四分之一英里）以便及早發現危險。"
+        },
+        "dmv_ref": {
+            "page": "2-23",
+            "section": "Seeing Ahead",
+            "analysis_zh-Hans": "12-15秒是视距关键数字。",
+            "analysis_zh-Hant": "12-15秒是視距關鍵數字。"
+        }
+    },
+    {
+        "id": 1059,
+        "category": "General Knowledge",
+        "question": {
+            "en": "If you need to leave the roadway to avoid a collision, you should:",
+            "zh-Hans": "如果你需要驶离公路以避免碰撞，你应该：",
+            "zh-Hant": "如果你需要駛離公路以避免碰撞，你應該："
+        },
+        "options": {
+            "A": {
+                "en": "Brake hard while turning",
+                "zh-Hans": "转弯时用力刹车",
+                "zh-Hant": "轉彎時用力剎車"
+            },
+            "B": {
+                "en": "Avoid braking until speed is reduced, then apply brakes lightly",
+                "zh-Hans": "减速前避免刹车，然后轻踩刹车",
+                "zh-Hant": "減速前避免剎車，然後輕踩剎車"
+            },
+            "C": {
+                "en": "Steer sharply to get out of the way",
+                "zh-Hans": "急转方向以驶离",
+                "zh-Hant": "急轉方向以駛離"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Avoid braking while turning off the road. After slowing down, gently apply brakes once you're off.",
+            "zh-Hans": "驶离公路时避免刹车。减速后，离开公路后轻轻刹车。",
+            "zh-Hant": "駛離公路時避免剎車。減速後，離開公路後輕輕剎車。"
+        },
+        "dmv_ref": {
+            "page": "2-28",
+            "section": "Emergency Maneuvers",
+            "analysis_zh-Hans": "转向和刹车不能同时进行。",
+            "analysis_zh-Hant": "轉向和剎車不能同時進行。"
+        }
+    },
+    {
+        "id": 1060,
+        "category": "General Knowledge",
+        "question": {
+            "en": "You are driving on a straight, level highway at 50 mph. There are no vehicles around you. Which lane should you travel in?",
+            "zh-Hans": "你在一条笔直平坦的高速公路上以50英里/小时行驶。周围没有其他车辆。你应该走哪条车道？",
+            "zh-Hant": "你在一條筆直平坦的高速公路上以50英里/小時行駛。周圍沒有其他車輛。你應該走哪條車道？"
+        },
+        "options": {
+            "A": {
+                "en": "Far left lane",
+                "zh-Hans": "最左车道",
+                "zh-Hant": "最左車道"
+            },
+            "B": {
+                "en": "Center lane",
+                "zh-Hans": "中间车道",
+                "zh-Hant": "中間車道"
+            },
+            "C": {
+                "en": "Far right lane",
+                "zh-Hans": "最右车道",
+                "zh-Hant": "最右車道"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "Travel in the right lane unless passing. Slow-moving vehicles should keep right.",
+            "zh-Hans": "除非超车，否则在右车道行驶。慢速车辆应保持在右侧。",
+            "zh-Hant": "除非超車，否則在右車道行駛。慢速車輛應保持在右側。"
+        },
+        "dmv_ref": {
+            "page": "2-25",
+            "section": "Lane Selection",
+            "analysis_zh-Hans": "Keep right except to pass是基本原则。",
+            "analysis_zh-Hant": "Keep right except to pass是基本原則。"
+        }
+    }
+]

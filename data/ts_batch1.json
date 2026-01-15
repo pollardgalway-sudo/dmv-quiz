@@ -1,0 +1,382 @@
+[
+    {
+        "id": 4011,
+        "category": "Traffic Signs",
+        "question": {
+            "en": "A red octagonal sign means:",
+            "zh-Hans": "红色八角形标志表示：",
+            "zh-Hant": "紅色八角形標誌表示："
+        },
+        "options": {
+            "A": {
+                "en": "Yield",
+                "zh-Hans": "让行",
+                "zh-Hant": "讓行"
+            },
+            "B": {
+                "en": "Stop",
+                "zh-Hans": "停车",
+                "zh-Hant": "停車"
+            },
+            "C": {
+                "en": "No Parking",
+                "zh-Hans": "禁止停车",
+                "zh-Hant": "禁止停車"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "A red octagon is a STOP sign. You must come to a complete stop.",
+            "zh-Hans": "红色八角形是停车标志。你必须完全停车。",
+            "zh-Hant": "紅色八角形是停車標誌。你必須完全停車。"
+        },
+        "dmv_ref": {
+            "page": "2-19",
+            "section": "Regulatory Signs",
+            "analysis_zh-Hans": "红色八角形=停车，全球通用。",
+            "analysis_zh-Hant": "紅色八角形=停車，全球通用。"
+        }
+    },
+    {
+        "id": 4012,
+        "category": "Traffic Signs",
+        "question": {
+            "en": "A red triangle pointing down means:",
+            "zh-Hans": "红色倒三角形标志表示：",
+            "zh-Hant": "紅色倒三角形標誌表示："
+        },
+        "options": {
+            "A": {
+                "en": "Stop",
+                "zh-Hans": "停车",
+                "zh-Hant": "停車"
+            },
+            "B": {
+                "en": "Yield",
+                "zh-Hans": "让行",
+                "zh-Hant": "讓行"
+            },
+            "C": {
+                "en": "Speed Limit",
+                "zh-Hans": "限速",
+                "zh-Hant": "限速"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "A red and white triangle pointing down is a YIELD sign. Slow down and give way to traffic.",
+            "zh-Hans": "红白倒三角形是让行标志。减速并给其他车辆让路。",
+            "zh-Hant": "紅白倒三角形是讓行標誌。減速並給其他車輛讓路。"
+        },
+        "dmv_ref": {
+            "page": "2-19",
+            "section": "Regulatory Signs",
+            "analysis_zh-Hans": "让行≠停车，但必须减速。",
+            "analysis_zh-Hant": "讓行≠停車，但必須減速。"
+        }
+    },
+    {
+        "id": 4013,
+        "category": "Traffic Signs",
+        "question": {
+            "en": "Yellow diamond-shaped signs are:",
+            "zh-Hans": "黄色菱形标志是：",
+            "zh-Hant": "黃色菱形標誌是："
+        },
+        "options": {
+            "A": {
+                "en": "Regulatory signs",
+                "zh-Hans": "规则标志",
+                "zh-Hant": "規則標誌"
+            },
+            "B": {
+                "en": "Warning signs",
+                "zh-Hans": "警告标志",
+                "zh-Hant": "警告標誌"
+            },
+            "C": {
+                "en": "Guide signs",
+                "zh-Hans": "指路标志",
+                "zh-Hant": "指路標誌"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Yellow diamond-shaped signs are warning signs that alert you to hazards ahead.",
+            "zh-Hans": "黄色菱形标志是警告标志，提醒你前方有危险。",
+            "zh-Hant": "黃色菱形標誌是警告標誌，提醒你前方有危險。"
+        },
+        "dmv_ref": {
+            "page": "2-19",
+            "section": "Warning Signs",
+            "analysis_zh-Hans": "黄色=警告，菱形=警告形状。",
+            "analysis_zh-Hant": "黃色=警告，菱形=警告形狀。"
+        }
+    },
+    {
+        "id": 4014,
+        "category": "Traffic Signs",
+        "question": {
+            "en": "Orange signs in work zones mean:",
+            "zh-Hans": "施工区的橙色标志表示：",
+            "zh-Hant": "施工區的橙色標誌表示："
+        },
+        "options": {
+            "A": {
+                "en": "Speed up to pass through",
+                "zh-Hans": "加速通过",
+                "zh-Hant": "加速通過"
+            },
+            "B": {
+                "en": "Construction or road work ahead",
+                "zh-Hans": "前方有施工或道路作业",
+                "zh-Hant": "前方有施工或道路作業"
+            },
+            "C": {
+                "en": "School zone",
+                "zh-Hans": "学校区域",
+                "zh-Hant": "學校區域"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Orange signs indicate construction zones. Reduce speed and watch for workers.",
+            "zh-Hans": "橙色标志表示施工区。减速并注意工人。",
+            "zh-Hant": "橙色標誌表示施工區。減速並注意工人。"
+        },
+        "dmv_ref": {
+            "page": "2-19",
+            "section": "Work Zone Signs",
+            "analysis_zh-Hans": "施工区违规罚款翻倍。",
+            "analysis_zh-Hant": "施工區違規罰款翻倍。"
+        }
+    },
+    {
+        "id": 4015,
+        "category": "Traffic Signs",
+        "question": {
+            "en": "Green rectangular signs are typically:",
+            "zh-Hans": "绿色矩形标志通常是：",
+            "zh-Hant": "綠色矩形標誌通常是："
+        },
+        "options": {
+            "A": {
+                "en": "Warning signs",
+                "zh-Hans": "警告标志",
+                "zh-Hant": "警告標誌"
+            },
+            "B": {
+                "en": "Regulatory signs",
+                "zh-Hans": "规则标志",
+                "zh-Hant": "規則標誌"
+            },
+            "C": {
+                "en": "Guide signs for directions and distances",
+                "zh-Hans": "方向和距离的指路标志",
+                "zh-Hant": "方向和距離的指路標誌"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "Green signs provide information about directions, distances, and destinations.",
+            "zh-Hans": "绿色标志提供方向、距离和目的地信息。",
+            "zh-Hant": "綠色標誌提供方向、距離和目的地信息。"
+        },
+        "dmv_ref": {
+            "page": "2-20",
+            "section": "Guide Signs",
+            "analysis_zh-Hans": "绿色=指路信息。",
+            "analysis_zh-Hant": "綠色=指路信息。"
+        }
+    },
+    {
+        "id": 4016,
+        "category": "Traffic Signs",
+        "question": {
+            "en": "A round sign with a crossbuck indicates:",
+            "zh-Hans": "带有交叉标志的圆形标志表示：",
+            "zh-Hant": "帶有交叉標誌的圓形標誌表示："
+        },
+        "options": {
+            "A": {
+                "en": "Railroad crossing ahead",
+                "zh-Hans": "前方铁路道口",
+                "zh-Hant": "前方鐵路道口"
+            },
+            "B": {
+                "en": "School zone",
+                "zh-Hans": "学校区域",
+                "zh-Hant": "學校區域"
+            },
+            "C": {
+                "en": "No U-turn",
+                "zh-Hans": "禁止掉头",
+                "zh-Hant": "禁止掉頭"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "The round yellow sign with RR and crossbuck warns of a railroad crossing ahead.",
+            "zh-Hans": "带有RR和交叉标志的圆形黄色标志警告前方有铁路道口。",
+            "zh-Hant": "帶有RR和交叉標誌的圓形黃色標誌警告前方有鐵路道口。"
+        },
+        "dmv_ref": {
+            "page": "2-19",
+            "section": "Railroad Signs",
+            "analysis_zh-Hans": "铁路标志对CDL司机很重要。",
+            "analysis_zh-Hant": "鐵路標誌對CDL司機很重要。"
+        }
+    },
+    {
+        "id": 4017,
+        "category": "Traffic Signs",
+        "question": {
+            "en": "A pennant-shaped sign (triangular pointing right) means:",
+            "zh-Hans": "三角旗形标志（向右指）表示：",
+            "zh-Hant": "三角旗形標誌（向右指）表示："
+        },
+        "options": {
+            "A": {
+                "en": "School zone",
+                "zh-Hans": "学校区域",
+                "zh-Hant": "學校區域"
+            },
+            "B": {
+                "en": "No passing zone",
+                "zh-Hans": "禁止超车区",
+                "zh-Hant": "禁止超車區"
+            },
+            "C": {
+                "en": "Merge ahead",
+                "zh-Hans": "前方合流",
+                "zh-Hant": "前方合流"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "The pennant-shaped sign marks the beginning of a no-passing zone.",
+            "zh-Hans": "三角旗形标志标志着禁止超车区的开始。",
+            "zh-Hant": "三角旗形標誌標誌著禁止超車區的開始。"
+        },
+        "dmv_ref": {
+            "page": "2-19",
+            "section": "No Passing",
+            "analysis_zh-Hans": "这种形状只用于禁止超车。",
+            "analysis_zh-Hant": "這種形狀只用於禁止超車。"
+        }
+    },
+    {
+        "id": 4018,
+        "category": "Traffic Signs",
+        "question": {
+            "en": "A white rectangular sign is typically a:",
+            "zh-Hans": "白色矩形标志通常是：",
+            "zh-Hant": "白色矩形標誌通常是："
+        },
+        "options": {
+            "A": {
+                "en": "Warning sign",
+                "zh-Hans": "警告标志",
+                "zh-Hant": "警告標誌"
+            },
+            "B": {
+                "en": "Regulatory sign (speed limit, etc.)",
+                "zh-Hans": "规则标志（限速等）",
+                "zh-Hant": "規則標誌（限速等）"
+            },
+            "C": {
+                "en": "Guide sign",
+                "zh-Hans": "指路标志",
+                "zh-Hant": "指路標誌"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "White rectangular signs are regulatory signs like speed limits, lane use, and other rules.",
+            "zh-Hans": "白色矩形标志是规则标志，如限速、车道使用和其他规定。",
+            "zh-Hant": "白色矩形標誌是規則標誌，如限速、車道使用和其他規定。"
+        },
+        "dmv_ref": {
+            "page": "2-19",
+            "section": "Regulatory Signs",
+            "analysis_zh-Hans": "白色矩形=规则/法律。",
+            "analysis_zh-Hant": "白色矩形=規則/法律。"
+        }
+    },
+    {
+        "id": 4019,
+        "category": "Traffic Signs",
+        "question": {
+            "en": "A blue rectangular sign indicates:",
+            "zh-Hans": "蓝色矩形标志表示：",
+            "zh-Hant": "藍色矩形標誌表示："
+        },
+        "options": {
+            "A": {
+                "en": "Warning",
+                "zh-Hans": "警告",
+                "zh-Hant": "警告"
+            },
+            "B": {
+                "en": "Services (gas, food, lodging)",
+                "zh-Hans": "服务设施（加油、餐饮、住宿）",
+                "zh-Hant": "服務設施（加油、餐飲、住宿）"
+            },
+            "C": {
+                "en": "Stop ahead",
+                "zh-Hans": "前方停车",
+                "zh-Hant": "前方停車"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Blue signs indicate motorist services like gas, food, lodging, and hospitals.",
+            "zh-Hans": "蓝色标志表示驾驶员服务设施，如加油站、餐厅、住宿和医院。",
+            "zh-Hant": "藍色標誌表示駕駛員服務設施，如加油站、餐廳、住宿和醫院。"
+        },
+        "dmv_ref": {
+            "page": "2-20",
+            "section": "Service Signs",
+            "analysis_zh-Hans": "蓝色=服务信息。",
+            "analysis_zh-Hant": "藍色=服務信息。"
+        }
+    },
+    {
+        "id": 4020,
+        "category": "Traffic Signs",
+        "question": {
+            "en": "A brown rectangular sign indicates:",
+            "zh-Hans": "棕色矩形标志表示：",
+            "zh-Hant": "棕色矩形標誌表示："
+        },
+        "options": {
+            "A": {
+                "en": "Regulatory information",
+                "zh-Hans": "规则信息",
+                "zh-Hant": "規則信息"
+            },
+            "B": {
+                "en": "Recreational areas and parks",
+                "zh-Hans": "休闲区和公园",
+                "zh-Hant": "休閒區和公園"
+            },
+            "C": {
+                "en": "Construction zone",
+                "zh-Hans": "施工区",
+                "zh-Hant": "施工區"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Brown signs indicate recreational areas, parks, and points of interest.",
+            "zh-Hans": "棕色标志表示休闲区、公园和景点。",
+            "zh-Hant": "棕色標誌表示休閒區、公園和景點。"
+        },
+        "dmv_ref": {
+            "page": "2-20",
+            "section": "Recreation Signs",
+            "analysis_zh-Hans": "棕色=户外休闲。",
+            "analysis_zh-Hant": "棕色=戶外休閒。"
+        }
+    }
+]

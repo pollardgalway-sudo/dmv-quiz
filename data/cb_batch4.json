@@ -1,0 +1,382 @@
+[
+    {
+        "id": 3041,
+        "category": "Combination Vehicles",
+        "question": {
+            "en": "How should you check that the glad hands are correctly connected?",
+            "zh-Hans": "你应该如何检查快接头是否正确连接？",
+            "zh-Hant": "你應該如何檢查快接頭是否正確連接？"
+        },
+        "options": {
+            "A": {
+                "en": "By color coding - blue to blue, red to red",
+                "zh-Hans": "通过颜色编码 - 蓝对蓝，红对红",
+                "zh-Hant": "通過顏色編碼 - 藍對藍，紅對紅"
+            },
+            "B": {
+                "en": "By weight",
+                "zh-Hans": "通过重量",
+                "zh-Hant": "通過重量"
+            },
+            "C": {
+                "en": "By length",
+                "zh-Hans": "通过长度",
+                "zh-Hant": "通過長度"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Connect blue to blue (service) and red to red (emergency/supply). Crossing them is dangerous.",
+            "zh-Hans": "蓝接蓝（服务线）,红接红（紧急/供气线）。接反是危险的。",
+            "zh-Hant": "藍接藍（服務線）,紅接紅（緊急/供氣線）。接反是危險的。"
+        },
+        "dmv_ref": {
+            "page": "6-2",
+            "section": "Glad Hands",
+            "analysis_zh-Hans": "颜色编码防止接错。",
+            "analysis_zh-Hant": "顏色編碼防止接錯。"
+        }
+    },
+    {
+        "id": 3042,
+        "category": "Combination Vehicles",
+        "question": {
+            "en": "If the service line is disconnected while driving, what happens?",
+            "zh-Hans": "如果在行驶中服务管路断开，会发生什么？",
+            "zh-Hant": "如果在行駛中服務管路斷開，會發生什麼？"
+        },
+        "options": {
+            "A": {
+                "en": "The trailer brakes will apply fully",
+                "zh-Hans": "挂车刹车会完全启动",
+                "zh-Hant": "掛車剎車會完全啟動"
+            },
+            "B": {
+                "en": "Nothing, the trailer will continue normally",
+                "zh-Hans": "没什么，挂车会继续正常行驶",
+                "zh-Hant": "沒什麼，掛車會繼續正常行駛"
+            },
+            "C": {
+                "en": "You would only lose trailer brake control, not emergency brakes",
+                "zh-Hans": "你只会失去挂车刹车控制，而不是紧急刹车",
+                "zh-Hant": "你只會失去掛車剎車控制，而不是緊急剎車"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "Loss of the service line means no normal braking control for the trailer, but the emergency line still holds the spring brakes.",
+            "zh-Hans": "服务线断开意味着挂车没有正常刹车控制，但紧急线仍可保持弹簧刹车。",
+            "zh-Hant": "服務線斷開意味著掛車沒有正常剎車控制，但緊急線仍可保持彈簧剎車。"
+        },
+        "dmv_ref": {
+            "page": "6-4",
+            "section": "Service Line",
+            "analysis_zh-Hans": "两条管路有不同的安全功能。",
+            "analysis_zh-Hant": "兩條管路有不同的安全功能。"
+        }
+    },
+    {
+        "id": 3043,
+        "category": "Combination Vehicles",
+        "question": {
+            "en": "During a pre-trip, the fifth wheel locking lever should be:",
+            "zh-Hans": "行前检查时，第五轮锁定杆应该：",
+            "zh-Hant": "行前檢查時，第五輪鎖定桿應該："
+        },
+        "options": {
+            "A": {
+                "en": "In the locked position",
+                "zh-Hans": "在锁定位置",
+                "zh-Hant": "在鎖定位置"
+            },
+            "B": {
+                "en": "In the unlocked position",
+                "zh-Hans": "在解锁位置",
+                "zh-Hant": "在解鎖位置"
+            },
+            "C": {
+                "en": "In neutral",
+                "zh-Hans": "在空档",
+                "zh-Hant": "在空檔"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "The locking lever should be in the locked position; look for gaps between the upper and lower fifth wheel.",
+            "zh-Hans": "锁定杆应该在锁定位置；检查上下第五轮之间是否有间隙。",
+            "zh-Hant": "鎖定桿應該在鎖定位置；檢查上下第五輪之間是否有間隙。"
+        },
+        "dmv_ref": {
+            "page": "6-2",
+            "section": "Fifth Wheel Check",
+            "analysis_zh-Hans": "间隙=连接不良。",
+            "analysis_zh-Hant": "間隙=連接不良。"
+        }
+    },
+    {
+        "id": 3044,
+        "category": "Combination Vehicles",
+        "question": {
+            "en": "If you cross the glad hands when coupling, what could happen?",
+            "zh-Hans": "如果连接时快接头接反了，会发生什么？",
+            "zh-Hant": "如果連接時快接頭接反了，會發生什麼？"
+        },
+        "options": {
+            "A": {
+                "en": "Nothing, they are interchangeable",
+                "zh-Hans": "没什么，它们可以互换",
+                "zh-Hant": "沒什麼，它們可以互換"
+            },
+            "B": {
+                "en": "You could release the trailer emergency brakes accidentally",
+                "zh-Hans": "你可能会意外释放挂车紧急刹车",
+                "zh-Hant": "你可能會意外釋放掛車緊急剎車"
+            },
+            "C": {
+                "en": "The engine won't start",
+                "zh-Hans": "发动机无法启动",
+                "zh-Hant": "發動機無法啟動"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Crossing the lines can release the trailer emergency brakes, causing an uncontrolled trailer.",
+            "zh-Hans": "接反管路可能会释放挂车紧急刹车，导致挂车失控。",
+            "zh-Hant": "接反管路可能會釋放掛車緊急剎車，導致掛車失控。"
+        },
+        "dmv_ref": {
+            "page": "6-2",
+            "section": "Crossing Lines",
+            "analysis_zh-Hans": "接反是严重的安全隐患。",
+            "analysis_zh-Hant": "接反是嚴重的安全隱患。"
+        }
+    },
+    {
+        "id": 3045,
+        "category": "Combination Vehicles",
+        "question": {
+            "en": "When driving doubles, which trailer should be heaviest?",
+            "zh-Hans": "驾驶双挂时，哪个挂车应该更重？",
+            "zh-Hant": "駕駛雙掛時，哪個掛車應該更重？"
+        },
+        "options": {
+            "A": {
+                "en": "The second trailer",
+                "zh-Hans": "第二节挂车",
+                "zh-Hant": "第二節掛車"
+            },
+            "B": {
+                "en": "The first trailer (closest to tractor)",
+                "zh-Hans": "第一节挂车（最靠近牵引车）",
+                "zh-Hant": "第一節掛車（最靠近牽引車）"
+            },
+            "C": {
+                "en": "Both should be equal",
+                "zh-Hans": "两者应该相等",
+                "zh-Hant": "兩者應該相等"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "The heavier trailer should be in front to reduce the crack-the-whip effect.",
+            "zh-Hans": "较重的挂车应该在前面，以减少甩尾效应。",
+            "zh-Hant": "較重的掛車應該在前面，以減少甩尾效應。"
+        },
+        "dmv_ref": {
+            "page": "6-6",
+            "section": "Doubles Order",
+            "analysis_zh-Hans": "重在前，轻在后。",
+            "analysis_zh-Hant": "重在前，輕在後。"
+        }
+    },
+    {
+        "id": 3046,
+        "category": "Combination Vehicles",
+        "question": {
+            "en": "The trailer supply valve (tractor protection valve) closes automatically at what pressure?",
+            "zh-Hans": "挂车供气阀（牵引车保护阀）在什么压力时自动关闭？",
+            "zh-Hant": "掛車供氣閥（牽引車保護閥）在什麼壓力時自動關閉？"
+        },
+        "options": {
+            "A": {
+                "en": "60 psi",
+                "zh-Hans": "60 psi",
+                "zh-Hant": "60 psi"
+            },
+            "B": {
+                "en": "20-45 psi",
+                "zh-Hans": "20-45 psi",
+                "zh-Hant": "20-45 psi"
+            },
+            "C": {
+                "en": "100 psi",
+                "zh-Hans": "100 psi",
+                "zh-Hant": "100 psi"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "The tractor protection valve closes at 20-45 psi to protect the tractor's air supply.",
+            "zh-Hans": "牵引车保护阀在20-45 psi时关闭，以保护牵引车的气源。",
+            "zh-Hant": "牽引車保護閥在20-45 psi時關閉，以保護牽引車的氣源。"
+        },
+        "dmv_ref": {
+            "page": "6-4",
+            "section": "Tractor Protection",
+            "analysis_zh-Hans": "20-45 psi是关键范围。",
+            "analysis_zh-Hant": "20-45 psi是關鍵範圍。"
+        }
+    },
+    {
+        "id": 3047,
+        "category": "Combination Vehicles",
+        "question": {
+            "en": "Why is locking the trailer brakes before coupling important?",
+            "zh-Hans": "为什么在连接前锁定挂车刹车很重要？",
+            "zh-Hant": "為什麼在連接前鎖定掛車剎車很重要？"
+        },
+        "options": {
+            "A": {
+                "en": "To save fuel",
+                "zh-Hans": "为了省油",
+                "zh-Hant": "為了省油"
+            },
+            "B": {
+                "en": "To prevent the trailer from moving",
+                "zh-Hans": "为了防止挂车移动",
+                "zh-Hant": "為了防止掛車移動"
+            },
+            "C": {
+                "en": "To test the lights",
+                "zh-Hans": "为了测试灯光",
+                "zh-Hant": "為了測試燈光"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Lock trailer brakes before coupling so the trailer doesn't move when you back into it.",
+            "zh-Hans": "连接前锁定挂车刹车，这样当你倒车时挂车不会移动。",
+            "zh-Hant": "連接前鎖定掛車剎車，這樣當你倒車時掛車不會移動。"
+        },
+        "dmv_ref": {
+            "page": "6-2",
+            "section": "Coupling Safety",
+            "analysis_zh-Hans": "防止挂车滚动。",
+            "analysis_zh-Hant": "防止掛車滾動。"
+        }
+    },
+    {
+        "id": 3048,
+        "category": "Combination Vehicles",
+        "question": {
+            "en": "What should you do after connecting the air lines?",
+            "zh-Hans": "连接空气管路后应该做什么？",
+            "zh-Hant": "連接空氣管路後應該做什麼？"
+        },
+        "options": {
+            "A": {
+                "en": "Check for air leaks",
+                "zh-Hans": "检查是否有漏气",
+                "zh-Hant": "檢查是否有漏氣"
+            },
+            "B": {
+                "en": "Immediately drive away",
+                "zh-Hans": "立即开车离开",
+                "zh-Hant": "立即開車離開"
+            },
+            "C": {
+                "en": "Lower the landing gear",
+                "zh-Hans": "放下支撑腿",
+                "zh-Hant": "放下支撐腿"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "After connecting air lines, supply air to the trailer and check for leaks.",
+            "zh-Hans": "连接空气管路后，向挂车供气并检查是否漏气。",
+            "zh-Hant": "連接空氣管路後，向掛車供氣並檢查是否漏氣。"
+        },
+        "dmv_ref": {
+            "page": "6-3",
+            "section": "Air Line Check",
+            "analysis_zh-Hans": "听漏气声，检查压力表。",
+            "analysis_zh-Hant": "聽漏氣聲，檢查壓力表。"
+        }
+    },
+    {
+        "id": 3049,
+        "category": "Combination Vehicles",
+        "question": {
+            "en": "When is the emergency relay valve used?",
+            "zh-Hans": "紧急继电器阀什么时候使用？",
+            "zh-Hant": "緊急繼電器閥什麼時候使用？"
+        },
+        "options": {
+            "A": {
+                "en": "During normal braking",
+                "zh-Hans": "正常刹车时",
+                "zh-Hant": "正常剎車時"
+            },
+            "B": {
+                "en": "When the supply line loses pressure",
+                "zh-Hans": "当供气线失去压力时",
+                "zh-Hant": "當供氣線失去壓力時"
+            },
+            "C": {
+                "en": "When starting the engine",
+                "zh-Hans": "启动发动机时",
+                "zh-Hant": "啟動發動機時"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "The emergency relay valve activates the trailer emergency brakes when supply line air is lost.",
+            "zh-Hans": "当供气线失去气压时，紧急继电器阀会启动挂车紧急刹车。",
+            "zh-Hant": "當供氣線失去氣壓時，緊急繼電器閥會啟動掛車緊急剎車。"
+        },
+        "dmv_ref": {
+            "page": "6-4",
+            "section": "Emergency Relay",
+            "analysis_zh-Hans": "自动刹车的安全机制。",
+            "analysis_zh-Hant": "自動剎車的安全機制。"
+        }
+    },
+    {
+        "id": 3050,
+        "category": "Combination Vehicles",
+        "question": {
+            "en": "When uncoupling, after lowering the landing gear, you should:",
+            "zh-Hans": "脱钩时，放下支撑腿后，你应该：",
+            "zh-Hant": "脫鉤時，放下支撐腿後，你應該："
+        },
+        "options": {
+            "A": {
+                "en": "Chock the trailer wheels",
+                "zh-Hans": "塞住挂车车轮",
+                "zh-Hant": "塞住掛車車輪"
+            },
+            "B": {
+                "en": "Connect the air lines",
+                "zh-Hans": "连接气管",
+                "zh-Hant": "連接氣管"
+            },
+            "C": {
+                "en": "Drive away immediately",
+                "zh-Hans": "立即开走",
+                "zh-Hant": "立即開走"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "After lowering landing gear, chock the trailer wheels to prevent movement.",
+            "zh-Hans": "放下支撑腿后，塞住挂车车轮以防止移动。",
+            "zh-Hant": "放下支撐腿後，塞住掛車車輪以防止移動。"
+        },
+        "dmv_ref": {
+            "page": "6-3",
+            "section": "Uncoupling",
+            "analysis_zh-Hans": "轮挡是安全保障。",
+            "analysis_zh-Hant": "輪擋是安全保障。"
+        }
+    }
+]

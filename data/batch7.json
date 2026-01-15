@@ -1,0 +1,382 @@
+[
+    {
+        "id": 1071,
+        "category": "General Knowledge",
+        "question": {
+            "en": "Emergency equipment required on commercial vehicles includes:",
+            "zh-Hans": "商用车辆必须配备的应急设备包括：",
+            "zh-Hant": "商用車輛必須配備的應急設備包括："
+        },
+        "options": {
+            "A": {
+                "en": "Fire extinguisher, warning triangles, spare electrical fuses",
+                "zh-Hans": "灭火器、警示三角、备用电气保险丝",
+                "zh-Hant": "滅火器、警示三角、備用電氣保險絲"
+            },
+            "B": {
+                "en": "First aid kit only",
+                "zh-Hans": "仅急救包",
+                "zh-Hant": "僅急救包"
+            },
+            "C": {
+                "en": "Cell phone and road map",
+                "zh-Hans": "手机和地图",
+                "zh-Hant": "手機和地圖"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Federal law requires a fire extinguisher, warning triangles, and spare electrical fuses (unless vehicle has circuit breakers).",
+            "zh-Hans": "联邦法律要求配备灭火器、警示三角和备用电气保险丝（除非车辆有断路器）。",
+            "zh-Hant": "聯邦法律要求配備滅火器、警示三角和備用電氣保險絲（除非車輛有斷路器）。"
+        },
+        "dmv_ref": {
+            "page": "2-9",
+            "section": "Emergency Equipment",
+            "analysis_zh-Hans": "三大必备：灭火器、三角、保险丝。",
+            "analysis_zh-Hant": "三大必備：滅火器、三角、保險絲。"
+        }
+    },
+    {
+        "id": 1072,
+        "category": "General Knowledge",
+        "question": {
+            "en": "The minimum fire extinguisher rating for commercial vehicles is:",
+            "zh-Hans": "商用车辆灭火器的最低等级是：",
+            "zh-Hant": "商用車輛滅火器的最低等級是："
+        },
+        "options": {
+            "A": {
+                "en": "5 B:C",
+                "zh-Hans": "5 B:C",
+                "zh-Hant": "5 B:C"
+            },
+            "B": {
+                "en": "10 B:C",
+                "zh-Hans": "10 B:C",
+                "zh-Hant": "10 B:C"
+            },
+            "C": {
+                "en": "2 A:10 B:C or higher",
+                "zh-Hans": "2 A:10 B:C 或更高",
+                "zh-Hant": "2 A:10 B:C 或更高"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Minimum rating is 5 B:C or higher, unless carrying hazmat which requires 10 B:C.",
+            "zh-Hans": "最低等级为5 B:C或更高，运载危险品时需要10 B:C。",
+            "zh-Hant": "最低等級為5 B:C或更高，運載危險品時需要10 B:C。"
+        },
+        "dmv_ref": {
+            "page": "2-9",
+            "section": "Fire Extinguisher",
+            "analysis_zh-Hans": "5 B:C普通，10 B:C危险品。",
+            "analysis_zh-Hant": "5 B:C普通，10 B:C危險品。"
+        }
+    },
+    {
+        "id": 1073,
+        "category": "General Knowledge",
+        "question": {
+            "en": "What should you do if your vehicle's accelerator (gas pedal) sticks?",
+            "zh-Hans": "如果你的车辆油门踏板卡住了，你应该怎么做？",
+            "zh-Hant": "如果你的車輛油門踏板卡住了，你應該怎麼做？"
+        },
+        "options": {
+            "A": {
+                "en": "Turn off the ignition immediately",
+                "zh-Hans": "立即关闭点火",
+                "zh-Hant": "立即關閉點火"
+            },
+            "B": {
+                "en": "Shift to neutral, apply brakes, and pull off the road",
+                "zh-Hans": "挂空档，踩刹车，靠边停车",
+                "zh-Hant": "掛空檔，踩剎車，靠邊停車"
+            },
+            "C": {
+                "en": "Keep driving until you find a mechanic",
+                "zh-Hans": "继续开直到找到修理厂",
+                "zh-Hant": "繼續開直到找到修理廠"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Shift to neutral to disconnect engine power, brake, and steer to safety. Turn off ignition only after stopping.",
+            "zh-Hans": "挂空档以断开发动机动力，刹车并安全转向。停车后再关闭点火。",
+            "zh-Hant": "掛空檔以斷開發動機動力，剎車並安全轉向。停車後再關閉點火。"
+        },
+        "dmv_ref": {
+            "page": "2-36",
+            "section": "Mechanical Failure",
+            "analysis_zh-Hans": "先空档再处理，不要立即熄火。",
+            "analysis_zh-Hant": "先空檔再處理，不要立即熄火。"
+        }
+    },
+    {
+        "id": 1074,
+        "category": "General Knowledge",
+        "question": {
+            "en": "Which of these can cause vehicle fires?",
+            "zh-Hans": "以下哪种情况可能导致车辆火灾？",
+            "zh-Hant": "以下哪種情況可能導致車輛火災？"
+        },
+        "options": {
+            "A": {
+                "en": "Properly inflated tires",
+                "zh-Hans": "正确充气的轮胎",
+                "zh-Hant": "正確充氣的輪胎"
+            },
+            "B": {
+                "en": "Under-inflated tires and loose fuel connections",
+                "zh-Hans": "充气不足的轮胎和松动的燃油接头",
+                "zh-Hant": "充氣不足的輪胎和鬆動的燃油接頭"
+            },
+            "C": {
+                "en": "Clean engine compartment",
+                "zh-Hans": "干净的发动机舱",
+                "zh-Hant": "乾淨的發動機艙"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Under-inflated tires can overheat and catch fire. Loose fuel connections can cause fuel leaks and fires.",
+            "zh-Hans": "充气不足的轮胎可能过热起火。燃油接头松动可能导致燃油泄漏和火灾。",
+            "zh-Hant": "充氣不足的輪胎可能過熱起火。燃油接頭鬆動可能導致燃油洩漏和火災。"
+        },
+        "dmv_ref": {
+            "page": "2-37",
+            "section": "Fire Prevention",
+            "analysis_zh-Hans": "轮胎气压和燃油接头是火灾高风险点。",
+            "analysis_zh-Hant": "輪胎氣壓和燃油接頭是火災高風險點。"
+        }
+    },
+    {
+        "id": 1075,
+        "category": "General Knowledge",
+        "question": {
+            "en": "The amount of space a CMV needs to stop depends on:",
+            "zh-Hans": "商用车辆停车所需的空间取决于：",
+            "zh-Hant": "商用車輛停車所需的空間取決於："
+        },
+        "options": {
+            "A": {
+                "en": "Only the vehicle's weight",
+                "zh-Hans": "只取决于车辆重量",
+                "zh-Hant": "只取決於車輛重量"
+            },
+            "B": {
+                "en": "Speed, weight, and road conditions",
+                "zh-Hans": "速度、重量和路况",
+                "zh-Hant": "速度、重量和路況"
+            },
+            "C": {
+                "en": "Only the driver's reaction time",
+                "zh-Hans": "只取决于司机的反应时间",
+                "zh-Hant": "只取決於司機的反應時間"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Stopping distance depends on speed, vehicle weight, brake condition, and road conditions (dry, wet, icy).",
+            "zh-Hans": "制动距离取决于速度、车辆重量、刹车状况和路况（干燥、湿滑、结冰）。",
+            "zh-Hant": "制動距離取決於速度、車輛重量、剎車狀況和路況（乾燥、濕滑、結冰）。"
+        },
+        "dmv_ref": {
+            "page": "2-17",
+            "section": "Stopping Distance",
+            "analysis_zh-Hans": "多因素共同影响制动距离。",
+            "analysis_zh-Hant": "多因素共同影響制動距離。"
+        }
+    },
+    {
+        "id": 1076,
+        "category": "General Knowledge",
+        "question": {
+            "en": "While making a sharp turn, you should:",
+            "zh-Hans": "急转弯时，你应该：",
+            "zh-Hant": "急轉彎時，你應該："
+        },
+        "options": {
+            "A": {
+                "en": "Accelerate through the turn",
+                "zh-Hans": "在转弯中加速",
+                "zh-Hant": "在轉彎中加速"
+            },
+            "B": {
+                "en": "Not brake while turning",
+                "zh-Hans": "转弯时不踩刹车",
+                "zh-Hant": "轉彎時不踩剎車"
+            },
+            "C": {
+                "en": "Always use your horn",
+                "zh-Hans": "始终使用喇叭",
+                "zh-Hant": "始終使用喇叭"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Braking in a turn can cause your wheels to lock and skid. Slow down before the turn.",
+            "zh-Hans": "转弯时刹车可能导致车轮锁死和打滑。在转弯前减速。",
+            "zh-Hant": "轉彎時剎車可能導致車輪鎖死和打滑。在轉彎前減速。"
+        },
+        "dmv_ref": {
+            "page": "2-14",
+            "section": "Turning",
+            "analysis_zh-Hans": "转弯前减速，转弯中保持速度。",
+            "analysis_zh-Hant": "轉彎前減速，轉彎中保持速度。"
+        }
+    },
+    {
+        "id": 1077,
+        "category": "General Knowledge",
+        "question": {
+            "en": "When you see a pedestrian or bicyclist, you should:",
+            "zh-Hans": "当你看到行人或骑自行车的人时，你应该：",
+            "zh-Hant": "當你看到行人或騎自行車的人時，你應該："
+        },
+        "options": {
+            "A": {
+                "en": "Speed up to pass quickly",
+                "zh-Hans": "加速快速通过",
+                "zh-Hant": "加速快速通過"
+            },
+            "B": {
+                "en": "Give them plenty of room and be ready to slow down",
+                "zh-Hans": "给他们足够的空间并准备减速",
+                "zh-Hant": "給他們足夠的空間並準備減速"
+            },
+            "C": {
+                "en": "Honk to make them move",
+                "zh-Hans": "鸣笛让他们让路",
+                "zh-Hant": "鳴笛讓他們讓路"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Always give pedestrians and cyclists extra room. They are vulnerable road users.",
+            "zh-Hans": "始终给行人和骑自行车的人额外空间。他们是弱势道路使用者。",
+            "zh-Hant": "始終給行人和騎自行車的人額外空間。他們是弱勢道路使用者。"
+        },
+        "dmv_ref": {
+            "page": "2-26",
+            "section": "Sharing the Road",
+            "analysis_zh-Hans": "对弱势道路使用者要额外小心。",
+            "analysis_zh-Hant": "對弱勢道路使用者要額外小心。"
+        }
+    },
+    {
+        "id": 1078,
+        "category": "General Knowledge",
+        "question": {
+            "en": "You should check your cargo:",
+            "zh-Hans": "你应该检查你的货物：",
+            "zh-Hant": "你應該檢查你的貨物："
+        },
+        "options": {
+            "A": {
+                "en": "Only before starting the trip",
+                "zh-Hans": "只在出发前",
+                "zh-Hant": "只在出發前"
+            },
+            "B": {
+                "en": "Before starting, within 50 miles, and every 150 miles or 3 hours",
+                "zh-Hans": "出发前、50英里内、每150英里或3小时",
+                "zh-Hant": "出發前、50英里內、每150英里或3小時"
+            },
+            "C": {
+                "en": "Only if you hit a bump",
+                "zh-Hans": "只在颠簸后",
+                "zh-Hant": "只在顛簸後"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Check cargo before starting, within first 50 miles, and every 150 miles or 3 hours, whichever comes first.",
+            "zh-Hans": "出发前检查，前50英里内检查，之后每150英里或3小时检查一次。",
+            "zh-Hant": "出發前檢查，前50英里內檢查，之後每150英里或3小時檢查一次。"
+        },
+        "dmv_ref": {
+            "page": "3-4",
+            "section": "Cargo Checks",
+            "analysis_zh-Hans": "50-150-3是货物检查的黄金法则。",
+            "analysis_zh-Hant": "50-150-3是貨物檢查的黃金法則。"
+        }
+    },
+    {
+        "id": 1079,
+        "category": "General Knowledge",
+        "question": {
+            "en": "What is the Bridge Formula?",
+            "zh-Hans": "什么是桥梁公式 (Bridge Formula)？",
+            "zh-Hant": "什麼是橋樑公式 (Bridge Formula)？"
+        },
+        "options": {
+            "A": {
+                "en": "A formula for calculating fuel consumption",
+                "zh-Hans": "计算油耗的公式",
+                "zh-Hant": "計算油耗的公式"
+            },
+            "B": {
+                "en": "A formula to determine allowable weight based on axle spacing",
+                "zh-Hans": "根据轴距确定允许重量的公式",
+                "zh-Hant": "根據軸距確定允許重量的公式"
+            },
+            "C": {
+                "en": "A formula for measuring bridge height",
+                "zh-Hans": "测量桥梁高度的公式",
+                "zh-Hant": "測量橋樑高度的公式"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "The Bridge Formula limits weight based on axle spacing to protect roads and bridges from damage.",
+            "zh-Hans": "桥梁公式根据轴距限制重量，以保护道路和桥梁免受损坏。",
+            "zh-Hant": "橋樑公式根據軸距限制重量，以保護道路和橋樑免受損壞。"
+        },
+        "dmv_ref": {
+            "page": "3-2",
+            "section": "Weight Limits",
+            "analysis_zh-Hans": "轴距越近，允许总重越低。",
+            "analysis_zh-Hant": "軸距越近，允許總重越低。"
+        }
+    },
+    {
+        "id": 1080,
+        "category": "General Knowledge",
+        "question": {
+            "en": "The maximum allowable gross vehicle weight in California is:",
+            "zh-Hans": "加州允许的最大总车重是：",
+            "zh-Hant": "加州允許的最大總車重是："
+        },
+        "options": {
+            "A": {
+                "en": "80,000 lbs",
+                "zh-Hans": "80,000磅",
+                "zh-Hant": "80,000磅"
+            },
+            "B": {
+                "en": "100,000 lbs",
+                "zh-Hans": "100,000磅",
+                "zh-Hant": "100,000磅"
+            },
+            "C": {
+                "en": "60,000 lbs",
+                "zh-Hans": "60,000磅",
+                "zh-Hant": "60,000磅"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "The federal limit and California limit for most roads is 80,000 lbs gross vehicle weight.",
+            "zh-Hans": "联邦和加州对大多数道路的限制是80,000磅总车重。",
+            "zh-Hant": "聯邦和加州對大多數道路的限制是80,000磅總車重。"
+        },
+        "dmv_ref": {
+            "page": "3-2",
+            "section": "Weight Limits",
+            "analysis_zh-Hans": "80,000磅是关键数字。",
+            "analysis_zh-Hant": "80,000磅是關鍵數字。"
+        }
+    }
+]

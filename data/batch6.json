@@ -1,0 +1,382 @@
+[
+    {
+        "id": 1061,
+        "category": "General Knowledge",
+        "question": {
+            "en": "How far should you look ahead while driving in the city?",
+            "zh-Hans": "在城市中驾驶时，你应该向前看多远？",
+            "zh-Hant": "在城市中駕駛時，你應該向前看多遠？"
+        },
+        "options": {
+            "A": {
+                "en": "At least one block",
+                "zh-Hans": "至少一个街区",
+                "zh-Hant": "至少一個街區"
+            },
+            "B": {
+                "en": "Only 2-3 car lengths",
+                "zh-Hans": "只有2-3个车长",
+                "zh-Hant": "只有2-3個車長"
+            },
+            "C": {
+                "en": "Just to the next traffic light",
+                "zh-Hans": "只到下一个红绿灯",
+                "zh-Hant": "只到下一個紅綠燈"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "In the city, look at least one block or 12-15 seconds ahead to spot hazards early.",
+            "zh-Hans": "在城市中，至少向前看一个街区或12-15秒的距离，以便及早发现危险。",
+            "zh-Hant": "在城市中，至少向前看一個街區或12-15秒的距離，以便及早發現危險。"
+        },
+        "dmv_ref": {
+            "page": "2-23",
+            "section": "City Driving",
+            "analysis_zh-Hans": "城区一个街区=高速四分之一英里。",
+            "analysis_zh-Hant": "城區一個街區=高速四分之一英里。"
+        }
+    },
+    {
+        "id": 1062,
+        "category": "General Knowledge",
+        "question": {
+            "en": "You must dim your high beams when following another vehicle within:",
+            "zh-Hans": "跟车时必须在 ___ 英尺内切换为近光灯：",
+            "zh-Hant": "跟車時必須在 ___ 英尺內切換為近光燈："
+        },
+        "options": {
+            "A": {
+                "en": "500 feet",
+                "zh-Hans": "500英尺",
+                "zh-Hant": "500英尺"
+            },
+            "B": {
+                "en": "300 feet",
+                "zh-Hans": "300英尺",
+                "zh-Hant": "300英尺"
+            },
+            "C": {
+                "en": "100 feet",
+                "zh-Hans": "100英尺",
+                "zh-Hant": "100英尺"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Dim to low beams within 300 feet when following another vehicle, 500 feet for oncoming traffic.",
+            "zh-Hans": "跟车时300英尺内切换近光灯，对向来车时500英尺内切换。",
+            "zh-Hant": "跟車時300英尺內切換近光燈，對向來車時500英尺內切換。"
+        },
+        "dmv_ref": {
+            "page": "2-30",
+            "section": "Night Driving",
+            "analysis_zh-Hans": "300(跟)-500(对)是经典数字组合。",
+            "analysis_zh-Hant": "300(跟)-500(對)是經典數字組合。"
+        }
+    },
+    {
+        "id": 1063,
+        "category": "General Knowledge",
+        "question": {
+            "en": "Which of these best describes how to use turn signals?",
+            "zh-Hans": "以下哪项最好地描述了如何使用转向灯？",
+            "zh-Hant": "以下哪項最好地描述了如何使用轉向燈？"
+        },
+        "options": {
+            "A": {
+                "en": "Signal right after you start your turn",
+                "zh-Hans": "开始转弯后立即打灯",
+                "zh-Hant": "開始轉彎後立即打燈"
+            },
+            "B": {
+                "en": "Signal only when traffic is heavy",
+                "zh-Hans": "只在交通繁忙时打灯",
+                "zh-Hant": "只在交通繁忙時打燈"
+            },
+            "C": {
+                "en": "Signal early, and make sure to cancel it after completing the turn",
+                "zh-Hans": "提前打灯，并确保转弯完成后关闭",
+                "zh-Hant": "提前打燈，並確保轉彎完成後關閉"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "Signal early to give others time to react, and cancel after the turn to avoid confusing others.",
+            "zh-Hans": "提前打灯以给他人反应时间，转弯后关闭以避免混淆他人。",
+            "zh-Hant": "提前打燈以給他人反應時間，轉彎後關閉以避免混淆他人。"
+        },
+        "dmv_ref": {
+            "page": "2-22",
+            "section": "Signaling",
+            "analysis_zh-Hans": "打灯后不关会影响他人判断。",
+            "analysis_zh-Hant": "打燈後不關會影響他人判斷。"
+        }
+    },
+    {
+        "id": 1064,
+        "category": "General Knowledge",
+        "question": {
+            "en": "The parking brake should be used:",
+            "zh-Hans": "驻车制动应该在什么时候使用？",
+            "zh-Hant": "駐車制動應該在什麼時候使用？"
+        },
+        "options": {
+            "A": {
+                "en": "Only on hills",
+                "zh-Hans": "只在坡道上",
+                "zh-Hant": "只在坡道上"
+            },
+            "B": {
+                "en": "Every time you park",
+                "zh-Hans": "每次停车时",
+                "zh-Hant": "每次停車時"
+            },
+            "C": {
+                "en": "Only when your truck is loaded",
+                "zh-Hans": "只在卡车满载时",
+                "zh-Hant": "只在卡車滿載時"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Use the parking brake every time you park, regardless of whether on a slope or flat ground.",
+            "zh-Hans": "每次停车都要使用驻车制动，无论是在坡道还是平地。",
+            "zh-Hant": "每次停車都要使用駐車制動，無論是在坡道還是平地。"
+        },
+        "dmv_ref": {
+            "page": "2-13",
+            "section": "Parking",
+            "analysis_zh-Hans": "养成好习惯，每次都要拉手刹。",
+            "analysis_zh-Hant": "養成好習慣，每次都要拉手剎。"
+        }
+    },
+    {
+        "id": 1065,
+        "category": "General Knowledge",
+        "question": {
+            "en": "Your brakes can get wet when driving through heavy rain. What effect will this have?",
+            "zh-Hans": "在大雨中行驶时刹车会进水。这会有什么影响？",
+            "zh-Hant": "在大雨中行駛時剎車會進水。這會有什麼影響？"
+        },
+        "options": {
+            "A": {
+                "en": "Brakes will work better",
+                "zh-Hans": "刹车会更好用",
+                "zh-Hant": "剎車會更好用"
+            },
+            "B": {
+                "en": "Brakes may not work as well",
+                "zh-Hans": "刹车可能不那么好用",
+                "zh-Hant": "剎車可能不那麼好用"
+            },
+            "C": {
+                "en": "No effect on braking",
+                "zh-Hans": "对制动没有影响",
+                "zh-Hant": "對制動沒有影響"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Water can make brakes less effective. Apply light brake pressure after going through water to dry them.",
+            "zh-Hans": "水会降低刹车效果。过水后轻踩刹车使其干燥。",
+            "zh-Hant": "水會降低剎車效果。過水後輕踩剎車使其乾燥。"
+        },
+        "dmv_ref": {
+            "page": "2-34",
+            "section": "Wet Brakes",
+            "analysis_zh-Hans": "过水后踩刹车2次检验是必要操作。",
+            "analysis_zh-Hant": "過水後踩剎車2次檢驗是必要操作。"
+        }
+    },
+    {
+        "id": 1066,
+        "category": "General Knowledge",
+        "question": {
+            "en": "What is the purpose of filler caps on a sealed cooling system?",
+            "zh-Hans": "密封冷却系统上的加液盖有什么作用？",
+            "zh-Hant": "密封冷卻系統上的加液蓋有什麼作用？"
+        },
+        "options": {
+            "A": {
+                "en": "To add antifreeze faster",
+                "zh-Hans": "更快添加防冻液",
+                "zh-Hant": "更快添加防凍液"
+            },
+            "B": {
+                "en": "To allow steam to escape and prevent overpressure",
+                "zh-Hans": "允许蒸汽逸出并防止超压",
+                "zh-Hant": "允許蒸汽逸出並防止超壓"
+            },
+            "C": {
+                "en": "For decoration only",
+                "zh-Hans": "仅用于装饰",
+                "zh-Hant": "僅用於裝飾"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Filler caps have pressure relief valves to allow steam to escape and prevent system overpressure.",
+            "zh-Hans": "加液盖有减压阀，允许蒸汽逸出并防止系统超压。",
+            "zh-Hant": "加液蓋有減壓閥，允許蒸汽逸出並防止系統超壓。"
+        },
+        "dmv_ref": {
+            "page": "2-8",
+            "section": "Cooling System",
+            "analysis_zh-Hans": "不要在发动机热时打开水箱盖。",
+            "analysis_zh-Hant": "不要在發動機熱時打開水箱蓋。"
+        }
+    },
+    {
+        "id": 1067,
+        "category": "General Knowledge",
+        "question": {
+            "en": "When should you wear seat belts?",
+            "zh-Hans": "你应该什么时候系安全带？",
+            "zh-Hant": "你應該什麼時候繫安全帶？"
+        },
+        "options": {
+            "A": {
+                "en": "Only on long trips",
+                "zh-Hans": "只在长途旅行时",
+                "zh-Hant": "只在長途旅行時"
+            },
+            "B": {
+                "en": "Only when driving on highways",
+                "zh-Hans": "只在高速公路上驾驶时",
+                "zh-Hant": "只在高速公路上駕駛時"
+            },
+            "C": {
+                "en": "At all times when the vehicle is in motion",
+                "zh-Hans": "车辆运行时始终系上",
+                "zh-Hant": "車輛運行時始終繫上"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "Seat belts are required at all times when the vehicle is moving. They are your best protection.",
+            "zh-Hans": "车辆行驶时必须始终系安全带。这是你最好的保护。",
+            "zh-Hant": "車輛行駛時必須始終繫安全帶。這是你最好的保護。"
+        },
+        "dmv_ref": {
+            "page": "2-12",
+            "section": "Seat Belts",
+            "analysis_zh-Hans": "安全带是最重要的安全设备。",
+            "analysis_zh-Hant": "安全帶是最重要的安全設備。"
+        }
+    },
+    {
+        "id": 1068,
+        "category": "General Knowledge",
+        "question": {
+            "en": "You need how many tiedowns for a 20-foot load?",
+            "zh-Hans": "20英尺的货物需要多少个固定器 (Tiedown)？",
+            "zh-Hant": "20英尺的貨物需要多少個固定器 (Tiedown)？"
+        },
+        "options": {
+            "A": {
+                "en": "1",
+                "zh-Hans": "1个",
+                "zh-Hant": "1個"
+            },
+            "B": {
+                "en": "2",
+                "zh-Hans": "2个",
+                "zh-Hant": "2個"
+            },
+            "C": {
+                "en": "3",
+                "zh-Hans": "3个",
+                "zh-Hant": "3個"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "You need at least 2 tiedowns for cargo up to 10 feet, and at least one more for every additional 10 feet.",
+            "zh-Hans": "10英尺以内的货物至少需要2个固定器，每增加10英尺需要再加1个。",
+            "zh-Hant": "10英尺以內的貨物至少需要2個固定器，每增加10英尺需要再加1個。"
+        },
+        "dmv_ref": {
+            "page": "3-5",
+            "section": "Cargo Securement",
+            "analysis_zh-Hans": "2个起步+每10英尺加1个。",
+            "analysis_zh-Hant": "2個起步+每10英尺加1個。"
+        }
+    },
+    {
+        "id": 1069,
+        "category": "General Knowledge",
+        "question": {
+            "en": "The maximum weight limit on a single axle in California is:",
+            "zh-Hans": "加州单轴最大重量限制是：",
+            "zh-Hant": "加州單軸最大重量限制是："
+        },
+        "options": {
+            "A": {
+                "en": "15,000 lbs",
+                "zh-Hans": "15,000磅",
+                "zh-Hant": "15,000磅"
+            },
+            "B": {
+                "en": "20,000 lbs",
+                "zh-Hans": "20,000磅",
+                "zh-Hant": "20,000磅"
+            },
+            "C": {
+                "en": "25,000 lbs",
+                "zh-Hans": "25,000磅",
+                "zh-Hant": "25,000磅"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "California limits single axles to 20,000 lbs and tandem axles to 34,000 lbs.",
+            "zh-Hans": "加州限制单轴20,000磅，双联轴34,000磅。",
+            "zh-Hant": "加州限制單軸20,000磅，雙聯軸34,000磅。"
+        },
+        "dmv_ref": {
+            "page": "3-2",
+            "section": "Weight Limits",
+            "analysis_zh-Hans": "20-34是轴重关键数字。",
+            "analysis_zh-Hant": "20-34是軸重關鍵數字。"
+        }
+    },
+    {
+        "id": 1070,
+        "category": "General Knowledge",
+        "question": {
+            "en": "You are checked during normal hours by an inspector. If your log book is written by a driver who cannot speak English:",
+            "zh-Hans": "正常工作时间内你被检查员检查。如果你的行车日志由不会说英语的司机填写：",
+            "zh-Hant": "正常工作時間內你被檢查員檢查。如果你的行車日誌由不會說英語的司機填寫："
+        },
+        "options": {
+            "A": {
+                "en": "You will be fined",
+                "zh-Hans": "你会被罚款",
+                "zh-Hant": "你會被罰款"
+            },
+            "B": {
+                "en": "The log book must still be in English",
+                "zh-Hans": "日志仍必须用英语填写",
+                "zh-Hant": "日誌仍必須用英語填寫"
+            },
+            "C": {
+                "en": "An interpreter must be provided at the inspection site",
+                "zh-Hans": "必须在检查现场提供翻译",
+                "zh-Hant": "必須在檢查現場提供翻譯"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Driver's daily logs must be in English, regardless of the driver's native language.",
+            "zh-Hans": "司机每日日志必须用英语填写，无论司机的母语是什么。",
+            "zh-Hant": "司機每日日誌必須用英語填寫，無論司機的母語是什麼。"
+        },
+        "dmv_ref": {
+            "page": "1-8",
+            "section": "Hours of Service",
+            "analysis_zh-Hans": "联邦要求日志必须是英语。",
+            "analysis_zh-Hant": "聯邦要求日誌必須是英語。"
+        }
+    }
+]

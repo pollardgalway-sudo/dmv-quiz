@@ -1,0 +1,382 @@
+[
+    {
+        "id": 4021,
+        "category": "Traffic Signs",
+        "question": {
+            "en": "A five-sided sign (pentagon) indicates:",
+            "zh-Hans": "五边形标志表示：",
+            "zh-Hant": "五邊形標誌表示："
+        },
+        "options": {
+            "A": {
+                "en": "Railroad crossing",
+                "zh-Hans": "铁路道口",
+                "zh-Hant": "鐵路道口"
+            },
+            "B": {
+                "en": "School zone or school crossing",
+                "zh-Hans": "学校区域或学校人行横道",
+                "zh-Hant": "學校區域或學校人行橫道"
+            },
+            "C": {
+                "en": "Hospital ahead",
+                "zh-Hans": "前方医院",
+                "zh-Hant": "前方醫院"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Pentagon-shaped signs indicate school zones or school crossings. Reduce speed and watch for children.",
+            "zh-Hans": "五边形标志表示学校区域或学校人行横道。减速并注意儿童。",
+            "zh-Hant": "五邊形標誌表示學校區域或學校人行橫道。減速並注意兒童。"
+        },
+        "dmv_ref": {
+            "page": "2-19",
+            "section": "School Signs",
+            "analysis_zh-Hans": "学校区域限速严格执行。",
+            "analysis_zh-Hant": "學校區域限速嚴格執行。"
+        }
+    },
+    {
+        "id": 4022,
+        "category": "Traffic Signs",
+        "question": {
+            "en": "A sign showing a truck on a hill means:",
+            "zh-Hans": "显示卡车在坡道上的标志表示：",
+            "zh-Hant": "顯示卡車在坡道上的標誌表示："
+        },
+        "options": {
+            "A": {
+                "en": "Trucks prohibited",
+                "zh-Hans": "禁止卡车",
+                "zh-Hant": "禁止卡車"
+            },
+            "B": {
+                "en": "Steep grade ahead - trucks should use low gear",
+                "zh-Hans": "前方陡坡 - 卡车应使用低档",
+                "zh-Hant": "前方陡坡 - 卡車應使用低檔"
+            },
+            "C": {
+                "en": "Truck parking area",
+                "zh-Hans": "卡车停车区",
+                "zh-Hant": "卡車停車區"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "This warning sign alerts truck drivers of a steep grade ahead. Use low gear for engine braking.",
+            "zh-Hans": "这个警告标志提醒卡车司机前方有陡坡。使用低档进行发动机制动。",
+            "zh-Hant": "這個警告標誌提醒卡車司機前方有陡坡。使用低檔進行發動機制動。"
+        },
+        "dmv_ref": {
+            "page": "2-21",
+            "section": "Grade Signs",
+            "analysis_zh-Hans": "CDL司机必须注意坡度标志。",
+            "analysis_zh-Hant": "CDL司機必須注意坡度標誌。"
+        }
+    },
+    {
+        "id": 4023,
+        "category": "Traffic Signs",
+        "question": {
+            "en": "A sign with 'RUNAWAY TRUCK RAMP' indicates:",
+            "zh-Hans": "'RUNAWAY TRUCK RAMP'（失控卡车坡道）标志表示：",
+            "zh-Hant": "'RUNAWAY TRUCK RAMP'（失控卡車坡道）標誌表示："
+        },
+        "options": {
+            "A": {
+                "en": "Truck rest area",
+                "zh-Hans": "卡车休息区",
+                "zh-Hant": "卡車休息區"
+            },
+            "B": {
+                "en": "An escape ramp for trucks with brake failure",
+                "zh-Hans": "刹车失灵卡车的逃生坡道",
+                "zh-Hant": "剎車失靈卡車的逃生坡道"
+            },
+            "C": {
+                "en": "Weigh station",
+                "zh-Hans": "称重站",
+                "zh-Hant": "稱重站"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Runaway truck ramps provide a safe exit for trucks that have lost their brakes on steep downgrades.",
+            "zh-Hans": "失控卡车坡道为在陡下坡失去刹车的卡车提供安全出口。",
+            "zh-Hant": "失控卡車坡道為在陡下坡失去剎車的卡車提供安全出口。"
+        },
+        "dmv_ref": {
+            "page": "2-21",
+            "section": "Escape Ramps",
+            "analysis_zh-Hans": "不要犹豫使用逃生坡道。",
+            "analysis_zh-Hant": "不要猶豫使用逃生坡道。"
+        }
+    },
+    {
+        "id": 4024,
+        "category": "Traffic Signs",
+        "question": {
+            "en": "What does a 'LOW CLEARANCE' sign mean for truck drivers?",
+            "zh-Hans": "'LOW CLEARANCE'（低净空）标志对卡车司机意味着什么？",
+            "zh-Hant": "'LOW CLEARANCE'（低淨空）標誌對卡車司機意味著什麼？"
+        },
+        "options": {
+            "A": {
+                "en": "Low fuel prices ahead",
+                "zh-Hans": "前方油价低",
+                "zh-Hant": "前方油價低"
+            },
+            "B": {
+                "en": "The overhead clearance is limited - check your vehicle height",
+                "zh-Hans": "上方净空有限 - 检查你的车辆高度",
+                "zh-Hant": "上方淨空有限 - 檢查你的車輛高度"
+            },
+            "C": {
+                "en": "Low visibility area",
+                "zh-Hans": "低能见度区域",
+                "zh-Hant": "低能見度區域"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Low clearance signs warn of overhead obstacles. Know your vehicle height and compare to posted clearance.",
+            "zh-Hans": "低净空标志警告上方有障碍物。了解你的车辆高度并与公示的净空比较。",
+            "zh-Hant": "低淨空標誌警告上方有障礙物。了解你的車輛高度並與公示的淨空比較。"
+        },
+        "dmv_ref": {
+            "page": "2-20",
+            "section": "Clearance Signs",
+            "analysis_zh-Hans": "CDL司机必须知道车辆高度。",
+            "analysis_zh-Hant": "CDL司機必須知道車輛高度。"
+        }
+    },
+    {
+        "id": 4025,
+        "category": "Traffic Signs",
+        "question": {
+            "en": "A 'WEIGH STATION' sign means:",
+            "zh-Hans": "'WEIGH STATION'（称重站）标志表示：",
+            "zh-Hant": "'WEIGH STATION'（稱重站）標誌表示："
+        },
+        "options": {
+            "A": {
+                "en": "All vehicles must stop",
+                "zh-Hans": "所有车辆必须停车",
+                "zh-Hant": "所有車輛必須停車"
+            },
+            "B": {
+                "en": "Commercial vehicles must enter when station is open",
+                "zh-Hans": "称重站开放时商用车辆必须进入",
+                "zh-Hant": "稱重站開放時商用車輛必須進入"
+            },
+            "C": {
+                "en": "Trucks can bypass if in a hurry",
+                "zh-Hans": "赶时间的卡车可以绕行",
+                "zh-Hant": "趕時間的卡車可以繞行"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "When weigh stations are open, commercial vehicles must enter to be checked for weight compliance.",
+            "zh-Hans": "当称重站开放时，商用车辆必须进入接受重量检查。",
+            "zh-Hant": "當稱重站開放時，商用車輛必須進入接受重量檢查。"
+        },
+        "dmv_ref": {
+            "page": "2-20",
+            "section": "Weigh Stations",
+            "analysis_zh-Hans": "绕过开放的称重站是违法的。",
+            "analysis_zh-Hant": "繞過開放的稱重站是違法的。"
+        }
+    },
+    {
+        "id": 4026,
+        "category": "Traffic Signs",
+        "question": {
+            "en": "A 'NO TRUCKS' sign means:",
+            "zh-Hans": "'NO TRUCKS'（禁止卡车）标志表示：",
+            "zh-Hant": "'NO TRUCKS'（禁止卡車）標誌表示："
+        },
+        "options": {
+            "A": {
+                "en": "Trucks have priority",
+                "zh-Hans": "卡车优先",
+                "zh-Hant": "卡車優先"
+            },
+            "B": {
+                "en": "Trucks are prohibited on this road",
+                "zh-Hans": "禁止卡车在此道路上行驶",
+                "zh-Hant": "禁止卡車在此道路上行駛"
+            },
+            "C": {
+                "en": "Truck parking available",
+                "zh-Hans": "有卡车停车位",
+                "zh-Hant": "有卡車停車位"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "This sign prohibits trucks from using the road or lane. Find an alternate route.",
+            "zh-Hans": "此标志禁止卡车使用该道路或车道。寻找替代路线。",
+            "zh-Hant": "此標誌禁止卡車使用該道路或車道。尋找替代路線。"
+        },
+        "dmv_ref": {
+            "page": "2-19",
+            "section": "Truck Restrictions",
+            "analysis_zh-Hans": "了解路线上的卡车限制。",
+            "analysis_zh-Hant": "了解路線上的卡車限制。"
+        }
+    },
+    {
+        "id": 4027,
+        "category": "Traffic Signs",
+        "question": {
+            "en": "What does a sign showing 'TRUCKS USE RIGHT LANE' mean?",
+            "zh-Hans": "'TRUCKS USE RIGHT LANE'（卡车使用右车道）标志表示什么？",
+            "zh-Hant": "'TRUCKS USE RIGHT LANE'（卡車使用右車道）標誌表示什麼？"
+        },
+        "options": {
+            "A": {
+                "en": "Right lane is for trucks only",
+                "zh-Hans": "右车道仅供卡车使用",
+                "zh-Hant": "右車道僅供卡車使用"
+            },
+            "B": {
+                "en": "Trucks should stay in the right lane",
+                "zh-Hans": "卡车应该保持在右车道",
+                "zh-Hant": "卡車應該保持在右車道"
+            },
+            "C": {
+                "en": "Right turn for trucks",
+                "zh-Hans": "卡车右转",
+                "zh-Hant": "卡車右轉"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "This sign directs trucks to travel in the right lane, usually on steep grades or highways.",
+            "zh-Hans": "此标志指示卡车在右车道行驶，通常在陡坡或高速公路上。",
+            "zh-Hant": "此標誌指示卡車在右車道行駛，通常在陡坡或高速公路上。"
+        },
+        "dmv_ref": {
+            "page": "2-25",
+            "section": "Lane Restrictions",
+            "analysis_zh-Hans": "遵守车道限制。",
+            "analysis_zh-Hant": "遵守車道限制。"
+        }
+    },
+    {
+        "id": 4028,
+        "category": "Traffic Signs",
+        "question": {
+            "en": "A sign with a curved arrow indicates:",
+            "zh-Hans": "带有弯曲箭头的标志表示：",
+            "zh-Hant": "帶有彎曲箭頭的標誌表示："
+        },
+        "options": {
+            "A": {
+                "en": "Curve ahead - slow down",
+                "zh-Hans": "前方弯道 - 减速",
+                "zh-Hant": "前方彎道 - 減速"
+            },
+            "B": {
+                "en": "Speed up",
+                "zh-Hans": "加速",
+                "zh-Hant": "加速"
+            },
+            "C": {
+                "en": "No turns allowed",
+                "zh-Hans": "禁止转弯",
+                "zh-Hant": "禁止轉彎"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Curve signs warn of upcoming curves. Slow down before entering the curve.",
+            "zh-Hans": "弯道标志警告即将到来的弯道。在进入弯道前减速。",
+            "zh-Hant": "彎道標誌警告即將到來的彎道。在進入彎道前減速。"
+        },
+        "dmv_ref": {
+            "page": "2-20",
+            "section": "Curve Signs",
+            "analysis_zh-Hans": "Posted速度是给小车的，卡车更慢。",
+            "analysis_zh-Hant": "Posted速度是給小車的，卡車更慢。"
+        }
+    },
+    {
+        "id": 4029,
+        "category": "Traffic Signs",
+        "question": {
+            "en": "A speed limit sign with 'TRUCKS' below the limit means:",
+            "zh-Hans": "限速标志下方有'TRUCKS'（卡车）表示：",
+            "zh-Hant": "限速標誌下方有'TRUCKS'（卡車）表示："
+        },
+        "options": {
+            "A": {
+                "en": "Only trucks can exceed this speed",
+                "zh-Hans": "只有卡车可以超过此速度",
+                "zh-Hant": "只有卡車可以超過此速度"
+            },
+            "B": {
+                "en": "Maximum speed for trucks on this road",
+                "zh-Hans": "此道路上卡车的最高速度",
+                "zh-Hant": "此道路上卡車的最高速度"
+            },
+            "C": {
+                "en": "Minimum speed for trucks",
+                "zh-Hans": "卡车的最低速度",
+                "zh-Hant": "卡車的最低速度"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "This sign shows a separate (usually lower) speed limit that applies specifically to trucks.",
+            "zh-Hans": "此标志显示专门适用于卡车的单独（通常较低）限速。",
+            "zh-Hant": "此標誌顯示專門適用於卡車的單獨（通常較低）限速。"
+        },
+        "dmv_ref": {
+            "page": "2-18",
+            "section": "Truck Speed Limits",
+            "analysis_zh-Hans": "加州卡车限速通常比小车低。",
+            "analysis_zh-Hant": "加州卡車限速通常比小車低。"
+        }
+    },
+    {
+        "id": 4030,
+        "category": "Traffic Signs",
+        "question": {
+            "en": "A flashing yellow light means:",
+            "zh-Hans": "闪烁的黄灯表示：",
+            "zh-Hant": "閃爍的黃燈表示："
+        },
+        "options": {
+            "A": {
+                "en": "Stop and wait",
+                "zh-Hans": "停车等待",
+                "zh-Hant": "停車等待"
+            },
+            "B": {
+                "en": "Slow down and proceed with caution",
+                "zh-Hans": "减速并谨慎通过",
+                "zh-Hant": "減速並謹慎通過"
+            },
+            "C": {
+                "en": "Speed up before light changes",
+                "zh-Hans": "在灯变之前加速",
+                "zh-Hant": "在燈變之前加速"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "A flashing yellow light means slow down and proceed with caution. Look carefully before crossing.",
+            "zh-Hans": "闪烁的黄灯表示减速并谨慎通过。过交叉口前仔细观察。",
+            "zh-Hant": "閃爍的黃燈表示減速並謹慎通過。過交叉口前仔細觀察。"
+        },
+        "dmv_ref": {
+            "page": "2-18",
+            "section": "Traffic Signals",
+            "analysis_zh-Hans": "闪黄≠闪红。",
+            "analysis_zh-Hant": "閃黃≠閃紅。"
+        }
+    }
+]

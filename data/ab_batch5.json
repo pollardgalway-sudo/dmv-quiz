@@ -1,0 +1,382 @@
+[
+    {
+        "id": 2051,
+        "category": "Air Brakes",
+        "question": {
+            "en": "During the applied pressure test, the maximum air leakage for a combination vehicle is:",
+            "zh-Hans": "在踩刹车压力测试中，组合车辆的最大气压泄漏是：",
+            "zh-Hant": "在踩剎車壓力測試中，組合車輛的最大氣壓洩漏是："
+        },
+        "options": {
+            "A": {
+                "en": "3 psi/min",
+                "zh-Hans": "每分钟3 psi",
+                "zh-Hant": "每分鐘3 psi"
+            },
+            "B": {
+                "en": "4 psi/min",
+                "zh-Hans": "每分钟4 psi",
+                "zh-Hant": "每分鐘4 psi"
+            },
+            "C": {
+                "en": "5 psi/min",
+                "zh-Hans": "每分钟5 psi",
+                "zh-Hant": "每分鐘5 psi"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "For combination vehicles with brakes applied, max leakage is 4 psi/min.",
+            "zh-Hans": "对于踩刹车的组合车辆，最大泄漏为每分钟4 psi。",
+            "zh-Hant": "對於踩剎車的組合車輛，最大洩漏為每分鐘4 psi。"
+        },
+        "dmv_ref": {
+            "page": "5-7",
+            "section": "Leak Test",
+            "analysis_zh-Hans": "组合车踩刹车4 psi/min上限。",
+            "analysis_zh-Hant": "組合車踩剎車4 psi/min上限。"
+        }
+    },
+    {
+        "id": 2052,
+        "category": "Air Brakes",
+        "question": {
+            "en": "When driving down a long steep hill, you should:",
+            "zh-Hans": "下长陡坡时，你应该：",
+            "zh-Hant": "下長陡坡時，你應該："
+        },
+        "options": {
+            "A": {
+                "en": "Use a low gear and light, steady brake application",
+                "zh-Hans": "使用低档并轻柔稳定地踩刹车",
+                "zh-Hant": "使用低檔並輕柔穩定地踩剎車"
+            },
+            "B": {
+                "en": "Coast in neutral and use your brakes",
+                "zh-Hans": "空挡滑行并使用刹车",
+                "zh-Hant": "空檔滑行並使用剎車"
+            },
+            "C": {
+                "en": "Apply brakes only when necessary",
+                "zh-Hans": "仅在必要时踩刹车",
+                "zh-Hant": "僅在必要時踩剎車"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Use a low gear before the downgrade. Use light, steady brake pressure.",
+            "zh-Hans": "下坡前使用低档。使用轻柔稳定的刹车压力。",
+            "zh-Hant": "下坡前使用低檔。使用輕柔穩定的剎車壓力。"
+        },
+        "dmv_ref": {
+            "page": "5-10",
+            "section": "Downhill Braking",
+            "analysis_zh-Hans": "下坡前减速换挡是关键。",
+            "analysis_zh-Hant": "下坡前減速換擋是關鍵。"
+        }
+    },
+    {
+        "id": 2053,
+        "category": "Air Brakes",
+        "question": {
+            "en": "What is the function of the air dryer?",
+            "zh-Hans": "空气干燥器的作用是什么？",
+            "zh-Hant": "空氣乾燥器的作用是什麼？"
+        },
+        "options": {
+            "A": {
+                "en": "To cool the engine",
+                "zh-Hans": "冷却发动机",
+                "zh-Hant": "冷卻發動機"
+            },
+            "B": {
+                "en": "To remove moisture from the air before it reaches the tanks",
+                "zh-Hans": "在空气进入储气罐前去除水分",
+                "zh-Hant": "在空氣進入儲氣罐前去除水分"
+            },
+            "C": {
+                "en": "To increase air pressure",
+                "zh-Hans": "增加气压",
+                "zh-Hant": "增加氣壓"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "The air dryer removes moisture from compressed air before it goes into the air tanks.",
+            "zh-Hans": "空气干燥器在压缩空气进入储气罐前去除水分。",
+            "zh-Hant": "空氣乾燥器在壓縮空氣進入儲氣罐前去除水分。"
+        },
+        "dmv_ref": {
+            "page": "5-2",
+            "section": "Air Dryer",
+            "analysis_zh-Hans": "现代车辆用干燥器代替手动排水。",
+            "analysis_zh-Hant": "現代車輛用乾燥器代替手動排水。"
+        }
+    },
+    {
+        "id": 2054,
+        "category": "Air Brakes",
+        "question": {
+            "en": "If your vehicle has an alcohol evaporator, you should:",
+            "zh-Hans": "如果你的车辆有酒精蒸发器，你应该：",
+            "zh-Hant": "如果你的車輛有酒精蒸發器，你應該："
+        },
+        "options": {
+            "A": {
+                "en": "Fill it with antifreeze",
+                "zh-Hans": "加满防冻液",
+                "zh-Hant": "加滿防凍液"
+            },
+            "B": {
+                "en": "Check and fill the alcohol level during cold weather",
+                "zh-Hans": "在寒冷天气检查并填充酒精液位",
+                "zh-Hant": "在寒冷天氣檢查並填充酒精液位"
+            },
+            "C": {
+                "en": "Never fill it",
+                "zh-Hans": "永远不要填充",
+                "zh-Hant": "永遠不要填充"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Check the alcohol level daily in cold weather. Alcohol helps prevent ice in the air lines.",
+            "zh-Hans": "在寒冷天气每天检查酒精液位。酒精有助于防止气管结冰。",
+            "zh-Hant": "在寒冷天氣每天檢查酒精液位。酒精有助於防止氣管結冰。"
+        },
+        "dmv_ref": {
+            "page": "5-2",
+            "section": "Alcohol Evaporator",
+            "analysis_zh-Hans": "冬季维护要点。",
+            "analysis_zh-Hant": "冬季維護要點。"
+        }
+    },
+    {
+        "id": 2055,
+        "category": "Air Brakes",
+        "question": {
+            "en": "In air brake vehicles, the weights and roles of the primary and secondary systems are:",
+            "zh-Hans": "在气刹车辆中，主系统和副系统的权重和作用是：",
+            "zh-Hant": "在氣剎車輛中，主系統和副系統的權重和作用是："
+        },
+        "options": {
+            "A": {
+                "en": "Primary controls front, secondary controls rear",
+                "zh-Hans": "主系统控制前轴，副系统控制后轴",
+                "zh-Hant": "主系統控制前軸，副系統控制後軸"
+            },
+            "B": {
+                "en": "They are configured differently depending on the vehicle",
+                "zh-Hans": "根据车辆不同配置不同",
+                "zh-Hant": "根據車輛不同配置不同"
+            },
+            "C": {
+                "en": "Both control all wheels equally",
+                "zh-Hans": "两者平等控制所有车轮",
+                "zh-Hant": "兩者平等控制所有車輪"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Configuration varies by manufacturer. Often one controls front, one controls rear axles.",
+            "zh-Hans": "配置因制造商而异。通常一个控制前轴，一个控制后轴。",
+            "zh-Hant": "配置因製造商而異。通常一個控制前軸，一個控制後軸。"
+        },
+        "dmv_ref": {
+            "page": "5-6",
+            "section": "Dual System",
+            "analysis_zh-Hans": "具体配置看车型。",
+            "analysis_zh-Hant": "具體配置看車型。"
+        }
+    },
+    {
+        "id": 2056,
+        "category": "Air Brakes",
+        "question": {
+            "en": "What should you do during the air brake check if the low pressure warning comes on before 60 psi?",
+            "zh-Hans": "如果在气压降至60 psi之前低压警报亮起，你应该怎么做？",
+            "zh-Hant": "如果在氣壓降至60 psi之前低壓警報亮起，你應該怎麼做？"
+        },
+        "options": {
+            "A": {
+                "en": "This is normal, continue driving",
+                "zh-Hans": "这是正常的，继续驾驶",
+                "zh-Hant": "這是正常的，繼續駕駛"
+            },
+            "B": {
+                "en": "The warning is working correctly, proceed with trip",
+                "zh-Hans": "警报工作正常，继续行程",
+                "zh-Hant": "警報工作正常，繼續行程"
+            },
+            "C": {
+                "en": "Have the system checked - warning should come on before dropping below 60 psi",
+                "zh-Hans": "检查系统——警报应该在气压降至60 psi之前亮起",
+                "zh-Hant": "檢查系統——警報應該在氣壓降至60 psi之前亮起"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "This means the warning is working correctly (activating before 60 psi). If it didn't activate until below 60, that would be a problem.",
+            "zh-Hans": "这意味着警报工作正常（在60 psi之前启动）。如果直到60 psi以下才启动，那才是问题。",
+            "zh-Hant": "這意味著警報工作正常（在60 psi之前啟動）。如果直到60 psi以下才啟動，那才是問題。"
+        },
+        "dmv_ref": {
+            "page": "5-7",
+            "section": "Warning Test",
+            "analysis_zh-Hans": "60 psi之前亮起=正常。",
+            "analysis_zh-Hant": "60 psi之前亮起=正常。"
+        }
+    },
+    {
+        "id": 2057,
+        "category": "Air Brakes",
+        "question": {
+            "en": "Wedge brakes are different from S-cam brakes because:",
+            "zh-Hans": "楔形刹车与S型凸轮刹车的区别在于：",
+            "zh-Hant": "楔形剎車與S型凸輪剎車的區別在於："
+        },
+        "options": {
+            "A": {
+                "en": "They use a wedge shape to push the brake linings against the drum",
+                "zh-Hans": "它们使用楔形来推动刹车衬片压向刹车鼓",
+                "zh-Hant": "它們使用楔形來推動剎車襯片壓向剎車鼓"
+            },
+            "B": {
+                "en": "They are only for front wheels",
+                "zh-Hans": "它们只用于前轮",
+                "zh-Hant": "它們只用於前輪"
+            },
+            "C": {
+                "en": "They don't require air pressure",
+                "zh-Hans": "它们不需要气压",
+                "zh-Hant": "它們不需要氣壓"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Wedge brakes use a wedge and roller to push the brake shoes apart and against the drum.",
+            "zh-Hans": "楔形刹车使用楔块和滚轮将刹车蹄片撑开并压向刹车鼓。",
+            "zh-Hant": "楔形剎車使用楔塊和滾輪將剎車蹄片撐開並壓向剎車鼓。"
+        },
+        "dmv_ref": {
+            "page": "5-3",
+            "section": "Wedge Brakes",
+            "analysis_zh-Hans": "另一种基础刹车类型。",
+            "analysis_zh-Hant": "另一種基礎剎車類型。"
+        }
+    },
+    {
+        "id": 2058,
+        "category": "Air Brakes",
+        "question": {
+            "en": "Disc brakes work by:",
+            "zh-Hans": "盘式刹车的工作原理是：",
+            "zh-Hant": "盤式剎車的工作原理是："
+        },
+        "options": {
+            "A": {
+                "en": "Pushing brake pads against a rotating disc",
+                "zh-Hans": "将刹车片压向旋转的制动盘",
+                "zh-Hant": "將剎車片壓向旋轉的制動盤"
+            },
+            "B": {
+                "en": "Expanding shoes against a drum",
+                "zh-Hans": "让蹄片向外撑开压向刹车鼓",
+                "zh-Hant": "讓蹄片向外撐開壓向剎車鼓"
+            },
+            "C": {
+                "en": "Using engine compression",
+                "zh-Hans": "使用发动机压缩",
+                "zh-Hant": "使用發動機壓縮"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Air-operated disc brakes work by clamping brake pads onto a rotating disc (rotor).",
+            "zh-Hans": "气动盘式刹车通过将刹车片夹紧到旋转的制动盘（转子）上工作。",
+            "zh-Hant": "氣動盤式剎車通過將剎車片夾緊到旋轉的制動盤（轉子）上工作。"
+        },
+        "dmv_ref": {
+            "page": "5-4",
+            "section": "Disc Brakes",
+            "analysis_zh-Hans": "与鼓式刹车不同的结构。",
+            "analysis_zh-Hant": "與鼓式剎車不同的結構。"
+        }
+    },
+    {
+        "id": 2059,
+        "category": "Air Brakes",
+        "question": {
+            "en": "Which of these is NOT a type of brake fade?",
+            "zh-Hans": "以下哪项不是刹车衰退的类型？",
+            "zh-Hant": "以下哪項不是剎車衰退的類型？"
+        },
+        "options": {
+            "A": {
+                "en": "Mechanical fade",
+                "zh-Hans": "机械衰退",
+                "zh-Hant": "機械衰退"
+            },
+            "B": {
+                "en": "Water fade",
+                "zh-Hans": "水衰退",
+                "zh-Hant": "水衰退"
+            },
+            "C": {
+                "en": "Pressure fade",
+                "zh-Hans": "压力衰退",
+                "zh-Hant": "壓力衰退"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "Types of brake fade include mechanical fade (drum expansion) and water fade. Pressure fade is not a term.",
+            "zh-Hans": "刹车衰退类型包括机械衰退（刹车鼓膨胀）和水衰退。压力衰退不是术语。",
+            "zh-Hant": "剎車衰退類型包括機械衰退（剎車鼓膨脹）和水衰退。壓力衰退不是術語。"
+        },
+        "dmv_ref": {
+            "page": "5-10",
+            "section": "Brake Fade",
+            "analysis_zh-Hans": "机械衰退是最常见的。",
+            "analysis_zh-Hant": "機械衰退是最常見的。"
+        }
+    },
+    {
+        "id": 2060,
+        "category": "Air Brakes",
+        "question": {
+            "en": "After the parking brake valve is pushed in:",
+            "zh-Hans": "驻车刹车阀推入后：",
+            "zh-Hant": "駐車剎車閥推入後："
+        },
+        "options": {
+            "A": {
+                "en": "The parking brakes are applied",
+                "zh-Hans": "驻车刹车被施加",
+                "zh-Hant": "駐車剎車被施加"
+            },
+            "B": {
+                "en": "The parking brakes are released",
+                "zh-Hans": "驻车刹车被释放",
+                "zh-Hant": "駐車剎車被釋放"
+            },
+            "C": {
+                "en": "The air compressor stops",
+                "zh-Hans": "空气压缩机停止",
+                "zh-Hant": "空氣壓縮機停止"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Push to release (air goes to release the spring brakes), Pull to apply (releases air, springs engage).",
+            "zh-Hans": "推入释放（气体进入释放弹簧刹车），拉出施加（释放气体，弹簧接合）。",
+            "zh-Hant": "推入釋放（氣體進入釋放彈簧剎車），拉出施加（釋放氣體，彈簧接合）。"
+        },
+        "dmv_ref": {
+            "page": "5-5",
+            "section": "Parking Control",
+            "analysis_zh-Hans": "Push to release, Pull to apply.",
+            "analysis_zh-Hant": "Push to release, Pull to apply."
+        }
+    }
+]
