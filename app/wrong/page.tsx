@@ -22,6 +22,8 @@ interface BaseQuestion {
     answer: 'A' | 'B' | 'C'
     explanation: Record<LangType, string>
     image?: string
+    hasImage?: boolean
+    imageUrl?: string | null
     dmv_ref?: {
         page: string
         section: string
@@ -65,8 +67,8 @@ export default function WrongQuestionsPage() {
         // Load questions from each source
         for (const [source, wqs] of Object.entries(bySource)) {
             let dataUrl = ''
-            if (source === 'basics') dataUrl = '/data/cdl-general-knowledge.json'
-            else if (source === 'deepdive') dataUrl = '/data/cdl-air-brakes.json'
+            if (source === 'basics') dataUrl = '/data/questions-basics.json'
+            else if (source === 'deepdive') dataUrl = '/data/questions-deepdive.json'
             else if (source === 'signs') dataUrl = '/data/questions-signs.json'
 
             if (!dataUrl) continue
@@ -181,8 +183,8 @@ export default function WrongQuestionsPage() {
 
     const progress = ((currentIndex + 1) / questions.length) * 100
     const sourceLabels: Record<string, string> = {
-        basics: '通用知识 (General)',
-        deepdive: '气制动 (Air Brakes)',
+        basics: '扫盲模式 (Basics)',
+        deepdive: '专项突破 (Deep Dive)',
         signs: '交通标志 (Signs)'
     }
 
@@ -276,11 +278,11 @@ export default function WrongQuestionsPage() {
                         </div>
 
                         {/* Image if exists (for signs) */}
-                        {currentQuestion.image && (
+                        {(currentQuestion.image || (currentQuestion.hasImage && currentQuestion.imageUrl)) && (
                             <div className="flex justify-center mb-4">
                                 <div className="relative w-40 h-40 md:w-48 md:h-48 glass rounded-2xl p-3 flex items-center justify-center">
                                     <Image
-                                        src={currentQuestion.image}
+                                        src={currentQuestion.image || currentQuestion.imageUrl || ''}
                                         alt="Traffic Sign"
                                         width={160}
                                         height={160}

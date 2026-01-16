@@ -8,21 +8,9 @@
       "zh-Hant": "誰必須在行駛的車輛中系安全帶？"
     },
     "options": {
-      "A": {
-        "en": "Only the driver.",
-        "zh-Hans": "只有驾驶员。",
-        "zh-Hant": "只有駕駛員。"
-      },
-      "B": {
-        "en": "The driver and all passengers 8 years or older.",
-        "zh-Hans": "驾驶员及所有 8 岁或以上的乘客。",
-        "zh-Hant": "駕駛員及所有 8 歲或以上的乘客。"
-      },
-      "C": {
-        "en": "The driver and all passengers.",
-        "zh-Hans": "驾驶员及所有乘客。",
-        "zh-Hant": "駕駛員及所有乘客。"
-      }
+      "A": { "en": "Only the driver.", "zh-Hans": "只有驾驶员。", "zh-Hant": "只有駕駛員。" },
+      "B": { "en": "The driver and all passengers 8 years or older.", "zh-Hans": "驾驶员及所有 8 岁或以上的乘客。", "zh-Hant": "駕駛員及所有 8 歲或以上的乘客。" },
+      "C": { "en": "The driver and all passengers.", "zh-Hans": "驾驶员及所有乘客。", "zh-Hant": "駕駛員及所有乘客。" }
     },
     "answer": "C",
     "explanation": {
@@ -46,21 +34,9 @@
       "zh-Hant": "什麼是加州的「基本車速法」？"
     },
     "options": {
-      "A": {
-        "en": "Never drive faster than the posted speed limit.",
-        "zh-Hans": "绝对不要超过公布的限速标牌。",
-        "zh-Hant": "絕對不要超過公佈的限速標牌。"
-      },
-      "B": {
-        "en": "Never drive faster than is safe for current conditions.",
-        "zh-Hans": "你的车速不应超过当时路况允许的安全速度。",
-        "zh-Hant": "你的車速不應超過當時路況允許的安全速度。"
-      },
-      "C": {
-        "en": "Always drive at the same speed as the traffic around you.",
-        "zh-Hans": "始终保持与周围车流相同的速度。",
-        "zh-Hant": "始終保持與周圍車流相同的速度。"
-      }
+      "A": { "en": "Never drive faster than the posted speed limit.", "zh-Hans": "绝对不要超过公布的限速标牌。", "zh-Hant": "絕對不要超過公佈的限速標牌。" },
+      "B": { "en": "Never drive faster than is safe for current conditions.", "zh-Hans": "你的车速不应超过当时路况允许的安全速度。", "zh-Hant": "你的車速不應超過當時路況允許的安全速度。" },
+      "C": { "en": "Always drive at the same speed as the traffic around you.", "zh-Hans": "始终保持与周围车流相同的速度。", "zh-Hant": "始終保持與周圍車流相同的速度。" }
     },
     "answer": "B",
     "explanation": {
@@ -84,21 +60,9 @@
       "zh-Hant": "當能見度不足時，您必須在何時開啟大燈？"
     },
     "options": {
-      "A": {
-        "en": "When you cannot see 1,000 feet ahead.",
-        "zh-Hans": "当您看不清前方 1,000 英尺时。",
-        "zh-Hant": "當您看不清前方 1,000 英呎時。"
-      },
-      "B": {
-        "en": "Only at night.",
-        "zh-Hans": "仅在夜间。",
-        "zh-Hant": "僅在夜間。"
-      },
-      "C": {
-        "en": "Only when it is raining hard.",
-        "zh-Hans": "仅在大雨时。",
-        "zh-Hant": "僅在大雨時。"
-      }
+      "A": { "en": "When you cannot see 1,000 feet ahead.", "zh-Hans": "当您看不清前方 1,000 英尺时。", "zh-Hant": "當您看不清前方 1,000 英呎時。" },
+      "B": { "en": "Only at night.", "zh-Hans": "仅在夜间。", "zh-Hant": "僅在夜間。" },
+      "C": { "en": "Only when it is raining hard.", "zh-Hans": "仅在大雨时。", "zh-Hant": "僅在大雨時。" }
     },
     "answer": "A",
     "explanation": {
@@ -122,21 +86,9 @@
       "zh-Hant": "2026新規：接近路邊開啟危險燈的停靠車輛時該怎麼辦？"
     },
     "options": {
-      "A": {
-        "en": "Stay in your lane and maintain speed.",
-        "zh-Hans": "留在原车道并保持原速。",
-        "zh-Hant": "留在原車道並保持原速。"
-      },
-      "B": {
-        "en": "Slow down and move over if safe to do so.",
-        "zh-Hans": "减速并在安全的情况下变换车道腾出空间。",
-        "zh-Hant": "減速並在安全的情況下變換車道騰出空間。"
-      },
-      "C": {
-        "en": "Honk your horn to warn them.",
-        "zh-Hans": "鸣喇叭提醒对方。",
-        "zh-Hant": "鳴喇叭提醒對方。"
-      }
+      "A": { "en": "Stay in your lane and maintain speed.", "zh-Hans": "留在原车道并保持原速。", "zh-Hant": "留在原車道並保持原速。" },
+      "B": { "en": "Slow down and move over if safe to do so.", "zh-Hans": "减速并在安全的情况下变换车道腾出空间。", "zh-Hant": "減速並在安全的情況下變換車道騰出空間。" },
+      "C": { "en": "Honk your horn to warn them.", "zh-Hans": "鸣喇叭提醒对方。", "zh-Hant": "鳴喇叭提醒對方。" }
     },
     "answer": "B",
     "explanation": {
@@ -160,21 +112,9 @@
       "zh-Hant": "將 6 歲或以下的兒童留在無人看管的車內合法嗎？"
     },
     "options": {
-      "A": {
-        "en": "No, unless they are supervised by someone at least 12 years old.",
-        "zh-Hans": "不合法，除非由至少 12 岁的人看管。",
-        "zh-Hant": "不合法，除非由至少 12 歲的人看管。"
-      },
-      "B": {
-        "en": "Yes, if the engine is off.",
-        "zh-Hans": "合法，只要发动机已熄火。",
-        "zh-Hant": "合法，只要發動機已熄火。"
-      },
-      "C": {
-        "en": "Yes, if it is for less than 15 minutes.",
-        "zh-Hans": "合法，只要不超过 15 分钟。",
-        "zh-Hant": "合法，只要不超過 15 分鐘。"
-      }
+      "A": { "en": "No, unless they are supervised by someone at least 12 years old.", "zh-Hans": "不合法，除非由至少 12 岁的人看管。", "zh-Hant": "不合法，除非由至少 12 歲的人看管。" },
+      "B": { "en": "Yes, if the engine is off.", "zh-Hans": "合法，只要发动机已熄火。", "zh-Hant": "合法，只要發動機已熄火。" },
+      "C": { "en": "Yes, if it is for less than 15 minutes.", "zh-Hans": "合法，只要不超过 15 分钟。", "zh-Hant": "合法，只要不超過 15 分鐘。" }
     },
     "answer": "A",
     "explanation": {
@@ -198,21 +138,9 @@
       "zh-Hant": "如果是紅燈，但警察示意您通過，您應該："
     },
     "options": {
-      "A": {
-        "en": "Wait for the light to turn green.",
-        "zh-Hans": "等待红灯变绿。",
-        "zh-Hant": "等待紅燈變綠。"
-      },
-      "B": {
-        "en": "Obey the officer.",
-        "zh-Hans": "服从警察的指挥。",
-        "zh-Hant": "服從警察的指揮。"
-      },
-      "C": {
-        "en": "Stop first, then go if it is safe.",
-        "zh-Hans": "先停车，如果安全再通过。",
-        "zh-Hant": "先停車，如果安全再通過。"
-      }
+      "A": { "en": "Wait for the light to turn green.", "zh-Hans": "等待红灯变绿。", "zh-Hant": "等待紅燈變綠。" },
+      "B": { "en": "Obey the officer.", "zh-Hans": "服从警察的指挥。", "zh-Hant": "服從警察的指揮。" },
+      "C": { "en": "Stop first, then go if it is safe.", "zh-Hans": "先停车，如果安全再通过。", "zh-Hant": "先停車，如果安全再通過。" }
     },
     "answer": "B",
     "explanation": {
@@ -236,21 +164,9 @@
       "zh-Hant": "駕駛時使用手機最安全的方式是什麼？"
     },
     "options": {
-      "A": {
-        "en": "Use a hands-free device.",
-        "zh-Hans": "使用免提设备。",
-        "zh-Hant": "使用免提設備。"
-      },
-      "B": {
-        "en": "Hold the phone close to your ear.",
-        "zh-Hans": "将手机贴近耳朵通话。",
-        "zh-Hant": "將手機貼近耳朵通話。"
-      },
-      "C": {
-        "en": "Pull over to a safe place before using it.",
-        "zh-Hans": "停在安全的地方后再使用。",
-        "zh-Hant": "停在安全的地方後再使用。"
-      }
+      "A": { "en": "Use a hands-free device.", "zh-Hans": "使用免提设备。", "zh-Hant": "使用免提設備。" },
+      "B": { "en": "Hold the phone close to your ear.", "zh-Hans": "将手机贴近耳朵通话。", "zh-Hant": "將手機貼近耳朵通話。" },
+      "C": { "en": "Pull over to a safe place before using it.", "zh-Hans": "停在安全的地方后再使用。", "zh-Hant": "停在安全的地方後再使用。" }
     },
     "answer": "C",
     "explanation": {
@@ -274,21 +190,9 @@
       "zh-Hant": "2026新規：使用裝置故意遮擋號牌的罰款是多少？"
     },
     "options": {
-      "A": {
-        "en": "$100",
-        "zh-Hans": "$100",
-        "zh-Hant": "$100"
-      },
-      "B": {
-        "en": "$500",
-        "zh-Hans": "$500",
-        "zh-Hant": "$500"
-      },
-      "C": {
-        "en": "$1,000",
-        "zh-Hans": "$1,000",
-        "zh-Hant": "$1,000"
-      }
+      "A": { "en": "$100", "zh-Hans": "$100", "zh-Hant": "$100" },
+      "B": { "en": "$500", "zh-Hans": "$500", "zh-Hant": "$500" },
+      "C": { "en": "$1,000", "zh-Hans": "$1,000", "zh-Hant": "$1,000" }
     },
     "answer": "C",
     "explanation": {
@@ -312,21 +216,9 @@
       "zh-Hant": "激進駕駛會導致「路怒症」。應對激進駕駛員的最佳方式是什麼？"
     },
     "options": {
-      "A": {
-        "en": "Speed up to get away from them.",
-        "zh-Hans": "加速以甩掉他们。",
-        "zh-Hant": "加速以甩掉他們。"
-      },
-      "B": {
-        "en": "Avoid eye contact and give them plenty of space.",
-        "zh-Hans": "避免眼神接触，并给他们留出充足空间。",
-        "zh-Hant": "避免眼神接觸，並給他們留出充足空間。"
-      },
-      "C": {
-        "en": "Honk your horn and use hand signals.",
-        "zh-Hans": "鸣喇叭并使用手势回击。",
-        "zh-Hant": "鳴喇叭並使用手勢回擊。"
-      }
+      "A": { "en": "Speed up to get away from them.", "zh-Hans": "加速以甩掉他们。", "zh-Hant": "加速以甩掉他們。" },
+      "B": { "en": "Avoid eye contact and give them plenty of space.", "zh-Hans": "避免眼神接触，并给他们留出充足空间。", "zh-Hant": "避免眼神接觸，並給他們留出充足空間。" },
+      "C": { "en": "Honk your horn and use hand signals.", "zh-Hans": "鸣喇叭并使用手势回击。", "zh-Hant": "鳴喇叭並使用手勢回擊。" }
     },
     "answer": "B",
     "explanation": {
@@ -350,21 +242,9 @@
       "zh-Hant": "2026新規：酒駕過失殺人的緩刑期變更為多久？"
     },
     "options": {
-      "A": {
-        "en": "1 to 2 years.",
-        "zh-Hans": "1 到 2 年。",
-        "zh-Hant": "1 到 2 年。"
-      },
-      "B": {
-        "en": "3 to 5 years.",
-        "zh-Hans": "3 到 5 年。",
-        "zh-Hant": "3 到 5 年。"
-      },
-      "C": {
-        "en": "Life with no parole.",
-        "zh-Hans": "终身监禁不得假释。",
-        "zh-Hant": "終身監禁不得假釋。"
-      }
+      "A": { "en": "1 to 2 years.", "zh-Hans": "1 到 2 年。", "zh-Hant": "1 到 2 年。" },
+      "B": { "en": "3 to 5 years.", "zh-Hans": "3 到 5 年。", "zh-Hant": "3 到 5 年。" },
+      "C": { "en": "Life with no parole.", "zh-Hans": "终身监禁不得假释。", "zh-Hant": "終身監禁不得假釋。" }
     },
     "answer": "B",
     "explanation": {
@@ -388,21 +268,9 @@
       "zh-Hant": "21歲或以上的駕駛員，血液酒精濃度（BAC）達到多少屬於違法？"
     },
     "options": {
-      "A": {
-        "en": "0.01% or higher.",
-        "zh-Hans": "0.01% 或更高。",
-        "zh-Hant": "0.01% 或更高。"
-      },
-      "B": {
-        "en": "0.05% or higher.",
-        "zh-Hans": "0.05% 或更高。",
-        "zh-Hant": "0.05% 或更高。"
-      },
-      "C": {
-        "en": "0.08% or higher.",
-        "zh-Hans": "0.08% 或更高。",
-        "zh-Hant": "0.08% 或更高。"
-      }
+      "A": { "en": "0.01% or higher.", "zh-Hans": "0.01% 或更高。", "zh-Hant": "0.01% 或更高。" },
+      "B": { "en": "0.05% or higher.", "zh-Hans": "0.05% 或更高。", "zh-Hant": "0.05% 或更高。" },
+      "C": { "en": "0.08% or higher.", "zh-Hans": "0.08% 或更高。", "zh-Hant": "0.08% 或更高。" }
     },
     "answer": "C",
     "explanation": {
@@ -426,21 +294,9 @@
       "zh-Hant": "駕駛員將左手臂水平伸出窗外表示什麼？"
     },
     "options": {
-      "A": {
-        "en": "Left turn.",
-        "zh-Hans": "向左转。",
-        "zh-Hant": "向左轉。"
-      },
-      "B": {
-        "en": "Right turn.",
-        "zh-Hans": "向右转。",
-        "zh-Hant": "向右轉。"
-      },
-      "C": {
-        "en": "Stop or slowing down.",
-        "zh-Hans": "停车或减速。",
-        "zh-Hant": "停車或減速。"
-      }
+      "A": { "en": "Left turn.", "zh-Hans": "向左转。", "zh-Hant": "向左轉。" },
+      "B": { "en": "Right turn.", "zh-Hans": "向右转。", "zh-Hant": "向右轉。" },
+      "C": { "en": "Stop or slowing down.", "zh-Hans": "停车或减速。", "zh-Hant": "停車或減速。" }
     },
     "answer": "A",
     "explanation": {
@@ -464,21 +320,9 @@
       "zh-Hant": "車內有未成年人時抽煙合法嗎？"
     },
     "options": {
-      "A": {
-        "en": "Yes, if the minor is your own child.",
-        "zh-Hans": "合法，如果该未成年人是您自己的孩子。",
-        "zh-Hant": "合法，如果該未成年人是您自己的孩子。"
-      },
-      "B": {
-        "en": "No, it is illegal at all times.",
-        "zh-Hans": "不合法，任何时候都是违法的。",
-        "zh-Hant": "不合法，任何時候都是違法的。"
-      },
-      "C": {
-        "en": "Yes, as long as the window is down.",
-        "zh-Hans": "合法，只要窗户降下来。",
-        "zh-Hant": "合法，只要窗戶降下來。"
-      }
+      "A": { "en": "Yes, if the minor is your own child.", "zh-Hans": "合法，如果该未成年人是您自己的孩子。", "zh-Hant": "合法，如果該未成年人是您自己的孩子。" },
+      "B": { "en": "No, it is illegal at all times.", "zh-Hans": "不合法，任何时候都是违法的。", "zh-Hant": "不合法，任何時候都是違法的。" },
+      "C": { "en": "Yes, as long as the window is down.", "zh-Hans": "合法，只要窗户降下来。", "zh-Hant": "合法，只要窗戶降下來。" }
     },
     "answer": "B",
     "explanation": {
@@ -502,21 +346,9 @@
       "zh-Hant": "如果財產損失超過 $1,000，必須在幾天內向 DMV 報告？"
     },
     "options": {
-      "A": {
-        "en": "5 days.",
-        "zh-Hans": "5 天。",
-        "zh-Hant": "5 天。"
-      },
-      "B": {
-        "en": "10 days.",
-        "zh-Hans": "10 天。",
-        "zh-Hant": "10 天。"
-      },
-      "C": {
-        "en": "15 days.",
-        "zh-Hans": "15 天。",
-        "zh-Hant": "15 天。"
-      }
+      "A": { "en": "5 days.", "zh-Hans": "5 天。", "zh-Hant": "5 天。" },
+      "B": { "en": "10 days.", "zh-Hans": "10 天。", "zh-Hant": "10 天。" },
+      "C": { "en": "15 days.", "zh-Hans": "15 天。", "zh-Hant": "15 天。" }
     },
     "answer": "B",
     "explanation": {
@@ -540,21 +372,9 @@
       "zh-Hant": "在高速公路上遺棄動物會受到什麼處罰？"
     },
     "options": {
-      "A": {
-        "en": "A fine of up to $1,000 and/or 6 months in jail.",
-        "zh-Hans": "高达 $1,000 的罚款和/或 6 个月的监禁。",
-        "zh-Hant": "高達 $1,000 的罰款和/或 6 個月的監禁。"
-      },
-      "B": {
-        "en": "Community service for 24 hours.",
-        "zh-Hans": "24 小时的社区服务。",
-        "zh-Hant": "24 小時的社區服務。"
-      },
-      "C": {
-        "en": "License suspension for 30 days.",
-        "zh-Hans": "吊销驾照 30 天。",
-        "zh-Hant": "吊銷駕照 30 天。"
-      }
+      "A": { "en": "A fine of up to $1,000 and/or 6 months in jail.", "zh-Hans": "高达 $1,000 的罚款和/或 6 个月的监禁。", "zh-Hant": "高達 $1,000 的罰款和/或 6 個月的監禁。" },
+      "B": { "en": "Community service for 24 hours.", "zh-Hans": "24 小时的社区服务。", "zh-Hant": "24 小時的社區服務。" },
+      "C": { "en": "License suspension for 30 days.", "zh-Hans": "吊销驾照 30 天。", "zh-Hant": "吊銷駕照 30 天。" }
     },
     "answer": "A",
     "explanation": {
@@ -578,21 +398,9 @@
       "zh-Hant": "在沒有信號燈的十字路口，如果有行人正在過馬路，您應該："
     },
     "options": {
-      "A": {
-        "en": "Pedestrians must yield to you.",
-        "zh-Hans": "行人必须避让您。",
-        "zh-Hant": "行人必須避讓您。"
-      },
-      "B": {
-        "en": "Yield the right-of-way to the pedestrian.",
-        "zh-Hans": "让行人优先通行。",
-        "zh-Hant": "讓行人優先通行。"
-      },
-      "C": {
-        "en": "Slow down but keep moving.",
-        "zh-Hans": "减速但保持行驶。",
-        "zh-Hant": "減速但保持行駛。"
-      }
+      "A": { "en": "Pedestrians must yield to you.", "zh-Hans": "行人必须避让您。", "zh-Hant": "行人必須避讓您。" },
+      "B": { "en": "Yield the right-of-way to the pedestrian.", "zh-Hans": "让行人优先通行。", "zh-Hant": "讓行人優先通行。" },
+      "C": { "en": "Slow down but keep moving.", "zh-Hans": "减速但保持行驶。", "zh-Hant": "減速但保持行駛。" }
     },
     "answer": "B",
     "explanation": {
@@ -616,21 +424,9 @@
       "zh-Hant": "在商業區進行 U 轉的規定是什麼？"
     },
     "options": {
-      "A": {
-        "en": "U-turns are never allowed in business districts.",
-        "zh-Hans": "商业区禁止任何 U 转。",
-        "zh-Hant": "商業區禁止任何 U 轉。"
-      },
-      "B": {
-        "en": "Only at intersections unless a sign prohibits it.",
-        "zh-Hans": "仅限在路口进行，除非有标志禁止。",
-        "zh-Hant": "僅限在路口進行，除非有標誌禁止。"
-      },
-      "C": {
-        "en": "Legal anywhere on the street as long as it is clear.",
-        "zh-Hans": "只要道路空旷，在街道任何地方都是合法的。",
-        "zh-Hant": "只要道路空曠，在街道任何地方都是合法的。"
-      }
+      "A": { "en": "U-turns are never allowed in business districts.", "zh-Hans": "商业区禁止任何 U 转。", "zh-Hant": "商業區禁止任何 U 轉。" },
+      "B": { "en": "Only at intersections unless a sign prohibits it.", "zh-Hans": "仅限在路口进行，除非有标志禁止。", "zh-Hant": "僅限在路口進行，除非有標誌禁止。" },
+      "C": { "en": "Legal anywhere on the street as long as it is clear.", "zh-Hans": "只要道路空旷，在街道任何地方都是合法的。", "zh-Hant": "只要道路空曠，在街道任何地方都是合法的。" }
     },
     "answer": "B",
     "explanation": {
@@ -654,21 +450,9 @@
       "zh-Hant": "在面向下坡的路邊停車時，您的前輪應該轉向哪個方向？"
     },
     "options": {
-      "A": {
-        "en": "Toward the curb.",
-        "zh-Hans": "转向路缘（路边）。",
-        "zh-Hant": "轉向路緣（路邊）。"
-      },
-      "B": {
-        "en": "Away from the curb.",
-        "zh-Hans": "远离路缘。",
-        "zh-Hant": "遠離路緣。"
-      },
-      "C": {
-        "en": "Straight ahead.",
-        "zh-Hans": "保持直行。",
-        "zh-Hant": "保持直行。"
-      }
+      "A": { "en": "Toward the curb.", "zh-Hans": "转向路缘（路边）。", "zh-Hant": "轉向路緣（路邊）。" },
+      "B": { "en": "Away from the curb.", "zh-Hans": "远离路缘。", "zh-Hant": "遠離路緣。" },
+      "C": { "en": "Straight ahead.", "zh-Hans": "保持直行。", "zh-Hant": "保持直行。" }
     },
     "answer": "A",
     "explanation": {
@@ -692,21 +476,9 @@
       "zh-Hant": "道路中間的雙實黃線表示："
     },
     "options": {
-      "A": {
-        "en": "You may pass slow vehicles.",
-        "zh-Hans": "您可以超越慢速车辆。",
-        "zh-Hant": "您可以超越慢速車輛。"
-      },
-      "B": {
-        "en": "Do not cross for any reason.",
-        "zh-Hans": "任何理由都不得越线。",
-        "zh-Hant": "任何理由都不得越線。"
-      },
-      "C": {
-        "en": "No passing, but you can cross to turn left.",
-        "zh-Hans": "禁止超车，但可以跨越以进行左转。",
-        "zh-Hant": "禁止超車，但可以跨越以進行左轉。"
-      }
+      "A": { "en": "You may pass slow vehicles.", "zh-Hans": "您可以超越慢速车辆。", "zh-Hant": "您可以超越慢速車輛。" },
+      "B": { "en": "Do not cross for any reason.", "zh-Hans": "任何理由都不得越线。", "zh-Hant": "任何理由都不得越線。" },
+      "C": { "en": "No passing, but you can cross to turn left.", "zh-Hans": "禁止超车，但可以跨越以进行左转。", "zh-Hant": "禁止超車，但可以跨越以進行左轉。" }
     },
     "answer": "C",
     "explanation": {
@@ -730,21 +502,9 @@
       "zh-Hant": "如果您更改地址，必須在幾天內通知 DMV？"
     },
     "options": {
-      "A": {
-        "en": "10 days.",
-        "zh-Hans": "10 天。",
-        "zh-Hant": "10 天。"
-      },
-      "B": {
-        "en": "30 days.",
-        "zh-Hans": "30 天。",
-        "zh-Hant": "30 天。"
-      },
-      "C": {
-        "en": "15 days.",
-        "zh-Hans": "15 天。",
-        "zh-Hant": "15 天。"
-      }
+      "A": { "en": "10 days.", "zh-Hans": "10 天。", "zh-Hant": "10 天。" },
+      "B": { "en": "30 days.", "zh-Hans": "30 天。", "zh-Hant": "30 天。" },
+      "C": { "en": "15 days.", "zh-Hans": "15 天。", "zh-Hant": "15 天。" }
     },
     "answer": "A",
     "explanation": {
@@ -768,21 +528,9 @@
       "zh-Hant": "當前方校車停在路中並閃爍紅燈時，您必須："
     },
     "options": {
-      "A": {
-        "en": "Slow down to 15 mph and pass carefully.",
-        "zh-Hans": "减速至 15 英里并小心通过。",
-        "zh-Hant": "減速至 15 英哩並小心通過。"
-      },
-      "B": {
-        "en": "Stop until the red lights stop flashing.",
-        "zh-Hans": "停车，直到红灯停止闪烁。",
-        "zh-Hant": "停車，直到紅燈停止閃爍。"
-      },
-      "C": {
-        "en": "Stop only if you are on the same side as the bus.",
-        "zh-Hans": "仅当您与校车同向时才需停车。",
-        "zh-Hant": "僅當您與校車同向時才需停車。"
-      }
+      "A": { "en": "Slow down to 15 mph and pass carefully.", "zh-Hans": "减速至 15 英里并小心通过。", "zh-Hant": "減速至 15 英哩並小心通過。" },
+      "B": { "en": "Stop until the red lights stop flashing.", "zh-Hans": "停车，直到红灯停止闪烁。", "zh-Hant": "停車，直到紅燈停止閃爍。" },
+      "C": { "en": "Stop only if you are on the same side as the bus.", "zh-Hans": "仅当您与校车同向时才需停车。", "zh-Hant": "僅當您與校車同向時才需停車。" }
     },
     "answer": "B",
     "explanation": {
@@ -806,21 +554,9 @@
       "zh-Hant": "轉彎前多少英呎應開啟轉向燈？"
     },
     "options": {
-      "A": {
-        "en": "At least 50 feet.",
-        "zh-Hans": "至少 50 英尺。",
-        "zh-Hant": "至少 50 英呎。"
-      },
-      "B": {
-        "en": "At least 100 feet.",
-        "zh-Hans": "至少 100 英尺。",
-        "zh-Hant": "至少 100 英呎。"
-      },
-      "C": {
-        "en": "At least 200 feet.",
-        "zh-Hans": "至少 200 英尺。",
-        "zh-Hant": "至少 200 英呎。"
-      }
+      "A": { "en": "At least 50 feet.", "zh-Hans": "至少 50 英尺。", "zh-Hant": "至少 50 英呎。" },
+      "B": { "en": "At least 100 feet.", "zh-Hans": "至少 100 英尺。", "zh-Hant": "至少 100 英呎。" },
+      "C": { "en": "At least 200 feet.", "zh-Hans": "至少 200 英尺。", "zh-Hant": "至少 200 英呎。" }
     },
     "answer": "B",
     "explanation": {
@@ -844,21 +580,9 @@
       "zh-Hant": "為了避免在濕滑路面打滑，您應該："
     },
     "options": {
-      "A": {
-        "en": "Shift to a lower gear when going down steep hills.",
-        "zh-Hans": "下陡坡时换入低档位。",
-        "zh-Hant": "下陡坡時換入低檔位。"
-      },
-      "B": {
-        "en": "Slow down before entering curves and intersections.",
-        "zh-Hans": "在进入弯道和路口前减速。",
-        "zh-Hant": "在進入彎道和路口前減速。"
-      },
-      "C": {
-        "en": "Brake hard to test the traction of your tires.",
-        "zh-Hans": "猛踩刹车以测试轮胎抓地力。",
-        "zh-Hant": "猛踩剎車以測試輪胎抓地力。"
-      }
+      "A": { "en": "Shift to a lower gear when going down steep hills.", "zh-Hans": "下陡坡时换入低档位。", "zh-Hant": "下陡坡時換入低檔位。" },
+      "B": { "en": "Slow down before entering curves and intersections.", "zh-Hans": "在进入弯道和路口前减速。", "zh-Hant": "在進入彎道和路口前減速。" },
+      "C": { "en": "Brake hard to test the traction of your tires.", "zh-Hans": "猛踩刹车以测试轮胎抓地力。", "zh-Hant": "猛踩剎車以測試輪胎抓地力。" }
     },
     "answer": "B",
     "explanation": {
@@ -882,21 +606,9 @@
       "zh-Hant": "在什麼情況下您可以跨越雙實黃線去超越另一輛車？"
     },
     "options": {
-      "A": {
-        "en": "If the vehicle in front is going below the speed limit.",
-        "zh-Hans": "当前方车辆速度低于限速时。",
-        "zh-Hant": "當前方車輛速度低於限速時。"
-      },
-      "B": {
-        "en": "If you are in a carpool lane.",
-        "zh-Hans": "如果您在拼车车道内。",
-        "zh-Hant": "如果您在拼車車道內。"
-      },
-      "C": {
-        "en": "Under no circumstances.",
-        "zh-Hans": "在任何情况下都不行。",
-        "zh-Hant": "在任何情況下都不行。"
-      }
+      "A": { "en": "If the vehicle in front is going below the speed limit.", "zh-Hans": "当前方车辆速度低于限速时。", "zh-Hant": "當前方車輛速度低於限速時。" },
+      "B": { "en": "If you are in a carpool lane.", "zh-Hans": "如果您在拼车车道内。", "zh-Hant": "如果您在拼車車道內。" },
+      "C": { "en": "Under no circumstances.", "zh-Hans": "在任何情况下都不行。", "zh-Hant": "在任何情況下都不行。" }
     },
     "answer": "C",
     "explanation": {
@@ -920,21 +632,9 @@
       "zh-Hant": "在霧中駕駛時，您應該使用："
     },
     "options": {
-      "A": {
-        "en": "High beams.",
-        "zh-Hans": "远光灯。",
-        "zh-Hant": "遠光燈。"
-      },
-      "B": {
-        "en": "Low beams.",
-        "zh-Hans": "近光灯。",
-        "zh-Hant": "近光燈。"
-      },
-      "C": {
-        "en": "Fog lights only.",
-        "zh-Hans": "仅限雾灯。",
-        "zh-Hant": "僅限霧燈。"
-      }
+      "A": { "en": "High beams.", "zh-Hans": "远光灯。", "zh-Hant": "遠光燈。" },
+      "B": { "en": "Low beams.", "zh-Hans": "近光灯。", "zh-Hant": "近光燈。" },
+      "C": { "en": "Fog lights only.", "zh-Hans": "仅限雾灯。", "zh-Hant": "僅限霧燈。" }
     },
     "answer": "B",
     "explanation": {
@@ -958,26 +658,14 @@
       "zh-Hant": "未成年人在獲得駕照的前 12 個月內不得："
     },
     "options": {
-      "A": {
-        "en": "On the freeway.",
-        "zh-Hans": "在高速公路上驾驶。",
-        "zh-Hant": "在高速公路上駕駛。"
-      },
-      "B": {
-        "en": "Between 11 PM and 5 AM.",
-        "zh-Hans": "在晚上 11 点至凌晨 5 点之间驾驶。",
-        "zh-Hant": "在晚上 11 點至凌晨 5 點之間駕駛。"
-      },
-      "C": {
-        "en": "In heavy rain.",
-        "zh-Hans": "在大雨中驾驶。",
-        "zh-Hant": "在大雨中駕駛。"
-      }
+      "A": { "en": "On the freeway.", "zh-Hans": "在高速公路上驾驶。", "zh-Hant": "在高速公路上駕駛。" },
+      "B": { "en": "Between 11 PM and 5 AM.", "zh-Hans": "在晚上 11 点至凌晨 5 点之间驾驶。", "zh-Hant": "在晚上 11 點至凌晨 5 點之間駕駛。" },
+      "C": { "en": "In heavy rain.", "zh-Hans": "在大雨中驾驶。", "zh-Hant": "在大雨中駕駛。" }
     },
     "answer": "B",
     "explanation": {
       "en": "Minors have a curfew and passenger restrictions during their first year of driving.",
-      "zh-Hans": "未成年人在领证第一年内有宵禁，且不能在无成年人陪同下搭载 20 岁以下的乘客。",
+      "zh-Hans": "未成年人在领證第一年内有宵禁，且不能在无成年人陪同下搭载 20 岁以下的乘客。",
       "zh-Hant": "未成年人在領證第一年內有宵禁，且不能在無成年人陪同下搭載 20 歲以下的乘客。"
     },
     "dmv_ref": {
@@ -996,21 +684,9 @@
       "zh-Hant": "2026年更新：參加非法「側秀」或街道賽車的處罰是？"
     },
     "options": {
-      "A": {
-        "en": "A written warning.",
-        "zh-Hans": "书面警告。",
-        "zh-Hant": "書面警告。"
-      },
-      "B": {
-        "en": "Vehicle impoundment for up to 30 days.",
-        "zh-Hans": "车辆被扣押最长 30 天。",
-        "zh-Hant": "車輛被扣押最長 30 天。"
-      },
-      "C": {
-        "en": "A $25 fine.",
-        "zh-Hans": "$25 罚款。",
-        "zh-Hant": "$25 罰款。"
-      }
+      "A": { "en": "A written warning.", "zh-Hans": "书面警告。", "zh-Hant": "書面警告。" },
+      "B": { "en": "Vehicle impoundment for up to 30 days.", "zh-Hans": "车辆被扣押最长 30 天。", "zh-Hant": "車輛被扣押最長 30 天。" },
+      "C": { "en": "A $25 fine.", "zh-Hans": "$25 罚款。", "zh-Hant": "$25 罰款。" }
     },
     "answer": "B",
     "explanation": {
@@ -1034,21 +710,9 @@
       "zh-Hant": "在變道前檢查盲區，您應該："
     },
     "options": {
-      "A": {
-        "en": "Look into your side mirrors.",
-        "zh-Hans": "看侧后视镜。",
-        "zh-Hant": "看側後視鏡。"
-      },
-      "B": {
-        "en": "Turn your head and look over your shoulder.",
-        "zh-Hans": "转头过肩向后看。",
-        "zh-Hant": "轉頭過肩向後看。"
-      },
-      "C": {
-        "en": "Look into the rearview mirror.",
-        "zh-Hans": "看车内后视镜。",
-        "zh-Hant": "看車內後視鏡。"
-      }
+      "A": { "en": "Look into your side mirrors.", "zh-Hans": "看侧后视镜。", "zh-Hant": "看側後視鏡。" },
+      "B": { "en": "Turn your head and look over your shoulder.", "zh-Hans": "转头过肩向后看。", "zh-Hant": "轉頭過肩向後看。" },
+      "C": { "en": "Look into the rearview mirror.", "zh-Hans": "看车内后视镜。", "zh-Hant": "看車內後視鏡。" }
     },
     "answer": "B",
     "explanation": {
@@ -1072,21 +736,9 @@
       "zh-Hant": "如果行人使用白手杖或導盲犬，您必須："
     },
     "options": {
-      "A": {
-        "en": "Yield the right-of-way and stop within 5 feet.",
-        "zh-Hans": "让出优先权并在 5 英尺内停车。",
-        "zh-Hant": "讓出優先權並在 5 英呎內停車。"
-      },
-      "B": {
-        "en": "Honk to let them know you are there.",
-        "zh-Hans": "鸣喇叭告知他们您的存在。",
-        "zh-Hant": "鳴喇叭告知他們您的存在。"
-      },
-      "C": {
-        "en": "Slow down and pass carefully.",
-        "zh-Hans": "减速并小心通过。",
-        "zh-Hant": "減速並小心通過。"
-      }
+      "A": { "en": "Yield the right-of-way and stop within 5 feet.", "zh-Hans": "让出优先权并在 5 英尺内停车。", "zh-Hant": "讓出優先權並在 5 英呎內停車。" },
+      "B": { "en": "Honk to let them know you are there.", "zh-Hans": "鸣喇叭告知他们您的存在。", "zh-Hant": "鳴喇叭告知他們您的存在。" },
+      "C": { "en": "Slow down and pass carefully.", "zh-Hans": "减速并小心通过。", "zh-Hant": "減速並小心通過。" }
     },
     "answer": "A",
     "explanation": {
@@ -1110,21 +762,9 @@
       "zh-Hant": "加州法定的財產損失最低責任保險限額是多少？"
     },
     "options": {
-      "A": {
-        "en": "$5,000",
-        "zh-Hans": "$5,000",
-        "zh-Hant": "$5,000"
-      },
-      "B": {
-        "en": "$15,000",
-        "zh-Hans": "$15,000",
-        "zh-Hant": "$15,000"
-      },
-      "C": {
-        "en": "$30,000",
-        "zh-Hans": "$30,000",
-        "zh-Hant": "$30,000"
-      }
+      "A": { "en": "$5,000", "zh-Hans": "$5,000", "zh-Hant": "$5,000" },
+      "B": { "en": "$15,000", "zh-Hans": "$15,000", "zh-Hant": "$15,000" },
+      "C": { "en": "$30,000", "zh-Hans": "$30,000", "zh-Hant": "$30,000" }
     },
     "answer": "A",
     "explanation": {
@@ -1148,21 +788,9 @@
       "zh-Hant": "紅燈亮起時顯示的綠箭頭意味著："
     },
     "options": {
-      "A": {
-        "en": "You may turn in the direction of the arrow after yielding.",
-        "zh-Hans": "在避让后，您可以按箭头方向转弯。",
-        "zh-Hant": "在避讓後，您可以按箭頭方向轉彎。"
-      },
-      "B": {
-        "en": "You have a 'protected' turn in the direction of the arrow.",
-        "zh-Hans": "您在该箭头方向拥有“受保护”的转弯权。",
-        "zh-Hant": "您在該箭頭方向擁有「受保護」的轉彎權。"
-      },
-      "C": {
-        "en": "Stop and wait for the full green light.",
-        "zh-Hans": "停车并等待绿灯亮起。",
-        "zh-Hant": "停車並等待綠燈亮起。"
-      }
+      "A": { "en": "You may turn in the direction of the arrow after yielding.", "zh-Hans": "在避让后，您可以按箭头方向转弯。", "zh-Hant": "在避讓後，您可以按箭頭方向轉彎。" },
+      "B": { "en": "You have a 'protected' turn in the direction of the arrow.", "zh-Hans": "您在该箭头方向拥有“受保护”的转弯权。", "zh-Hant": "您在該箭頭方向擁有「受保護」的轉彎權。" },
+      "C": { "en": "Stop and wait for the full green light.", "zh-Hans": "停车并等待绿灯亮起。", "zh-Hant": "停車並等待綠燈亮起。" }
     },
     "answer": "B",
     "explanation": {
@@ -1186,21 +814,9 @@
       "zh-Hant": "當您看到閃爍警燈的緊急車輛時，您應該："
     },
     "options": {
-      "A": {
-        "en": "Pull to the right edge of the road and stop.",
-        "zh-Hans": "靠右侧路缘停车。",
-        "zh-Hant": "靠右側路緣停車。"
-      },
-      "B": {
-        "en": "Slow down and keep driving in your lane.",
-        "zh-Hans": "减速并在车道内继续行驶。",
-        "zh-Hant": "減速並在車道內繼續行駛。"
-      },
-      "C": {
-        "en": "Speed up to get out of the way.",
-        "zh-Hans": "加速以避开其道路。",
-        "zh-Hant": "加速以避開其道路。"
-      }
+      "A": { "en": "Pull to the right edge of the road and stop.", "zh-Hans": "靠右侧路缘停车。", "zh-Hant": "靠右側路緣停車。" },
+      "B": { "en": "Slow down and keep driving in your lane.", "zh-Hans": "减速并在车道内继续行驶。", "zh-Hant": "減速並在車道內繼續行駛。" },
+      "C": { "en": "Speed up to get out of the way.", "zh-Hans": "加速以避开其道路。", "zh-Hant": "加速以避開其道路。" }
     },
     "answer": "A",
     "explanation": {
@@ -1224,21 +840,9 @@
       "zh-Hant": "如果您的車在積水中發生「水上漂」，您應該："
     },
     "options": {
-      "A": {
-        "en": "Brake hard immediately.",
-        "zh-Hans": "立即猛踩刹车。",
-        "zh-Hant": "立即猛踩剎車。"
-      },
-      "B": {
-        "en": "Slow down gradually; do not apply brakes.",
-        "zh-Hans": "逐渐减速，不要踩刹车。",
-        "zh-Hant": "逐漸減速，不要踩剎車。"
-      },
-      "C": {
-        "en": "Turn the steering wheel quickly.",
-        "zh-Hans": "快速转动方向盘。",
-        "zh-Hant": "快速轉動方向盤。"
-      }
+      "A": { "en": "Brake hard immediately.", "zh-Hans": "立即猛踩刹车。", "zh-Hant": "立即猛踩剎車。" },
+      "B": { "en": "Slow down gradually; do not apply brakes.", "zh-Hans": "逐渐减速，不要踩刹车。", "zh-Hant": "逐漸減速，不要踩剎車。" },
+      "C": { "en": "Turn the steering wheel quickly.", "zh-Hans": "快速转动方向盘。", "zh-Hant": "快速轉動方向盤。" }
     },
     "answer": "B",
     "explanation": {
@@ -1262,21 +866,9 @@
       "zh-Hant": "環島內的交通流向是什麼方向？"
     },
     "options": {
-      "A": {
-        "en": "Clockwise.",
-        "zh-Hans": "顺时针。",
-        "zh-Hant": "順時針。"
-      },
-      "B": {
-        "en": "Counter-clockwise.",
-        "zh-Hans": "逆时针。",
-        "zh-Hant": "逆時針。"
-      },
-      "C": {
-        "en": "Whichever way is faster.",
-        "zh-Hans": "任何更快的方向。",
-        "zh-Hant": "任何更快的方向。"
-      }
+      "A": { "en": "Clockwise.", "zh-Hans": "顺时针。", "zh-Hant": "順時針。" },
+      "B": { "en": "Counter-clockwise.", "zh-Hans": "逆时针。", "zh-Hant": "逆時針。" },
+      "C": { "en": "Whichever way is faster.", "zh-Hans": "任何更快的方向。", "zh-Hant": "任何更快的方向。" }
     },
     "answer": "B",
     "explanation": {
@@ -1300,21 +892,9 @@
       "zh-Hant": "酒駕（DUI）記錄會在您的 DMV 檔案中保留多久？"
     },
     "options": {
-      "A": {
-        "en": "3 years.",
-        "zh-Hans": "3 年。",
-        "zh-Hant": "3 年。"
-      },
-      "B": {
-        "en": "7 years.",
-        "zh-Hans": "7 年。",
-        "zh-Hant": "7 年。"
-      },
-      "C": {
-        "en": "10 years.",
-        "zh-Hans": "10 年。",
-        "zh-Hant": "10 年。"
-      }
+      "A": { "en": "3 years.", "zh-Hans": "3 年。", "zh-Hant": "3 年。" },
+      "B": { "en": "7 years.", "zh-Hans": "7 年。", "zh-Hant": "7 年。" },
+      "C": { "en": "10 years.", "zh-Hans": "10 年。", "zh-Hant": "10 年。" }
     },
     "answer": "C",
     "explanation": {
@@ -1338,21 +918,9 @@
       "zh-Hant": "實心黃燈表示："
     },
     "options": {
-      "A": {
-        "en": "Stop immediately.",
-        "zh-Hans": "立即停车。",
-        "zh-Hant": "立即停車。"
-      },
-      "B": {
-        "en": "Stop if you can do so safely.",
-        "zh-Hans": "如果可以安全停车，请停车。",
-        "zh-Hant": "如果可以安全停車，請停車。"
-      },
-      "C": {
-        "en": "Speed up to beat the red light.",
-        "zh-Hans": "加速以赶在红灯前通过。",
-        "zh-Hant": "加速以趕在紅燈前通過。"
-      }
+      "A": { "en": "Stop immediately.", "zh-Hans": "立即停车。", "zh-Hant": "立即停車。" },
+      "B": { "en": "Stop if you can do so safely.", "zh-Hans": "如果可以安全停车，请停车。", "zh-Hant": "如果可以安全停車，請停車。" },
+      "C": { "en": "Speed up to beat the red light.", "zh-Hans": "加速以赶在红灯前通过。", "zh-Hant": "加速以趕在紅燈前通過。" }
     },
     "answer": "B",
     "explanation": {
@@ -1376,21 +944,9 @@
       "zh-Hant": "您絕不能駛離道路的主要行駛部分來超車："
     },
     "options": {
-      "A": {
-        "en": "Unless there is a paved shoulder.",
-        "zh-Hans": "除非路肩有铺砌过。",
-        "zh-Hant": "除非路肩有鋪砌過。"
-      },
-      "B": {
-        "en": "Under no circumstances.",
-        "zh-Hans": "在任何情况下。",
-        "zh-Hant": "在任何情況下。"
-      },
-      "C": {
-        "en": "Unless the car in front is turning left.",
-        "zh-Hans": "除非前方车辆正在左转。",
-        "zh-Hant": "除非前方車輛正在左轉。"
-      }
+      "A": { "en": "Unless there is a paved shoulder.", "zh-Hans": "除非路肩有铺砌过。", "zh-Hant": "除非路肩有鋪砌過。" },
+      "B": { "en": "Under no circumstances.", "zh-Hans": "在任何情况下。", "zh-Hant": "在任何情況下。" },
+      "C": { "en": "Unless the car in front is turning left.", "zh-Hans": "除非前方车辆正在左转。", "zh-Hant": "除非前方車輛正在左轉。" }
     },
     "answer": "B",
     "explanation": {
@@ -1414,21 +970,9 @@
       "zh-Hant": "如果駕駛員在 12 個月內累積多少分，會被視為「疏忽」？"
     },
     "options": {
-      "A": {
-        "en": "2 points.",
-        "zh-Hans": "2 分。",
-        "zh-Hant": "2 分。"
-      },
-      "B": {
-        "en": "4 points.",
-        "zh-Hans": "4 分。",
-        "zh-Hant": "4 分。"
-      },
-      "C": {
-        "en": "6 points.",
-        "zh-Hans": "6 分。",
-        "zh-Hant": "6 分。"
-      }
+      "A": { "en": "2 points.", "zh-Hans": "2 分。", "zh-Hant": "2 分。" },
+      "B": { "en": "4 points.", "zh-Hans": "4 分。", "zh-Hant": "4 分。" },
+      "C": { "en": "6 points.", "zh-Hans": "6 分。", "zh-Hant": "6 分。" }
     },
     "answer": "B",
     "explanation": {
@@ -1452,21 +996,9 @@
       "zh-Hant": "在私人車道前停車合法嗎？"
     },
     "options": {
-      "A": {
-        "en": "Yes, for up to 15 minutes.",
-        "zh-Hans": "合法，只要不超过 15 分钟。",
-        "zh-Hant": "合法，只要不超過 15 分鐘。"
-      },
-      "B": {
-        "en": "No, it is never legal.",
-        "zh-Hans": "不合法，绝不合法。",
-        "zh-Hant": "不合法，絕不合法。"
-      },
-      "C": {
-        "en": "Yes, if it is your own driveway.",
-        "zh-Hans": "合法，如果是您自己的车道。",
-        "zh-Hant": "合法，如果是您自己的車道。"
-      }
+      "A": { "en": "Yes, for up to 15 minutes.", "zh-Hans": "合法，只要不超过 15 分钟。", "zh-Hant": "合法，只要不超過 15 分鐘。" },
+      "B": { "en": "No, it is never legal.", "zh-Hans": "不合法，绝不合法。", "zh-Hant": "不合法，絕不合法。" },
+      "C": { "en": "Yes, if it is your own driveway.", "zh-Hans": "合法，如果是您自己的车道。", "zh-Hant": "合法，如果是您自己的車道。" }
     },
     "answer": "B",
     "explanation": {
@@ -1490,21 +1022,9 @@
       "zh-Hant": "方向盤上最佳的手握位置是："
     },
     "options": {
-      "A": {
-        "en": "10 and 2 o'clock.",
-        "zh-Hans": "10 点和 2 点位置。",
-        "zh-Hant": "10 點和 2 點位置。"
-      },
-      "B": {
-        "en": "9 and 3 o'clock.",
-        "zh-Hans": "9 点 and 3 点位置。",
-        "zh-Hant": "9 點 and 3 點位置。"
-      },
-      "C": {
-        "en": "12 and 6 o'clock.",
-        "zh-Hans": "12 点和 6 点位置。",
-        "zh-Hant": "12 點和 6 點位置。"
-      }
+      "A": { "en": "10 and 2 o'clock.", "zh-Hans": "10 点和 2 点位置。", "zh-Hant": "10 點和 2 點位置。" },
+      "B": { "en": "9 and 3 o'clock.", "zh-Hans": "9 点 and 3 点位置。", "zh-Hant": "9 點 and 3 點位置。" },
+      "C": { "en": "12 and 6 o'clock.", "zh-Hans": "12 点和 6 点位置。", "zh-Hant": "12 點和 6 點位置。" }
     },
     "answer": "B",
     "explanation": {
@@ -1528,21 +1048,9 @@
       "zh-Hant": "在盲端十字路口（視線受阻），限速是："
     },
     "options": {
-      "A": {
-        "en": "15 mph.",
-        "zh-Hans": "15 英里。",
-        "zh-Hant": "15 英哩。"
-      },
-      "B": {
-        "en": "25 mph.",
-        "zh-Hans": "25 英里。",
-        "zh-Hant": "25 英哩。"
-      },
-      "C": {
-        "en": "35 mph.",
-        "zh-Hans": "35 英里。",
-        "zh-Hant": "35 英哩。"
-      }
+      "A": { "en": "15 mph.", "zh-Hans": "15 英里。", "zh-Hant": "15 英哩。" },
+      "B": { "en": "25 mph.", "zh-Hans": "25 英里。", "zh-Hant": "25 英哩。" },
+      "C": { "en": "35 mph.", "zh-Hans": "35 英里。", "zh-Hant": "35 英哩。" }
     },
     "answer": "A",
     "explanation": {
@@ -1566,21 +1074,9 @@
       "zh-Hant": "白色路緣表示："
     },
     "options": {
-      "A": {
-        "en": "Loading zone for passengers or mail only.",
-        "zh-Hans": "仅限乘客上下车或投递邮件。",
-        "zh-Hant": "僅限乘客上下車或投遞郵件。"
-      },
-      "B": {
-        "en": "Loading zone for freight only.",
-        "zh-Hans": "仅限装卸货物。",
-        "zh-Hant": "僅限裝卸貨物。"
-      },
-      "C": {
-        "en": "No parking at any time.",
-        "zh-Hans": "任何时候禁止停车。",
-        "zh-Hant": "任何時候禁止停車。"
-      }
+      "A": { "en": "Loading zone for passengers or mail only.", "zh-Hans": "仅限乘客上下车或投递邮件。", "zh-Hant": "僅限乘客上下車或投遞郵件。" },
+      "B": { "en": "Loading zone for freight only.", "zh-Hans": "仅限装卸货物。", "zh-Hant": "僅限裝卸貨物。" },
+      "C": { "en": "No parking at any time.", "zh-Hans": "任何时候禁止停车。", "zh-Hant": "任何時候禁止停車。" }
     },
     "answer": "A",
     "explanation": {
@@ -1604,21 +1100,9 @@
       "zh-Hant": "超車後什麼時候應該回到右側車道？"
     },
     "options": {
-      "A": {
-        "en": "When you can see the headlights of the passed vehicle in your rearview mirror.",
-        "zh-Hans": "当您在后视镜中看到被超车辆的车灯时。",
-        "zh-Hant": "當您在後視鏡中看到被超車輛的車燈時。"
-      },
-      "B": {
-        "en": "As soon as you pass their front bumper.",
-        "zh-Hans": "一超过对方的前保险杠就立刻切回。",
-        "zh-Hant": "一超過對方的前保險槓就立刻切回。"
-      },
-      "C": {
-        "en": "When you are 50 feet ahead of them.",
-        "zh-Hans": "当您领先对方 50 英尺时。",
-        "zh-Hant": "當您領先對方 50 英呎時。"
-      }
+      "A": { "en": "When you can see the headlights of the passed vehicle in your rearview mirror.", "zh-Hans": "当您在后视镜中看到被超车辆的车灯时。", "zh-Hant": "當您在後視鏡中看到被超車輛的車燈時。" },
+      "B": { "en": "As soon as you pass their front bumper.", "zh-Hans": "一超过对方的前保险杠就立刻切回。", "zh-Hant": "一超過對方的前保險槓就立刻切回。" },
+      "C": { "en": "When you are 50 feet ahead of them.", "zh-Hans": "当您领先对方 50 英尺时。", "zh-Hant": "當您領先對方 50 英呎時。" }
     },
     "answer": "A",
     "explanation": {
@@ -1642,21 +1126,9 @@
       "zh-Hant": "如果您未滿 21 歲，「零容忍」政策下的酒精限額是："
     },
     "options": {
-      "A": {
-        "en": "0.01% or higher.",
-        "zh-Hans": "0.01% 或更高。",
-        "zh-Hant": "0.01% 或更高。"
-      },
-      "B": {
-        "en": "0.05% or higher.",
-        "zh-Hans": "0.05% 或更高。",
-        "zh-Hant": "0.05% 或更高。"
-      },
-      "C": {
-        "en": "0.08% or higher.",
-        "zh-Hans": "0.08% 或更高。",
-        "zh-Hant": "0.08% 或更高。"
-      }
+      "A": { "en": "0.01% or higher.", "zh-Hans": "0.01% 或更高。", "zh-Hant": "0.01% 或更高。" },
+      "B": { "en": "0.05% or higher.", "zh-Hans": "0.05% 或更高。", "zh-Hant": "0.05% 或更高。" },
+      "C": { "en": "0.08% or higher.", "zh-Hans": "0.08% 或更高。", "zh-Hant": "0.08% 或更高。" }
     },
     "answer": "A",
     "explanation": {
@@ -1680,21 +1152,9 @@
       "zh-Hant": "靠路緣停車時，車輪與路緣的距離必須在："
     },
     "options": {
-      "A": {
-        "en": "12 inches.",
-        "zh-Hans": "12 英寸内。",
-        "zh-Hant": "12 英吋內。"
-      },
-      "B": {
-        "en": "18 inches.",
-        "zh-Hans": "18 英寸内。",
-        "zh-Hant": "18 英吋內。"
-      },
-      "C": {
-        "en": "24 inches.",
-        "zh-Hans": "24 英寸内。",
-        "zh-Hant": "24 英吋內。"
-      }
+      "A": { "en": "12 inches.", "zh-Hans": "12 英寸内。", "zh-Hant": "12 英吋內。" },
+      "B": { "en": "18 inches.", "zh-Hans": "18 英寸内。", "zh-Hant": "18 英吋內。" },
+      "C": { "en": "24 inches.", "zh-Hans": "24 英寸内。", "zh-Hant": "24 英吋內。" }
     },
     "answer": "B",
     "explanation": {
@@ -1708,7 +1168,8 @@
       "analysis_zh-Hans": "手册解析：停得太远会占用行车道空间，增加被剐蹭的风险。",
       "analysis_zh-Hant": "手冊解析：停得太遠會佔用行車道空間，增加被刮蹭的風險。"
     }
-  },
+  }
+,
   {
     "id": 46,
     "category": "Literacy",
@@ -1718,21 +1179,9 @@
       "zh-Hant": "您什麼時候可以在自行車道上駕駛？"
     },
     "options": {
-      "A": {
-        "en": "Whenever there are no bicyclists present.",
-        "zh-Hans": "只要当时没有骑自行车的人。",
-        "zh-Hant": "只要當時沒有騎自行車的人。"
-      },
-      "B": {
-        "en": "To park your vehicle where it is permitted.",
-        "zh-Hans": "在允许的地方停车。",
-        "zh-Hant": "在允許的地方停車。"
-      },
-      "C": {
-        "en": "Within 200 feet of a right turn.",
-        "zh-Hans": "在右转前的 200 英尺内。",
-        "zh-Hant": "在右轉前的 200 英呎內。"
-      }
+      "A": { "en": "Whenever there are no bicyclists present.", "zh-Hans": "只要当时没有骑自行车的人。", "zh-Hant": "只要當時沒有騎自行車的人。" },
+      "B": { "en": "To park your vehicle where it is permitted.", "zh-Hans": "在允许的地方停车。", "zh-Hant": "在允許的地方停車。" },
+      "C": { "en": "Within 200 feet of a right turn.", "zh-Hans": "在右转前的 200 英尺内。", "zh-Hant": "在右轉前的 200 英呎內。" }
     },
     "answer": "C",
     "explanation": {
@@ -1756,21 +1205,9 @@
       "zh-Hant": "閃爍的黃燈信號意味著什麼？"
     },
     "options": {
-      "A": {
-        "en": "Stop and wait for the green light.",
-        "zh-Hans": "停车并等待绿灯。",
-        "zh-Hant": "停車並等待綠燈。"
-      },
-      "B": {
-        "en": "Proceed with caution.",
-        "zh-Hans": "减速并小心通过。",
-        "zh-Hant": "減速並小心通過。"
-      },
-      "C": {
-        "en": "Speed up to clear the intersection.",
-        "zh-Hans": "加速通过路口。",
-        "zh-Hant": "加速通過路口。"
-      }
+      "A": { "en": "Stop and wait for the green light.", "zh-Hans": "停车并等待绿灯。", "zh-Hant": "停車並等待綠燈。" },
+      "B": { "en": "Proceed with caution.", "zh-Hans": "减速并小心通过。", "zh-Hant": "減速並小心通過。" },
+      "C": { "en": "Speed up to clear the intersection.", "zh-Hans": "加速通过路口。", "zh-Hant": "加速通過路口。" }
     },
     "answer": "B",
     "explanation": {
@@ -1794,21 +1231,9 @@
       "zh-Hant": "在高速公路上，您可以跨越單條白色虛線："
     },
     "options": {
-      "A": {
-        "en": "Only in an emergency.",
-        "zh-Hans": "仅在紧急情况下。",
-        "zh-Hant": "僅在緊急情況下。"
-      },
-      "B": {
-        "en": "When it is safe to change lanes.",
-        "zh-Hans": "在安全变道时。",
-        "zh-Hant": "在安全變道時。"
-      },
-      "C": {
-        "en": "To enter the carpool lane.",
-        "zh-Hans": "为了进入拼车车道。",
-        "zh-Hant": "為了進入拼車車道。"
-      }
+      "A": { "en": "Only in an emergency.", "zh-Hans": "仅在紧急情况下。", "zh-Hant": "僅在緊急情況下。" },
+      "B": { "en": "When it is safe to change lanes.", "zh-Hans": "在安全变道时。", "zh-Hant": "在安全變道時。" },
+      "C": { "en": "To enter the carpool lane.", "zh-Hans": "为了进入拼车车道。", "zh-Hant": "為了進入拼車車道。" }
     },
     "answer": "B",
     "explanation": {
@@ -1832,21 +1257,9 @@
       "zh-Hant": "2026年更新：超越自行車時，必須保持至少多少間距？"
     },
     "options": {
-      "A": {
-        "en": "2 feet.",
-        "zh-Hans": "2 英尺。",
-        "zh-Hant": "2 英呎。"
-      },
-      "B": {
-        "en": "3 feet.",
-        "zh-Hans": "3 英尺。",
-        "zh-Hant": "3 英呎。"
-      },
-      "C": {
-        "en": "5 feet.",
-        "zh-Hans": "5 英尺。",
-        "zh-Hant": "5 英呎。"
-      }
+      "A": { "en": "2 feet.", "zh-Hans": "2 英尺。", "zh-Hant": "2 英呎。" },
+      "B": { "en": "3 feet.", "zh-Hans": "3 英尺。", "zh-Hant": "3 英呎。" },
+      "C": { "en": "5 feet.", "zh-Hans": "5 英尺。", "zh-Hant": "5 英呎。" }
     },
     "answer": "B",
     "explanation": {
@@ -1870,21 +1283,9 @@
       "zh-Hant": "除非另有標示，住宅區的限速是多少？"
     },
     "options": {
-      "A": {
-        "en": "15 mph.",
-        "zh-Hans": "15 英里。",
-        "zh-Hant": "15 英哩。"
-      },
-      "B": {
-        "en": "25 mph.",
-        "zh-Hans": "25 英里。",
-        "zh-Hant": "25 英哩。"
-      },
-      "C": {
-        "en": "30 mph.",
-        "zh-Hans": "30 英里。",
-        "zh-Hant": "30 英哩。"
-      }
+      "A": { "en": "15 mph.", "zh-Hans": "15 英里。", "zh-Hant": "15 英哩。" },
+      "B": { "en": "25 mph.", "zh-Hans": "25 英里。", "zh-Hant": "25 英哩。" },
+      "C": { "en": "30 mph.", "zh-Hans": "30 英里。", "zh-Hant": "30 英哩。" }
     },
     "answer": "B",
     "explanation": {
@@ -1908,21 +1309,9 @@
       "zh-Hant": "如果您捲入車禍，必須交換哪些信息？"
     },
     "options": {
-      "A": {
-        "en": "License and insurance only.",
-        "zh-Hans": "仅限驾照和保险。",
-        "zh-Hant": "僅限駕照和保險。"
-      },
-      "B": {
-        "en": "License, registration, and evidence of financial responsibility.",
-        "zh-Hans": "驾照、行驶证（车辆注册）以及保险证明。",
-        "zh-Hant": "駕照、行駛證（車輛註冊）以及保險證明。"
-      },
-      "C": {
-        "en": "Home address and phone number only.",
-        "zh-Hans": "仅限家庭住址和电话。",
-        "zh-Hant": "僅限家庭住址和電話。"
-      }
+      "A": { "en": "License and insurance only.", "zh-Hans": "仅限驾照和保险。", "zh-Hant": "僅限駕照和保險。" },
+      "B": { "en": "License, registration, and evidence of financial responsibility.", "zh-Hans": "驾照、行驶证（车辆注册）以及保险证明。", "zh-Hant": "駕照、行駛證（車輛註冊）以及保險證明。" },
+      "C": { "en": "Home address and phone number only.", "zh-Hans": "仅限家庭住址和电话。", "zh-Hant": "僅限家庭住址和電話。" }
     },
     "answer": "B",
     "explanation": {
@@ -1946,21 +1335,9 @@
       "zh-Hant": "一輛大卡車正準備右轉進入每向兩車道的街道，該卡車："
     },
     "options": {
-      "A": {
-        "en": "May need to swing wide to complete the turn.",
-        "zh-Hans": "可能需要向左外摆才能完成右转。",
-        "zh-Hant": "可能需要向左外擺才能完成右轉。"
-      },
-      "B": {
-        "en": "Must stay in the right lane at all times.",
-        "zh-Hans": "必须始终保持在右侧车道。",
-        "zh-Hant": "必須始終保持在右側車道。"
-      },
-      "C": {
-        "en": "Will stop before turning.",
-        "zh-Hans": "会在转弯前停车。",
-        "zh-Hant": "會在轉彎前停車。"
-      }
+      "A": { "en": "May need to swing wide to complete the turn.", "zh-Hans": "可能需要向左外摆才能完成右转。", "zh-Hant": "可能需要向左外擺才能完成右轉。" },
+      "B": { "en": "Must stay in the right lane at all times.", "zh-Hans": "必须始终保持在右侧车道。", "zh-Hant": "必須始終保持在右側車道。" },
+      "C": { "en": "Will stop before turning.", "zh-Hans": "会在转弯前停车。", "zh-Hant": "會在轉彎前停車。" }
     },
     "answer": "A",
     "explanation": {
@@ -1984,21 +1361,9 @@
       "zh-Hant": "您應該在什麼時候調整後視鏡？"
     },
     "options": {
-      "A": {
-        "en": "While driving at a steady speed.",
-        "zh-Hans": "在匀速驾驶时。",
-        "zh-Hant": "在勻速駕駛時。"
-      },
-      "B": {
-        "en": "Before you start driving.",
-        "zh-Hans": "在您开始驾驶之前。",
-        "zh-Hant": "在您開始駕駛之前。"
-      },
-      "C": {
-        "en": "Only if they get bumped.",
-        "zh-Hans": "只有当它们被碰到位移时。",
-        "zh-Hant": "只有當它們被碰到位移時。"
-      }
+      "A": { "en": "While driving at a steady speed.", "zh-Hans": "在匀速驾驶时。", "zh-Hant": "在勻速駕駛時。" },
+      "B": { "en": "Before you start driving.", "zh-Hans": "在您开始驾驶之前。", "zh-Hant": "在您開始駕駛之前。" },
+      "C": { "en": "Only if they get bumped.", "zh-Hans": "只有当它们被碰到位移时。", "zh-Hant": "只有當它們被碰到位移時。" }
     },
     "answer": "B",
     "explanation": {
@@ -2022,21 +1387,9 @@
       "zh-Hant": "如果您錯過了高速公路出口，您應該："
     },
     "options": {
-      "A": {
-        "en": "Back up on the shoulder.",
-        "zh-Hans": "在路肩倒车。",
-        "zh-Hant": "在路肩倒車。"
-      },
-      "B": {
-        "en": "Stop and make a U-turn.",
-        "zh-Hans": "停车并掉头。",
-        "zh-Hant": "停車並掉頭。"
-      },
-      "C": {
-        "en": "Continue to the next exit.",
-        "zh-Hans": "继续行驶到下一个出口。",
-        "zh-Hant": "繼續行駛到下一個出口。"
-      }
+      "A": { "en": "Back up on the shoulder.", "zh-Hans": "在路肩倒车。", "zh-Hant": "在路肩倒車。" },
+      "B": { "en": "Stop and make a U-turn.", "zh-Hans": "停车并掉头。", "zh-Hant": "停車並掉頭。" },
+      "C": { "en": "Continue to the next exit.", "zh-Hans": "继续行驶到下一个出口。", "zh-Hant": "繼續行駛到下一個出口。" }
     },
     "answer": "C",
     "explanation": {
@@ -2060,21 +1413,9 @@
       "zh-Hant": "2026新規：在什麼情況下駕駛員必須避讓「公共交通巴士」？"
     },
     "options": {
-      "A": {
-        "en": "The bus has a flashing 'YIELD' sign and is signaling to re-enter traffic.",
-        "zh-Hans": "大巴有闪烁的“让行”标志并示意重新进入车流时。",
-        "zh-Hant": "大巴有閃爍的「讓行」標誌並示意重新進入車流時。"
-      },
-      "B": {
-        "en": "Only during rush hour.",
-        "zh-Hans": "仅在高峰时段。",
-        "zh-Hant": "僅在高峰時段。"
-      },
-      "C": {
-        "en": "When the bus is parked.",
-        "zh-Hans": "当大巴停靠时。",
-        "zh-Hant": "當大巴停靠時。"
-      }
+      "A": { "en": "The bus has a flashing 'YIELD' sign and is signaling to re-enter traffic.", "zh-Hans": "大巴有闪烁的“让行”标志并示意重新进入车流时。", "zh-Hant": "大巴有閃爍的「讓行」標誌並示意重新進入車流時。" },
+      "B": { "en": "Only during rush hour.", "zh-Hans": "仅在高峰时段。", "zh-Hant": "僅在高峰時段。" },
+      "C": { "en": "When the bus is parked.", "zh-Hans": "当大巴停靠时。", "zh-Hant": "當大巴停靠時。" }
     },
     "answer": "A",
     "explanation": {
@@ -2098,21 +1439,9 @@
       "zh-Hant": "黃色菱形標誌代表什麼？"
     },
     "options": {
-      "A": {
-        "en": "Yield.",
-        "zh-Hans": "让行。",
-        "zh-Hant": "讓行。"
-      },
-      "B": {
-        "en": "Warning/Caution of road conditions ahead.",
-        "zh-Hans": "警告/提醒注意前方路况。",
-        "zh-Hant": "警告/提醒注意前方路況。"
-      },
-      "C": {
-        "en": "Stop.",
-        "zh-Hans": "停车。",
-        "zh-Hant": "停車。"
-      }
+      "A": { "en": "Yield.", "zh-Hans": "让行。", "zh-Hant": "讓行。" },
+      "B": { "en": "Warning/Caution of road conditions ahead.", "zh-Hans": "警告/提醒注意前方路况。", "zh-Hant": "警告/提醒注意前方路況。" },
+      "C": { "en": "Stop.", "zh-Hans": "停车。", "zh-Hant": "停車。" }
     },
     "answer": "B",
     "explanation": {
@@ -2136,21 +1465,9 @@
       "zh-Hant": "夜間駕駛時，您應該在何時使用遠光燈？"
     },
     "options": {
-      "A": {
-        "en": "In open country or dark city streets whenever possible.",
-        "zh-Hans": "在旷野或黑暗的街道上，只要可行即可使用。",
-        "zh-Hant": "在曠野或黑暗的街道上，只要可行即可使用。"
-      },
-      "B": {
-        "en": "To alert oncoming drivers of your presence.",
-        "zh-Hans": "为了提醒对向驾驶员您的存在。",
-        "zh-Hant": "為了提醒對向駕駛員您的存在。"
-      },
-      "C": {
-        "en": "Whenever you are behind another vehicle.",
-        "zh-Hans": "只要在另一辆车后方行驶时。",
-        "zh-Hant": "只要在另一輛車後方行駛時。"
-      }
+      "A": { "en": "In open country or dark city streets whenever possible.", "zh-Hans": "在旷野或黑暗的街道上，只要可行即可使用。", "zh-Hant": "在曠野或黑暗的街道上，只要可行即可使用。" },
+      "B": { "en": "To alert oncoming drivers of your presence.", "zh-Hans": "为了提醒对向驾驶员您的存在。", "zh-Hant": "為了提醒對向駕駛員您的存在。" },
+      "C": { "en": "Whenever you are behind another vehicle.", "zh-Hans": "只要在另一辆车后方行驶时。", "zh-Hant": "只要在另一輛車後方行駛時。" }
     },
     "answer": "A",
     "explanation": {
@@ -2174,21 +1491,9 @@
       "zh-Hant": "您正接近一個沒有警報裝置的鐵路道口，限速是："
     },
     "options": {
-      "A": {
-        "en": "15 mph.",
-        "zh-Hans": "15 英里。",
-        "zh-Hant": "15 英哩。"
-      },
-      "B": {
-        "en": "20 mph.",
-        "zh-Hans": "20 英里。",
-        "zh-Hant": "20 英哩。"
-      },
-      "C": {
-        "en": "25 mph.",
-        "zh-Hans": "25 英里。",
-        "zh-Hant": "25 英哩。"
-      }
+      "A": { "en": "15 mph.", "zh-Hans": "15 英里。", "zh-Hant": "15 英哩。" },
+      "B": { "en": "20 mph.", "zh-Hans": "20 英里。", "zh-Hant": "20 英哩。" },
+      "C": { "en": "25 mph.", "zh-Hans": "25 英里。", "zh-Hant": "25 英哩。" }
     },
     "answer": "A",
     "explanation": {
@@ -2212,21 +1517,9 @@
       "zh-Hant": "什麼是「三秒法則」？"
     },
     "options": {
-      "A": {
-        "en": "The time you should stop at a stop sign.",
-        "zh-Hans": "在停止标志前停车的时间。",
-        "zh-Hant": "在停止標誌前停車的時間。"
-      },
-      "B": {
-        "en": "The minimum following distance from the car in front.",
-        "zh-Hans": "与前车保持的最小跟车距离。",
-        "zh-Hant": "與前車保持的最小跟車距離。"
-      },
-      "C": {
-        "en": "The duration of a yellow light.",
-        "zh-Hans": "黄灯持续的时间。",
-        "zh-Hant": "黃燈持續的時間。"
-      }
+      "A": { "en": "The time you should stop at a stop sign.", "zh-Hans": "在停止标志前停车的时间。", "zh-Hant": "在停止標誌前停車的時間。" },
+      "B": { "en": "The minimum following distance from the car in front.", "zh-Hans": "与前车保持的最小跟车距离。", "zh-Hant": "與前車保持的最小跟車距離。" },
+      "C": { "en": "The duration of a yellow light.", "zh-Hans": "黄灯持续的时间。", "zh-Hant": "黃燈持續的時間。" }
     },
     "answer": "B",
     "explanation": {
@@ -2250,21 +1543,9 @@
       "zh-Hant": "什麼時候可以合法使用「避車區（Turnout）」？"
     },
     "options": {
-      "A": {
-        "en": "To allow faster traffic to pass when 5 or more vehicles are behind you.",
-        "zh-Hans": "当您身后有 5 辆或更多车辆，且想让快车通过时。",
-        "zh-Hant": "當您身後有 5 輛或更多車輛，且想讓快車通過時。"
-      },
-      "B": {
-        "en": "To park and take pictures of the view.",
-        "zh-Hans": "停下来观赏风景照相。",
-        "zh-Hant": "停下來觀賞風景照相。"
-      },
-      "C": {
-        "en": "To pass a slow-moving truck.",
-        "zh-Hans": "为了超越一辆慢速卡车。",
-        "zh-Hant": "為了超越一輛慢速卡車。"
-      }
+      "A": { "en": "To allow faster traffic to pass when 5 or more vehicles are behind you.", "zh-Hans": "当您身后有 5 辆或更多车辆，且想让快车通过时。", "zh-Hant": "當您身後有 5 輛或更多車輛，且想讓快車通過時。" },
+      "B": { "en": "To park and take pictures of the view.", "zh-Hans": "停下来观赏风景照相。", "zh-Hant": "停下來觀賞風景照相。" },
+      "C": { "en": "To pass a slow-moving truck.", "zh-Hans": "为了超越一辆慢速卡车。", "zh-Hant": "為了超越一輛慢速卡車。" }
     },
     "answer": "A",
     "explanation": {
@@ -2288,21 +1569,9 @@
       "zh-Hant": "車輛上掛有橙色三角形標誌表示："
     },
     "options": {
-      "A": {
-        "en": "The vehicle is carrying hazardous materials.",
-        "zh-Hans": "该车装载危险物品。",
-        "zh-Hant": "該車裝載危險物品。"
-      },
-      "B": {
-        "en": "Slow-moving vehicle (travels less than 25 mph).",
-        "zh-Hans": "慢速行驶车辆（速度低于 25 英里）。",
-        "zh-Hant": "慢速行駛車輛（速度低於 25 英哩）。"
-      },
-      "C": {
-        "en": "The vehicle has a student driver.",
-        "zh-Hans": "该车是教练车。",
-        "zh-Hant": "該車是教練車。"
-      }
+      "A": { "en": "The vehicle is carrying hazardous materials.", "zh-Hans": "该车装载危险物品。", "zh-Hant": "該車裝載危險物品。" },
+      "B": { "en": "Slow-moving vehicle (travels less than 25 mph).", "zh-Hans": "慢速行驶车辆（速度低于 25 英里）。", "zh-Hant": "慢速行駛車輛（速度低於 25 英哩）。" },
+      "C": { "en": "The vehicle has a student driver.", "zh-Hans": "该车是教练车。", "zh-Hant": "該車是教練車。" }
     },
     "answer": "B",
     "explanation": {
@@ -2326,21 +1595,9 @@
       "zh-Hant": "如果您未滿 21 歲且被發現車內攜帶酒精："
     },
     "options": {
-      "A": {
-        "en": "Your vehicle may be impounded for up to 30 days.",
-        "zh-Hans": "您的车辆可能会被扣押最长 30 天。",
-        "zh-Hant": "您的車輛可能會被扣押最長 30 天。"
-      },
-      "B": {
-        "en": "You will get a warning.",
-        "zh-Hans": "您会得到一次警告。",
-        "zh-Hant": "您會得到一次警告。"
-      },
-      "C": {
-        "en": "It is legal if the container is sealed.",
-        "zh-Hans": "只要容器是密封的就合法。",
-        "zh-Hant": "只要容器是密封的就合法。"
-      }
+      "A": { "en": "Your vehicle may be impounded for up to 30 days.", "zh-Hans": "您的车辆可能会被扣押最长 30 天。", "zh-Hant": "您的車輛可能會被扣押最長 30 天。" },
+      "B": { "en": "You will get a warning.", "zh-Hans": "您会得到一次警告。", "zh-Hant": "您會得到一次警告。" },
+      "C": { "en": "It is legal if the container is sealed.", "zh-Hans": "只要容器是密封的就合法。", "zh-Hant": "只要容器是密封的就合法。" }
     },
     "answer": "A",
     "explanation": {
@@ -2364,21 +1621,9 @@
       "zh-Hant": "2026年更新：乘客在車內飲酒或吸食大麻是否合法？"
     },
     "options": {
-      "A": {
-        "en": "Yes, as long as they are not the driver.",
-        "zh-Hans": "合法，只要不是驾驶员。",
-        "zh-Hant": "合法，只要不是駕駛員。"
-      },
-      "B": {
-        "en": "No, it is illegal for anyone in the vehicle.",
-        "zh-Hans": "不合法，车内的任何人都不行。",
-        "zh-Hant": "不合法，車內的任何人都不行。"
-      },
-      "C": {
-        "en": "Only on private roads.",
-        "zh-Hans": "仅在私人道路上可以。",
-        "zh-Hant": "僅在私人道路上可以。"
-      }
+      "A": { "en": "Yes, as long as they are not the driver.", "zh-Hans": "合法，只要不是驾驶员。", "zh-Hant": "合法，只要不是駕駛員。" },
+      "B": { "en": "No, it is illegal for anyone in the vehicle.", "zh-Hans": "不合法，车内的任何人都不行。", "zh-Hant": "不合法，車內的任何人都不行。" },
+      "C": { "en": "Only on private roads.", "zh-Hans": "仅在私人道路上可以。", "zh-Hant": "僅在私人道路上可以。" }
     },
     "answer": "B",
     "explanation": {
@@ -2402,21 +1647,9 @@
       "zh-Hant": "在沒有標誌的 T 字路口，誰擁有優先權？"
     },
     "options": {
-      "A": {
-        "en": "Traffic on the through road.",
-        "zh-Hans": "直通道路上的交通。",
-        "zh-Hant": "直通路面上的交通。"
-      },
-      "B": {
-        "en": "The vehicle on the right.",
-        "zh-Hans": "右侧的车辆。",
-        "zh-Hant": "右側的車輛。"
-      },
-      "C": {
-        "en": "The vehicle that arrives first.",
-        "zh-Hans": "先到达的车辆。",
-        "zh-Hant": "先到達的車輛。"
-      }
+      "A": { "en": "Traffic on the through road.", "zh-Hans": "直通道路上的交通。", "zh-Hant": "直通路面上的交通。" },
+      "B": { "en": "The vehicle on the right.", "zh-Hans": "右侧的车辆。", "zh-Hant": "右側的車輛。" },
+      "C": { "en": "The vehicle that arrives first.", "zh-Hans": "先到达的车辆。", "zh-Hant": "先到達的車輛。" }
     },
     "answer": "A",
     "explanation": {
@@ -2440,21 +1673,9 @@
       "zh-Hant": "如果駕駛時剎車失靈，您應該："
     },
     "options": {
-      "A": {
-        "en": "Shift to neutral and turn off the engine.",
-        "zh-Hans": "换入空档并关闭发动机。",
-        "zh-Hant": "換入空檔並關閉發動機。"
-      },
-      "B": {
-        "en": "Downshift to a lower gear and pump the brake pedal.",
-        "zh-Hans": "换入低档位并连续踩踏（抽打）刹车踏板。",
-        "zh-Hant": "換入低檔位並連續踩踏（抽打）剎車踏板。"
-      },
-      "C": {
-        "en": "Pull the emergency brake as hard as possible immediately.",
-        "zh-Hans": "立即全力拉起紧急制动器。",
-        "zh-Hant": "立即全力拉起緊急制動器。"
-      }
+      "A": { "en": "Shift to neutral and turn off the engine.", "zh-Hans": "换入空档并关闭发动机。", "zh-Hant": "換入空檔並關閉發動機。" },
+      "B": { "en": "Downshift to a lower gear and pump the brake pedal.", "zh-Hans": "换入低档位并连续踩踏（抽打）刹车踏板。", "zh-Hant": "換入低檔位並連續踩踏（抽打）剎車踏板。" },
+      "C": { "en": "Pull the emergency brake as hard as possible immediately.", "zh-Hans": "立即全力拉起紧急制动器。", "zh-Hant": "立即全力拉起緊急制動器。" }
     },
     "answer": "B",
     "explanation": {
@@ -2478,21 +1699,9 @@
       "zh-Hant": "18歲以上的駕駛員何時可以合法使用免提手機？"
     },
     "options": {
-      "A": {
-        "en": "At any time.",
-        "zh-Hans": "任何时候。",
-        "zh-Hant": "任何時候。"
-      },
-      "B": {
-        "en": "Only for emergency calls.",
-        "zh-Hans": "仅用于紧急通话。",
-        "zh-Hant": "僅用於緊急通話。"
-      },
-      "C": {
-        "en": "Only if the phone is mounted and requires only a single swipe/tap.",
-        "zh-Hans": "仅在手机已固定且只需单次滑动/点擊时。",
-        "zh-Hant": "僅在手機已固定且只需單次滑動/點擊時。"
-      }
+      "A": { "en": "At any time.", "zh-Hans": "任何时候。", "zh-Hant": "任何時候。" },
+      "B": { "en": "Only for emergency calls.", "zh-Hans": "仅用于紧急通话。", "zh-Hant": "僅用於緊急通話。" },
+      "C": { "en": "Only if the phone is mounted and requires only a single swipe/tap.", "zh-Hans": "仅在手机已固定且只需單次滑動/點擊時。", "zh-Hant": "僅在手機已固定且只需單次滑動/點擊時。" }
     },
     "answer": "C",
     "explanation": {
@@ -2516,21 +1725,9 @@
       "zh-Hant": "五邊形標誌（像小房子）表示什麼？"
     },
     "options": {
-      "A": {
-        "en": "Hospital ahead.",
-        "zh-Hans": "前方有医院。",
-        "zh-Hant": "前方有醫院。"
-      },
-      "B": {
-        "en": "School zone or school crossing.",
-        "zh-Hans": "学校区域或学生过马路道口。",
-        "zh-Hant": "學校區域或學生過馬路道口。"
-      },
-      "C": {
-        "en": "No passing zone.",
-        "zh-Hans": "禁止超车区。",
-        "zh-Hant": "禁止超車區。"
-      }
+      "A": { "en": "Hospital ahead.", "zh-Hans": "前方有医院。", "zh-Hant": "前方有醫院。" },
+      "B": { "en": "School zone or school crossing.", "zh-Hans": "学校区域或学生过马路道口。", "zh-Hant": "學校區域或學生過馬路道口。" },
+      "C": { "en": "No passing zone.", "zh-Hans": "禁止超车区。", "zh-Hant": "禁止超車區。" }
     },
     "answer": "B",
     "explanation": {
@@ -2554,21 +1751,9 @@
       "zh-Hant": "您在單行道上駕駛。只有在什麼情況下您才可以左轉進入另一條單行道？"
     },
     "options": {
-      "A": {
-        "en": "The traffic moves to the left.",
-        "zh-Hans": "交通流量是向左移动的。",
-        "zh-Hant": "交通流量是向左移動的。"
-      },
-      "B": {
-        "en": "There is a green arrow.",
-        "zh-Hans": "有绿箭头时。",
-        "zh-Hant": "有綠箭頭時。"
-      },
-      "C": {
-        "en": "Always, after stopping at a red light.",
-        "zh-Hans": "在红灯停车后，任何时候都可以。",
-        "zh-Hant": "在紅燈停車後，任何時候都可以。"
-      }
+      "A": { "en": "The traffic moves to the left.", "zh-Hans": "交通流量是向左移动的。", "zh-Hant": "交通流量是向左移動的。" },
+      "B": { "en": "There is a green arrow.", "zh-Hans": "有绿箭头时。", "zh-Hant": "有綠箭頭時。" },
+      "C": { "en": "Always, after stopping at a red light.", "zh-Hans": "在红灯停车后，任何时候都可以。", "zh-Hant": "在紅燈停車後，任何時候都可以。" }
     },
     "answer": "A",
     "explanation": {
@@ -2592,21 +1777,9 @@
       "zh-Hant": "如果您撞到一輛停著的車且找不到車主，您必須："
     },
     "options": {
-      "A": {
-        "en": "Leave a note with your name and address and report the accident to the police.",
-        "zh-Hans": "留下写有姓名、地址的纸条，并向警方报告事故。",
-        "zh-Hant": "留下寫有姓名、地址的紙條，並向警方報告事故。"
-      },
-      "B": {
-        "en": "Wait for 30 minutes, then leave.",
-        "zh-Hans": "等待 30 分钟，然后离开。",
-        "zh-Hant": "等待 30 分鐘，然後離開。"
-      },
-      "C": {
-        "en": "Drive away if there is no visible damage.",
-        "zh-Hans": "如果没有可见损伤就直接开车走。",
-        "zh-Hant": "如果沒有可見損傷就直接開車走。"
-      }
+      "A": { "en": "Leave a note with your name and address and report the accident to the police.", "zh-Hans": "留下写有姓名、地址的纸条，并向警方报告事故。", "zh-Hant": "留下寫有姓名、地址的紙條，並向警方報告事故。" },
+      "B": { "en": "Wait for 30 minutes, then leave.", "zh-Hans": "等待 30 分钟，然后离开。", "zh-Hant": "等待 30 分鐘，然後離開。" },
+      "C": { "en": "Drive away if there is no visible damage.", "zh-Hans": "如果没有可见损伤就直接开车走。", "zh-Hant": "如果沒有可見損傷就直接開車走。" }
     },
     "answer": "A",
     "explanation": {
@@ -2630,21 +1803,9 @@
       "zh-Hant": "下雨剛開始時，為什麼路面最危險？"
     },
     "options": {
-      "A": {
-        "en": "After it has been raining for several hours.",
-        "zh-Hans": "下雨几个小时后。",
-        "zh-Hant": "下雨幾個小時後。"
-      },
-      "B": {
-        "en": "The first few minutes of a rainstorm.",
-        "zh-Hans": "下雨的最初几分钟。",
-        "zh-Hant": "下雨的最初幾分鐘。"
-      },
-      "C": {
-        "en": "When the rain turns into a heavy downpour.",
-        "zh-Hans": "当大雨倾盆时。",
-        "zh-Hant": "當大雨傾盆時。"
-      }
+      "A": { "en": "After it has been raining for several hours.", "zh-Hans": "下雨几个小时后。", "zh-Hant": "下雨幾個小時後。" },
+      "B": { "en": "The first few minutes of a rainstorm.", "zh-Hans": "下雨的最初几分钟。", "zh-Hant": "下雨的最初幾分鐘。" },
+      "C": { "en": "When the rain turns into a heavy downpour.", "zh-Hans": "当大雨倾盆时。", "zh-Hant": "當大雨傾盆時。" }
     },
     "answer": "B",
     "explanation": {

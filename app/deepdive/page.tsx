@@ -6,6 +6,7 @@ import { Button } from '@/components/ui/button'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Label } from '@/components/ui/label'
 import { addWrongQuestion } from '@/lib/wrong-questions'
+import { getProgress, saveProgress } from '@/lib/progress'
 
 interface Question {
   id: number
@@ -44,11 +45,13 @@ export default function DeepDivePage() {
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
   const [mounted, setMounted] = useState(false)
+  const [progressLoaded, setProgressLoaded] = useState(false)
 
+  // Load questions and restore progress
   useEffect(() => {
     setMounted(true)
     setLoading(true)
-    fetch('/data/cdl-air-brakes.json')
+    fetch('/data/questions-deepdive.json')
       .then(res => {
         if (!res.ok) {
           throw new Error(`HTTP error! status: ${res.status}`)
@@ -57,6 +60,13 @@ export default function DeepDivePage() {
       })
       .then(data => {
         setQuestions(data)
+        // Restore saved progress after questions are loaded
+        const savedProgress = getProgress('deepdive')
+        if (savedProgress && savedProgress.currentIndex < data.length) {
+          setCurrentIndex(savedProgress.currentIndex)
+          setScore(savedProgress.score)
+        }
+        setProgressLoaded(true)
         setLoading(false)
       })
       .catch(err => {
@@ -65,6 +75,13 @@ export default function DeepDivePage() {
         setLoading(false)
       })
   }, [])
+
+  // Save progress when currentIndex or score changes
+  useEffect(() => {
+    if (progressLoaded && questions.length > 0) {
+      saveProgress('deepdive', currentIndex, score)
+    }
+  }, [currentIndex, score, progressLoaded, questions.length])
 
   if (!mounted || loading) {
     return (
@@ -193,7 +210,7 @@ export default function DeepDivePage() {
             <div className="flex-1">
               <h1 className="text-xl sm:text-2xl md:text-3xl font-bold flex items-center gap-2">
                 <span className="animate-bounce-subtle">🎯</span>
-                <span className="gradient-text">气制动 (Air Brakes)</span>
+                <span className="gradient-text">专项突破 (Deep Dive)</span>
               </h1>
               <p className="text-sm text-muted-foreground mt-1">
                 正确率: {score.total > 0 ? Math.round((score.correct / score.total) * 100) : 0}%

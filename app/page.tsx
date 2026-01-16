@@ -8,37 +8,37 @@ import { getWrongQuestionsCount } from '@/lib/wrong-questions'
 
 const translations = {
   en: {
-    mainTitle: "2026 California CDL Practice Test",
-    subtitle: "Class A & B Commercial Driver License Prep",
-    questionCount: "Question Bank: 300+ Questions | Choose Your Learning Mode",
+    mainTitle: "2026 California DMV Written Test",
+    subtitle: "California Driver License Practice",
+    questionCount: "Question Bank: 305 Questions | Choose Your Learning Mode",
     modes: {
       basics: {
-        title: "General Knowledge",
-        subtitle: "必考通用知识",
-        count: "Exam Essentials",
-        tags: "Regulations + Safety + Cargo",
-        desc: "Compulsory for all CDL applicants. Covers vehicle inspection, basic control, and safe driving."
+        title: "The Basics",
+        subtitle: "扫盲模式",
+        count: "70 Questions",
+        tags: "Basic Signs + Core Numbers",
+        desc: "Perfect for beginners. Build confidence and master the most fundamental traffic knowledge."
       },
       deepDive: {
-        title: "Air Brakes",
-        subtitle: "气制动",
-        count: "25 Questions",
-        tags: "Air Brakes System",
-        desc: "Essential for Class A & B. Master the air brake system parts and safety checks."
+        title: "Deep Dive",
+        subtitle: "专项突破",
+        count: "137 Questions",
+        tags: "Rules + Safety + Laws",
+        desc: "Master detailed traffic rules, safety knowledge, and California driving laws."
       },
       combination: {
-        title: "Combination",
-        subtitle: "组合车辆",
-        count: "20 Questions",
-        tags: "Octopus / Trailer",
-        desc: "Essential for Class A. Coupling, uncoupling, and driving with trailers."
+        title: "Tricky Questions",
+        subtitle: "易错精选",
+        count: "98 Questions",
+        tags: "High Error Rate",
+        desc: "Collection of commonly missed questions. Conquer these to boost your score!"
       },
       mockExam: {
         title: "Mock Exam",
         subtitle: "全真模拟",
         count: "Random 36 Questions",
-        tags: "Full CDL Simulation",
-        desc: "Real exam experience, mixed questions from all categories. Aim for 90%+ accuarcy."
+        tags: "Full DMV Simulation",
+        desc: "Real exam experience, mixed questions from all categories. Aim for 83%+ accuracy."
       },
       wrongBook: {
         title: "Mistake Book",
@@ -50,52 +50,52 @@ const translations = {
       trafficSigns: {
         title: "Traffic Signs",
         subtitle: "交通标志",
-        count: "All Signs",
+        count: "98 Signs",
         tags: "Visual Recognition",
         desc: "Master all California traffic signs, essential for passing the exam"
       }
     },
     suggestions: {
       title: "💡 Learning Suggestions",
-      beginner: "Step 1: Start with 'General Knowledge' - this is the foundation for everyone.",
-      intermediate: "Step 2: Tackle 'Air Brakes' and 'Combination Vehicles' (for Class A).",
-      advanced: "Step 3: Take 'Mock Exams' until you consistently score above 80%.",
+      beginner: "Step 1: Start with 'The Basics' - build your foundation.",
+      intermediate: "Step 2: Tackle 'Deep Dive' for detailed rules and laws.",
+      advanced: "Step 3: Take 'Mock Exams' until you consistently score above 83%.",
       review: "Review: Use the 'Mistake Book' to fix persistent errors."
     },
     viewAll: "View All Mistakes"
   },
   'zh-CN': {
-    mainTitle: "2026加州CDL商业驾照笔试",
-    subtitle: "California Commercial Driver License Practice",
-    questionCount: "题库共 300+ 题 | 选择您的学习模式",
+    mainTitle: "2026加州驾照笔试题目",
+    subtitle: "California DMV Written Test Practice",
+    questionCount: "题库共 305 题 | 选择您的学习模式",
     modes: {
       basics: {
-        title: "通用知识",
-        subtitle: "General Knowledge",
-        count: "必考核心",
-        tags: "法规 + 安全 + 货物",
-        desc: "所有CDL申请人必考内容。涵盖车辆检查、基本控制、安全驾驶等。"
+        title: "扫盲模式",
+        subtitle: "The Basics",
+        count: "70题",
+        tags: "基础标志 + 核心数字",
+        desc: "适合零基础学员，建立信心，掌握最基本的交通知识"
       },
       deepDive: {
-        title: "气制动",
-        subtitle: "Air Brakes",
-        count: "25题",
-        tags: "气刹系统",
-        desc: "A/B类驾照必考。掌握气制动系统原理、检查及故障排除。",
+        title: "专项突破",
+        subtitle: "Deep Dive",
+        count: "137题",
+        tags: "规则 + 安全 + 法规",
+        desc: "深入学习交通规则、安全知识和加州驾驶法规"
       },
       combination: {
-        title: "组合车辆",
-        subtitle: "Combination",
-        count: "20题",
-        tags: "拖挂车",
-        desc: "A类驾照必考。掌握挂车的连接及驾驶技巧。",
+        title: "易错精选",
+        subtitle: "Tricky Questions",
+        count: "98题",
+        tags: "高错误率题目",
+        desc: "常见错题集锦，攻克这些题目提升分数！"
       },
       mockExam: {
         title: "全真模拟",
         subtitle: "Mock Exam",
-        count: "随机抽题",
-        tags: "完全模拟CDL考试",
-        desc: "真实考试体验，混合各类题目。连续3次90%+，实战必过！"
+        count: "随机抽36题",
+        tags: "完全模拟DMV考试",
+        desc: "真实考试体验，混合各类题目。连续3次83%+，实战必过！"
       },
       wrongBook: {
         title: "错题本",
@@ -107,52 +107,52 @@ const translations = {
       trafficSigns: {
         title: "交通标志",
         subtitle: "Traffic Signs",
-        count: "全标致",
+        count: "98个标志",
         tags: "图像识别",
         desc: "掌握加州所有交通标志，考试必考内容"
       }
     },
     suggestions: {
       title: "💡 学习建议",
-      beginner: "第一步: 先拿下「通用知识」(General Knowledge)，这是所有人的必考项。",
-      intermediate: "第二步: 攻克「气制动」和「组合车辆」(Class A必考)，这是难点。",
-      advanced: "第三步: 多次「全真模拟」，确保分项和混考都能达到80%以上。",
+      beginner: "第一步: 先从「扫盲模式」开始，打好基础。",
+      intermediate: "第二步: 攻克「专项突破」，深入学习规则法规。",
+      advanced: "第三步: 多次「全真模拟」，确保能达到83%以上。",
       review: "复习: 利用「错题本」消除顽固错误。"
     },
     viewAll: "清空错题本"
   },
   'zh-TW': {
-    mainTitle: "2026加州CDL商業駕照筆試",
-    subtitle: "California Commercial Driver License Practice",
-    questionCount: "題庫共 300+ 題 | 選擇您的學習模式",
+    mainTitle: "2026加州駕照筆試題目",
+    subtitle: "California DMV Written Test Practice",
+    questionCount: "題庫共 305 題 | 選擇您的學習模式",
     modes: {
       basics: {
-        title: "通用知識",
-        subtitle: "General Knowledge",
-        count: "必考核心",
-        tags: "法規 + 安全 + 貨物",
-        desc: "所有CDL申請人必考內容。涵蓋車輛檢查、基本控制、安全駕駛等。"
+        title: "掃盲模式",
+        subtitle: "The Basics",
+        count: "70題",
+        tags: "基礎標誌 + 核心數字",
+        desc: "適合零基礎學員，建立信心，掌握最基本的交通知識"
       },
       deepDive: {
-        title: "氣制動",
-        subtitle: "Air Brakes",
-        count: "25題",
-        tags: "氣剎系統",
-        desc: "A/B類駕照必考。掌握氣制動系統原理、檢查及故障排除。"
+        title: "專項突破",
+        subtitle: "Deep Dive",
+        count: "137題",
+        tags: "規則 + 安全 + 法規",
+        desc: "深入學習交通規則、安全知識和加州駕駛法規"
       },
       combination: {
-        title: "組合車輛",
-        subtitle: "Combination",
-        count: "20題",
-        tags: "拖掛車",
-        desc: "A類駕照必考。掌握掛車的連接及駕駛技巧。"
+        title: "易錯精選",
+        subtitle: "Tricky Questions",
+        count: "98題",
+        tags: "高錯誤率題目",
+        desc: "常見錯題集錦，攻克這些題目提升分數！"
       },
       mockExam: {
         title: "全真模擬",
         subtitle: "Mock Exam",
-        count: "隨機抽題",
-        tags: "完全模擬CDL考試",
-        desc: "真實考試體驗，混合各類題目。連續3次90%+，實戰必過！"
+        count: "隨機抽36題",
+        tags: "完全模擬DMV考試",
+        desc: "真實考試體驗，混合各類題目。連續3次83%+，實戰必過！"
       },
       wrongBook: {
         title: "錯題本",
@@ -164,16 +164,16 @@ const translations = {
       trafficSigns: {
         title: "交通標誌",
         subtitle: "Traffic Signs",
-        count: "全標誌",
+        count: "98個標誌",
         tags: "圖像識別",
         desc: "掌握加州所有交通標誌，考試必考內容"
       }
     },
     suggestions: {
       title: "💡 學習建議",
-      beginner: "第一步: 先拿下「通用知識」(General Knowledge)，這是所有人的必考項。",
-      intermediate: "第二步: 攻克「氣制動」和「組合車輛」(Class A必考)，這是難點。",
-      advanced: "第三步: 多次「全真模擬」，確保分項和混考都能達到80%以上。",
+      beginner: "第一步: 先從「掃盲模式」開始，打好基礎。",
+      intermediate: "第二步: 攻克「專項突破」，深入學習規則法規。",
+      advanced: "第三步: 多次「全真模擬」，確保能達到83%以上。",
       review: "複習: 利用「錯題本」消除頑固錯誤。"
     },
     viewAll: "清空錯題本"
@@ -195,20 +195,11 @@ const modeConfigs = [
   {
     key: 'deepDive',
     href: '/deepdive',
-    icon: '💨',
+    icon: '🎯',
     color: 'from-blue-400 to-indigo-500',
     hoverColor: 'group-hover:shadow-blue-500/30',
     badgeColor: 'bg-blue-50 text-blue-700 dark:bg-blue-900/30 dark:text-blue-300',
     tagColor: 'text-indigo-600 dark:text-indigo-400'
-  },
-  {
-    key: 'combination',
-    href: '/combination',
-    icon: '🚛',
-    color: 'from-orange-400 to-red-500',
-    hoverColor: 'group-hover:shadow-orange-500/30',
-    badgeColor: 'bg-orange-50 text-orange-700 dark:bg-orange-900/30 dark:text-orange-300',
-    tagColor: 'text-red-600 dark:text-red-400'
   },
   {
     key: 'mockExam',
@@ -284,8 +275,8 @@ export default function Home() {
         <div className="container mx-auto px-4 py-3 flex items-center justify-between">
           {/* Logo */}
           <div className="flex items-center gap-2">
-            <span className="text-2xl">🚛</span>
-            <span className="font-bold text-lg hidden sm:inline gradient-text">California CDL Prep</span>
+            <span className="text-2xl">🚗</span>
+            <span className="font-bold text-lg hidden sm:inline gradient-text">California DMV Prep</span>
           </div>
 
           {/* Controls */}
@@ -331,8 +322,8 @@ export default function Home() {
           </div>
         </div>
 
-        {/* Learning Modes Grid - Compact 2-column layout for mobile */}
-        <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-6 gap-2 sm:gap-3 max-w-7xl mx-auto mb-6">
+        {/* Learning Modes Grid - Single column layout */}
+        <div className="grid grid-cols-1 gap-4 max-w-lg mx-auto mb-8">
           {modeConfigs.map((mode, index) => {
             const modeData = t.modes[mode.key as keyof typeof t.modes]
             const CardWrapper = mode.href === '#' ? 'div' : Link
@@ -348,27 +339,27 @@ export default function Home() {
                   {/* Gradient top border */}
                   <div className={`absolute top-0 left-0 right-0 h-1 bg-gradient-to-r ${mode.color}`} />
 
-                  <CardHeader className="text-center pb-1 pt-3 sm:pt-4 px-2 sm:px-4">
-                    <div className={`text-3xl sm:text-4xl mb-1 sm:mb-2 group-hover:animate-bounce-subtle transition-transform`}>
+                  <CardHeader className="text-center pb-2 pt-5 px-4">
+                    <div className={`text-4xl sm:text-5xl mb-2 sm:mb-3 group-hover:animate-bounce-subtle transition-transform`}>
                       {mode.icon}
                     </div>
-                    <CardTitle className="text-sm sm:text-base font-bold leading-tight">{modeData.title}</CardTitle>
-                    <CardDescription className="text-[10px] sm:text-xs opacity-70 hidden sm:block">{modeData.subtitle}</CardDescription>
+                    <CardTitle className="text-base sm:text-lg font-bold leading-tight">{modeData.title}</CardTitle>
+                    <CardDescription className="text-xs sm:text-sm opacity-70">{modeData.subtitle}</CardDescription>
                   </CardHeader>
 
-                  <CardContent className="text-center space-y-1 sm:space-y-2 pb-3 sm:pb-4 px-2 sm:px-4">
-                    <div className={`${mode.badgeColor} font-bold py-1 px-2 sm:py-1.5 sm:px-3 rounded-lg text-xs sm:text-sm inline-block`}>
+                  <CardContent className="text-center space-y-2 sm:space-y-3 pb-5 px-4">
+                    <div className={`${mode.badgeColor} font-bold py-1.5 px-3 sm:py-2 sm:px-4 rounded-lg text-sm sm:text-base inline-block`}>
                       {mode.key === 'wrongBook' ? `${wrongCount}题` : modeData.count}
                     </div>
-                    <div className={`text-[10px] sm:text-xs font-medium ${mode.tagColor}`}>
+                    <div className={`text-xs sm:text-sm font-medium ${mode.tagColor}`}>
                       {modeData.tags}
                     </div>
-                    <p className="text-[10px] sm:text-xs text-muted-foreground leading-snug line-clamp-2 hidden sm:block">
+                    <p className="text-xs sm:text-sm text-muted-foreground leading-relaxed">
                       {modeData.desc}
                     </p>
 
                     {mode.key === 'wrongBook' && (
-                      <Button variant="link" className="text-red-500 dark:text-red-400 text-[10px] sm:text-xs p-0 h-auto mt-1">
+                      <Button variant="link" className="text-red-500 dark:text-red-400 text-xs sm:text-sm p-0 h-auto mt-1">
                         {t.viewAll}
                       </Button>
                     )}
@@ -380,7 +371,7 @@ export default function Home() {
         </div>
 
         {/* Learning Suggestions */}
-        <Card className="max-w-7xl mx-auto premium-card overflow-hidden animate-fade-in-up" style={{ animationDelay: '600ms' }}>
+        <Card className="max-w-5xl mx-auto premium-card overflow-hidden animate-fade-in-up" style={{ animationDelay: '600ms' }}>
           {/* Gradient top border */}
           <div className="absolute top-0 left-0 right-0 h-1 bg-gradient-to-r from-amber-400 via-orange-400 to-red-400" />
 
@@ -413,7 +404,7 @@ export default function Home() {
 
         {/* Footer */}
         <footer className="text-center mt-6 pb-6 text-sm text-muted-foreground">
-          <p>© 2026 California CDL Prep. Made with ❤️</p>
+          <p>© 2026 California DMV Prep. Made with ❤️</p>
         </footer>
       </div>
     </div>

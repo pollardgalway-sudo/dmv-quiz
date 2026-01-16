@@ -48,7 +48,7 @@ export default function CombinationPage() {
     useEffect(() => {
         setMounted(true)
         setLoading(true)
-        fetch('/data/cdl-combination.json')
+        fetch('/data/questions-all.json')
             .then(res => {
                 if (!res.ok) {
                     throw new Error(`HTTP error! status: ${res.status}`)
@@ -194,8 +194,8 @@ export default function CombinationPage() {
                     <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
                         <div className="flex-1">
                             <h1 className="text-xl sm:text-2xl md:text-3xl font-bold flex items-center gap-2">
-                                <span className="animate-bounce-subtle">🚛</span>
-                                <span className="gradient-text">组合车辆 (Combination)</span>
+                                <span className="animate-bounce-subtle">⚠️</span>
+                                <span className="gradient-text">易错精选 (Tricky Questions)</span>
                             </h1>
                             <p className="text-sm text-muted-foreground mt-1">
                                 Score: {score.total > 0 ? Math.round((score.correct / score.total) * 100) : 0}%

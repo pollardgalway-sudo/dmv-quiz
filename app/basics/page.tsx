@@ -6,6 +6,7 @@ import { Button } from '@/components/ui/button'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Label } from '@/components/ui/label'
 import { addWrongQuestion } from '@/lib/wrong-questions'
+import { getProgress, saveProgress } from '@/lib/progress'
 
 interface Question {
   id: number
@@ -42,13 +43,31 @@ export default function BasicsPage() {
   const [score, setScore] = useState({ correct: 0, total: 0 })
   const [lang, setLang] = useState<'en' | 'zh-Hans' | 'zh-Hant'>('zh-Hans')
   const [mounted, setMounted] = useState(false)
+  const [progressLoaded, setProgressLoaded] = useState(false)
 
+  // Load questions and restore progress
   useEffect(() => {
     setMounted(true)
-    fetch('/data/cdl-general-knowledge.json')
+    fetch('/data/questions-basics.json')
       .then(res => res.json())
-      .then(data => setQuestions(data))
+      .then(data => {
+        setQuestions(data)
+        // Restore saved progress after questions are loaded
+        const savedProgress = getProgress('basics')
+        if (savedProgress && savedProgress.currentIndex < data.length) {
+          setCurrentIndex(savedProgress.currentIndex)
+          setScore(savedProgress.score)
+        }
+        setProgressLoaded(true)
+      })
   }, [])
+
+  // Save progress when currentIndex or score changes
+  useEffect(() => {
+    if (progressLoaded && questions.length > 0) {
+      saveProgress('basics', currentIndex, score)
+    }
+  }, [currentIndex, score, progressLoaded, questions.length])
 
   if (!mounted || questions.length === 0) {
     return (

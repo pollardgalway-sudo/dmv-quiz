@@ -14,8 +14,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "加州CDL商业驾照考试 - 刷题网站",
-  description: "基于2026版加州DMV官方商业驾驶员手册(CDL Handbook)的刷题平台，涵盖通用知识、气制动、组合车辆等核心考点",
+  title: "2026加州驾照笔试 - 刷题网站",
+  description: "基于2026版加州DMV官方驾驶员手册的刷题平台，涵盖扫盲模式、专项突破、易错精选等核心模块",
 };
 
 export default function RootLayout({

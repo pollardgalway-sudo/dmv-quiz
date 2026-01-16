@@ -33,7 +33,7 @@ export default function ExamPage() {
     setLoading(true)
     try {
       // Fetch questions from static JSON file instead of API
-      const res = await fetch('/data/questions-cdl-all.json')
+      const res = await fetch('/data/questions-all.json')
       const allQuestions = await res.json()
 
       // Shuffle and pick 36 random questions
