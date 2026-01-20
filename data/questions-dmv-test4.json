@@ -1,0 +1,382 @@
+[
+    {
+        "id": 6031,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "Which of the following is true about large trucks?",
+            "zh-Hans": "关于大型卡车，以下哪项是正确的？",
+            "zh-Hant": "關於大型卡車，以下哪項是正確的？"
+        },
+        "options": {
+            "A": {
+                "en": "They are made of many trailers, which make them more maneuverable than passenger vehicles.",
+                "zh-Hans": "它们由多个拖车组成，比乘用车更灵活。",
+                "zh-Hant": "它們由多個拖車組成，比乘用車更靈活。"
+            },
+            "B": {
+                "en": "They have large blind spots, which makes it difficult for the truck driver to see other vehicles.",
+                "zh-Hans": "它们有很大的盲区，卡车司机很难看到其他车辆。",
+                "zh-Hant": "它們有很大的盲區，卡車司機很難看到其他車輛。"
+            },
+            "C": {
+                "en": "They have large and powerful emergency brakes, which gives them the capability to stop quickly.",
+                "zh-Hans": "它们有大功率的紧急刹车，可以快速停车。",
+                "zh-Hant": "它們有大功率的緊急剎車，可以快速停車。"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Large trucks have significant blind spots. Always stay visible to truck drivers by avoiding their No-Zones.",
+            "zh-Hans": "大型卡车有显著的盲区。始终通过避开它们的禁区来让卡车司机看到你。",
+            "zh-Hant": "大型卡車有顯著的盲區。始終通過避開它們的禁區來讓卡車司機看到你。"
+        },
+        "dmv_ref": {
+            "page": "65",
+            "section": "第8章：安全驾驶 - 与大型车辆共享道路",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第65页。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第65頁。"
+        }
+    },
+    {
+        "id": 6032,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "Which of the following is illegal while driving?",
+            "zh-Hans": "驾驶时以下哪项是违法的？",
+            "zh-Hant": "駕駛時以下哪項是違法的？"
+        },
+        "options": {
+            "A": {
+                "en": "Wearing a headset or ear plugs that covers both ears.",
+                "zh-Hans": "佩戴覆盖双耳的耳机或耳塞。",
+                "zh-Hant": "佩戴覆蓋雙耳的耳機或耳塞。"
+            },
+            "B": {
+                "en": "Wearing a headset or ear plugs that covers one ear.",
+                "zh-Hans": "佩戴覆盖单耳的耳机或耳塞。",
+                "zh-Hant": "佩戴覆蓋單耳的耳機或耳塞。"
+            },
+            "C": {
+                "en": "Using cruise control on residential streets.",
+                "zh-Hans": "在住宅区街道使用定速巡航。",
+                "zh-Hant": "在住宅區街道使用定速巡航。"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "It is illegal to wear headphones or ear plugs in both ears while driving or cycling.",
+            "zh-Hans": "驾驶或骑自行车时佩戴覆盖双耳的耳机或耳塞是违法的。",
+            "zh-Hant": "駕駛或騎自行車時佩戴覆蓋雙耳的耳機或耳塞是違法的。"
+        },
+        "dmv_ref": {
+            "page": "50",
+            "section": "第7章：道路法规 - 其他法规",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第50页「耳机法规」。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第50頁「耳機法規」。"
+        }
+    },
+    {
+        "id": 6033,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "What should you do when traffic is slow and heavy, and you must cross railroad tracks before reaching the upcoming intersection?",
+            "zh-Hans": "当交通缓慢拥挤，你必须在到达前方路口之前穿越铁路轨道时，应该怎么做？",
+            "zh-Hant": "當交通緩慢擁擠，你必須在到達前方路口之前穿越鐵路軌道時，應該怎麼做？"
+        },
+        "options": {
+            "A": {
+                "en": "Begin crossing when the vehicle in front of you is crossing the tracks.",
+                "zh-Hans": "当前面的车辆正在穿越轨道时开始穿越。",
+                "zh-Hant": "當前面的車輛正在穿越軌道時開始穿越。"
+            },
+            "B": {
+                "en": "Wait on the tracks until the stoplight at the intersection turns green.",
+                "zh-Hans": "在轨道上等待直到路口的信号灯变绿。",
+                "zh-Hant": "在軌道上等待直到路口的信號燈變綠。"
+            },
+            "C": {
+                "en": "Wait until you can completely cross the tracks before proceeding.",
+                "zh-Hans": "等到你可以完全穿越轨道后再继续。",
+                "zh-Hant": "等到你可以完全穿越軌道後再繼續。"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "Never stop on railroad tracks. Wait until there is room to completely cross before entering.",
+            "zh-Hans": "永远不要在铁路轨道上停车。等到有足够空间完全穿越后再进入。",
+            "zh-Hant": "永遠不要在鐵路軌道上停車。等到有足夠空間完全穿越後再進入。"
+        },
+        "dmv_ref": {
+            "page": "55",
+            "section": "第7章：道路法规 - 铁路道口",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第55页「铁路安全」。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第55頁「鐵路安全」。"
+        }
+    },
+    {
+        "id": 6034,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "Which of the following should you do if you are being followed by a tailgater?",
+            "zh-Hans": "如果有人紧跟你的车尾，你应该怎么做？",
+            "zh-Hant": "如果有人緊跟你的車尾，你應該怎麼做？"
+        },
+        "options": {
+            "A": {
+                "en": "Change lanes and allow the tailgater to pass.",
+                "zh-Hans": "变道让紧跟者通过。",
+                "zh-Hant": "變道讓緊跟者通過。"
+            },
+            "B": {
+                "en": "Tap the brakes to signal you are moving at a slower pace.",
+                "zh-Hans": "轻踩刹车表示你正在减速。",
+                "zh-Hant": "輕踩剎車表示你正在減速。"
+            },
+            "C": {
+                "en": "Increase your speed to match the speed of the vehicle.",
+                "zh-Hans": "加速以匹配该车辆的速度。",
+                "zh-Hant": "加速以匹配該車輛的速度。"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "If being tailgated, safely move to another lane and let the tailgater pass. Do not speed up or brake suddenly.",
+            "zh-Hans": "如果被紧跟，安全变道让紧跟者通过。不要加速或突然刹车。",
+            "zh-Hant": "如果被緊跟，安全變道讓緊跟者通過。不要加速或突然剎車。"
+        },
+        "dmv_ref": {
+            "page": "59",
+            "section": "第8章：安全驾驶 - 跟车距离",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第59页「应对紧跟」。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第59頁「應對緊跟」。"
+        }
+    },
+    {
+        "id": 6035,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "When you are driving the speed limit, you can be given a speeding ticket:",
+            "zh-Hans": "当你按限速行驶时，你可能在以下情况下收到超速罚单：",
+            "zh-Hant": "當你按限速行駛時，你可能在以下情況下收到超速罰單："
+        },
+        "options": {
+            "A": {
+                "en": "If road or weather conditions require a slower speed.",
+                "zh-Hans": "如果道路或天气条件要求更慢的速度。",
+                "zh-Hant": "如果道路或天氣條件要求更慢的速度。"
+            },
+            "B": {
+                "en": "Under no circumstances because it is always legal.",
+                "zh-Hans": "在任何情况下都不会，因为始终是合法的。",
+                "zh-Hant": "在任何情況下都不會，因為始終是合法的。"
+            },
+            "C": {
+                "en": "Only if you are approaching a sharp curve in the road.",
+                "zh-Hans": "仅当你接近道路急转弯时。",
+                "zh-Hant": "僅當你接近道路急轉彎時。"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Under California's Basic Speed Law, you may be cited for driving at the speed limit if conditions make it unsafe.",
+            "zh-Hans": "根据加州基本速度法，如果条件使得按限速行驶不安全，你可能会被开罚单。",
+            "zh-Hant": "根據加州基本速度法，如果條件使得按限速行駛不安全，你可能會被開罰單。"
+        },
+        "dmv_ref": {
+            "page": "33",
+            "section": "第7章：道路法规 - 基本速度法",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第33页。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第33頁。"
+        }
+    },
+    {
+        "id": 6036,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "Which lights should be used if a driver is having trouble seeing other vehicles because of dust or smoke blowing across the roadway?",
+            "zh-Hans": "如果驾驶员因道路上的灰尘或烟雾而难以看到其他车辆，应使用什么灯？",
+            "zh-Hant": "如果駕駛員因道路上的灰塵或煙霧而難以看到其他車輛，應使用什麼燈？"
+        },
+        "options": {
+            "A": {
+                "en": "Parking lights.",
+                "zh-Hans": "停车灯。",
+                "zh-Hant": "停車燈。"
+            },
+            "B": {
+                "en": "Emergency lights.",
+                "zh-Hans": "应急灯。",
+                "zh-Hant": "應急燈。"
+            },
+            "C": {
+                "en": "Headlights.",
+                "zh-Hans": "前大灯。",
+                "zh-Hant": "前大燈。"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "Use your headlights in any condition that reduces visibility, including dust, smoke, fog, and rain.",
+            "zh-Hans": "在任何降低能见度的情况下使用前大灯，包括灰尘、烟雾、雾和雨。",
+            "zh-Hant": "在任何降低能見度的情況下使用前大燈，包括灰塵、煙霧、霧和雨。"
+        },
+        "dmv_ref": {
+            "page": "49",
+            "section": "第7章：道路法规 - 车灯使用",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第49页「何时使用车灯」。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第49頁「何時使用車燈」。"
+        }
+    },
+    {
+        "id": 6037,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "What should you do to make a right turn at an upcoming intersection with a bicycle lane?",
+            "zh-Hans": "在有自行车道的路口右转时，你应该怎么做？",
+            "zh-Hant": "在有自行車道的路口右轉時，你應該怎麼做？"
+        },
+        "options": {
+            "A": {
+                "en": "Wait until the bicycle lane ends, then make the turn.",
+                "zh-Hans": "等自行车道结束后再转弯。",
+                "zh-Hant": "等自行車道結束後再轉彎。"
+            },
+            "B": {
+                "en": "Make the turn from your current lane and do not enter the bicycle lane.",
+                "zh-Hans": "从当前车道转弯，不进入自行车道。",
+                "zh-Hant": "從當前車道轉彎，不進入自行車道。"
+            },
+            "C": {
+                "en": "Merge into the bicycle lane before making the turn.",
+                "zh-Hans": "转弯前并入自行车道。",
+                "zh-Hant": "轉彎前併入自行車道。"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "Merge into the bicycle lane within 200 feet of the intersection when it is safe to do so, then make your right turn.",
+            "zh-Hans": "在安全的情况下，于距路口200英尺内并入自行车道，然后右转。",
+            "zh-Hant": "在安全的情況下，於距路口200英尺內併入自行車道，然後右轉。"
+        },
+        "dmv_ref": {
+            "page": "26",
+            "section": "第6章：道路导航 - 与自行车共享道路",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第26页。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第26頁。"
+        }
+    },
+    {
+        "id": 6038,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "What does a flashing yellow traffic signal light direct a driver to do?",
+            "zh-Hans": "闪烁的黄色交通信号灯指示驾驶员做什么？",
+            "zh-Hant": "閃爍的黃色交通信號燈指示駕駛員做什麼？"
+        },
+        "options": {
+            "A": {
+                "en": "Stop and proceed when the traffic allows you to proceed safely.",
+                "zh-Hans": "停车，当交通允许时安全前行。",
+                "zh-Hant": "停車，當交通允許時安全前行。"
+            },
+            "B": {
+                "en": "Slow down and proceed with caution.",
+                "zh-Hans": "减速并谨慎前行。",
+                "zh-Hant": "減速並謹慎前行。"
+            },
+            "C": {
+                "en": "Stop and wait for a flashing green signal.",
+                "zh-Hans": "停车等待闪烁的绿色信号。",
+                "zh-Hant": "停車等待閃爍的綠色信號。"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "A flashing yellow light means slow down and proceed with caution. You do not need to stop but should be careful.",
+            "zh-Hans": "闪烁的黄灯表示减速并谨慎前行。你不需要停车，但应该小心。",
+            "zh-Hant": "閃爍的黃燈表示減速並謹慎前行。你不需要停車，但應該小心。"
+        },
+        "dmv_ref": {
+            "page": "19",
+            "section": "第6章：道路导航 - 交通信号灯",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第19页「闪烁信号灯」。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第19頁「閃爍信號燈」。"
+        }
+    },
+    {
+        "id": 6039,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "What should you do if a pedestrian is still in the crosswalk after the DON'T WALK sign begins to flash and your light has turned green?",
+            "zh-Hans": "如果行人在「禁止通行」标志开始闪烁且你的信号灯已变绿后仍在人行横道内，你应该怎么做？",
+            "zh-Hant": "如果行人在「禁止通行」標誌開始閃爍且你的信號燈已變綠後仍在人行橫道內，你應該怎麼做？"
+        },
+        "options": {
+            "A": {
+                "en": "Wait until the pedestrian is out of your path before proceeding.",
+                "zh-Hans": "等待行人离开你的路线后再前行。",
+                "zh-Hant": "等待行人離開你的路線後再前行。"
+            },
+            "B": {
+                "en": "Wait until the pedestrian signals that it is okay for you to proceed.",
+                "zh-Hans": "等待行人示意你可以前行。",
+                "zh-Hant": "等待行人示意你可以前行。"
+            },
+            "C": {
+                "en": "Wait until the pedestrian has crossed the street completely before proceeding.",
+                "zh-Hans": "等待行人完全过马路后再前行。",
+                "zh-Hant": "等待行人完全過馬路後再前行。"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Wait until the pedestrian is safely out of your path. You do not need to wait for them to completely cross if they are in other lanes.",
+            "zh-Hans": "等待行人安全离开你的路线。如果他们在其他车道，你不需要等他们完全过马路。",
+            "zh-Hant": "等待行人安全離開你的路線。如果他們在其他車道，你不需要等他們完全過馬路。"
+        },
+        "dmv_ref": {
+            "page": "41",
+            "section": "第7章：道路法规 - 行人",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第41页「行人让行」。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第41頁「行人讓行」。"
+        }
+    },
+    {
+        "id": 6040,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "You must yield to a pedestrian using a white cane or guide dog:",
+            "zh-Hans": "你必须让路给使用白色手杖或导盲犬的行人：",
+            "zh-Hant": "你必須讓路給使用白色手杖或導盲犬的行人："
+        },
+        "options": {
+            "A": {
+                "en": "At all times.",
+                "zh-Hans": "任何时候。",
+                "zh-Hant": "任何時候。"
+            },
+            "B": {
+                "en": "Only at crosswalks.",
+                "zh-Hans": "仅在人行横道。",
+                "zh-Hant": "僅在人行橫道。"
+            },
+            "C": {
+                "en": "Only at traffic signals.",
+                "zh-Hans": "仅在交通信号灯处。",
+                "zh-Hant": "僅在交通信號燈處。"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Always yield to pedestrians who are blind (using a white cane or guide dog), regardless of traffic signals.",
+            "zh-Hans": "无论交通信号如何，始终让路给盲人行人（使用白色手杖或导盲犬）。",
+            "zh-Hant": "無論交通信號如何，始終讓路給盲人行人（使用白色手杖或導盲犬）。"
+        },
+        "dmv_ref": {
+            "page": "42",
+            "section": "第7章：道路法规 - 特殊行人",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第42页「盲人行人」。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第42頁「盲人行人」。"
+        }
+    }
+]

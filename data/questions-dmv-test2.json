@@ -1,0 +1,382 @@
+[
+    {
+        "id": 6011,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "What should you do when reaching an intersection where a person operating a motorized wheelchair has entered the crosswalk?",
+            "zh-Hans": "当到达路口时，如果有人驾驶电动轮椅进入人行横道，你应该怎么做？",
+            "zh-Hant": "當到達路口時，如果有人駕駛電動輪椅進入人行橫道，你應該怎麼做？"
+        },
+        "options": {
+            "A": {
+                "en": "Remain stopped behind the crosswalk line until the motorized wheelchair has safely finished crossing.",
+                "zh-Hans": "停在人行横道线后，直到电动轮椅安全通过。",
+                "zh-Hant": "停在人行橫道線後，直到電動輪椅安全通過。"
+            },
+            "B": {
+                "en": "Remain stopped behind the nearest crosswalk line until the motorized wheelchair is beyond the range of your vehicle.",
+                "zh-Hans": "停在最近的人行横道线后，直到电动轮椅超出你的车辆范围。",
+                "zh-Hant": "停在最近的人行橫道線後，直到電動輪椅超出你的車輛範圍。"
+            },
+            "C": {
+                "en": "Assume right-of-way if the motorized wheelchair stops in the crosswalk.",
+                "zh-Hans": "如果电动轮椅在人行横道内停止，可以假设你有优先权。",
+                "zh-Hant": "如果電動輪椅在人行橫道內停止，可以假設你有優先權。"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Always wait for pedestrians, including those in wheelchairs, to completely and safely cross before proceeding.",
+            "zh-Hans": "始终等待行人（包括轮椅使用者）完全安全通过后再继续行驶。",
+            "zh-Hant": "始終等待行人（包括輪椅使用者）完全安全通過後再繼續行駛。"
+        },
+        "dmv_ref": {
+            "page": "40",
+            "section": "第7章：道路法规 - 行人",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第40页「行人优先权」部分。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第40頁「行人優先權」部分。"
+        }
+    },
+    {
+        "id": 6012,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "Which of the following is true about large trucks?",
+            "zh-Hans": "关于大型卡车，以下哪项是正确的？",
+            "zh-Hant": "關於大型卡車，以下哪項是正確的？"
+        },
+        "options": {
+            "A": {
+                "en": "They are made of many trailers, which make them more maneuverable than passenger vehicles.",
+                "zh-Hans": "它们由多个拖车组成，比乘用车更灵活。",
+                "zh-Hant": "它們由多個拖車組成，比乘用車更靈活。"
+            },
+            "B": {
+                "en": "They have large blind spots, which makes it difficult for the truck driver to see other vehicles.",
+                "zh-Hans": "它们有很大的盲区，卡车司机很难看到其他车辆。",
+                "zh-Hant": "它們有很大的盲區，卡車司機很難看到其他車輛。"
+            },
+            "C": {
+                "en": "They have large and powerful emergency brakes, which gives them the capability to stop quickly.",
+                "zh-Hans": "它们有大功率的紧急刹车，可以快速停车。",
+                "zh-Hant": "它們有大功率的緊急剎車，可以快速停車。"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Large trucks have significant blind spots (No-Zones) on all sides. Stay out of these areas to be visible to the driver.",
+            "zh-Hans": "大型卡车四周都有显著的盲区（禁区）。避开这些区域，让司机能看到你。",
+            "zh-Hant": "大型卡車四周都有顯著的盲區（禁區）。避開這些區域，讓司機能看到你。"
+        },
+        "dmv_ref": {
+            "page": "65",
+            "section": "第8章：安全驾驶 - 与大型车辆共享道路",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第65页「大型车辆盲区」部分。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第65頁「大型車輛盲區」部分。"
+        }
+    },
+    {
+        "id": 6013,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "What is one of the most common causes of traffic collisions?",
+            "zh-Hans": "交通事故最常见的原因之一是什么？",
+            "zh-Hant": "交通事故最常見的原因之一是什麼？"
+        },
+        "options": {
+            "A": {
+                "en": "Paying attention to your surroundings.",
+                "zh-Hans": "注意周围环境。",
+                "zh-Hant": "注意周圍環境。"
+            },
+            "B": {
+                "en": "Better traffic flow.",
+                "zh-Hans": "更好的交通流量。",
+                "zh-Hant": "更好的交通流量。"
+            },
+            "C": {
+                "en": "Driver distractions.",
+                "zh-Hans": "驾驶员分心。",
+                "zh-Hant": "駕駛員分心。"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "Driver distractions, such as texting or using a phone, are one of the leading causes of traffic collisions.",
+            "zh-Hans": "驾驶员分心（如发短信或使用手机）是交通事故的主要原因之一。",
+            "zh-Hant": "駕駛員分心（如發短信或使用手機）是交通事故的主要原因之一。"
+        },
+        "dmv_ref": {
+            "page": "68",
+            "section": "第8章：安全驾驶 - 分心驾驶",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第68页「分心驾驶」部分。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第68頁「分心駕駛」部分。"
+        }
+    },
+    {
+        "id": 6014,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "Any driver who willfully flees or attempts to evade law enforcement, during which a person is seriously injured, is subject to:",
+            "zh-Hans": "任何故意逃避执法并导致他人严重受伤的驾驶员将面临：",
+            "zh-Hant": "任何故意逃避執法並導致他人嚴重受傷的駕駛員將面臨："
+        },
+        "options": {
+            "A": {
+                "en": "Imprisonment in a state prison for up to seven years.",
+                "zh-Hans": "在州立监狱服刑最高七年。",
+                "zh-Hant": "在州立監獄服刑最高七年。"
+            },
+            "B": {
+                "en": "A fine of less than $1,000.",
+                "zh-Hans": "不到1,000美元的罚款。",
+                "zh-Hant": "不到1,000美元的罰款。"
+            },
+            "C": {
+                "en": "Attending an anger-management class.",
+                "zh-Hans": "参加愤怒管理课程。",
+                "zh-Hant": "參加憤怒管理課程。"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Evading law enforcement resulting in serious injury is a felony punishable by imprisonment for up to 7 years.",
+            "zh-Hans": "逃避执法导致严重伤害是重罪，可处以最高7年监禁。",
+            "zh-Hant": "逃避執法導致嚴重傷害是重罪，可處以最高7年監禁。"
+        },
+        "dmv_ref": {
+            "page": "75",
+            "section": "第9章：酒精和毒品 - 处罚",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第75页「逃避执法处罚」部分。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第75頁「逃避執法處罰」部分。"
+        }
+    },
+    {
+        "id": 6015,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "What should a driver do who is stopped at an intersection and wants to make a left turn?",
+            "zh-Hans": "在路口停车并想左转的驾驶员应该怎么做？",
+            "zh-Hant": "在路口停車並想左轉的駕駛員應該怎麼做？"
+        },
+        "options": {
+            "A": {
+                "en": "Turn immediately if there are no pedestrians.",
+                "zh-Hans": "如果没有行人，立即转弯。",
+                "zh-Hant": "如果沒有行人，立即轉彎。"
+            },
+            "B": {
+                "en": "Take the right-of-way turn before oncoming traffic.",
+                "zh-Hans": "在迎面车流之前优先转弯。",
+                "zh-Hant": "在迎面車流之前優先轉彎。"
+            },
+            "C": {
+                "en": "Give the right-of-way to any approaching vehicle that is close enough to be dangerous.",
+                "zh-Hans": "让路给任何距离足够近且可能造成危险的来车。",
+                "zh-Hant": "讓路給任何距離足夠近且可能造成危險的來車。"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "When making a left turn, you must yield to oncoming traffic that is close enough to be a hazard.",
+            "zh-Hans": "左转时，必须让路给距离足够近且可能造成危险的迎面车辆。",
+            "zh-Hant": "左轉時，必須讓路給距離足夠近且可能造成危險的迎面車輛。"
+        },
+        "dmv_ref": {
+            "page": "25",
+            "section": "第6章：道路导航 - 左转",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第25页「左转让行规则」部分。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第25頁「左轉讓行規則」部分。"
+        }
+    },
+    {
+        "id": 6016,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "In addition to setting your parking brake, what should you do when parking on a hill?",
+            "zh-Hans": "在坡道停车时，除了拉手刹外，还应该做什么？",
+            "zh-Hant": "在坡道停車時，除了拉手剎外，還應該做什麼？"
+        },
+        "options": {
+            "A": {
+                "en": "Make sure the front vehicle wheels are parallel to the road.",
+                "zh-Hans": "确保前轮与道路平行。",
+                "zh-Hant": "確保前輪與道路平行。"
+            },
+            "B": {
+                "en": "Make sure your vehicle is left in the neutral position.",
+                "zh-Hans": "将车辆置于空挡位置。",
+                "zh-Hant": "將車輛置於空檔位置。"
+            },
+            "C": {
+                "en": "Make sure your vehicle is in the park position or in gear.",
+                "zh-Hans": "确保车辆处于停车档或挂挡状态。",
+                "zh-Hant": "確保車輛處於停車檔或掛檔狀態。"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "When parking on a hill, set the parking brake and put automatic transmission in Park, or manual in gear.",
+            "zh-Hans": "在坡道停车时，拉手刹并将自动挡放入P档，手动挡则挂入挡位。",
+            "zh-Hant": "在坡道停車時，拉手剎並將自動檔放入P檔，手動檔則掛入檔位。"
+        },
+        "dmv_ref": {
+            "page": "46",
+            "section": "第7章：道路法规 - 坡道停车",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第46页「坡道停车」部分。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第46頁「坡道停車」部分。"
+        }
+    },
+    {
+        "id": 6017,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "You are under 18 years of age and have had your license for eight months. You may drive:",
+            "zh-Hans": "你未满18岁，已持有驾照8个月。你可以在以下时间驾驶：",
+            "zh-Hant": "你未滿18歲，已持有駕照8個月。你可以在以下時間駕駛："
+        },
+        "options": {
+            "A": {
+                "en": "At any time.",
+                "zh-Hans": "任何时间。",
+                "zh-Hant": "任何時間。"
+            },
+            "B": {
+                "en": "Between 5 a.m. and 11 p.m.",
+                "zh-Hans": "早上5点到晚上11点之间。",
+                "zh-Hant": "早上5點到晚上11點之間。"
+            },
+            "C": {
+                "en": "Between 7 a.m. and 8 p.m.",
+                "zh-Hans": "早上7点到晚上8点之间。",
+                "zh-Hant": "早上7點到晚上8點之間。"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Drivers under 18 cannot drive between 11 p.m. and 5 a.m. during the first 12 months unless accompanied by a licensed adult 25 or older.",
+            "zh-Hans": "未满18岁的驾驶员在持照的前12个月内，除非有25岁以上的持照成人陪同，否则不得在晚11点至早5点之间驾驶。",
+            "zh-Hant": "未滿18歲的駕駛員在持照的前12個月內，除非有25歲以上的持照成人陪同，否則不得在晚11點至早5點之間駕駛。"
+        },
+        "dmv_ref": {
+            "page": "8",
+            "section": "第2章：获取驾照 - 临时驾照限制",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第8页「未满18岁驾驶限制」部分。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第8頁「未滿18歲駕駛限制」部分。"
+        }
+    },
+    {
+        "id": 6018,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "Where should you begin a left turn from a one-way street onto a one-way street?",
+            "zh-Hans": "从单行道左转到另一条单行道时，应该从哪个车道开始？",
+            "zh-Hant": "從單行道左轉到另一條單行道時，應該從哪個車道開始？"
+        },
+        "options": {
+            "A": {
+                "en": "The lane closest to the center of the street.",
+                "zh-Hans": "最靠近道路中心的车道。",
+                "zh-Hant": "最靠近道路中心的車道。"
+            },
+            "B": {
+                "en": "The far-left lane.",
+                "zh-Hans": "最左边的车道。",
+                "zh-Hant": "最左邊的車道。"
+            },
+            "C": {
+                "en": "You can turn from any lane.",
+                "zh-Hans": "可以从任何车道转弯。",
+                "zh-Hant": "可以從任何車道轉彎。"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "When turning left from a one-way street onto another one-way street, start from the far-left lane.",
+            "zh-Hans": "从单行道左转到另一条单行道时，从最左边的车道开始。",
+            "zh-Hant": "從單行道左轉到另一條單行道時，從最左邊的車道開始。"
+        },
+        "dmv_ref": {
+            "page": "24",
+            "section": "第6章：道路导航 - 转弯",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第24页「单行道转弯」部分。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第24頁「單行道轉彎」部分。"
+        }
+    },
+    {
+        "id": 6019,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "You are required to notify DMV by filing a Report of Traffic Accident Occurring in California (SR-1) form if:",
+            "zh-Hans": "如果发生以下情况，你需要向DMV提交加州交通事故报告表(SR-1)：",
+            "zh-Hant": "如果發生以下情況，你需要向DMV提交加州交通事故報告表(SR-1)："
+        },
+        "options": {
+            "A": {
+                "en": "You allowed a licensed driver from another state to drive your vehicle.",
+                "zh-Hans": "你允许外州持照驾驶员驾驶你的车辆。",
+                "zh-Hant": "你允許外州持照駕駛員駕駛你的車輛。"
+            },
+            "B": {
+                "en": "You were involved in a collision with more than $1,000 in damages.",
+                "zh-Hans": "你卷入了损失超过1,000美元的碰撞事故。",
+                "zh-Hant": "你捲入了損失超過1,000美元的碰撞事故。"
+            },
+            "C": {
+                "en": "You failed to pay your registration fees.",
+                "zh-Hans": "你未能支付注册费。",
+                "zh-Hant": "你未能支付註冊費。"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "You must file an SR-1 form with the DMV within 10 days if you're in a collision with more than $1,000 in damages or any injury.",
+            "zh-Hans": "如果你卷入损失超过1,000美元或有人受伤的碰撞事故，必须在10天内向DMV提交SR-1表格。",
+            "zh-Hant": "如果你捲入損失超過1,000美元或有人受傷的碰撞事故，必須在10天內向DMV提交SR-1表格。"
+        },
+        "dmv_ref": {
+            "page": "78",
+            "section": "第10章：财务责任 - 事故报告",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第78页「事故报告要求」部分。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第78頁「事故報告要求」部分。"
+        }
+    },
+    {
+        "id": 6020,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "At what point during a rainfall are roads slippery on a hot day?",
+            "zh-Hans": "在炎热天气，下雨时道路在什么时候最滑？",
+            "zh-Hant": "在炎熱天氣，下雨時道路在什麼時候最滑？"
+        },
+        "options": {
+            "A": {
+                "en": "The first few minutes of rain.",
+                "zh-Hans": "下雨的最初几分钟。",
+                "zh-Hant": "下雨的最初幾分鐘。"
+            },
+            "B": {
+                "en": "After several hours of rain.",
+                "zh-Hans": "下雨几个小时后。",
+                "zh-Hant": "下雨幾個小時後。"
+            },
+            "C": {
+                "en": "When the rain stops.",
+                "zh-Hans": "雨停的时候。",
+                "zh-Hant": "雨停的時候。"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Roads are most slippery during the first few minutes of rain when oil and debris mix with water.",
+            "zh-Hans": "下雨的最初几分钟道路最滑，因为油污和碎屑与水混合在一起。",
+            "zh-Hant": "下雨的最初幾分鐘道路最滑，因為油污和碎屑與水混合在一起。"
+        },
+        "dmv_ref": {
+            "page": "62",
+            "section": "第8章：安全驾驶 - 恶劣天气驾驶",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第62页「雨天驾驶」部分。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第62頁「雨天駕駛」部分。"
+        }
+    }
+]

@@ -1,0 +1,382 @@
+[
+    {
+        "id": 6001,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "When is it legal to drive off the road to pass another vehicle?",
+            "zh-Hans": "什么情况下可以合法地离开道路超车？",
+            "zh-Hant": "什麼情況下可以合法地離開道路超車？"
+        },
+        "options": {
+            "A": {
+                "en": "If the vehicle ahead is turning left.",
+                "zh-Hans": "如果前方车辆正在左转。",
+                "zh-Hant": "如果前方車輛正在左轉。"
+            },
+            "B": {
+                "en": "It is not legal under any conditions.",
+                "zh-Hans": "在任何情况下都不合法。",
+                "zh-Hant": "在任何情況下都不合法。"
+            },
+            "C": {
+                "en": "If there are two or more one-way lanes.",
+                "zh-Hans": "如果有两条或更多的单向车道。",
+                "zh-Hant": "如果有兩條或更多的單向車道。"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "It is never legal to drive off the road to pass another vehicle. You must always pass on the paved roadway.",
+            "zh-Hans": "在任何情况下都不允许离开道路超车。你必须始终在铺设好的道路上超车。",
+            "zh-Hant": "在任何情況下都不允許離開道路超車。你必須始終在鋪設好的道路上超車。"
+        },
+        "dmv_ref": {
+            "page": "37",
+            "section": "第7章：道路法规 - 超车",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第37页「超车」部分，明确规定不得离开道路超车。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第37頁「超車」部分，明確規定不得離開道路超車。"
+        }
+    },
+    {
+        "id": 6002,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "When a railroad crossing is not controlled, what is the speed limit when you are within 100 feet and cannot see for 400 feet in both directions?",
+            "zh-Hans": "在无控制的铁路道口，当你在100英尺范围内且两个方向都看不到400英尺时，限速是多少？",
+            "zh-Hant": "在無控制的鐵路道口，當你在100英尺範圍內且兩個方向都看不到400英尺時，限速是多少？"
+        },
+        "options": {
+            "A": {
+                "en": "15 mph.",
+                "zh-Hans": "每小时15英里。",
+                "zh-Hant": "每小時15英里。"
+            },
+            "B": {
+                "en": "10 mph.",
+                "zh-Hans": "每小时10英里。",
+                "zh-Hant": "每小時10英里。"
+            },
+            "C": {
+                "en": "25 mph.",
+                "zh-Hans": "每小时25英里。",
+                "zh-Hant": "每小時25英里。"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "At an uncontrolled railroad crossing where you cannot see 400 feet in both directions, the speed limit is 15 mph when within 100 feet of the crossing.",
+            "zh-Hans": "在无控制的铁路道口，如果两个方向都看不到400英尺，当距离道口100英尺以内时限速为每小时15英里。",
+            "zh-Hant": "在無控制的鐵路道口，如果兩個方向都看不到400英尺，當距離道口100英尺以內時限速為每小時15英里。"
+        },
+        "dmv_ref": {
+            "page": "35",
+            "section": "第7章：道路法规 - 限速",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第35页「特殊限速区」部分，铁路道口能见度有限时限速15英里/小时。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第35頁「特殊限速區」部分，鐵路道口能見度有限時限速15英里/小時。"
+        }
+    },
+    {
+        "id": 6003,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "Which of the following is the proper procedure for parallel parking?",
+            "zh-Hans": "以下哪项是正确的平行停车程序？",
+            "zh-Hant": "以下哪項是正確的平行停車程序？"
+        },
+        "options": {
+            "A": {
+                "en": "Drive forward into the space without stopping.",
+                "zh-Hans": "不停地向前驶入车位。",
+                "zh-Hant": "不停地向前駛入車位。"
+            },
+            "B": {
+                "en": "Stop next to the vehicle behind the open space, and then drive forward into the space.",
+                "zh-Hans": "停在空位后面的车辆旁边，然后向前驶入车位。",
+                "zh-Hant": "停在空位後面的車輛旁邊，然後向前駛入車位。"
+            },
+            "C": {
+                "en": "Stop next to the vehicle in front of the open space, and then back into the space.",
+                "zh-Hans": "停在空位前面的车辆旁边，然后倒车进入车位。",
+                "zh-Hant": "停在空位前面的車輛旁邊，然後倒車進入車位。"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "The correct parallel parking procedure is to stop next to the vehicle in front of the space, then back into the space while turning the steering wheel.",
+            "zh-Hans": "正确的平行停车程序是停在空位前面的车辆旁边，然后一边转动方向盘一边倒车进入车位。",
+            "zh-Hant": "正確的平行停車程序是停在空位前面的車輛旁邊，然後一邊轉動方向盤一邊倒車進入車位。"
+        },
+        "dmv_ref": {
+            "page": "44",
+            "section": "第7章：道路法规 - 停车",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第44页「平行停车」部分，详细说明了正确的停车步骤。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第44頁「平行停車」部分，詳細說明了正確的停車步驟。"
+        }
+    },
+    {
+        "id": 6004,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "What speed should you be driving when entering onto a highway?",
+            "zh-Hans": "进入高速公路时应该以什么速度行驶？",
+            "zh-Hant": "進入高速公路時應該以什麼速度行駛？"
+        },
+        "options": {
+            "A": {
+                "en": "At or near the speed of traffic.",
+                "zh-Hans": "与车流速度相同或接近。",
+                "zh-Hant": "與車流速度相同或接近。"
+            },
+            "B": {
+                "en": "Faster than the speed of traffic.",
+                "zh-Hans": "比车流速度快。",
+                "zh-Hant": "比車流速度快。"
+            },
+            "C": {
+                "en": "Slower than the speed of traffic.",
+                "zh-Hans": "比车流速度慢。",
+                "zh-Hant": "比車流速度慢。"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "When entering a highway, use the acceleration lane to match the speed of highway traffic before merging.",
+            "zh-Hans": "进入高速公路时，使用加速车道将速度调整到与高速公路车流相同后再汇入。",
+            "zh-Hant": "進入高速公路時，使用加速車道將速度調整到與高速公路車流相同後再匯入。"
+        },
+        "dmv_ref": {
+            "page": "60",
+            "section": "第8章：安全驾驶 - 高速公路驾驶",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第60页「进入高速公路」部分，强调应在加速道上匹配车流速度。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第60頁「進入高速公路」部分，強調應在加速道上匹配車流速度。"
+        }
+    },
+    {
+        "id": 6005,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "How many feet away should you switch from high beam to low beam headlights when approaching a vehicle coming towards you?",
+            "zh-Hans": "当接近迎面而来的车辆时，应该在多少英尺外将远光灯切换为近光灯？",
+            "zh-Hant": "當接近迎面而來的車輛時，應該在多少英尺外將遠光燈切換為近光燈？"
+        },
+        "options": {
+            "A": {
+                "en": "900 feet.",
+                "zh-Hans": "900英尺。",
+                "zh-Hant": "900英尺。"
+            },
+            "B": {
+                "en": "700 feet.",
+                "zh-Hans": "700英尺。",
+                "zh-Hant": "700英尺。"
+            },
+            "C": {
+                "en": "500 feet.",
+                "zh-Hans": "500英尺。",
+                "zh-Hant": "500英尺。"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "You must dim your headlights to low beam within 500 feet of an oncoming vehicle to avoid blinding the other driver.",
+            "zh-Hans": "当距离迎面车辆500英尺以内时必须将远光灯切换为近光灯，以免使对方驾驶员目眩。",
+            "zh-Hant": "當距離迎面車輛500英尺以內時必須將遠光燈切換為近光燈，以免使對方駕駛員目眩。"
+        },
+        "dmv_ref": {
+            "page": "49",
+            "section": "第7章：道路法规 - 车灯使用",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第49页「车灯」部分，规定迎车时500英尺内必须使用近光灯。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第49頁「車燈」部分，規定迎車時500英尺內必須使用近光燈。"
+        }
+    },
+    {
+        "id": 6006,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "Who can legally park next to curb painted blue?",
+            "zh-Hans": "谁可以合法地停在蓝色路缘旁？",
+            "zh-Hant": "誰可以合法地停在藍色路緣旁？"
+        },
+        "options": {
+            "A": {
+                "en": "Someone who is either picking up or dropping off passengers at this location.",
+                "zh-Hans": "正在此地接送乘客的人。",
+                "zh-Hant": "正在此地接送乘客的人。"
+            },
+            "B": {
+                "en": "A person who is disabled and has a special placard or vehicle license plate for disabled persons.",
+                "zh-Hans": "持有残疾人专用牌照或车牌的残疾人。",
+                "zh-Hant": "持有殘疾人專用牌照或車牌的殘疾人。"
+            },
+            "C": {
+                "en": "A person who will only be parked at the curb for less than 15 minutes.",
+                "zh-Hans": "只在路缘停车不超过15分钟的人。",
+                "zh-Hant": "只在路緣停車不超過15分鐘的人。"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Blue curbs are reserved exclusively for parking by disabled persons who display a placard or special license plate.",
+            "zh-Hans": "蓝色路缘专供展示残疾人牌照或特殊车牌的残疾人停车使用。",
+            "zh-Hant": "藍色路緣專供展示殘疾人牌照或特殊車牌的殘疾人停車使用。"
+        },
+        "dmv_ref": {
+            "page": "45",
+            "section": "第7章：道路法规 - 路缘颜色标记",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第45页「路缘颜色」部分，蓝色表示残疾人专用停车位。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第45頁「路緣顏色」部分，藍色表示殘疾人專用停車位。"
+        }
+    },
+    {
+        "id": 6007,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "What should you do when there is a school bus ahead that starts flashing yellow warning lights?",
+            "zh-Hans": "当前方校车开始闪烁黄色警示灯时，你应该怎么做？",
+            "zh-Hant": "當前方校車開始閃爍黃色警示燈時，你應該怎麼做？"
+        },
+        "options": {
+            "A": {
+                "en": "Slow down and prepare to stop.",
+                "zh-Hans": "减速并准备停车。",
+                "zh-Hant": "減速並準備停車。"
+            },
+            "B": {
+                "en": "Stop immediately and remain stopped.",
+                "zh-Hans": "立即停车并保持停止。",
+                "zh-Hant": "立即停車並保持停止。"
+            },
+            "C": {
+                "en": "Cautiously pass the school bus on the left.",
+                "zh-Hans": "小心地从左侧超过校车。",
+                "zh-Hant": "小心地從左側超過校車。"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Yellow flashing lights warn that the bus is preparing to stop. Slow down and prepare to stop. Red flashing lights mean you must stop.",
+            "zh-Hans": "黄色闪烁灯警告校车正在准备停车，你应减速并准备停车。红色闪烁灯表示你必须停车。",
+            "zh-Hant": "黃色閃爍燈警告校車正在準備停車，你應減速並準備停車。紅色閃爍燈表示你必須停車。"
+        },
+        "dmv_ref": {
+            "page": "52",
+            "section": "第7章：道路法规 - 与校车相关",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第52页「校车」部分，黄灯闪烁时应减速准备停车。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第52頁「校車」部分，黃燈閃爍時應減速準備停車。"
+        }
+    },
+    {
+        "id": 6008,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "Which of the following is a requirement of California's Basic Speed Law?",
+            "zh-Hans": "以下哪项是加州基本速度法的要求？",
+            "zh-Hant": "以下哪項是加州基本速度法的要求？"
+        },
+        "options": {
+            "A": {
+                "en": "Always drive the speed limit, regardless of conditions.",
+                "zh-Hans": "无论条件如何，始终按限速行驶。",
+                "zh-Hant": "無論條件如何，始終按限速行駛。"
+            },
+            "B": {
+                "en": "Match your speed to that of your surrounding traffic.",
+                "zh-Hans": "使你的速度与周围车流相匹配。",
+                "zh-Hant": "使你的速度與周圍車流相匹配。"
+            },
+            "C": {
+                "en": "Never drive faster than is safe for current conditions.",
+                "zh-Hans": "永远不要超过当前条件下的安全速度。",
+                "zh-Hant": "永遠不要超過當前條件下的安全速度。"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "California's Basic Speed Law requires you to never drive faster than is safe for current conditions, regardless of the posted speed limit.",
+            "zh-Hans": "加州基本速度法要求你永远不要超过当前条件下的安全速度，无论限速牌显示多少。",
+            "zh-Hant": "加州基本速度法要求你永遠不要超過當前條件下的安全速度，無論限速牌顯示多少。"
+        },
+        "dmv_ref": {
+            "page": "33",
+            "section": "第7章：道路法规 - 基本速度法",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第33页「加州基本速度法」，要求根据实际条件调整车速。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第33頁「加州基本速度法」，要求根據實際條件調整車速。"
+        }
+    },
+    {
+        "id": 6009,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "You must notify the DMV within 5 days, if you:",
+            "zh-Hans": "如果发生以下情况，你必须在5天内通知DMV：",
+            "zh-Hant": "如果發生以下情況，你必須在5天內通知DMV："
+        },
+        "options": {
+            "A": {
+                "en": "Paint your vehicle a different color.",
+                "zh-Hans": "将你的车辆喷成不同的颜色。",
+                "zh-Hant": "將你的車輛噴成不同的顏色。"
+            },
+            "B": {
+                "en": "Sell or transfer ownership of your vehicle.",
+                "zh-Hans": "出售或转让你的车辆所有权。",
+                "zh-Hant": "出售或轉讓你的車輛所有權。"
+            },
+            "C": {
+                "en": "Receive a traffic violation.",
+                "zh-Hans": "收到交通违规通知。",
+                "zh-Hant": "收到交通違規通知。"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "When you sell or transfer ownership of your vehicle, you must notify the DMV within 5 days by completing a Notice of Transfer and Release of Liability.",
+            "zh-Hans": "当你出售或转让车辆所有权时，必须在5天内填写《转让和免责通知书》通知DMV。",
+            "zh-Hant": "當你出售或轉讓車輛所有權時，必須在5天內填寫《轉讓和免責通知書》通知DMV。"
+        },
+        "dmv_ref": {
+            "page": "79",
+            "section": "第11章：车辆登记要求",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第79页「车辆转让」部分，转让车辆需5天内通知DMV。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第79頁「車輛轉讓」部分，轉讓車輛需5天內通知DMV。"
+        }
+    },
+    {
+        "id": 6010,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "Which of the following is an example of a safe driving practice?",
+            "zh-Hans": "以下哪项是安全驾驶行为的例子？",
+            "zh-Hant": "以下哪項是安全駕駛行為的例子？"
+        },
+        "options": {
+            "A": {
+                "en": "Staring only at the middle of the road.",
+                "zh-Hans": "只盯着道路中间看。",
+                "zh-Hant": "只盯著道路中間看。"
+            },
+            "B": {
+                "en": "Always keep your eyes moving to scan the surroundings.",
+                "zh-Hans": "始终移动眼睛扫描周围环境。",
+                "zh-Hant": "始終移動眼睛掃描周圍環境。"
+            },
+            "C": {
+                "en": "Using your high-beam headlights in the fog.",
+                "zh-Hans": "在雾中使用远光灯。",
+                "zh-Hant": "在霧中使用遠光燈。"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Safe driving requires constantly scanning your surroundings by keeping your eyes moving. This helps you detect hazards early.",
+            "zh-Hans": "安全驾驶要求通过不断移动眼睛来扫描周围环境，这有助于及早发现危险情况。",
+            "zh-Hant": "安全駕駛要求通過不斷移動眼睛來掃描周圍環境，這有助於及早發現危險情況。"
+        },
+        "dmv_ref": {
+            "page": "57",
+            "section": "第8章：安全驾驶 - 观察技巧",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第57页「视觉搜索」部分，强调应不断扫描周围环境。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第57頁「視覺搜索」部分，強調應不斷掃描周圍環境。"
+        }
+    }
+]

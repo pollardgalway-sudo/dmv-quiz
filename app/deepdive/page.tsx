@@ -204,44 +204,6 @@ export default function DeepDivePage() {
       </nav>
 
       <div className="relative z-10 container mx-auto px-4 py-6 max-w-4xl">
-        {/* Header Card */}
-        <div className="premium-card rounded-2xl p-4 sm:p-6 mb-6 animate-fade-in-up">
-          <div className="flex flex-col sm:flex-row justify-between items-start sm:items-center gap-4">
-            <div className="flex-1">
-              <h1 className="text-xl sm:text-2xl md:text-3xl font-bold flex items-center gap-2">
-                <span className="animate-bounce-subtle">🎯</span>
-                <span className="gradient-text">专项突破 (Deep Dive)</span>
-              </h1>
-              <p className="text-sm text-muted-foreground mt-1">
-                正确率: {score.total > 0 ? Math.round((score.correct / score.total) * 100) : 0}%
-                <span className="mx-2">•</span>
-                已答 {score.total} 题
-              </p>
-            </div>
-
-            {/* Score Badge */}
-            <div className="glass rounded-xl px-4 py-2 text-center">
-              <div className="text-2xl font-bold gradient-text">{score.correct}</div>
-              <div className="text-xs text-muted-foreground">正确</div>
-            </div>
-          </div>
-
-          {/* Progress Bar */}
-          <div className="mt-4">
-            <div className="progress-bar" style={{ background: 'rgba(99, 102, 241, 0.2)' }}>
-              <div
-                className="progress-bar-fill"
-                style={{
-                  width: `${progress}%`,
-                  background: 'linear-gradient(90deg, #3B82F6, #8B5CF6)'
-                }}
-              />
-            </div>
-            <p className="text-xs text-muted-foreground mt-1 text-right">
-              {currentIndex + 1} / {questions.length}
-            </p>
-          </div>
-        </div>
 
         {/* Question Card */}
         <Card className="premium-card overflow-hidden animate-fade-in-up" style={{ animationDelay: '100ms' }}>
@@ -253,7 +215,7 @@ export default function DeepDivePage() {
               <span className="flex-shrink-0 w-8 h-8 rounded-full bg-gradient-to-br from-blue-400 to-indigo-500 flex items-center justify-center text-white font-bold text-sm">
                 {currentIndex + 1}
               </span>
-              <CardTitle className="text-base sm:text-lg md:text-xl leading-relaxed font-medium">
+              <CardTitle className="text-lg sm:text-xl md:text-2xl leading-relaxed font-semibold">
                 {currentQuestion.question[lang]}
               </CardTitle>
             </div>
@@ -296,7 +258,7 @@ export default function DeepDivePage() {
                       )}
                     </div>
 
-                    <Label className="flex-1 cursor-pointer text-sm sm:text-base leading-relaxed">
+                    <Label className="flex-1 cursor-pointer text-base sm:text-lg leading-relaxed">
                       <span className={`font-bold mr-2 ${showExplanation
                         ? isCorrectOption
                           ? 'text-emerald-600 dark:text-emerald-400'

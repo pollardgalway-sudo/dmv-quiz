@@ -67,7 +67,8 @@ export default function WrongQuestionsPage() {
         // Load questions from each source
         for (const [source, wqs] of Object.entries(bySource)) {
             let dataUrl = ''
-            if (source === 'basics') dataUrl = '/data/questions-basics.json'
+            // 使用 questions-all.json 来加载 basics，确保模拟考试的题目都能找到
+            if (source === 'basics') dataUrl = '/data/questions-all.json'
             else if (source === 'deepdive') dataUrl = '/data/questions-deepdive.json'
             else if (source === 'signs') dataUrl = '/data/questions-signs.json'
 

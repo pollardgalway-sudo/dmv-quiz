@@ -35,7 +35,8 @@
       "section": "Section 5: Seat Belts",
       "analysis_zh-Hans": "手册强调安全带能显著提高事故生存率。若乘客未满16岁，驾驶员将因其未系安全带而被开罚单。",
       "analysis_zh-Hant": "手冊強調安全帶能顯著提高事故生存率。若乘客未滿16歲，駕駛員將因其未系安全帶而被開罰單。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 2,
@@ -73,7 +74,8 @@
       "section": "Section 7: Speed Limits",
       "analysis_zh-Hans": "手册解析：安全车速受路面状况（湿滑）、可见度（大雾）和行人流量影响。在极端天气下，即使开 30mph 只要不安全也算违规。",
       "analysis_zh-Hant": "手冊解析：安全車速受路面狀況（濕滑）、可見度（大霧）和行人流量影響。在極端天氣下，即使開 30mph 只要不安全也算違規。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 3,
@@ -111,7 +113,8 @@
       "section": "Section 5: Vehicle Controls",
       "analysis_zh-Hans": "手册特别强调，在日出前和日落后 30 分鐘，以及任何视线模糊的情况下，必须开启近光灯。",
       "analysis_zh-Hant": "手冊特別強調，在日出前和日落後 30 分鐘，以及任何視線模糊的情況下，必須開啟近光燈。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 4,
@@ -149,7 +152,8 @@
       "section": "Section 7: Sharing the Road",
       "analysis_zh-Hans": "该法律此前仅限紧急车辆。2026年修订旨在保护所有在路边处理故障的普通驾驶员安全。",
       "analysis_zh-Hant": "該法律此前僅限緊急車輛。2026年修訂旨在保護所有在路邊處理故障的普通駕駛員安全。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 5,
@@ -187,7 +191,8 @@
       "section": "Section 5: Safe Vehicle Operation",
       "analysis_zh-Hans": "手册指出，即使天气凉爽，车内温度也会迅速升高危及生命，违反者将面临罚款或监禁。",
       "analysis_zh-Hant": "手冊指出，即使天氣涼爽，車內溫度也會迅速升高危及生命，違反者將面臨罰款或監禁。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 6,
@@ -225,7 +230,8 @@
       "section": "Section 6: Traffic Controls",
       "analysis_zh-Hans": "手册规定，无论是在路口还是施工区，驾驶员必须始终优先遵守现场执法人员的手势。",
       "analysis_zh-Hant": "手冊規定，無論是在路口還是施工區，駕駛員必須始終優先遵守現場執法人員的手勢。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 7,
@@ -263,7 +269,8 @@
       "section": "Section 8: Safe Driving",
       "analysis_zh-Hans": "手册强调分心驾驶是重大事故隐患。18岁以下青少年在任何情况下均严禁使用手机。",
       "analysis_zh-Hant": "手冊強調分心駕駛是重大事故隱患。18歲以下青少年在任何情況下均嚴禁使用手機。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 8,
@@ -301,7 +308,8 @@
       "section": "Section 11: Vehicle Registration",
       "analysis_zh-Hans": "此法律旨在打击逃避收费道路、红灯相机和自动执法系统的欺诈行为。",
       "analysis_zh-Hant": "此法律旨在打擊逃避收費道路、紅燈相機和自動執法系統的欺詐行為。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 9,
@@ -339,7 +347,8 @@
       "section": "Section 8: Safe Driving Tips",
       "analysis_zh-Hans": "手册建议：如果有人尾随，请换道让行；若感觉受威胁，请开车前往警察局。",
       "analysis_zh-Hant": "手冊建議：如果有人尾隨，請換道讓行；若感覺受威脅，請開車前往警察局。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 10,
@@ -377,7 +386,8 @@
       "section": "Section 9: Alcohol and Drugs",
       "analysis_zh-Hans": "该修订版加重了对酒驾致人死亡案件的监管，手册将其作为重点刑事处罚列出。",
       "analysis_zh-Hant": "該修訂版加重了對酒駕致人死亡案件的監管，手冊將其作為重點刑事處罰列出。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 11,
@@ -415,7 +425,8 @@
       "section": "Section 9: Alcohol and Drugs",
       "analysis_zh-Hans": "手册解析：商業駕駛員限制為 0.04%，未成年人為 0.01%。酒精會影響判斷力和反應速度。",
       "analysis_zh-Hant": "手冊解析：商業駕駛員限制為 0.04%，未成年人為 0.01%。酒精會影響判斷力和反應速度。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 12,
@@ -453,7 +464,8 @@
       "section": "Section 7: Signals",
       "analysis_zh-Hans": "手册要求：在信号灯故障或阳光刺眼导致转向灯不清晰时，必须使用这些手势。",
       "analysis_zh-Hant": "手冊要求：在信號燈故障或陽光刺眼導致轉向燈不清晰時，必須使用這些手勢。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 13,
@@ -491,7 +503,8 @@
       "section": "Section 11: Additional Provisions",
       "analysis_zh-Hans": "手册指出该法律旨在保护未成年人免受二手烟危害，无论车辆是否正在行驶。",
       "analysis_zh-Hant": "手冊指出該法律旨在保護未成年人免受二手煙危害，無論車輛是否正在行駛。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 14,
@@ -529,7 +542,8 @@
       "section": "Section 10: Financial Responsibility",
       "analysis_zh-Hans": "即使不是你的错，或者发生在私有财产上，只要达到损失金额就必须报告。",
       "analysis_zh-Hant": "即使不是你的錯，或者發生在私有財產上，只要達到損失金額就必須報告。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 15,
@@ -567,7 +581,8 @@
       "section": "Section 11: Miscellaneous Rules",
       "analysis_zh-Hans": "手册解析：此规定结合了动物保护法与交通安全法。任何被遗弃的动物都可能惊吓驾驶员导致连环车祸。",
       "analysis_zh-Hant": "手冊解析：此規定結合了動物保護法與交通安全法。任何被遺棄的動物都可能驚嚇駕駛員導致連環車禍。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 16,
@@ -605,7 +620,8 @@
       "section": "Section 7: Sharing the Road",
       "analysis_zh-Hans": "手册强调“隐形斑馬線”概念：每个十字路口都被视为有行人通道，驾驶员必须时刻准备避让。",
       "analysis_zh-Hant": "手冊強調「隱形斑馬線」概念：每個十字路口都被視為有行人通道，駕駛員必須時刻準備避讓。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 17,
@@ -643,7 +659,8 @@
       "section": "Section 7: Turns",
       "analysis_zh-Hans": "手册定义：商业区包括办公楼、酒店、商場等建筑密集的区域。严禁跨越路缘调头。",
       "analysis_zh-Hant": "手冊定義：商業區包括辦公樓、酒店、商場等建築密集的區域。嚴禁跨越路緣調頭。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 18,
@@ -681,7 +698,8 @@
       "section": "Section 7: Parking",
       "analysis_zh-Hans": "手册口诀：上坡背（路缘），下坡向（路缘）。如果没有路缘，无论上下坡都应转向道路边缘。",
       "analysis_zh-Hant": "手冊口訣：上坡背（路緣），下坡向（路緣）。如果沒有路緣，無論上下坡都應轉向道路邊緣。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 19,
@@ -719,7 +737,8 @@
       "section": "Section 6: Lane Control",
       "analysis_zh-Hans": "手册警示：如果两组双实线相距 2 英尺或更多，则视为“障碍物”，严禁跨越。",
       "analysis_zh-Hant": "手冊警示：如果兩組雙實線相距 2 英呎或更多，則視為「障礙物」，嚴禁跨越。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 20,
@@ -757,7 +776,8 @@
       "section": "Section 3: License",
       "analysis_zh-Hans": "手册提醒：准确的地址确保您能收到执照更新提醒和法律文件，避免因执照过期不知情而违规。",
       "analysis_zh-Hant": "手冊提醒：準確的地址確保您能收到執照更新提醒和法律文件，避免因執照過期不知情而違規。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 21,
@@ -795,7 +815,8 @@
       "section": "Section 7: Sharing the Road",
       "analysis_zh-Hans": "手册规定，未能在校车红灯闪烁时停车将面临最高 $1,000 罚款并吊销驾驶执照一年。",
       "analysis_zh-Hant": "手冊規定，未能在校車紅燈閃爍時停車將面臨最高 $1,000 罰款並吊銷駕駛執照一年。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 22,
@@ -833,7 +854,8 @@
       "section": "Section 7: Signals",
       "analysis_zh-Hans": "手册建议在高速公路上变道前应至少提前 5 秒开启转向灯。",
       "analysis_zh-Hant": "手冊建議在高速公路上變道前應至少提前 5 秒開啟轉向燈。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 23,
@@ -871,7 +893,8 @@
       "section": "Section 8: Safe Driving",
       "analysis_zh-Hans": "手册指出，在雨天刚开始时的路面最滑，因为雨水会使油渍浮起。",
       "analysis_zh-Hant": "手冊指出，在雨天剛開始時的路面最滑，因為雨水會使油漬浮起。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 24,
@@ -909,7 +932,8 @@
       "section": "Section 6: Lane Lines",
       "analysis_zh-Hans": "手册强调只有在左转进入车道、或是根据指示避开障碍物时才可跨越。",
       "analysis_zh-Hant": "手冊強調只有在左轉進入車道、或是根據指示避開障礙物時才可跨越。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 25,
@@ -947,7 +971,8 @@
       "section": "Section 8: Dangerous Conditions",
       "analysis_zh-Hans": "手册警告：在雾中千万不要只开启停车灯，这会让其他车辆难以发现你。",
       "analysis_zh-Hant": "手冊警告：在霧中千萬不要只開啟停車燈，這會讓其他車輛難以發現你。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 26,
@@ -985,7 +1010,8 @@
       "section": "Section 3: Minors",
       "analysis_zh-Hans": "手册解析：此项规定旨在减少新手青少年驾驶员在夜间发生的事故风险。",
       "analysis_zh-Hant": "手冊解析：此項規定旨在減少新手青少年駕駛員在夜間發生的事故風險。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 27,
@@ -1023,7 +1049,8 @@
       "section": "Section 11: Rules of the Road",
       "analysis_zh-Hans": "2026年手册新增：对观赛者也有相应的罚款规定，旨在彻底清除街道赛车文化。",
       "analysis_zh-Hant": "2026年手冊新增：對觀賽者也有相應的罰款規定，旨在徹底清除街道賽車文化。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 28,
@@ -1061,7 +1088,8 @@
       "section": "Section 8: Scanning",
       "analysis_zh-Hans": "手册解析：即使车辆配有盲点监测雷达，驾驶员仍被要求进行物理过肩检查。",
       "analysis_zh-Hant": "手冊解析：即使車輛配有盲點監測雷達，駕駛員仍被要求進行物理過肩檢查。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 29,
@@ -1099,7 +1127,8 @@
       "section": "Section 7: Sharing the Road",
       "analysis_zh-Hans": "手册警告：绝对不要对盲人鸣喇叭，这会让他们受到惊吓并失去方向感。",
       "analysis_zh-Hant": "手冊警告：絕對不要對盲人鳴喇叭，這會讓他們受到驚嚇並失去方向感。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 30,
@@ -1137,7 +1166,8 @@
       "section": "Section 10: Financial Responsibility",
       "analysis_zh-Hans": "手册完整要求：15/30/5（单人伤亡 1.5 万/总伤亡 3 万/财损 5 千）。",
       "analysis_zh-Hant": "手冊完整要求：15/30/5（單人傷亡 1.5 萬/總傷亡 3 萬/財損 5 千）。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 31,
@@ -1175,7 +1205,8 @@
       "section": "Section 6: Traffic Signals",
       "analysis_zh-Hans": "手册规定，即使拥有保护转弯权，仍需注意那些非法进入路口的行人和车辆。",
       "analysis_zh-Hant": "手冊規定，即使擁有保護轉彎權，仍需注意那些非法進入路口的行人和車輛。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 32,
@@ -1213,7 +1244,8 @@
       "section": "Section 7: Sharing the Road",
       "analysis_zh-Hans": "手册警告：严禁在紧急车辆后方 300 英尺内跟随。",
       "analysis_zh-Hant": "手冊警告：嚴禁在緊急車輛後方 300 英呎內跟隨。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 33,
@@ -1251,7 +1283,8 @@
       "section": "Section 8: Dangerous Conditions",
       "analysis_zh-Hans": "手册指出，车速超过 50 英里时，“水上漂”现象极易发生。",
       "analysis_zh-Hant": "手冊指出，車速超過 50 英哩時，「水上漂」現象極易發生。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 34,
@@ -1289,7 +1322,8 @@
       "section": "Section 7: Intersections",
       "analysis_zh-Hans": "手册规定：进入环岛前必须避让已经在环岛内的车辆。",
       "analysis_zh-Hant": "手冊規定：進入環島前必須避讓已經在環島內的車輛。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 35,
@@ -1327,7 +1361,8 @@
       "section": "Section 9: Alcohol and Drugs",
       "analysis_zh-Hans": "手册解析：保留时间长是为了追踪累犯。2026年法规对酒驾导致的保费上涨也有提及。",
       "analysis_zh-Hant": "手冊解析：保留時間長是為了追踪累犯。2026年法規對酒駕導致的保費上漲也有提及。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 36,
@@ -1365,7 +1400,8 @@
       "section": "Section 6: Traffic Signals",
       "analysis_zh-Hans": "手册警告：在黄灯时猛踩油门冲过路口是极其危险的行为。",
       "analysis_zh-Hant": "手冊警告：在黃燈時猛踩油門衝過路口是極其危險的行為。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 37,
@@ -1403,7 +1439,8 @@
       "section": "Section 7: Lanes",
       "analysis_zh-Hans": "手册规定：超车必须在法律允许的车道内进行。",
       "analysis_zh-Hant": "手冊規定：超車必須在法律允許的車道內進行。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 38,
@@ -1441,7 +1478,8 @@
       "section": "Section 10: Points",
       "analysis_zh-Hans": "手册解析：大部分交通违规计 1 分，重大违规（如肇事逃逸）计 2 分。",
       "analysis_zh-Hant": "手冊解析：大部分交通違規計 1 分，重大違規（如肇事逃逸）計 2 分。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 39,
@@ -1479,7 +1517,8 @@
       "section": "Section 7: Parking",
       "analysis_zh-Hans": "手册解析：红色路缘、人行横道和车库门口均严禁停车。",
       "analysis_zh-Hant": "手冊解析：紅色路緣、人行橫道和車庫門口均嚴禁停車。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 40,
@@ -1517,7 +1556,8 @@
       "section": "Section 5: Controls",
       "analysis_zh-Hans": "手册解析：传统的 10 和 2 已被淘汰，新车型气囊力度大，手握太高会打断手臂。",
       "analysis_zh-Hant": "手冊解析：傳統的 10 和 2 已被淘汰，新車型氣囊力度大，手握太高會打斷手臂。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 41,
@@ -1555,7 +1595,8 @@
       "section": "Section 7: Speed Limits",
       "analysis_zh-Hans": "手册解析：盲区路口极其危险，低速行驶是为了随时应对突发车流。",
       "analysis_zh-Hant": "手冊解析：盲區路口極其危險，低速行駛是為了隨時應對突發車流。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 42,
@@ -1593,7 +1634,8 @@
       "section": "Section 7: Parking",
       "analysis_zh-Hans": "手册口诀：白接送，绿时限，黄卸货，红禁停，蓝残疾。",
       "analysis_zh-Hant": "手冊口訣：白接送，綠時限，黃卸貨，紅禁停，藍殘疾。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 43,
@@ -1631,7 +1673,8 @@
       "section": "Section 7: Lanes",
       "analysis_zh-Hans": "手册解析：过早切回会导致后车被迫急刹车，极易引发追尾。",
       "analysis_zh-Hant": "手冊解析：過早切回會導致後車被迫急剎車，極易引發追尾。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 44,
@@ -1669,7 +1712,8 @@
       "section": "Section 9: Alcohol and Drugs",
       "analysis_zh-Hans": "手册解析：0.01% 相当于只要喝一口酒就可能超标，旨在完全禁止未成年饮酒后开车。",
       "analysis_zh-Hant": "手冊解析：0.01% 相當於只要喝一口酒就可能超標，旨在完全禁止未成年飲酒後開車。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 45,
@@ -1707,7 +1751,8 @@
       "section": "Section 7: Parking",
       "analysis_zh-Hans": "手册解析：停得太远会占用行车道空间，增加被剐蹭的风险。",
       "analysis_zh-Hant": "手冊解析：停得太遠會佔用行車道空間，增加被刮蹭的風險。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 46,
@@ -1745,7 +1790,8 @@
       "section": "Section 7: Lanes",
       "analysis_zh-Hans": "手册警示：在进入自行车道前必须检查盲点，确保没有骑行者在您的右侧。",
       "analysis_zh-Hant": "手冊警示：在進入自行車道前必須檢查盲點，確保沒有騎行者在您的右側。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 47,
@@ -1783,7 +1829,8 @@
       "section": "Section 6: Traffic Signals",
       "analysis_zh-Hans": "手册解析：对比闪烁红灯（视同停止信号），闪烁黄灯强调的是“警示”。",
       "analysis_zh-Hant": "手冊解析：對比閃爍紅燈（視同停止信號），閃爍黃燈強調的是「警示」。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 48,
@@ -1821,7 +1868,8 @@
       "section": "Section 6: Lane Lines",
       "analysis_zh-Hans": "手册解析：相比之下，实白线通常用于标记车道边缘或禁止非必要变道的区域。",
       "analysis_zh-Hant": "手冊解析：相比之下，實白線通常用於標記車道邊緣或禁止非必要變道的區域。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 49,
@@ -1859,7 +1907,8 @@
       "section": "Section 7: Sharing the Road",
       "analysis_zh-Hans": "2026年手册新增：如果无法保证 3 英尺距离，驾驶员必须换道超越或等待。",
       "analysis_zh-Hant": "2026年手冊新增：如果無法保證 3 英呎距離，駕駛員必須換道超越或等待。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 50,
@@ -1897,7 +1946,8 @@
       "section": "Section 7: Speed Limits",
       "analysis_zh-Hans": "手册解析：在学校区域且有儿童在场时，限速同样为 25 英里（除非另有标示）。",
       "analysis_zh-Hant": "手冊解析：在學校區域且有兒童在場時，限速同樣為 25 英哩（除非另有標示）。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 51,
@@ -1935,7 +1985,8 @@
       "section": "Section 10: Financial Responsibility",
       "analysis_zh-Hans": "手册强调：即使对方没有索要，您在法律上也有义务主动出示这些文件。",
       "analysis_zh-Hant": "手冊強調：即使對方沒有索要，您在法律上有義務主動出示這些文件。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 52,
@@ -1973,7 +2024,8 @@
       "section": "Section 8: Sharing the Road",
       "analysis_zh-Hans": "手册解析：这种现象被称为‘挤压冲突’。在大车右转时，保持车距至关重要。",
       "analysis_zh-Hant": "手冊解析：這種現象被稱為「擠壓衝突」。在大車右轉時，保持車距至關重要。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 53,
@@ -2011,7 +2063,8 @@
       "section": "Section 5: Controls",
       "analysis_zh-Hans": "手册建议：调整后视镜直到您能看到车后部的一小部分，最大限度减少盲区。",
       "analysis_zh-Hant": "手冊建議：調整後視鏡直到您能看到車後部的一小部分，最大限度減少盲區。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 54,
@@ -2049,7 +2102,8 @@
       "section": "Section 7: Highway Driving",
       "analysis_zh-Hans": "手册解析：高速公路车速极快，任何异常停顿都可能导致严重的追尾事故。",
       "analysis_zh-Hant": "手冊解析：高速公路車速極快，任何異常停頓都可能導致嚴重的追尾事故。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 55,
@@ -2087,7 +2141,8 @@
       "section": "Section 7: Sharing the Road",
       "analysis_zh-Hans": "手册解析：这一举措是为了提高公共交通效率，减少城市拥堵。",
       "analysis_zh-Hant": "手冊解析：這一舉措是為了提高公共交通效率，減少城市擁堵。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 56,
@@ -2125,7 +2180,8 @@
       "section": "Section 6: Road Signs",
       "analysis_zh-Hans": "手册解析：颜色和形状是识别标志的第一步。黄色永远代表‘警告’。",
       "analysis_zh-Hant": "手冊解析：顏色和形狀是識別標誌的第一步。黃色永遠代表『警告』。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 57,
@@ -2163,7 +2219,8 @@
       "section": "Section 8: Night Driving",
       "analysis_zh-Hans": "手册规定：对向来车 500 英尺内或跟随前方车辆 300 英尺内必须关闭远光灯。",
       "analysis_zh-Hant": "手冊規定：對向來車 500 英呎內或跟隨前方車輛 300 英呎內必須關閉遠光燈。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 58,
@@ -2201,7 +2258,8 @@
       "section": "Section 7: Speed Limits",
       "analysis_zh-Hans": "手册警示：绝对不要试图与火车赛跑。如果看到火车，请停车等待。",
       "analysis_zh-Hant": "手冊警示：絕對不要試圖與火車賽跑。如果看到火車，請停車等待。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 59,
@@ -2239,7 +2297,8 @@
       "section": "Section 8: Space Cushions",
       "analysis_zh-Hans": "手册解析：在雨天或路滑时，应将此间距增加到 4 秒或更多。",
       "analysis_zh-Hant": "手冊解析：在雨天或路滑時，應將此間距增加到 4 秒或更多。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 60,
@@ -2277,7 +2336,8 @@
       "section": "Section 7: Lanes",
       "analysis_zh-Hans": "手册解析：不按此规定让行可能会被警察开罚单，因为这会导致交通拥堵和危险超车。",
       "analysis_zh-Hant": "手冊解析：不按此規定讓行可能會被警察開罰單，因為這會導致交通擁堵和危險超車。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 61,
@@ -2315,7 +2375,8 @@
       "section": "Section 8: Sharing the Road",
       "analysis_zh-Hans": "手册解析：这种车辆通常是农用车或重型施工车，驾驶员需保持耐心。",
       "analysis_zh-Hant": "手冊解析：這種車輛通常是農用車或重型施工車，駕駛員需保持耐心。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 62,
@@ -2353,7 +2414,8 @@
       "section": "Section 9: Alcohol and Drugs",
       "analysis_zh-Hans": "手册解析：酒精必须由父母陪同且密封存放在后备箱中，否则即为违法。",
       "analysis_zh-Hant": "手冊解析：酒精必須由父母陪同且密封存放在後備箱中，否則即為違法。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 63,
@@ -2391,7 +2453,8 @@
       "section": "Section 9: Alcohol and Drugs",
       "analysis_zh-Hans": "手册解析：酒精或大麻必须存放在后备箱等乘客够不到的地方（除非是符合特定规则的商用车乘客）。",
       "analysis_zh-Hant": "手冊解析：酒精或大麻必須存放在後備箱等乘客夠不到的地方（除非是符合特定規則的商用車乘客）。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 64,
@@ -2429,7 +2492,8 @@
       "section": "Section 7: Intersections",
       "analysis_zh-Hans": "手册解析：这是一个常见的考点。记住：‘没路的人让有路的人’。",
       "analysis_zh-Hant": "手冊解析：這是一個常見的考點。記住：『沒路的人讓有路的人』。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 65,
@@ -2467,7 +2531,8 @@
       "section": "Section 8: Vehicle Failures",
       "analysis_zh-Hans": "手册建议：如果以上方法无效，请寻找灌木丛或软泥地来减速，并开启双闪灯。",
       "analysis_zh-Hant": "手冊建議：如果以上方法無效，請尋找灌木叢或軟泥地來減速，並開啟雙閃燈。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 66,
@@ -2505,7 +2570,8 @@
       "section": "Section 8: Distracted Driving",
       "analysis_zh-Hans": "手册解析：即使是免提通话也会分散注意力。最佳实践是使用语音控制。",
       "analysis_zh-Hant": "手冊解析：即使是免提通話也會分散注意力。最佳實踐是使用語音控制。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 67,
@@ -2543,7 +2609,8 @@
       "section": "Section 6: Signs",
       "analysis_zh-Hans": "手册解析：如果标志下方带有箭头，表示具体的过马路位置；若无箭头，则是指整个区域。",
       "analysis_zh-Hant": "手冊解析：如果標誌下方帶有箭頭，表示具體的過馬路位置；若無箭頭，則是指整個區域。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 68,
@@ -2581,7 +2648,8 @@
       "section": "Section 7: Turns",
       "analysis_zh-Hans": "手册解析：必须先完全停车，避让行人和其他车辆后，确认安全方可左转。",
       "analysis_zh-Hant": "手冊解析：必須先完全停車，避讓行人和其他車輛後，確認安全方可左轉。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 69,
@@ -2619,7 +2687,8 @@
       "section": "Section 10: Traffic Accidents",
       "analysis_zh-Hans": "手册解析：纸条应稳固地贴在受损车辆上，并在其后立即致电当地执法部门。",
       "analysis_zh-Hant": "手冊解析：紙條應穩固地貼在受損車輛上，並在其後立即致電當地執法部門。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 70,
@@ -2657,10 +2726,1571 @@
       "section": "Section 8: Dangerous Conditions",
       "analysis_zh-Hans": "手册建议：在初雨时应显著降低车速，并增加跟车距离。",
       "analysis_zh-Hant": "手冊建議：在初雨時應顯著降低車速，並增加跟車距離。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 71,
+    "id": 6001,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "When is it legal to drive off the road to pass another vehicle?",
+      "zh-Hans": "什么情况下可以合法地离开道路超车？",
+      "zh-Hant": "什麼情況下可以合法地離開道路超車？"
+    },
+    "options": {
+      "A": {
+        "en": "If the vehicle ahead is turning left.",
+        "zh-Hans": "如果前方车辆正在左转。",
+        "zh-Hant": "如果前方車輛正在左轉。"
+      },
+      "B": {
+        "en": "It is not legal under any conditions.",
+        "zh-Hans": "在任何情况下都不合法。",
+        "zh-Hant": "在任何情況下都不合法。"
+      },
+      "C": {
+        "en": "If there are two or more one-way lanes.",
+        "zh-Hans": "如果有两条或更多的单向车道。",
+        "zh-Hant": "如果有兩條或更多的單向車道。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "It is never legal to drive off the road to pass another vehicle. You must always pass on the paved roadway.",
+      "zh-Hans": "在任何情况下都不允许离开道路超车。你必须始终在铺设好的道路上超车。",
+      "zh-Hant": "在任何情況下都不允許離開道路超車。你必須始終在鋪設好的道路上超車。"
+    },
+    "dmv_ref": {
+      "page": "37",
+      "section": "第7章：道路法规 - 超车",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第37页「超车」部分，明确规定不得离开道路超车。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第37頁「超車」部分，明確規定不得離開道路超車。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6002,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "When a railroad crossing is not controlled, what is the speed limit when you are within 100 feet and cannot see for 400 feet in both directions?",
+      "zh-Hans": "在无控制的铁路道口，当你在100英尺范围内且两个方向都看不到400英尺时，限速是多少？",
+      "zh-Hant": "在無控制的鐵路道口，當你在100英尺範圍內且兩個方向都看不到400英尺時，限速是多少？"
+    },
+    "options": {
+      "A": {
+        "en": "15 mph.",
+        "zh-Hans": "每小时15英里。",
+        "zh-Hant": "每小時15英里。"
+      },
+      "B": {
+        "en": "10 mph.",
+        "zh-Hans": "每小时10英里。",
+        "zh-Hant": "每小時10英里。"
+      },
+      "C": {
+        "en": "25 mph.",
+        "zh-Hans": "每小时25英里。",
+        "zh-Hant": "每小時25英里。"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "At an uncontrolled railroad crossing where you cannot see 400 feet in both directions, the speed limit is 15 mph when within 100 feet of the crossing.",
+      "zh-Hans": "在无控制的铁路道口，如果两个方向都看不到400英尺，当距离道口100英尺以内时限速为每小时15英里。",
+      "zh-Hant": "在無控制的鐵路道口，如果兩個方向都看不到400英尺，當距離道口100英尺以內時限速為每小時15英里。"
+    },
+    "dmv_ref": {
+      "page": "35",
+      "section": "第7章：道路法规 - 限速",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第35页「特殊限速区」部分，铁路道口能见度有限时限速15英里/小时。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第35頁「特殊限速區」部分，鐵路道口能見度有限時限速15英里/小時。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6003,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "Which of the following is the proper procedure for parallel parking?",
+      "zh-Hans": "以下哪项是正确的平行停车程序？",
+      "zh-Hant": "以下哪項是正確的平行停車程序？"
+    },
+    "options": {
+      "A": {
+        "en": "Drive forward into the space without stopping.",
+        "zh-Hans": "不停地向前驶入车位。",
+        "zh-Hant": "不停地向前駛入車位。"
+      },
+      "B": {
+        "en": "Stop next to the vehicle behind the open space, and then drive forward into the space.",
+        "zh-Hans": "停在空位后面的车辆旁边，然后向前驶入车位。",
+        "zh-Hant": "停在空位後面的車輛旁邊，然後向前駛入車位。"
+      },
+      "C": {
+        "en": "Stop next to the vehicle in front of the open space, and then back into the space.",
+        "zh-Hans": "停在空位前面的车辆旁边，然后倒车进入车位。",
+        "zh-Hant": "停在空位前面的車輛旁邊，然後倒車進入車位。"
+      }
+    },
+    "answer": "C",
+    "explanation": {
+      "en": "The correct parallel parking procedure is to stop next to the vehicle in front of the space, then back into the space while turning the steering wheel.",
+      "zh-Hans": "正确的平行停车程序是停在空位前面的车辆旁边，然后一边转动方向盘一边倒车进入车位。",
+      "zh-Hant": "正確的平行停車程序是停在空位前面的車輛旁邊，然後一邊轉動方向盤一邊倒車進入車位。"
+    },
+    "dmv_ref": {
+      "page": "44",
+      "section": "第7章：道路法规 - 停车",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第44页「平行停车」部分，详细说明了正确的停车步骤。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第44頁「平行停車」部分，詳細說明了正確的停車步驟。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6004,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "What speed should you be driving when entering onto a highway?",
+      "zh-Hans": "进入高速公路时应该以什么速度行驶？",
+      "zh-Hant": "進入高速公路時應該以什麼速度行駛？"
+    },
+    "options": {
+      "A": {
+        "en": "At or near the speed of traffic.",
+        "zh-Hans": "与车流速度相同或接近。",
+        "zh-Hant": "與車流速度相同或接近。"
+      },
+      "B": {
+        "en": "Faster than the speed of traffic.",
+        "zh-Hans": "比车流速度快。",
+        "zh-Hant": "比車流速度快。"
+      },
+      "C": {
+        "en": "Slower than the speed of traffic.",
+        "zh-Hans": "比车流速度慢。",
+        "zh-Hant": "比車流速度慢。"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "When entering a highway, use the acceleration lane to match the speed of highway traffic before merging.",
+      "zh-Hans": "进入高速公路时，使用加速车道将速度调整到与高速公路车流相同后再汇入。",
+      "zh-Hant": "進入高速公路時，使用加速車道將速度調整到與高速公路車流相同後再匯入。"
+    },
+    "dmv_ref": {
+      "page": "60",
+      "section": "第8章：安全驾驶 - 高速公路驾驶",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第60页「进入高速公路」部分，强调应在加速道上匹配车流速度。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第60頁「進入高速公路」部分，強調應在加速道上匹配車流速度。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6005,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "How many feet away should you switch from high beam to low beam headlights when approaching a vehicle coming towards you?",
+      "zh-Hans": "当接近迎面而来的车辆时，应该在多少英尺外将远光灯切换为近光灯？",
+      "zh-Hant": "當接近迎面而來的車輛時，應該在多少英尺外將遠光燈切換為近光燈？"
+    },
+    "options": {
+      "A": {
+        "en": "900 feet.",
+        "zh-Hans": "900英尺。",
+        "zh-Hant": "900英尺。"
+      },
+      "B": {
+        "en": "700 feet.",
+        "zh-Hans": "700英尺。",
+        "zh-Hant": "700英尺。"
+      },
+      "C": {
+        "en": "500 feet.",
+        "zh-Hans": "500英尺。",
+        "zh-Hant": "500英尺。"
+      }
+    },
+    "answer": "C",
+    "explanation": {
+      "en": "You must dim your headlights to low beam within 500 feet of an oncoming vehicle to avoid blinding the other driver.",
+      "zh-Hans": "当距离迎面车辆500英尺以内时必须将远光灯切换为近光灯，以免使对方驾驶员目眩。",
+      "zh-Hant": "當距離迎面車輛500英尺以內時必須將遠光燈切換為近光燈，以免使對方駕駛員目眩。"
+    },
+    "dmv_ref": {
+      "page": "49",
+      "section": "第7章：道路法规 - 车灯使用",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第49页「车灯」部分，规定迎车时500英尺内必须使用近光灯。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第49頁「車燈」部分，規定迎車時500英尺內必須使用近光燈。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6006,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "Who can legally park next to curb painted blue?",
+      "zh-Hans": "谁可以合法地停在蓝色路缘旁？",
+      "zh-Hant": "誰可以合法地停在藍色路緣旁？"
+    },
+    "options": {
+      "A": {
+        "en": "Someone who is either picking up or dropping off passengers at this location.",
+        "zh-Hans": "正在此地接送乘客的人。",
+        "zh-Hant": "正在此地接送乘客的人。"
+      },
+      "B": {
+        "en": "A person who is disabled and has a special placard or vehicle license plate for disabled persons.",
+        "zh-Hans": "持有残疾人专用牌照或车牌的残疾人。",
+        "zh-Hant": "持有殘疾人專用牌照或車牌的殘疾人。"
+      },
+      "C": {
+        "en": "A person who will only be parked at the curb for less than 15 minutes.",
+        "zh-Hans": "只在路缘停车不超过15分钟的人。",
+        "zh-Hant": "只在路緣停車不超過15分鐘的人。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Blue curbs are reserved exclusively for parking by disabled persons who display a placard or special license plate.",
+      "zh-Hans": "蓝色路缘专供展示残疾人牌照或特殊车牌的残疾人停车使用。",
+      "zh-Hant": "藍色路緣專供展示殘疾人牌照或特殊車牌的殘疾人停車使用。"
+    },
+    "dmv_ref": {
+      "page": "45",
+      "section": "第7章：道路法规 - 路缘颜色标记",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第45页「路缘颜色」部分，蓝色表示残疾人专用停车位。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第45頁「路緣顏色」部分，藍色表示殘疾人專用停車位。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6007,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "What should you do when there is a school bus ahead that starts flashing yellow warning lights?",
+      "zh-Hans": "当前方校车开始闪烁黄色警示灯时，你应该怎么做？",
+      "zh-Hant": "當前方校車開始閃爍黃色警示燈時，你應該怎麼做？"
+    },
+    "options": {
+      "A": {
+        "en": "Slow down and prepare to stop.",
+        "zh-Hans": "减速并准备停车。",
+        "zh-Hant": "減速並準備停車。"
+      },
+      "B": {
+        "en": "Stop immediately and remain stopped.",
+        "zh-Hans": "立即停车并保持停止。",
+        "zh-Hant": "立即停車並保持停止。"
+      },
+      "C": {
+        "en": "Cautiously pass the school bus on the left.",
+        "zh-Hans": "小心地从左侧超过校车。",
+        "zh-Hant": "小心地從左側超過校車。"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Yellow flashing lights warn that the bus is preparing to stop. Slow down and prepare to stop. Red flashing lights mean you must stop.",
+      "zh-Hans": "黄色闪烁灯警告校车正在准备停车，你应减速并准备停车。红色闪烁灯表示你必须停车。",
+      "zh-Hant": "黃色閃爍燈警告校車正在準備停車，你應減速並準備停車。紅色閃爍燈表示你必須停車。"
+    },
+    "dmv_ref": {
+      "page": "52",
+      "section": "第7章：道路法规 - 与校车相关",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第52页「校车」部分，黄灯闪烁时应减速准备停车。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第52頁「校車」部分，黃燈閃爍時應減速準備停車。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6008,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "Which of the following is a requirement of California's Basic Speed Law?",
+      "zh-Hans": "以下哪项是加州基本速度法的要求？",
+      "zh-Hant": "以下哪項是加州基本速度法的要求？"
+    },
+    "options": {
+      "A": {
+        "en": "Always drive the speed limit, regardless of conditions.",
+        "zh-Hans": "无论条件如何，始终按限速行驶。",
+        "zh-Hant": "無論條件如何，始終按限速行駛。"
+      },
+      "B": {
+        "en": "Match your speed to that of your surrounding traffic.",
+        "zh-Hans": "使你的速度与周围车流相匹配。",
+        "zh-Hant": "使你的速度與周圍車流相匹配。"
+      },
+      "C": {
+        "en": "Never drive faster than is safe for current conditions.",
+        "zh-Hans": "永远不要超过当前条件下的安全速度。",
+        "zh-Hant": "永遠不要超過當前條件下的安全速度。"
+      }
+    },
+    "answer": "C",
+    "explanation": {
+      "en": "California's Basic Speed Law requires you to never drive faster than is safe for current conditions, regardless of the posted speed limit.",
+      "zh-Hans": "加州基本速度法要求你永远不要超过当前条件下的安全速度，无论限速牌显示多少。",
+      "zh-Hant": "加州基本速度法要求你永遠不要超過當前條件下的安全速度，無論限速牌顯示多少。"
+    },
+    "dmv_ref": {
+      "page": "33",
+      "section": "第7章：道路法规 - 基本速度法",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第33页「加州基本速度法」，要求根据实际条件调整车速。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第33頁「加州基本速度法」，要求根據實際條件調整車速。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6009,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "You must notify the DMV within 5 days, if you:",
+      "zh-Hans": "如果发生以下情况，你必须在5天内通知DMV：",
+      "zh-Hant": "如果發生以下情況，你必須在5天內通知DMV："
+    },
+    "options": {
+      "A": {
+        "en": "Paint your vehicle a different color.",
+        "zh-Hans": "将你的车辆喷成不同的颜色。",
+        "zh-Hant": "將你的車輛噴成不同的顏色。"
+      },
+      "B": {
+        "en": "Sell or transfer ownership of your vehicle.",
+        "zh-Hans": "出售或转让你的车辆所有权。",
+        "zh-Hant": "出售或轉讓你的車輛所有權。"
+      },
+      "C": {
+        "en": "Receive a traffic violation.",
+        "zh-Hans": "收到交通违规通知。",
+        "zh-Hant": "收到交通違規通知。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "When you sell or transfer ownership of your vehicle, you must notify the DMV within 5 days by completing a Notice of Transfer and Release of Liability.",
+      "zh-Hans": "当你出售或转让车辆所有权时，必须在5天内填写《转让和免责通知书》通知DMV。",
+      "zh-Hant": "當你出售或轉讓車輛所有權時，必須在5天內填寫《轉讓和免責通知書》通知DMV。"
+    },
+    "dmv_ref": {
+      "page": "79",
+      "section": "第11章：车辆登记要求",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第79页「车辆转让」部分，转让车辆需5天内通知DMV。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第79頁「車輛轉讓」部分，轉讓車輛需5天內通知DMV。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6010,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "Which of the following is an example of a safe driving practice?",
+      "zh-Hans": "以下哪项是安全驾驶行为的例子？",
+      "zh-Hant": "以下哪項是安全駕駛行為的例子？"
+    },
+    "options": {
+      "A": {
+        "en": "Staring only at the middle of the road.",
+        "zh-Hans": "只盯着道路中间看。",
+        "zh-Hant": "只盯著道路中間看。"
+      },
+      "B": {
+        "en": "Always keep your eyes moving to scan the surroundings.",
+        "zh-Hans": "始终移动眼睛扫描周围环境。",
+        "zh-Hant": "始終移動眼睛掃描周圍環境。"
+      },
+      "C": {
+        "en": "Using your high-beam headlights in the fog.",
+        "zh-Hans": "在雾中使用远光灯。",
+        "zh-Hant": "在霧中使用遠光燈。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Safe driving requires constantly scanning your surroundings by keeping your eyes moving. This helps you detect hazards early.",
+      "zh-Hans": "安全驾驶要求通过不断移动眼睛来扫描周围环境，这有助于及早发现危险情况。",
+      "zh-Hant": "安全駕駛要求通過不斷移動眼睛來掃描周圍環境，這有助於及早發現危險情況。"
+    },
+    "dmv_ref": {
+      "page": "57",
+      "section": "第8章：安全驾驶 - 观察技巧",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第57页「视觉搜索」部分，强调应不断扫描周围环境。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第57頁「視覺搜索」部分，強調應不斷掃描周圍環境。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6011,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "What should you do when reaching an intersection where a person operating a motorized wheelchair has entered the crosswalk?",
+      "zh-Hans": "当到达路口时，如果有人驾驶电动轮椅进入人行横道，你应该怎么做？",
+      "zh-Hant": "當到達路口時，如果有人駕駛電動輪椅進入人行橫道，你應該怎麼做？"
+    },
+    "options": {
+      "A": {
+        "en": "Remain stopped behind the crosswalk line until the motorized wheelchair has safely finished crossing.",
+        "zh-Hans": "停在人行横道线后，直到电动轮椅安全通过。",
+        "zh-Hant": "停在人行橫道線後，直到電動輪椅安全通過。"
+      },
+      "B": {
+        "en": "Remain stopped behind the nearest crosswalk line until the motorized wheelchair is beyond the range of your vehicle.",
+        "zh-Hans": "停在最近的人行横道线后，直到电动轮椅超出你的车辆范围。",
+        "zh-Hant": "停在最近的人行橫道線後，直到電動輪椅超出你的車輛範圍。"
+      },
+      "C": {
+        "en": "Assume right-of-way if the motorized wheelchair stops in the crosswalk.",
+        "zh-Hans": "如果电动轮椅在人行横道内停止，可以假设你有优先权。",
+        "zh-Hant": "如果電動輪椅在人行橫道內停止，可以假設你有優先權。"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Always wait for pedestrians, including those in wheelchairs, to completely and safely cross before proceeding.",
+      "zh-Hans": "始终等待行人（包括轮椅使用者）完全安全通过后再继续行驶。",
+      "zh-Hant": "始終等待行人（包括輪椅使用者）完全安全通過後再繼續行駛。"
+    },
+    "dmv_ref": {
+      "page": "40",
+      "section": "第7章：道路法规 - 行人",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第40页「行人优先权」部分。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第40頁「行人優先權」部分。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6012,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "Which of the following is true about large trucks?",
+      "zh-Hans": "关于大型卡车，以下哪项是正确的？",
+      "zh-Hant": "關於大型卡車，以下哪項是正確的？"
+    },
+    "options": {
+      "A": {
+        "en": "They are made of many trailers, which make them more maneuverable than passenger vehicles.",
+        "zh-Hans": "它们由多个拖车组成，比乘用车更灵活。",
+        "zh-Hant": "它們由多個拖車組成，比乘用車更靈活。"
+      },
+      "B": {
+        "en": "They have large blind spots, which makes it difficult for the truck driver to see other vehicles.",
+        "zh-Hans": "它们有很大的盲区，卡车司机很难看到其他车辆。",
+        "zh-Hant": "它們有很大的盲區，卡車司機很難看到其他車輛。"
+      },
+      "C": {
+        "en": "They have large and powerful emergency brakes, which gives them the capability to stop quickly.",
+        "zh-Hans": "它们有大功率的紧急刹车，可以快速停车。",
+        "zh-Hant": "它們有大功率的緊急剎車，可以快速停車。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Large trucks have significant blind spots (No-Zones) on all sides. Stay out of these areas to be visible to the driver.",
+      "zh-Hans": "大型卡车四周都有显著的盲区（禁区）。避开这些区域，让司机能看到你。",
+      "zh-Hant": "大型卡車四周都有顯著的盲區（禁區）。避開這些區域，讓司機能看到你。"
+    },
+    "dmv_ref": {
+      "page": "65",
+      "section": "第8章：安全驾驶 - 与大型车辆共享道路",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第65页「大型车辆盲区」部分。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第65頁「大型車輛盲區」部分。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6013,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "What is one of the most common causes of traffic collisions?",
+      "zh-Hans": "交通事故最常见的原因之一是什么？",
+      "zh-Hant": "交通事故最常見的原因之一是什麼？"
+    },
+    "options": {
+      "A": {
+        "en": "Paying attention to your surroundings.",
+        "zh-Hans": "注意周围环境。",
+        "zh-Hant": "注意周圍環境。"
+      },
+      "B": {
+        "en": "Better traffic flow.",
+        "zh-Hans": "更好的交通流量。",
+        "zh-Hant": "更好的交通流量。"
+      },
+      "C": {
+        "en": "Driver distractions.",
+        "zh-Hans": "驾驶员分心。",
+        "zh-Hant": "駕駛員分心。"
+      }
+    },
+    "answer": "C",
+    "explanation": {
+      "en": "Driver distractions, such as texting or using a phone, are one of the leading causes of traffic collisions.",
+      "zh-Hans": "驾驶员分心（如发短信或使用手机）是交通事故的主要原因之一。",
+      "zh-Hant": "駕駛員分心（如發短信或使用手機）是交通事故的主要原因之一。"
+    },
+    "dmv_ref": {
+      "page": "68",
+      "section": "第8章：安全驾驶 - 分心驾驶",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第68页「分心驾驶」部分。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第68頁「分心駕駛」部分。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6014,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "Any driver who willfully flees or attempts to evade law enforcement, during which a person is seriously injured, is subject to:",
+      "zh-Hans": "任何故意逃避执法并导致他人严重受伤的驾驶员将面临：",
+      "zh-Hant": "任何故意逃避執法並導致他人嚴重受傷的駕駛員將面臨："
+    },
+    "options": {
+      "A": {
+        "en": "Imprisonment in a state prison for up to seven years.",
+        "zh-Hans": "在州立监狱服刑最高七年。",
+        "zh-Hant": "在州立監獄服刑最高七年。"
+      },
+      "B": {
+        "en": "A fine of less than $1,000.",
+        "zh-Hans": "不到1,000美元的罚款。",
+        "zh-Hant": "不到1,000美元的罰款。"
+      },
+      "C": {
+        "en": "Attending an anger-management class.",
+        "zh-Hans": "参加愤怒管理课程。",
+        "zh-Hant": "參加憤怒管理課程。"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Evading law enforcement resulting in serious injury is a felony punishable by imprisonment for up to 7 years.",
+      "zh-Hans": "逃避执法导致严重伤害是重罪，可处以最高7年监禁。",
+      "zh-Hant": "逃避執法導致嚴重傷害是重罪，可處以最高7年監禁。"
+    },
+    "dmv_ref": {
+      "page": "75",
+      "section": "第9章：酒精和毒品 - 处罚",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第75页「逃避执法处罚」部分。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第75頁「逃避執法處罰」部分。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6015,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "What should a driver do who is stopped at an intersection and wants to make a left turn?",
+      "zh-Hans": "在路口停车并想左转的驾驶员应该怎么做？",
+      "zh-Hant": "在路口停車並想左轉的駕駛員應該怎麼做？"
+    },
+    "options": {
+      "A": {
+        "en": "Turn immediately if there are no pedestrians.",
+        "zh-Hans": "如果没有行人，立即转弯。",
+        "zh-Hant": "如果沒有行人，立即轉彎。"
+      },
+      "B": {
+        "en": "Take the right-of-way turn before oncoming traffic.",
+        "zh-Hans": "在迎面车流之前优先转弯。",
+        "zh-Hant": "在迎面車流之前優先轉彎。"
+      },
+      "C": {
+        "en": "Give the right-of-way to any approaching vehicle that is close enough to be dangerous.",
+        "zh-Hans": "让路给任何距离足够近且可能造成危险的来车。",
+        "zh-Hant": "讓路給任何距離足夠近且可能造成危險的來車。"
+      }
+    },
+    "answer": "C",
+    "explanation": {
+      "en": "When making a left turn, you must yield to oncoming traffic that is close enough to be a hazard.",
+      "zh-Hans": "左转时，必须让路给距离足够近且可能造成危险的迎面车辆。",
+      "zh-Hant": "左轉時，必須讓路給距離足夠近且可能造成危險的迎面車輛。"
+    },
+    "dmv_ref": {
+      "page": "25",
+      "section": "第6章：道路导航 - 左转",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第25页「左转让行规则」部分。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第25頁「左轉讓行規則」部分。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6016,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "In addition to setting your parking brake, what should you do when parking on a hill?",
+      "zh-Hans": "在坡道停车时，除了拉手刹外，还应该做什么？",
+      "zh-Hant": "在坡道停車時，除了拉手剎外，還應該做什麼？"
+    },
+    "options": {
+      "A": {
+        "en": "Make sure the front vehicle wheels are parallel to the road.",
+        "zh-Hans": "确保前轮与道路平行。",
+        "zh-Hant": "確保前輪與道路平行。"
+      },
+      "B": {
+        "en": "Make sure your vehicle is left in the neutral position.",
+        "zh-Hans": "将车辆置于空挡位置。",
+        "zh-Hant": "將車輛置於空檔位置。"
+      },
+      "C": {
+        "en": "Make sure your vehicle is in the park position or in gear.",
+        "zh-Hans": "确保车辆处于停车档或挂挡状态。",
+        "zh-Hant": "確保車輛處於停車檔或掛檔狀態。"
+      }
+    },
+    "answer": "C",
+    "explanation": {
+      "en": "When parking on a hill, set the parking brake and put automatic transmission in Park, or manual in gear.",
+      "zh-Hans": "在坡道停车时，拉手刹并将自动挡放入P档，手动挡则挂入挡位。",
+      "zh-Hant": "在坡道停車時，拉手剎並將自動檔放入P檔，手動檔則掛入檔位。"
+    },
+    "dmv_ref": {
+      "page": "46",
+      "section": "第7章：道路法规 - 坡道停车",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第46页「坡道停车」部分。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第46頁「坡道停車」部分。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6017,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "You are under 18 years of age and have had your license for eight months. You may drive:",
+      "zh-Hans": "你未满18岁，已持有驾照8个月。你可以在以下时间驾驶：",
+      "zh-Hant": "你未滿18歲，已持有駕照8個月。你可以在以下時間駕駛："
+    },
+    "options": {
+      "A": {
+        "en": "At any time.",
+        "zh-Hans": "任何时间。",
+        "zh-Hant": "任何時間。"
+      },
+      "B": {
+        "en": "Between 5 a.m. and 11 p.m.",
+        "zh-Hans": "早上5点到晚上11点之间。",
+        "zh-Hant": "早上5點到晚上11點之間。"
+      },
+      "C": {
+        "en": "Between 7 a.m. and 8 p.m.",
+        "zh-Hans": "早上7点到晚上8点之间。",
+        "zh-Hant": "早上7點到晚上8點之間。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Drivers under 18 cannot drive between 11 p.m. and 5 a.m. during the first 12 months unless accompanied by a licensed adult 25 or older.",
+      "zh-Hans": "未满18岁的驾驶员在持照的前12个月内，除非有25岁以上的持照成人陪同，否则不得在晚11点至早5点之间驾驶。",
+      "zh-Hant": "未滿18歲的駕駛員在持照的前12個月內，除非有25歲以上的持照成人陪同，否則不得在晚11點至早5點之間駕駛。"
+    },
+    "dmv_ref": {
+      "page": "8",
+      "section": "第2章：获取驾照 - 临时驾照限制",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第8页「未满18岁驾驶限制」部分。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第8頁「未滿18歲駕駛限制」部分。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6018,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "Where should you begin a left turn from a one-way street onto a one-way street?",
+      "zh-Hans": "从单行道左转到另一条单行道时，应该从哪个车道开始？",
+      "zh-Hant": "從單行道左轉到另一條單行道時，應該從哪個車道開始？"
+    },
+    "options": {
+      "A": {
+        "en": "The lane closest to the center of the street.",
+        "zh-Hans": "最靠近道路中心的车道。",
+        "zh-Hant": "最靠近道路中心的車道。"
+      },
+      "B": {
+        "en": "The far-left lane.",
+        "zh-Hans": "最左边的车道。",
+        "zh-Hant": "最左邊的車道。"
+      },
+      "C": {
+        "en": "You can turn from any lane.",
+        "zh-Hans": "可以从任何车道转弯。",
+        "zh-Hant": "可以從任何車道轉彎。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "When turning left from a one-way street onto another one-way street, start from the far-left lane.",
+      "zh-Hans": "从单行道左转到另一条单行道时，从最左边的车道开始。",
+      "zh-Hant": "從單行道左轉到另一條單行道時，從最左邊的車道開始。"
+    },
+    "dmv_ref": {
+      "page": "24",
+      "section": "第6章：道路导航 - 转弯",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第24页「单行道转弯」部分。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第24頁「單行道轉彎」部分。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6019,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "You are required to notify DMV by filing a Report of Traffic Accident Occurring in California (SR-1) form if:",
+      "zh-Hans": "如果发生以下情况，你需要向DMV提交加州交通事故报告表(SR-1)：",
+      "zh-Hant": "如果發生以下情況，你需要向DMV提交加州交通事故報告表(SR-1)："
+    },
+    "options": {
+      "A": {
+        "en": "You allowed a licensed driver from another state to drive your vehicle.",
+        "zh-Hans": "你允许外州持照驾驶员驾驶你的车辆。",
+        "zh-Hant": "你允許外州持照駕駛員駕駛你的車輛。"
+      },
+      "B": {
+        "en": "You were involved in a collision with more than $1,000 in damages.",
+        "zh-Hans": "你卷入了损失超过1,000美元的碰撞事故。",
+        "zh-Hant": "你捲入了損失超過1,000美元的碰撞事故。"
+      },
+      "C": {
+        "en": "You failed to pay your registration fees.",
+        "zh-Hans": "你未能支付注册费。",
+        "zh-Hant": "你未能支付註冊費。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "You must file an SR-1 form with the DMV within 10 days if you're in a collision with more than $1,000 in damages or any injury.",
+      "zh-Hans": "如果你卷入损失超过1,000美元或有人受伤的碰撞事故，必须在10天内向DMV提交SR-1表格。",
+      "zh-Hant": "如果你捲入損失超過1,000美元或有人受傷的碰撞事故，必須在10天內向DMV提交SR-1表格。"
+    },
+    "dmv_ref": {
+      "page": "78",
+      "section": "第10章：财务责任 - 事故报告",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第78页「事故报告要求」部分。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第78頁「事故報告要求」部分。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6020,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "At what point during a rainfall are roads slippery on a hot day?",
+      "zh-Hans": "在炎热天气，下雨时道路在什么时候最滑？",
+      "zh-Hant": "在炎熱天氣，下雨時道路在什麼時候最滑？"
+    },
+    "options": {
+      "A": {
+        "en": "The first few minutes of rain.",
+        "zh-Hans": "下雨的最初几分钟。",
+        "zh-Hant": "下雨的最初幾分鐘。"
+      },
+      "B": {
+        "en": "After several hours of rain.",
+        "zh-Hans": "下雨几个小时后。",
+        "zh-Hant": "下雨幾個小時後。"
+      },
+      "C": {
+        "en": "When the rain stops.",
+        "zh-Hans": "雨停的时候。",
+        "zh-Hant": "雨停的時候。"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Roads are most slippery during the first few minutes of rain when oil and debris mix with water.",
+      "zh-Hans": "下雨的最初几分钟道路最滑，因为油污和碎屑与水混合在一起。",
+      "zh-Hant": "下雨的最初幾分鐘道路最滑，因為油污和碎屑與水混合在一起。"
+    },
+    "dmv_ref": {
+      "page": "62",
+      "section": "第8章：安全驾驶 - 恶劣天气驾驶",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第62页「雨天驾驶」部分。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第62頁「雨天駕駛」部分。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6021,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "What color curb does not allow vehicles to stop or park?",
+      "zh-Hans": "什么颜色的路缘不允许车辆停车或泊车？",
+      "zh-Hant": "什麼顏色的路緣不允許車輛停車或泊車？"
+    },
+    "options": {
+      "A": {
+        "en": "Yellow.",
+        "zh-Hans": "黄色。",
+        "zh-Hant": "黃色。"
+      },
+      "B": {
+        "en": "Red.",
+        "zh-Hans": "红色。",
+        "zh-Hant": "紅色。"
+      },
+      "C": {
+        "en": "White.",
+        "zh-Hans": "白色。",
+        "zh-Hant": "白色。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Red curb means no stopping, standing, or parking at any time.",
+      "zh-Hans": "红色路缘表示任何时候都不允许停车、站立或泊车。",
+      "zh-Hant": "紅色路緣表示任何時候都不允許停車、站立或泊車。"
+    },
+    "dmv_ref": {
+      "page": "45",
+      "section": "第7章：道路法规 - 路缘颜色标记",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第45页「路缘颜色」，红色表示禁止停车。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第45頁「路緣顏色」，紅色表示禁止停車。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6022,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "You are required to notify DMV by filing a Report of Traffic Accident Occurring in California (SR-1) form if:",
+      "zh-Hans": "如果发生以下情况，你需要向DMV提交加州交通事故报告表(SR-1)：",
+      "zh-Hant": "如果發生以下情況，你需要向DMV提交加州交通事故報告表(SR-1)："
+    },
+    "options": {
+      "A": {
+        "en": "You change your insurance company.",
+        "zh-Hans": "你更换了保险公司。",
+        "zh-Hant": "你更換了保險公司。"
+      },
+      "B": {
+        "en": "You were involved in a collision with an injury.",
+        "zh-Hans": "你卷入了有人受伤的碰撞事故。",
+        "zh-Hant": "你捲入了有人受傷的碰撞事故。"
+      },
+      "C": {
+        "en": "Your vehicle fails a smog test.",
+        "zh-Hans": "你的车辆未通过尾气检测。",
+        "zh-Hant": "你的車輛未通過尾氣檢測。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "You must file an SR-1 form with DMV within 10 days if you're in a collision with any injury or death.",
+      "zh-Hans": "如果你卷入有人受伤或死亡的碰撞事故，必须在10天内向DMV提交SR-1表格。",
+      "zh-Hant": "如果你捲入有人受傷或死亡的碰撞事故，必須在10天內向DMV提交SR-1表格。"
+    },
+    "dmv_ref": {
+      "page": "78",
+      "section": "第10章：财务责任 - 事故报告",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第78页。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第78頁。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6023,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "What is indicated by two sets of double yellow lines spaced 2 feet or more apart?",
+      "zh-Hans": "两组间隔2英尺或更多的双黄线表示什么？",
+      "zh-Hant": "兩組間隔2英尺或更多的雙黃線表示什麼？"
+    },
+    "options": {
+      "A": {
+        "en": "Lanes of traffic moving in the same direction.",
+        "zh-Hans": "同向行驶的车道。",
+        "zh-Hant": "同向行駛的車道。"
+      },
+      "B": {
+        "en": "Barrier.",
+        "zh-Hans": "隔离带。",
+        "zh-Hant": "隔離帶。"
+      },
+      "C": {
+        "en": "Carpool/High-Occupancy (HOV) lane.",
+        "zh-Hans": "拼车/高载客率(HOV)车道。",
+        "zh-Hant": "拼車/高載客率(HOV)車道。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Two sets of double yellow lines spaced 2 feet or more apart act as a barrier. You may not cross them.",
+      "zh-Hans": "间隔2英尺或更多的两组双黄线起隔离带作用，不得跨越。",
+      "zh-Hant": "間隔2英尺或更多的兩組雙黃線起隔離帶作用，不得跨越。"
+    },
+    "dmv_ref": {
+      "page": "17",
+      "section": "第6章：道路导航 - 道路标线",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第17页「道路标线」部分。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第17頁「道路標線」部分。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6024,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "What should you do to make a right turn at an upcoming intersection with a bicycle lane?",
+      "zh-Hans": "在有自行车道的路口右转时，你应该怎么做？",
+      "zh-Hant": "在有自行車道的路口右轉時，你應該怎麼做？"
+    },
+    "options": {
+      "A": {
+        "en": "Merge into the bicycle lane before making the turn.",
+        "zh-Hans": "转弯前并入自行车道。",
+        "zh-Hant": "轉彎前併入自行車道。"
+      },
+      "B": {
+        "en": "Wait until the bicycle lane ends, then make the turn.",
+        "zh-Hans": "等自行车道结束后再转弯。",
+        "zh-Hant": "等自行車道結束後再轉彎。"
+      },
+      "C": {
+        "en": "Make the turn from your current lane and do not enter the bicycle lane.",
+        "zh-Hans": "从当前车道转弯，不进入自行车道。",
+        "zh-Hant": "從當前車道轉彎，不進入自行車道。"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Before turning right, merge into the bicycle lane (if safe and clear) within 200 feet of the intersection.",
+      "zh-Hans": "右转前，在距路口200英尺内（如果安全且畅通）并入自行车道。",
+      "zh-Hant": "右轉前，在距路口200英尺內（如果安全且暢通）併入自行車道。"
+    },
+    "dmv_ref": {
+      "page": "26",
+      "section": "第6章：道路导航 - 与自行车共享道路",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第26页「自行车道右转」部分。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第26頁「自行車道右轉」部分。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6025,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "A highway has a posted speed limit of 65 mph. What does this mean?",
+      "zh-Hans": "一条高速公路限速65英里/小时。这意味着什么？",
+      "zh-Hant": "一條高速公路限速65英里/小時。這意味著什麼？"
+    },
+    "options": {
+      "A": {
+        "en": "You must always drive 65 mph on that highway.",
+        "zh-Hans": "你必须始终以65英里/小时的速度行驶。",
+        "zh-Hant": "你必須始終以65英里/小時的速度行駛。"
+      },
+      "B": {
+        "en": "You may drive faster only if there are no other vehicles.",
+        "zh-Hans": "只有在没有其他车辆时才能开得更快。",
+        "zh-Hant": "只有在沒有其他車輛時才能開得更快。"
+      },
+      "C": {
+        "en": "You must drive 65 mph only if driving conditions are ideal.",
+        "zh-Hans": "只有在驾驶条件理想时才能以65英里/小时行驶。",
+        "zh-Hant": "只有在駕駛條件理想時才能以65英里/小時行駛。"
+      }
+    },
+    "answer": "C",
+    "explanation": {
+      "en": "The posted speed limit is the maximum speed allowed under ideal conditions. Reduce speed in poor conditions.",
+      "zh-Hans": "限速标志是理想条件下允许的最高速度。在恶劣条件下应减速。",
+      "zh-Hant": "限速標誌是理想條件下允許的最高速度。在惡劣條件下應減速。"
+    },
+    "dmv_ref": {
+      "page": "33",
+      "section": "第7章：道路法规 - 限速",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第33页「最高限速」部分。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第33頁「最高限速」部分。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6026,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "When is parking in a crosshatched (diagonal lines) area allowed?",
+      "zh-Hans": "什么时候可以在交叉斜线区域停车？",
+      "zh-Hant": "什麼時候可以在交叉斜線區域停車？"
+    },
+    "options": {
+      "A": {
+        "en": "It is never allowed to park in a crosshatched (diagonal lines) area.",
+        "zh-Hans": "任何时候都不允许在交叉斜线区域停车。",
+        "zh-Hant": "任何時候都不允許在交叉斜線區域停車。"
+      },
+      "B": {
+        "en": "If the area is at least twenty feet away from a railroad track.",
+        "zh-Hans": "如果该区域距离铁轨至少20英尺。",
+        "zh-Hant": "如果該區域距離鐵軌至少20英尺。"
+      },
+      "C": {
+        "en": "If the area is labeled as a bicycle lane, unless otherwise posted.",
+        "zh-Hans": "如果该区域标记为自行车道，除非另有标示。",
+        "zh-Hant": "如果該區域標記為自行車道，除非另有標示。"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Crosshatched areas next to disabled parking spaces are never for parking. They provide space for wheelchair access.",
+      "zh-Hans": "残疾人停车位旁边的交叉斜线区域永远不能停车，它们为轮椅通道提供空间。",
+      "zh-Hant": "殘疾人停車位旁邊的交叉斜線區域永遠不能停車，它們為輪椅通道提供空間。"
+    },
+    "dmv_ref": {
+      "page": "47",
+      "section": "第7章：道路法规 - 禁止停车区域",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第47页。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第47頁。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6027,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "What should you do if your cell phone rings and you do not have a hands-free device?",
+      "zh-Hans": "如果你的手机响了但你没有免提设备，你应该怎么做？",
+      "zh-Hant": "如果你的手機響了但你沒有免提設備，你應該怎麼做？"
+    },
+    "options": {
+      "A": {
+        "en": "Answer the call and keep the conversation short.",
+        "zh-Hans": "接听电话并简短通话。",
+        "zh-Hant": "接聽電話並簡短通話。"
+      },
+      "B": {
+        "en": "Do not answer the phone and let it go to voice mail.",
+        "zh-Hans": "不接电话，让它转到语音信箱。",
+        "zh-Hant": "不接電話，讓它轉到語音信箱。"
+      },
+      "C": {
+        "en": "Answer the call if you are stopped at a red light.",
+        "zh-Hans": "如果你在红灯处停车，可以接听电话。",
+        "zh-Hant": "如果你在紅燈處停車，可以接聽電話。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "In California, it is illegal to hold and use a cell phone while driving. Let calls go to voicemail.",
+      "zh-Hans": "在加州，驾驶时手持使用手机是违法的。让电话转入语音信箱。",
+      "zh-Hant": "在加州，駕駛時手持使用手機是違法的。讓電話轉入語音信箱。"
+    },
+    "dmv_ref": {
+      "page": "69",
+      "section": "第8章：安全驾驶 - 分心驾驶",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第69页「手机使用法规」部分。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第69頁「手機使用法規」部分。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6028,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "If a traffic signal is green, but traffic is blocking the intersection, what should you do?",
+      "zh-Hans": "如果交通信号灯是绿灯，但交通堵塞了路口，你应该怎么做？",
+      "zh-Hant": "如果交通信號燈是綠燈，但交通堵塞了路口，你應該怎麼做？"
+    },
+    "options": {
+      "A": {
+        "en": "Partially enter the intersection, as allowed by traffic.",
+        "zh-Hans": "根据交通情况部分进入路口。",
+        "zh-Hant": "根據交通情況部分進入路口。"
+      },
+      "B": {
+        "en": "Wait and do not enter the intersection until your vehicle can get completely across.",
+        "zh-Hans": "等待，直到你的车辆可以完全通过路口再进入。",
+        "zh-Hant": "等待，直到你的車輛可以完全通過路口再進入。"
+      },
+      "C": {
+        "en": "Drive around the traffic on the shoulder to help ease the congestion.",
+        "zh-Hans": "从路肩绕过车流以缓解拥堵。",
+        "zh-Hant": "從路肩繞過車流以緩解擁堵。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Never enter an intersection unless you can get completely across. Blocking intersections is illegal.",
+      "zh-Hans": "除非你能完全通过路口，否则永远不要进入。阻塞路口是违法的。",
+      "zh-Hant": "除非你能完全通過路口，否則永遠不要進入。阻塞路口是違法的。"
+    },
+    "dmv_ref": {
+      "page": "38",
+      "section": "第7章：道路法规 - 通过路口",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第38页「路口规则」部分。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第38頁「路口規則」部分。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6029,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "In which lane should you end your turn when making a right turn?",
+      "zh-Hans": "右转时应该在哪个车道结束转弯？",
+      "zh-Hant": "右轉時應該在哪個車道結束轉彎？"
+    },
+    "options": {
+      "A": {
+        "en": "Any lane free of traffic.",
+        "zh-Hans": "任何没有车辆的车道。",
+        "zh-Hant": "任何沒有車輛的車道。"
+      },
+      "B": {
+        "en": "The lane closest to the left edge of the road.",
+        "zh-Hans": "最靠近道路左侧的车道。",
+        "zh-Hant": "最靠近道路左側的車道。"
+      },
+      "C": {
+        "en": "The lane closest to the right edge of the road.",
+        "zh-Hans": "最靠近道路右侧的车道。",
+        "zh-Hant": "最靠近道路右側的車道。"
+      }
+    },
+    "answer": "C",
+    "explanation": {
+      "en": "When making a right turn, stay in the rightmost lane throughout the turn.",
+      "zh-Hans": "右转时，始终保持在最右侧车道。",
+      "zh-Hant": "右轉時，始終保持在最右側車道。"
+    },
+    "dmv_ref": {
+      "page": "24",
+      "section": "第6章：道路导航 - 转弯",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第24页「右转」部分。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第24頁「右轉」部分。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6030,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "When is it required for you to obey directions from a crossing guard?",
+      "zh-Hans": "什么时候你必须服从交通协管员的指挥？",
+      "zh-Hant": "什麼時候你必須服從交通協管員的指揮？"
+    },
+    "options": {
+      "A": {
+        "en": "At all times.",
+        "zh-Hans": "任何时候。",
+        "zh-Hant": "任何時候。"
+      },
+      "B": {
+        "en": "During school hours only.",
+        "zh-Hans": "仅在上学时间。",
+        "zh-Hant": "僅在上學時間。"
+      },
+      "C": {
+        "en": "Only when children are present in front of a school.",
+        "zh-Hans": "仅当学校前有儿童时。",
+        "zh-Hant": "僅當學校前有兒童時。"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "You must always obey directions from a crossing guard. Their signals override traffic signs and signals.",
+      "zh-Hans": "你必须始终服从交通协管员的指挥。他们的信号优先于交通标志和信号。",
+      "zh-Hant": "你必須始終服從交通協管員的指揮。他們的信號優先於交通標誌和信號。"
+    },
+    "dmv_ref": {
+      "page": "53",
+      "section": "第7章：道路法规 - 学校区域",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第53页「交通协管员」部分。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第53頁「交通協管員」部分。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6031,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "Which of the following is true about large trucks?",
+      "zh-Hans": "关于大型卡车，以下哪项是正确的？",
+      "zh-Hant": "關於大型卡車，以下哪項是正確的？"
+    },
+    "options": {
+      "A": {
+        "en": "They are made of many trailers, which make them more maneuverable than passenger vehicles.",
+        "zh-Hans": "它们由多个拖车组成，比乘用车更灵活。",
+        "zh-Hant": "它們由多個拖車組成，比乘用車更靈活。"
+      },
+      "B": {
+        "en": "They have large blind spots, which makes it difficult for the truck driver to see other vehicles.",
+        "zh-Hans": "它们有很大的盲区，卡车司机很难看到其他车辆。",
+        "zh-Hant": "它們有很大的盲區，卡車司機很難看到其他車輛。"
+      },
+      "C": {
+        "en": "They have large and powerful emergency brakes, which gives them the capability to stop quickly.",
+        "zh-Hans": "它们有大功率的紧急刹车，可以快速停车。",
+        "zh-Hant": "它們有大功率的緊急剎車，可以快速停車。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Large trucks have significant blind spots. Always stay visible to truck drivers by avoiding their No-Zones.",
+      "zh-Hans": "大型卡车有显著的盲区。始终通过避开它们的禁区来让卡车司机看到你。",
+      "zh-Hant": "大型卡車有顯著的盲區。始終通過避開它們的禁區來讓卡車司機看到你。"
+    },
+    "dmv_ref": {
+      "page": "65",
+      "section": "第8章：安全驾驶 - 与大型车辆共享道路",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第65页。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第65頁。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6032,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "Which of the following is illegal while driving?",
+      "zh-Hans": "驾驶时以下哪项是违法的？",
+      "zh-Hant": "駕駛時以下哪項是違法的？"
+    },
+    "options": {
+      "A": {
+        "en": "Wearing a headset or ear plugs that covers both ears.",
+        "zh-Hans": "佩戴覆盖双耳的耳机或耳塞。",
+        "zh-Hant": "佩戴覆蓋雙耳的耳機或耳塞。"
+      },
+      "B": {
+        "en": "Wearing a headset or ear plugs that covers one ear.",
+        "zh-Hans": "佩戴覆盖单耳的耳机或耳塞。",
+        "zh-Hant": "佩戴覆蓋單耳的耳機或耳塞。"
+      },
+      "C": {
+        "en": "Using cruise control on residential streets.",
+        "zh-Hans": "在住宅区街道使用定速巡航。",
+        "zh-Hant": "在住宅區街道使用定速巡航。"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "It is illegal to wear headphones or ear plugs in both ears while driving or cycling.",
+      "zh-Hans": "驾驶或骑自行车时佩戴覆盖双耳的耳机或耳塞是违法的。",
+      "zh-Hant": "駕駛或騎自行車時佩戴覆蓋雙耳的耳機或耳塞是違法的。"
+    },
+    "dmv_ref": {
+      "page": "50",
+      "section": "第7章：道路法规 - 其他法规",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第50页「耳机法规」。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第50頁「耳機法規」。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6033,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "What should you do when traffic is slow and heavy, and you must cross railroad tracks before reaching the upcoming intersection?",
+      "zh-Hans": "当交通缓慢拥挤，你必须在到达前方路口之前穿越铁路轨道时，应该怎么做？",
+      "zh-Hant": "當交通緩慢擁擠，你必須在到達前方路口之前穿越鐵路軌道時，應該怎麼做？"
+    },
+    "options": {
+      "A": {
+        "en": "Begin crossing when the vehicle in front of you is crossing the tracks.",
+        "zh-Hans": "当前面的车辆正在穿越轨道时开始穿越。",
+        "zh-Hant": "當前面的車輛正在穿越軌道時開始穿越。"
+      },
+      "B": {
+        "en": "Wait on the tracks until the stoplight at the intersection turns green.",
+        "zh-Hans": "在轨道上等待直到路口的信号灯变绿。",
+        "zh-Hant": "在軌道上等待直到路口的信號燈變綠。"
+      },
+      "C": {
+        "en": "Wait until you can completely cross the tracks before proceeding.",
+        "zh-Hans": "等到你可以完全穿越轨道后再继续。",
+        "zh-Hant": "等到你可以完全穿越軌道後再繼續。"
+      }
+    },
+    "answer": "C",
+    "explanation": {
+      "en": "Never stop on railroad tracks. Wait until there is room to completely cross before entering.",
+      "zh-Hans": "永远不要在铁路轨道上停车。等到有足够空间完全穿越后再进入。",
+      "zh-Hant": "永遠不要在鐵路軌道上停車。等到有足夠空間完全穿越後再進入。"
+    },
+    "dmv_ref": {
+      "page": "55",
+      "section": "第7章：道路法规 - 铁路道口",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第55页「铁路安全」。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第55頁「鐵路安全」。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6034,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "Which of the following should you do if you are being followed by a tailgater?",
+      "zh-Hans": "如果有人紧跟你的车尾，你应该怎么做？",
+      "zh-Hant": "如果有人緊跟你的車尾，你應該怎麼做？"
+    },
+    "options": {
+      "A": {
+        "en": "Change lanes and allow the tailgater to pass.",
+        "zh-Hans": "变道让紧跟者通过。",
+        "zh-Hant": "變道讓緊跟者通過。"
+      },
+      "B": {
+        "en": "Tap the brakes to signal you are moving at a slower pace.",
+        "zh-Hans": "轻踩刹车表示你正在减速。",
+        "zh-Hant": "輕踩剎車表示你正在減速。"
+      },
+      "C": {
+        "en": "Increase your speed to match the speed of the vehicle.",
+        "zh-Hans": "加速以匹配该车辆的速度。",
+        "zh-Hant": "加速以匹配該車輛的速度。"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "If being tailgated, safely move to another lane and let the tailgater pass. Do not speed up or brake suddenly.",
+      "zh-Hans": "如果被紧跟，安全变道让紧跟者通过。不要加速或突然刹车。",
+      "zh-Hant": "如果被緊跟，安全變道讓緊跟者通過。不要加速或突然剎車。"
+    },
+    "dmv_ref": {
+      "page": "59",
+      "section": "第8章：安全驾驶 - 跟车距离",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第59页「应对紧跟」。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第59頁「應對緊跟」。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6035,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "When you are driving the speed limit, you can be given a speeding ticket:",
+      "zh-Hans": "当你按限速行驶时，你可能在以下情况下收到超速罚单：",
+      "zh-Hant": "當你按限速行駛時，你可能在以下情況下收到超速罰單："
+    },
+    "options": {
+      "A": {
+        "en": "If road or weather conditions require a slower speed.",
+        "zh-Hans": "如果道路或天气条件要求更慢的速度。",
+        "zh-Hant": "如果道路或天氣條件要求更慢的速度。"
+      },
+      "B": {
+        "en": "Under no circumstances because it is always legal.",
+        "zh-Hans": "在任何情况下都不会，因为始终是合法的。",
+        "zh-Hant": "在任何情況下都不會，因為始終是合法的。"
+      },
+      "C": {
+        "en": "Only if you are approaching a sharp curve in the road.",
+        "zh-Hans": "仅当你接近道路急转弯时。",
+        "zh-Hant": "僅當你接近道路急轉彎時。"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Under California's Basic Speed Law, you may be cited for driving at the speed limit if conditions make it unsafe.",
+      "zh-Hans": "根据加州基本速度法，如果条件使得按限速行驶不安全，你可能会被开罚单。",
+      "zh-Hant": "根據加州基本速度法，如果條件使得按限速行駛不安全，你可能會被開罰單。"
+    },
+    "dmv_ref": {
+      "page": "33",
+      "section": "第7章：道路法规 - 基本速度法",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第33页。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第33頁。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6036,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "Which lights should be used if a driver is having trouble seeing other vehicles because of dust or smoke blowing across the roadway?",
+      "zh-Hans": "如果驾驶员因道路上的灰尘或烟雾而难以看到其他车辆，应使用什么灯？",
+      "zh-Hant": "如果駕駛員因道路上的灰塵或煙霧而難以看到其他車輛，應使用什麼燈？"
+    },
+    "options": {
+      "A": {
+        "en": "Parking lights.",
+        "zh-Hans": "停车灯。",
+        "zh-Hant": "停車燈。"
+      },
+      "B": {
+        "en": "Emergency lights.",
+        "zh-Hans": "应急灯。",
+        "zh-Hant": "應急燈。"
+      },
+      "C": {
+        "en": "Headlights.",
+        "zh-Hans": "前大灯。",
+        "zh-Hant": "前大燈。"
+      }
+    },
+    "answer": "C",
+    "explanation": {
+      "en": "Use your headlights in any condition that reduces visibility, including dust, smoke, fog, and rain.",
+      "zh-Hans": "在任何降低能见度的情况下使用前大灯，包括灰尘、烟雾、雾和雨。",
+      "zh-Hant": "在任何降低能見度的情況下使用前大燈，包括灰塵、煙霧、霧和雨。"
+    },
+    "dmv_ref": {
+      "page": "49",
+      "section": "第7章：道路法规 - 车灯使用",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第49页「何时使用车灯」。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第49頁「何時使用車燈」。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6037,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "What should you do to make a right turn at an upcoming intersection with a bicycle lane?",
+      "zh-Hans": "在有自行车道的路口右转时，你应该怎么做？",
+      "zh-Hant": "在有自行車道的路口右轉時，你應該怎麼做？"
+    },
+    "options": {
+      "A": {
+        "en": "Wait until the bicycle lane ends, then make the turn.",
+        "zh-Hans": "等自行车道结束后再转弯。",
+        "zh-Hant": "等自行車道結束後再轉彎。"
+      },
+      "B": {
+        "en": "Make the turn from your current lane and do not enter the bicycle lane.",
+        "zh-Hans": "从当前车道转弯，不进入自行车道。",
+        "zh-Hant": "從當前車道轉彎，不進入自行車道。"
+      },
+      "C": {
+        "en": "Merge into the bicycle lane before making the turn.",
+        "zh-Hans": "转弯前并入自行车道。",
+        "zh-Hant": "轉彎前併入自行車道。"
+      }
+    },
+    "answer": "C",
+    "explanation": {
+      "en": "Merge into the bicycle lane within 200 feet of the intersection when it is safe to do so, then make your right turn.",
+      "zh-Hans": "在安全的情况下，于距路口200英尺内并入自行车道，然后右转。",
+      "zh-Hant": "在安全的情況下，於距路口200英尺內併入自行車道，然後右轉。"
+    },
+    "dmv_ref": {
+      "page": "26",
+      "section": "第6章：道路导航 - 与自行车共享道路",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第26页。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第26頁。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6038,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "What does a flashing yellow traffic signal light direct a driver to do?",
+      "zh-Hans": "闪烁的黄色交通信号灯指示驾驶员做什么？",
+      "zh-Hant": "閃爍的黃色交通信號燈指示駕駛員做什麼？"
+    },
+    "options": {
+      "A": {
+        "en": "Stop and proceed when the traffic allows you to proceed safely.",
+        "zh-Hans": "停车，当交通允许时安全前行。",
+        "zh-Hant": "停車，當交通允許時安全前行。"
+      },
+      "B": {
+        "en": "Slow down and proceed with caution.",
+        "zh-Hans": "减速并谨慎前行。",
+        "zh-Hant": "減速並謹慎前行。"
+      },
+      "C": {
+        "en": "Stop and wait for a flashing green signal.",
+        "zh-Hans": "停车等待闪烁的绿色信号。",
+        "zh-Hant": "停車等待閃爍的綠色信號。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "A flashing yellow light means slow down and proceed with caution. You do not need to stop but should be careful.",
+      "zh-Hans": "闪烁的黄灯表示减速并谨慎前行。你不需要停车，但应该小心。",
+      "zh-Hant": "閃爍的黃燈表示減速並謹慎前行。你不需要停車，但應該小心。"
+    },
+    "dmv_ref": {
+      "page": "19",
+      "section": "第6章：道路导航 - 交通信号灯",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第19页「闪烁信号灯」。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第19頁「閃爍信號燈」。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6039,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "What should you do if a pedestrian is still in the crosswalk after the DON'T WALK sign begins to flash and your light has turned green?",
+      "zh-Hans": "如果行人在「禁止通行」标志开始闪烁且你的信号灯已变绿后仍在人行横道内，你应该怎么做？",
+      "zh-Hant": "如果行人在「禁止通行」標誌開始閃爍且你的信號燈已變綠後仍在人行橫道內，你應該怎麼做？"
+    },
+    "options": {
+      "A": {
+        "en": "Wait until the pedestrian is out of your path before proceeding.",
+        "zh-Hans": "等待行人离开你的路线后再前行。",
+        "zh-Hant": "等待行人離開你的路線後再前行。"
+      },
+      "B": {
+        "en": "Wait until the pedestrian signals that it is okay for you to proceed.",
+        "zh-Hans": "等待行人示意你可以前行。",
+        "zh-Hant": "等待行人示意你可以前行。"
+      },
+      "C": {
+        "en": "Wait until the pedestrian has crossed the street completely before proceeding.",
+        "zh-Hans": "等待行人完全过马路后再前行。",
+        "zh-Hant": "等待行人完全過馬路後再前行。"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Wait until the pedestrian is safely out of your path. You do not need to wait for them to completely cross if they are in other lanes.",
+      "zh-Hans": "等待行人安全离开你的路线。如果他们在其他车道，你不需要等他们完全过马路。",
+      "zh-Hant": "等待行人安全離開你的路線。如果他們在其他車道，你不需要等他們完全過馬路。"
+    },
+    "dmv_ref": {
+      "page": "41",
+      "section": "第7章：道路法规 - 行人",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第41页「行人让行」。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第41頁「行人讓行」。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6040,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "You must yield to a pedestrian using a white cane or guide dog:",
+      "zh-Hans": "你必须让路给使用白色手杖或导盲犬的行人：",
+      "zh-Hant": "你必須讓路給使用白色手杖或導盲犬的行人："
+    },
+    "options": {
+      "A": {
+        "en": "At all times.",
+        "zh-Hans": "任何时候。",
+        "zh-Hant": "任何時候。"
+      },
+      "B": {
+        "en": "Only at crosswalks.",
+        "zh-Hans": "仅在人行横道。",
+        "zh-Hant": "僅在人行橫道。"
+      },
+      "C": {
+        "en": "Only at traffic signals.",
+        "zh-Hans": "仅在交通信号灯处。",
+        "zh-Hant": "僅在交通信號燈處。"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Always yield to pedestrians who are blind (using a white cane or guide dog), regardless of traffic signals.",
+      "zh-Hans": "无论交通信号如何，始终让路给盲人行人（使用白色手杖或导盲犬）。",
+      "zh-Hant": "無論交通信號如何，始終讓路給盲人行人（使用白色手杖或導盲犬）。"
+    },
+    "dmv_ref": {
+      "page": "42",
+      "section": "第7章：道路法规 - 特殊行人",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第42页「盲人行人」。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第42頁「盲人行人」。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 1,
     "category": "Literacy",
     "question": {
       "en": "On a mountain road where two vehicles cannot pass, which vehicle has the right-of-way?",
@@ -2695,10 +4325,11 @@
       "section": "Section 7: Right-of-Way Rules",
       "analysis_zh-Hans": "手册规定：下坡车必须倒车，直到上坡车可以驶过为止。",
       "analysis_zh-Hant": "手冊規定：下坡車必須倒車，直到上坡車可以駛過為止。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 72,
+    "id": 2,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: When using a 'Level 2' driver assistance system (like Autopilot), the driver:",
@@ -2733,10 +4364,11 @@
       "section": "Section 8: Technology and Driving",
       "analysis_zh-Hans": "2026年手册新增：明确区分辅助驾驶与完全自动驾驶，违规操作将被记点。",
       "analysis_zh-Hant": "2026年手冊新增：明確區分輔助駕駛與完全自動駕駛，違規操作將被記點。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 73,
+    "id": 3,
     "category": "Literacy",
     "question": {
       "en": "You are approaching a green light but traffic is blocking the intersection. You should:",
@@ -2771,10 +4403,11 @@
       "section": "Section 7: Intersections",
       "analysis_zh-Hans": "手册警示：堵塞路口会导致横向车流也无法动弹，最高可罚款 $500。",
       "analysis_zh-Hant": "手冊警示：堵塞路口會導致橫向車流也無法動彈，最高可罰款 $500。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 74,
+    "id": 4,
     "category": "Literacy",
     "question": {
       "en": "When parking uphill on a two-way street with no curb, which way should your wheels face?",
@@ -2809,10 +4442,11 @@
       "section": "Section 7: Parking",
       "analysis_zh-Hans": "记住：只有‘有路缘的上坡’（Uphill with Curb）才向左打，其他情况全部向右打。",
       "analysis_zh-Hant": "記住：只有『有路緣的上坡』（Uphill with Curb）才向左打，其他情況全部向右打。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 75,
+    "id": 5,
     "category": "Literacy",
     "question": {
       "en": "A diamond-shaped sign with a truck on a downward slope means:",
@@ -2847,10 +4481,11 @@
       "section": "Section 6: Warning Signs",
       "analysis_zh-Hans": "手册解析：这种标志通常出现在山路，提醒注意刹车过热。",
       "analysis_zh-Hant": "手冊解析：這種標誌通常出現在山路，提醒注意剎車過熱。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 76,
+    "id": 6,
     "category": "Literacy",
     "question": {
       "en": "At what age can a minor legally use a cell phone while driving?",
@@ -2885,10 +4520,11 @@
       "section": "Section 8: Distracted Driving",
       "analysis_zh-Hans": "手册解析：针对青少年的法规比成年人更严格，旨在培养专注力。",
       "analysis_zh-Hant": "手冊解析：針對青少年的法規比成年人更嚴格，旨在培養專注力。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 77,
+    "id": 7,
     "category": "Literacy",
     "question": {
       "en": "If your accelerator pedal gets stuck, you should:",
@@ -2923,10 +4559,11 @@
       "section": "Section 8: Vehicle Failures",
       "analysis_zh-Hans": "手册解析：安全停稳后，再关闭引擎并寻求救援。",
       "analysis_zh-Hant": "手冊解析：安全停穩後，再關閉引擎並尋求救援。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 78,
+    "id": 8,
     "category": "Literacy",
     "question": {
       "en": "When can you pass on the right?",
@@ -2961,10 +4598,11 @@
       "section": "Section 7: Lanes",
       "analysis_zh-Hans": "手册警示：绝不可以驶离路面（如进入土路或路肩）去右侧超车。",
       "analysis_zh-Hant": "手冊警示：絕不可以駛離路面（如進入土路或路肩）去右側超車。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 79,
+    "id": 9,
     "category": "Literacy",
     "question": {
       "en": "What does a blue curb mean?",
@@ -2999,10 +4637,11 @@
       "section": "Section 7: Parking",
       "analysis_zh-Hans": "手册解析：2026年法规对伪造残疾人车证的处罚进一步加重。",
       "analysis_zh-Hant": "手冊解析：2026年法規對偽造殘疾人車證的處罰進一步加重。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 80,
+    "id": 10,
     "category": "Literacy",
     "question": {
       "en": "A school bus is stopped on the other side of a 'multilane highway' (not divided). Do you stop?",
@@ -3037,10 +4676,11 @@
       "section": "Section 7: Sharing the Road",
       "analysis_zh-Hans": "手册解析：这是很多老司机会选错的题。‘多车道’不代表‘分隔式道路’。",
       "analysis_zh-Hant": "手冊解析：這是很多老司機會選錯的題。『多車道』不代表『分隔式道路』。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 81,
+    "id": 11,
     "category": "Literacy",
     "question": {
       "en": "How should you drive through a construction zone?",
@@ -3075,10 +4715,11 @@
       "section": "Section 7: Speed Limits",
       "analysis_zh-Hans": "手册警示：即使没有看到工人在场，也要遵守施工区限速。",
       "analysis_zh-Hant": "手冊警示：即使沒有看到工人在場，也要遵守施工區限速。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 82,
+    "id": 12,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: When a 'Move Over' law is in effect, what must you do?",
@@ -3113,10 +4754,11 @@
       "section": "Section 7: Sharing the Road",
       "analysis_zh-Hans": "2026年手册新增：此法律现在也适用于路边亮起双闪灯的普通故障车。",
       "analysis_zh-Hant": "2026年手冊新增：此法律現在也適用於路邊亮起雙閃燈的普通故障車。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 83,
+    "id": 13,
     "category": "Literacy",
     "question": {
       "en": "What does a round yellow sign indicate?",
@@ -3151,10 +4793,11 @@
       "section": "Section 6: Signs",
       "analysis_zh-Hans": "手册解析：这是加州极少数圆形的黄色警告标志，非常特殊且易考。",
       "analysis_zh-Hant": "手冊解析：這是加州極少數圓形的黃色警告標誌，非常特殊且易考。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 84,
+    "id": 14,
     "category": "Literacy",
     "question": {
       "en": "When can you turn right on a red light?",
@@ -3189,10 +4832,11 @@
       "section": "Section 6: Traffic Signals",
       "analysis_zh-Hans": "手册解析：如果您在有绿箭头的车道上，则无需停车即可直接按箭头转弯。",
       "analysis_zh-Hant": "手冊解析：如果您在有綠箭頭的車道上，則無需停車即可直接按箭頭轉彎。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 85,
+    "id": 15,
     "category": "Literacy",
     "question": {
       "en": "If you plan to pass another vehicle, you should:",
@@ -3227,10 +4871,11 @@
       "section": "Section 8: Scanning",
       "analysis_zh-Hans": "手册解析：这种心理预设可以有效降低路怒和事故发生率。",
       "analysis_zh-Hant": "手冊解析：這種心理預設可以有效降低路怒和事故發生率。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 86,
+    "id": 16,
     "category": "Literacy",
     "question": {
       "en": "What should you do if your car's engine overheats?",
@@ -3265,10 +4910,11 @@
       "section": "Section 8: Vehicle Failures",
       "analysis_zh-Hans": "手册警示：绝对不要在引擎很热时打开散热器盖（水箱盖），以免被喷出的蒸汽灼伤。",
       "analysis_zh-Hant": "手冊警示：絕對不要在引擎很熱時打開散熱器蓋（水箱蓋），以免被噴出的蒸汽灼傷。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 87,
+    "id": 17,
     "category": "Literacy",
     "question": {
       "en": "A person may legally ride in the back of a pickup truck when:",
@@ -3303,10 +4949,11 @@
       "section": "Section 5: Safety Bullets",
       "analysis_zh-Hans": "手册解析：即便坐在车斗底板上也是极其危险且违法的行为。",
       "analysis_zh-Hant": "手冊解析：即便坐在車斗底板上也是極其危險且違法的行為。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 88,
+    "id": 18,
     "category": "Literacy",
     "question": {
       "en": "What is the primary reason for 'Scanning' the road 10-12 seconds ahead?",
@@ -3341,10 +4988,11 @@
       "section": "Section 8: Scanning",
       "analysis_zh-Hans": "手册解析：在城市驾驶中，10-12 秒大约是一个街区的距离。",
       "analysis_zh-Hant": "手冊解析：在城市駕駛中，10-12 秒大約是一個街區的距離。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 89,
+    "id": 19,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: When are you allowed to use 'High-Occupancy Vehicle' (HOV) lanes with a single occupant?",
@@ -3379,10 +5027,11 @@
       "section": "Section 7: Lanes",
       "analysis_zh-Hans": "2026年手册新增：注意标志的到期时间，部分旧款混合动力车已不再享受此权利。",
       "analysis_zh-Hant": "2026年手冊新增：注意標誌的到期時間，部分舊款混合動力車已不再享受此權利。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 90,
+    "id": 20,
     "category": "Literacy",
     "question": {
       "en": "What does a 'Yield' sign mean?",
@@ -3417,10 +5066,11 @@
       "section": "Section 6: Signs",
       "analysis_zh-Hans": "手册解析：红白倒三角形是让行标志的唯一形状。",
       "analysis_zh-Hant": "手冊解析：紅白倒三角形是讓行標誌的唯一形狀。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 91,
+    "id": 21,
     "category": "Literacy",
     "question": {
       "en": "If you are being tailgated, you should:",
@@ -3455,10 +5105,11 @@
       "section": "Section 8: Space Cushions",
       "analysis_zh-Hans": "手册建议：如果可能，请变换车道让对方先行。",
       "analysis_zh-Hant": "手冊建議：如果可能，請變換車道讓對方先行。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 92,
+    "id": 22,
     "category": "Literacy",
     "question": {
       "en": "When is it legal to make a U-turn?",
@@ -3493,10 +5144,11 @@
       "section": "Section 7: Turns",
       "analysis_zh-Hans": "手册解析：在商业区（Business District）除非路口有允许掉头的标志，否则通常是不合法的。",
       "analysis_zh-Hant": "手冊解析：在商業區（Business District）除非路口有允許掉頭的標誌，否則通常是不合法的。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 93,
+    "id": 23,
     "category": "Literacy",
     "question": {
       "en": "What is the legal blood alcohol concentration (BAC) limit for drivers 21 and older?",
@@ -3531,10 +5183,11 @@
       "section": "Section 9: Alcohol and Drugs",
       "analysis_zh-Hans": "手册解析：商业驾照持有者的限值更低，为 0.04%。",
       "analysis_zh-Hant": "手冊解析：商業駕照持有者的限值更低，為 0.04%。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 94,
+    "id": 24,
     "category": "Literacy",
     "question": {
       "en": "You should use your turn signal even when you don't see any cars around because:",
@@ -3569,10 +5222,11 @@
       "section": "Section 7: Signals",
       "analysis_zh-Hans": "手册解析：始终如一地打灯可以减少因疏忽导致的变道碰撞。",
       "analysis_zh-Hant": "手冊解析：始終如一地打燈可以減少因疏忽導致的變道碰撞。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 95,
+    "id": 25,
     "category": "Literacy",
     "question": {
       "en": "A pedestrian starts to cross the street after the 'Don't Walk' signal flashes. You should:",
@@ -3607,10 +5261,11 @@
       "section": "Section 7: Right-of-Way Rules",
       "analysis_zh-Hans": "手册解析：尊重行人的安全是加州司机的首要责任。",
       "analysis_zh-Hant": "手冊解析：尊重行人的安全是加州司機的首要責任。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 96,
+    "id": 26,
     "category": "Literacy",
     "question": {
       "en": "What is the 'No Zone' around large trucks?",
@@ -3645,10 +5300,11 @@
       "section": "Section 8: Large Trucks",
       "analysis_zh-Hans": "手册警示：卡车后方、正前方以及左右两侧都有巨大的“No Zone”。",
       "analysis_zh-Hant": "手冊警示：卡車後方、正前方以及左右兩側都有巨大的「No Zone」。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 97,
+    "id": 27,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: In a 'Roundabout' (traffic circle), you should always enter to the:",
@@ -3683,10 +5339,11 @@
       "section": "Section 7: Roundabouts",
       "analysis_zh-Hans": "手册解析：进入环岛前必须减速，切勿在环岛内强行超车或停下。",
       "analysis_zh-Hant": "手冊解析：進入環島前必須減速，切勿在環島內強行超車或停下。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 98,
+    "id": 28,
     "category": "Literacy",
     "question": {
       "en": "When driving in heavy fog, you should use your:",
@@ -3719,10 +5376,11 @@
     "dmv_ref": {
       "page": "82",
       "section": "Section 8: Driving Hazards"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 99,
+    "id": 29,
     "category": "Literacy",
     "question": {
       "en": "If you are involved in a collision and the property damage is over $1,000, you must report it to the DMV within:",
@@ -3757,10 +5415,11 @@
       "section": "Section 10: Reporting Accidents",
       "analysis_zh-Hans": "手册解析：这与报警是两回事。即使警察到场做了笔录，您依然需要自行向 DMV 提交 SR-1 表格。",
       "analysis_zh-Hant": "手冊解析：這與報警是兩回事。即使警察到場做了筆錄，您依然需要自行向 DMV 提交 SR-1 表格。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 100,
+    "id": 30,
     "category": "Literacy",
     "question": {
       "en": "2026 New Law: When passing a stationary vehicle with hazard lights on the shoulder, you must:",
@@ -3795,10 +5454,11 @@
       "section": "Section 7: Sharing the Road",
       "analysis_zh-Hans": "手册解析：这一变化是为了降低普通车主在路边维修、换胎时被撞的风险。",
       "analysis_zh-Hant": "手冊解析：這一變化是為了降低普通車主在路邊維修、換胎時被撞的風險。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 101,
+    "id": 31,
     "category": "Literacy",
     "question": {
       "en": "What is the speed limit in a 'Blind Intersection'?",
@@ -3833,10 +5493,11 @@
       "section": "Section 7: Speed Limits",
       "analysis_zh-Hans": "手册解析：这种路口通常出现在树木茂密的住宅区，目的是防止侧撞。",
       "analysis_zh-Hant": "手冊解析：這種路口通常出現在樹木茂密的住宅區，目的是防止側撞。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 102,
+    "id": 32,
     "category": "Literacy",
     "question": {
       "en": "If your car starts to 'Hydroplane', you should:",
@@ -3871,10 +5532,11 @@
       "section": "Section 8: Driving Hazards",
       "analysis_zh-Hans": "手册警示：在车速超过 50 英里时，由于积水严重，汽车可能完全在水面上“飞行”。",
       "analysis_zh-Hant": "手冊警示：在車速超過 50 英哩時，由於積水嚴重，汽車可能完全在水面上「飛行」。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 103,
+    "id": 33,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: It is illegal to park within ___ feet of a sidewalk ramp for disabled persons.",
@@ -3909,10 +5571,11 @@
       "section": "Section 7: Parking",
       "analysis_zh-Hans": "手册解析：即便只是挡住了一点点，也会被处以高额罚款。",
       "analysis_zh-Hant": "手冊解析：即便只是擋住了一點點，也會被處以高額罰款。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 104,
+    "id": 34,
     "category": "Literacy",
     "question": {
       "en": "What does a 'Double Solid White Line' mean?",
@@ -3947,10 +5610,11 @@
       "section": "Section 6: Lane Lines",
       "analysis_zh-Hans": "手册解析：违规跨越双实线会被罚款，尤其是在收费路段。",
       "analysis_zh-Hant": "手冊解析：違規跨越雙實線會被罰款，尤其是在收費路段。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 105,
+    "id": 35,
     "category": "Literacy",
     "question": {
       "en": "If you see a 'Wrong Way' sign at night, you should:",
@@ -3985,10 +5649,11 @@
       "section": "Section 6: Signs",
       "analysis_zh-Hans": "手册建议：如果夜间看到这些标志，反光会非常明显，这是由于灯光反射设计的。",
       "analysis_zh-Hant": "手冊建議：如果夜間看到這些標誌，反光會非常明顯，這是由於燈光反射設計的。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 106,
+    "id": 36,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: Drivers of Electric Vehicles (EVs) must pay which fee instead of gas tax?",
@@ -4023,10 +5688,11 @@
       "section": "Section 11: Vehicle Registration",
       "analysis_zh-Hans": "手册解析：这是加州为应对燃油税收入下降而采取的 2026 年最新财政调整。",
       "analysis_zh-Hant": "手冊解析：這是加州為應對燃油稅收入下降而採取的 2026 年最新財政調整。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 107,
+    "id": 37,
     "category": "Literacy",
     "question": {
       "en": "You are driving on a freeway and a tire blows out. You should:",
@@ -4061,10 +5727,11 @@
       "section": "Section 8: Emergencies",
       "analysis_zh-Hans": "手册解析：安全停稳后，应在车后 200 英尺处放置三角警示牌。",
       "analysis_zh-Hant": "手冊解析：安全停穩後，應在車後 200 英呎處放置三角警示牌。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 108,
+    "id": 38,
     "category": "Literacy",
     "question": {
       "en": "At an intersection, which direction should you scan first?",
@@ -4099,10 +5766,11 @@
       "section": "Section 8: Scanning",
       "analysis_zh-Hans": "手册解析：这是一个重要的安全习惯，尤其是在没有红绿灯的小巷口。",
       "analysis_zh-Hant": "手冊解析：這是一個重要的安全習慣，尤其是在沒有紅綠燈的小巷口。"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 109,
+    "id": 39,
     "category": "Literacy",
     "question": {
       "en": "Abandoning an animal on a highway is a crime punishable by:",
@@ -4135,10 +5803,11 @@
     "dmv_ref": {
       "page": "102",
       "section": "Section 10: Miscellaneous Rules"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 110,
+    "id": 40,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: A 'Littering' fine for throwing a lit cigarette from a vehicle can be up to:",
@@ -4171,10 +5840,11 @@
     "dmv_ref": {
       "page": "102",
       "section": "Section 10: Miscellaneous Rules"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 111,
+    "id": 41,
     "category": "Literacy",
     "question": {
       "en": "When a 'Turn-out' lane is provided on a two-lane road, a slow driver must use it if followed by:",
@@ -4207,10 +5877,11 @@
     "dmv_ref": {
       "page": "40",
       "section": "Section 7: Speed Limits"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 112,
+    "id": 42,
     "category": "Literacy",
     "question": {
       "en": "What does a 'Slanting T' sign (with a horizontal bar at an angle) mean?",
@@ -4243,10 +5914,11 @@
     "dmv_ref": {
       "page": "29",
       "section": "Section 6: Signs"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 113,
+    "id": 43,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: Can you use a digital Driver’s License (mDL) during a traffic stop?",
@@ -4279,10 +5951,11 @@
     "dmv_ref": {
       "page": "8",
       "section": "Section 2: DL Information"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 114,
+    "id": 44,
     "category": "Literacy",
     "question": {
       "en": "When can you legally block an intersection?",
@@ -4315,10 +5988,11 @@
     "dmv_ref": {
       "page": "45",
       "section": "Section 7: Intersections"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 115,
+    "id": 45,
     "category": "Literacy",
     "question": {
       "en": "Which of these is true about 'Blind Spots'?",
@@ -4351,10 +6025,11 @@
     "dmv_ref": {
       "page": "63",
       "section": "Section 8: Scanning"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 116,
+    "id": 46,
     "category": "Literacy",
     "question": {
       "en": "If you are under 21, the zero-tolerance law means your BAC cannot be:",
@@ -4387,10 +6062,11 @@
     "dmv_ref": {
       "page": "94",
       "section": "Section 9: Alcohol and Drugs"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 117,
+    "id": 47,
     "category": "Literacy",
     "question": {
       "en": "When driving in heavy rain at night, you should use:",
@@ -4423,10 +6099,11 @@
     "dmv_ref": {
       "page": "82",
       "section": "Section 8: Driving Hazards"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 118,
+    "id": 48,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: If you are at a red light and a cyclist is waiting in the 'Bike Box' in front of you:",
@@ -4459,10 +6136,11 @@
     "dmv_ref": {
       "page": "55",
       "section": "Section 7: Bicycles"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 119,
+    "id": 49,
     "category": "Literacy",
     "question": {
       "en": "To avoid 'Highway Hypnosis' on a long trip, you should:",
@@ -4495,10 +6173,11 @@
     "dmv_ref": {
       "page": "61",
       "section": "Section 8: Scanning"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 120,
+    "id": 50,
     "category": "Literacy",
     "question": {
       "en": "In California, it is illegal to leave a child ___ years old or younger unattended in a motor vehicle.",
@@ -4531,10 +6210,11 @@
     "dmv_ref": {
       "page": "24",
       "section": "Section 5: Safety Bullets"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 121,
+    "id": 51,
     "category": "Literacy",
     "question": {
       "en": "When a 'Merge' sign is posted on the freeway, you should:",
@@ -4567,10 +6247,11 @@
     "dmv_ref": {
       "page": "44",
       "section": "Section 7: Entering/Exiting"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 122,
+    "id": 52,
     "category": "Literacy",
     "question": {
       "en": "What does a 'Fluorescent Pink' sign indicate?",
@@ -4603,10 +6284,11 @@
     "dmv_ref": {
       "page": "29",
       "section": "Section 6: Signs"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 123,
+    "id": 53,
     "category": "Literacy",
     "question": {
       "en": "If your brakes fail while driving, you should first:",
@@ -4639,10 +6321,11 @@
     "dmv_ref": {
       "page": "91",
       "section": "Section 8: Vehicle Failures"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 124,
+    "id": 54,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: California's 'Green-Tipped' parking curbs indicate:",
@@ -4675,10 +6358,11 @@
     "dmv_ref": {
       "page": "51",
       "section": "Section 7: Parking"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 125,
+    "id": 55,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: California's minimum liability insurance coverage for property damage has increased to:",
@@ -4711,10 +6395,11 @@
     "dmv_ref": {
       "page": "99",
       "section": "Section 10: Financial Responsibility"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 126,
+    "id": 56,
     "category": "Literacy",
     "question": {
       "en": "When must you dim your high beams for an oncoming vehicle?",
@@ -4747,10 +6432,11 @@
     "dmv_ref": {
       "page": "57",
       "section": "Section 7: Use of Lights"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 127,
+    "id": 57,
     "category": "Literacy",
     "question": {
       "en": "When an emergency vehicle with sirens and flashing lights is behind you, you should:",
@@ -4783,10 +6469,11 @@
     "dmv_ref": {
       "page": "53",
       "section": "Section 7: Sharing the Road"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 128,
+    "id": 58,
     "category": "Literacy",
     "question": {
       "en": "It is legal to use a cell phone 'hands-free' if you are:",
@@ -4819,10 +6506,11 @@
     "dmv_ref": {
       "page": "86",
       "section": "Section 8: Distracted Driving"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 129,
+    "id": 59,
     "category": "Literacy",
     "question": {
       "en": "A light rail vehicle (streetcar) is stopped. You may pass at no more than:",
@@ -4855,10 +6543,11 @@
     "dmv_ref": {
       "page": "54",
       "section": "Section 7: Sharing the Road"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 130,
+    "id": 60,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: If your vehicle is equipped with a 'Speed Limiter' (ISA), you:",
@@ -4891,10 +6580,11 @@
     "dmv_ref": {
       "page": "88",
       "section": "Section 8: Technology"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 131,
+    "id": 61,
     "category": "Literacy",
     "question": {
       "en": "When can you legally double-park?",
@@ -4927,10 +6617,11 @@
     "dmv_ref": {
       "page": "52",
       "section": "Section 7: Parking"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 132,
+    "id": 62,
     "category": "Literacy",
     "question": {
       "en": "To see cars in your blind spots, you should check:",
@@ -4963,10 +6654,11 @@
     "dmv_ref": {
       "page": "63",
       "section": "Section 8: Scanning"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 133,
+    "id": 63,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: An 'Autonomous Vehicle' in testing mode on public roads can be identified by:",
@@ -4999,10 +6691,11 @@
     "dmv_ref": {
       "page": "89",
       "section": "Section 8: Autonomous Technology"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 134,
+    "id": 64,
     "category": "Literacy",
     "question": {
       "en": "When a 'T-intersection' has no signs, who has the right-of-way?",
@@ -5035,10 +6728,11 @@
     "dmv_ref": {
       "page": "35",
       "section": "Section 7: Right-of-Way Rules"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 135,
+    "id": 65,
     "category": "Literacy",
     "question": {
       "en": "What is the rule for 'Window Tinting' on front side windows in California?",
@@ -5071,10 +6765,11 @@
     "dmv_ref": {
       "page": "25",
       "section": "Section 5: Vehicle Maintenance"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 136,
+    "id": 66,
     "category": "Literacy",
     "question": {
       "en": "You are exiting a parking lot into a public street. You must:",
@@ -5107,10 +6802,11 @@
     "dmv_ref": {
       "page": "34",
       "section": "Section 7: Right-of-Way Rules"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 137,
+    "id": 67,
     "category": "Literacy",
     "question": {
       "en": "If you are driving and a wasp or bee enters your car, you should:",
@@ -5143,10 +6839,11 @@
     "dmv_ref": {
       "page": "86",
       "section": "Section 8: Distracted Driving"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 138,
+    "id": 68,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: California's 'Slow for the Cone Zone' law means fines are:",
@@ -5179,10 +6876,11 @@
     "dmv_ref": {
       "page": "40",
       "section": "Section 7: Speed Limits"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 139,
+    "id": 69,
     "category": "Literacy",
     "question": {
       "en": "A 'Solid White Line' on the right edge of the road slanting toward the center means:",
@@ -5215,10 +6913,11 @@
     "dmv_ref": {
       "page": "32",
       "section": "Section 6: Lane Lines"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 140,
+    "id": 70,
     "category": "Literacy",
     "question": {
       "en": "When can you use your high beam headlights in the city?",
@@ -5251,10 +6950,11 @@
     "dmv_ref": {
       "page": "57",
       "section": "Section 7: Use of Lights"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 141,
+    "id": 71,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: Where is the legal placement for a GPS/Smartphone mount on the windshield?",
@@ -5287,10 +6987,11 @@
     "dmv_ref": {
       "page": "86",
       "section": "Section 8: Distracted Driving"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 142,
+    "id": 72,
     "category": "Literacy",
     "question": {
       "en": "When driving in snowy conditions, you should:",
@@ -5323,10 +7024,11 @@
     "dmv_ref": {
       "page": "84",
       "section": "Section 8: Snow/Ice"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 143,
+    "id": 73,
     "category": "Literacy",
     "question": {
       "en": "In which situation is 'Tailgating' most dangerous?",
@@ -5359,10 +7061,11 @@
     "dmv_ref": {
       "page": "59",
       "section": "Section 8: Motorcycles"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 144,
+    "id": 74,
     "category": "Literacy",
     "question": {
       "en": "If an aggressive driver is following you and flashing their lights, you should:",
@@ -5395,10 +7098,11 @@
     "dmv_ref": {
       "page": "97",
       "section": "Section 9: Road Rage"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 145,
+    "id": 75,
     "category": "Literacy",
     "question": {
       "en": "A person may legally ride in the back of a pickup truck only if:",
@@ -5431,10 +7135,11 @@
     "dmv_ref": {
       "page": "24",
       "section": "Section 5: Seatbelts"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 146,
+    "id": 76,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: When parking on a hill with a 'Manual' transmission, you should:",
@@ -5467,10 +7172,11 @@
     "dmv_ref": {
       "page": "51",
       "section": "Section 7: Parking"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 147,
+    "id": 77,
     "category": "Literacy",
     "question": {
       "en": "A 'Yield' sign is shaped like:",
@@ -5503,10 +7209,11 @@
     "dmv_ref": {
       "page": "28",
       "section": "Section 6: Sign Shapes"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 148,
+    "id": 78,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: If you are convicted of causing injury while driving under the influence of drugs or alcohol, the court may:",
@@ -5539,10 +7246,11 @@
     "dmv_ref": {
       "page": "95",
       "section": "Section 9: Alcohol and Drugs"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 149,
+    "id": 79,
     "category": "Literacy",
     "question": {
       "en": "What must you do when approaching a stopped garbage truck with flashing amber lights?",
@@ -5575,10 +7283,11 @@
     "dmv_ref": {
       "page": "53",
       "section": "Section 7: Sharing the Road"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 150,
+    "id": 80,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: Participating in or spectating at an illegal 'street takeover' (sideshow) can result in:",
@@ -5611,10 +7320,11 @@
     "dmv_ref": {
       "page": "101",
       "section": "Section 10: Miscellaneous Rules"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 151,
+    "id": 81,
     "category": "Literacy",
     "question": {
       "en": "You are driving on a road with only one lane in your direction and many vehicles are behind you. You should use a 'Turn-out' to let them pass when there are:",
@@ -5647,10 +7357,11 @@
     "dmv_ref": {
       "page": "40",
       "section": "Section 7: Speed Limits"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 152,
+    "id": 82,
     "category": "Literacy",
     "question": {
       "en": "In California, you must NOT smoke in a vehicle if there is a minor present. The fine can be up to:",
@@ -5683,10 +7394,11 @@
     "dmv_ref": {
       "page": "103",
       "section": "Section 10: Miscellaneous Rules"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 153,
+    "id": 83,
     "category": "Literacy",
     "question": {
       "en": "When can you legally drive across a 'Safety Zone' (marked by raised buttons or markers)?",
@@ -5719,10 +7431,11 @@
     "dmv_ref": {
       "page": "54",
       "section": "Section 7: Sharing the Road"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 154,
+    "id": 84,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: A 'Refusal' to take a chemical BAC test (blood or breath) after a DUI arrest results in:",
@@ -5755,10 +7468,11 @@
     "dmv_ref": {
       "page": "94",
       "section": "Section 9: Alcohol and Drugs"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 155,
+    "id": 85,
     "category": "Literacy",
     "question": {
       "en": "When a large truck is turning right at an intersection, it may:",
@@ -5791,10 +7505,11 @@
     "dmv_ref": {
       "page": "53",
       "section": "Section 7: Large Trucks"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 156,
+    "id": 86,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: Can a single-occupant Electric Vehicle (EV) still use the Carpool (HOV) lane with a Clean Air Decal?",
@@ -5827,10 +7542,11 @@
     "dmv_ref": {
       "page": "48",
       "section": "Section 7: Lanes"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 157,
+    "id": 87,
     "category": "Literacy",
     "question": {
       "en": "You must notify the DMV within ___ days after selling or transferring a vehicle.",
@@ -5863,10 +7579,11 @@
     "dmv_ref": {
       "page": "101",
       "section": "Section 10: Financial Responsibility"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 158,
+    "id": 88,
     "category": "Literacy",
     "question": {
       "en": "California law requires a child to ride in a rear-facing car seat until they are:",
@@ -5899,10 +7616,11 @@
     "dmv_ref": {
       "page": "24",
       "section": "Section 5: Safety Belts"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 159,
+    "id": 89,
     "category": "Literacy",
     "question": {
       "en": "A child under 8 years old may ride in the front seat of a vehicle only if:",
@@ -5935,10 +7653,11 @@
     "dmv_ref": {
       "page": "24",
       "section": "Section 5: Safety Belts"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 160,
+    "id": 90,
     "category": "Literacy",
     "question": {
       "en": "If you change your residence address, you must notify the DMV within:",
@@ -5971,10 +7690,11 @@
     "dmv_ref": {
       "page": "10",
       "section": "Section 2: DL Information"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 161,
+    "id": 91,
     "category": "Literacy",
     "question": {
       "en": "When can you legally use a handheld cell phone while driving?",
@@ -6007,10 +7727,11 @@
     "dmv_ref": {
       "page": "86",
       "section": "Section 8: Distracted Driving"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 162,
+    "id": 92,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: If your vehicle's Automatic Emergency Braking (AEB) system fails and causes a collision, who is legally responsible?",
@@ -6043,10 +7764,11 @@
     "dmv_ref": {
       "page": "88",
       "section": "Section 8: Technology"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 163,
+    "id": 93,
     "category": "Literacy",
     "question": {
       "en": "If a load extends more than ___ feet from the rear bumper, you must display a 12-inch red or orange square flag.",
@@ -6079,10 +7801,11 @@
     "dmv_ref": {
       "page": "103",
       "section": "Section 10: Miscellaneous Rules"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 164,
+    "id": 94,
     "category": "Literacy",
     "question": {
       "en": "What is the minimum legal tread depth for your tires?",
@@ -6115,10 +7838,11 @@
     "dmv_ref": {
       "page": "25",
       "section": "Section 5: Vehicle Maintenance"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 165,
+    "id": 95,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: It is illegal to operate a vehicle that has been modified to produce a sound level over:",
@@ -6151,10 +7875,11 @@
     "dmv_ref": {
       "page": "101",
       "section": "Section 10: Vehicle Safety"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 166,
+    "id": 96,
     "category": "Literacy",
     "question": {
       "en": "When parking next to a curb, your wheels must be within ___ inches of the curb.",
@@ -6187,10 +7912,11 @@
     "dmv_ref": {
       "page": "51",
       "section": "Section 7: Parking"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 167,
+    "id": 97,
     "category": "Literacy",
     "question": {
       "en": "If you are involved in a collision, you must exchange which information?",
@@ -6223,10 +7949,11 @@
     "dmv_ref": {
       "page": "100",
       "section": "Section 10: Reporting Accidents"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 168,
+    "id": 98,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: Can you be cited for driving too slowly?",
@@ -6259,10 +7986,11 @@
     "dmv_ref": {
       "page": "40",
       "section": "Section 7: Speed Limits"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 169,
+    "id": 99,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: When passing a bicyclist, you must leave at least ___ feet of space between your vehicle and the bicycle.",
@@ -6295,10 +8023,11 @@
     "dmv_ref": {
       "page": "55",
       "section": "Section 7: Bicycles"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 170,
+    "id": 100,
     "category": "Literacy",
     "question": {
       "en": "In heavy fog, you should use your:",
@@ -6331,10 +8060,11 @@
     "dmv_ref": {
       "page": "82",
       "section": "Section 8: Driving Hazards"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 171,
+    "id": 101,
     "category": "Literacy",
     "question": {
       "en": "When approaching a railroad crossing with no warning devices, the speed limit is:",
@@ -6367,10 +8097,11 @@
     "dmv_ref": {
       "page": "39",
       "section": "Section 7: Speed Limits"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 172,
+    "id": 102,
     "category": "Literacy",
     "question": {
       "en": "You must stop for a school bus with flashing red lights and an extended stop arm, unless:",
@@ -6403,10 +8134,11 @@
     "dmv_ref": {
       "page": "54",
       "section": "Section 7: Sharing the Road"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 173,
+    "id": 103,
     "category": "Literacy",
     "question": {
       "en": "What is 'Hydroplaning'?",
@@ -6439,10 +8171,11 @@
     "dmv_ref": {
       "page": "83",
       "section": "Section 8: Driving Hazards"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 174,
+    "id": 104,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: If you are involved in a property damage collision over $1,000, you must report it to the DMV within:",
@@ -6475,10 +8208,11 @@
     "dmv_ref": {
       "page": "100",
       "section": "Section 10: Reporting Collisions"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 175,
+    "id": 105,
     "category": "Literacy",
     "question": {
       "en": "The basic speed law in California says you should never drive faster than:",
@@ -6511,10 +8245,11 @@
     "dmv_ref": {
       "page": "38",
       "section": "Section 7: Speed Limits"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 176,
+    "id": 106,
     "category": "Literacy",
     "question": {
       "en": "A 'White' painted curb means:",
@@ -6547,10 +8282,11 @@
     "dmv_ref": {
       "page": "51",
       "section": "Section 7: Parking"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 177,
+    "id": 107,
     "category": "Literacy",
     "question": {
       "en": "What should you do if your accelerator (gas pedal) gets stuck?",
@@ -6583,10 +8319,11 @@
     "dmv_ref": {
       "page": "92",
       "section": "Section 8: Vehicle Failures"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 178,
+    "id": 108,
     "category": "Literacy",
     "question": {
       "en": "When a driver has their left arm extended straight out the window, it means:",
@@ -6619,10 +8356,11 @@
     "dmv_ref": {
       "page": "56",
       "section": "Section 7: Signaling"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 179,
+    "id": 109,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: Can you be convicted of a DUI for using prescription drugs?",
@@ -6655,10 +8393,11 @@
     "dmv_ref": {
       "page": "93",
       "section": "Section 9: Alcohol and Drugs"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 180,
+    "id": 110,
     "category": "Literacy",
     "question": {
       "en": "You are driving at night and must use your headlights 30 minutes after sunset until:",
@@ -6691,10 +8430,11 @@
     "dmv_ref": {
       "page": "57",
       "section": "Section 7: Lights"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 181,
+    "id": 111,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: When parking in a space with a 'Blue' curb, you must:",
@@ -6727,10 +8467,11 @@
     "dmv_ref": {
       "page": "51",
       "section": "Section 7: Parking"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 182,
+    "id": 112,
     "category": "Literacy",
     "question": {
       "en": "A pedestrian with a white cane with a red tip means they are:",
@@ -6763,10 +8504,11 @@
     "dmv_ref": {
       "page": "53",
       "section": "Section 7: Pedestrians"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 183,
+    "id": 113,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: If you are involved in a collision and do not have insurance, your license will be suspended for:",
@@ -6799,10 +8541,11 @@
     "dmv_ref": {
       "page": "100",
       "section": "Section 10: Financial Responsibility"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 184,
+    "id": 114,
     "category": "Literacy",
     "question": {
       "en": "At a blind intersection where you cannot see 100 feet in either direction, the speed limit is:",
@@ -6835,10 +8578,11 @@
     "dmv_ref": {
       "page": "39",
       "section": "Section 7: Speed Limits"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 185,
+    "id": 115,
     "category": "Literacy",
     "question": {
       "en": "What does a flashing yellow light at an intersection mean?",
@@ -6871,10 +8615,11 @@
     "dmv_ref": {
       "page": "27",
       "section": "Section 6: Signals"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 186,
+    "id": 116,
     "category": "Literacy",
     "question": {
       "en": "You may drive off the paved roadway to pass another vehicle:",
@@ -6907,10 +8652,11 @@
     "dmv_ref": {
       "page": "46",
       "section": "Section 7: Passing"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 187,
+    "id": 117,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: If you see a 'Pedestrian Hybrid Beacon' (HAWK) with two flashing red lights:",
@@ -6943,10 +8689,11 @@
     "dmv_ref": {
       "page": "27",
       "section": "Section 6: Signals"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 188,
+    "id": 118,
     "category": "Literacy",
     "question": {
       "en": "When can you cross a double solid white line on the freeway?",
@@ -6979,10 +8726,11 @@
     "dmv_ref": {
       "page": "32",
       "section": "Section 6: Lane Lines"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 189,
+    "id": 119,
     "category": "Literacy",
     "question": {
       "en": "If you hit a parked vehicle and cannot find the owner, you must:",
@@ -7015,10 +8763,11 @@
     "dmv_ref": {
       "page": "100",
       "section": "Section 10: Accidents"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 190,
+    "id": 120,
     "category": "Literacy",
     "question": {
       "en": "A yellow diamond-shaped sign with a picture of a truck on a hill means:",
@@ -7051,10 +8800,11 @@
     "dmv_ref": {
       "page": "30",
       "section": "Section 6: Signs"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 191,
+    "id": 121,
     "category": "Literacy",
     "question": {
       "en": "At what BAC (Blood Alcohol Content) level is it illegal for a person under 21 to drive?",
@@ -7087,10 +8837,11 @@
     "dmv_ref": {
       "page": "94",
       "section": "Section 9: Alcohol"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 192,
+    "id": 122,
     "category": "Literacy",
     "question": {
       "en": "You are driving on a freeway and a tire blows out. You should:",
@@ -7123,10 +8874,11 @@
     "dmv_ref": {
       "page": "91",
       "section": "Section 8: Failures"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 193,
+    "id": 123,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: Is it legal to sleep in your vehicle on a California public street?",
@@ -7159,10 +8911,11 @@
     "dmv_ref": {
       "page": "103",
       "section": "Section 10"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 194,
+    "id": 124,
     "category": "Literacy",
     "question": {
       "en": "A person under 18 may not work as a driver for hire (like Uber or delivery) if:",
@@ -7195,10 +8948,11 @@
     "dmv_ref": {
       "page": "16",
       "section": "Section 3"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 195,
+    "id": 125,
     "category": "Literacy",
     "question": {
       "en": "What is the very first thing you should do if you are involved in a collision?",
@@ -7231,10 +8985,11 @@
     "dmv_ref": {
       "page": "100",
       "section": "Section 10"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 196,
+    "id": 126,
     "category": "Literacy",
     "question": {
       "en": "A sign that says 'End Freeway' means:",
@@ -7267,10 +9022,11 @@
     "dmv_ref": {
       "page": "30",
       "section": "Section 6"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 197,
+    "id": 127,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: Can a driver be cited for 'Distracted Driving' while using a smartwatch?",
@@ -7303,10 +9059,11 @@
     "dmv_ref": {
       "page": "86",
       "section": "Section 8"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 198,
+    "id": 128,
     "category": "Literacy",
     "question": {
       "en": "When can you drive in a bike lane?",
@@ -7339,10 +9096,11 @@
     "dmv_ref": {
       "page": "49",
       "section": "Section 7"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 199,
+    "id": 129,
     "category": "Literacy",
     "question": {
       "en": "If you are convicted of serious littering on the highway, the fine is:",
@@ -7375,10 +9133,11 @@
     "dmv_ref": {
       "page": "103",
       "section": "Section 10"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 200,
+    "id": 130,
     "category": "Literacy",
     "question": {
       "en": "At a 4-way stop, if two cars arrive at the same time, who goes first?",
@@ -7411,10 +9170,11 @@
     "dmv_ref": {
       "page": "34",
       "section": "Section 7"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 209,
+    "id": 131,
     "category": "Literacy",
     "question": {
       "en": "When approaching a person riding a horse or leading an animal on the road, you should:",
@@ -7447,10 +9207,11 @@
     "dmv_ref": {
       "page": "55",
       "section": "Section 7"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 210,
+    "id": 132,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: If your vehicle is equipped with a 'Dash Cam', where can it be legally mounted?",
@@ -7483,10 +9244,11 @@
     "dmv_ref": {
       "page": "103",
       "section": "Section 10"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 211,
+    "id": 133,
     "category": "Literacy",
     "question": {
       "en": "A person may legally ride in the bed of a pickup truck if:",
@@ -7519,10 +9281,11 @@
     "dmv_ref": {
       "page": "103",
       "section": "Section 10"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 212,
+    "id": 134,
     "category": "Literacy",
     "question": {
       "en": "What is the fine for 'abandoning' an animal on a highway?",
@@ -7555,10 +9318,11 @@
     "dmv_ref": {
       "page": "103",
       "section": "Section 10"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 213,
+    "id": 135,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: If you receive a 'Toll Violation' notice for a road you didn't use, you must:",
@@ -7591,10 +9355,11 @@
     "dmv_ref": {
       "page": "101",
       "section": "Section 10"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 214,
+    "id": 136,
     "category": "Literacy",
     "question": {
       "en": "Which of these is legal for a driver to do while the vehicle is in motion?",
@@ -7627,10 +9392,11 @@
     "dmv_ref": {
       "page": "103",
       "section": "Section 10"
-    }
+    },
+    "source": "deepdive"
   },
   {
-    "id": 215,
+    "id": 137,
     "category": "Literacy",
     "question": {
       "en": "If you are involved in a collision, how long do you have to report it to the DMV if the property damage is over $1,000?",
@@ -7663,6 +9429,1382 @@
     "dmv_ref": {
       "page": "100",
       "section": "Section 10"
-    }
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 5001,
+    "category": "Warning",
+    "question": {
+      "en": "What does this sign mean?",
+      "zh-Hans": "What does this sign mean?",
+      "zh-Hant": "What does this sign mean?"
+    },
+    "options": {
+      "A": {
+        "en": "Runaway Truck Ramp ahead",
+        "zh-Hans": "Runaway Truck Ramp ahead",
+        "zh-Hant": "Runaway Truck Ramp ahead"
+      },
+      "B": {
+        "en": "Trucks only adjacent lane",
+        "zh-Hans": "Trucks only adjacent lane",
+        "zh-Hant": "Trucks only adjacent lane"
+      },
+      "C": {
+        "en": "Hill ahead",
+        "zh-Hans": "Hill ahead",
+        "zh-Hant": "Hill ahead"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "This sign indicates a ramp for runaway trucks to stop safely if their brakes fail on a steep downgrade.",
+      "zh-Hans": "This sign indicates a ramp for runaway trucks to stop safely if their brakes fail on a steep downgrade.",
+      "zh-Hant": "This sign indicates a ramp for runaway trucks to stop safely if their brakes fail on a steep downgrade."
+    },
+    "hasImage": true,
+    "imageUrl": "/images/signs/runaway-ramp.png",
+    "dmv_ref": {
+      "page": "2-19",
+      "section": "Traffic Signs",
+      "analysis_zh-Hans": "CDL交通标志题",
+      "analysis_zh-Hant": "CDL交通標誌題"
+    },
+    "source": "signs"
+  },
+  {
+    "id": 5002,
+    "category": "Warning",
+    "question": {
+      "en": "This sign indicates:",
+      "zh-Hans": "This sign indicates:",
+      "zh-Hant": "This sign indicates:"
+    },
+    "options": {
+      "A": {
+        "en": "Low Clearance",
+        "zh-Hans": "Low Clearance",
+        "zh-Hant": "Low Clearance"
+      },
+      "B": {
+        "en": "Bridge ahead",
+        "zh-Hans": "Bridge ahead",
+        "zh-Hant": "Bridge ahead"
+      },
+      "C": {
+        "en": "Maximum speed limit",
+        "zh-Hans": "Maximum speed limit",
+        "zh-Hant": "Maximum speed limit"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "This sign warns of an overhead obstruction with low clearance. Trucks must know their height to avoid hitting the structure.",
+      "zh-Hans": "This sign warns of an overhead obstruction with low clearance. Trucks must know their height to avoid hitting the structure.",
+      "zh-Hant": "This sign warns of an overhead obstruction with low clearance. Trucks must know their height to avoid hitting the structure."
+    },
+    "hasImage": true,
+    "imageUrl": "/images/signs/low-clearance.png",
+    "dmv_ref": {
+      "page": "2-19",
+      "section": "Traffic Signs",
+      "analysis_zh-Hans": "CDL交通标志题",
+      "analysis_zh-Hant": "CDL交通標誌題"
+    },
+    "source": "signs"
+  },
+  {
+    "id": 5003,
+    "category": "Warning",
+    "question": {
+      "en": "What is the meaning of this sign?",
+      "zh-Hans": "What is the meaning of this sign?",
+      "zh-Hant": "What is the meaning of this sign?"
+    },
+    "options": {
+      "A": {
+        "en": "Steep Downgrade / Hill",
+        "zh-Hans": "Steep Downgrade / Hill",
+        "zh-Hant": "Steep Downgrade / Hill"
+      },
+      "B": {
+        "en": "Trucks prohibited",
+        "zh-Hans": "Trucks prohibited",
+        "zh-Hant": "Trucks prohibited"
+      },
+      "C": {
+        "en": "Winding road",
+        "zh-Hans": "Winding road",
+        "zh-Hant": "Winding road"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "This sign warns of a steep hill ahead. Trucks should shift to a lower gear before starting the descent.",
+      "zh-Hans": "This sign warns of a steep hill ahead. Trucks should shift to a lower gear before starting the descent.",
+      "zh-Hant": "This sign warns of a steep hill ahead. Trucks should shift to a lower gear before starting the descent."
+    },
+    "hasImage": true,
+    "imageUrl": "/images/signs/steep-hill.png",
+    "dmv_ref": {
+      "page": "2-19",
+      "section": "Traffic Signs",
+      "analysis_zh-Hans": "CDL交通标志题",
+      "analysis_zh-Hant": "CDL交通標誌題"
+    },
+    "source": "signs"
+  },
+  {
+    "id": 5004,
+    "category": "Regulatory",
+    "question": {
+      "en": "This regulatory sign means:",
+      "zh-Hans": "This regulatory sign means:",
+      "zh-Hant": "This regulatory sign means:"
+    },
+    "options": {
+      "A": {
+        "en": "All trucks must stop at Weigh Station",
+        "zh-Hans": "All trucks must stop at Weigh Station",
+        "zh-Hant": "All trucks must stop at Weigh Station"
+      },
+      "B": {
+        "en": "Truck route only",
+        "zh-Hans": "Truck route only",
+        "zh-Hant": "Truck route only"
+      },
+      "C": {
+        "en": "Commercial vehicles prohibited",
+        "zh-Hans": "Commercial vehicles prohibited",
+        "zh-Hant": "Commercial vehicles prohibited"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "This sign directs all commercial vehicles to enter the weigh station to be weighed and inspected.",
+      "zh-Hans": "This sign directs all commercial vehicles to enter the weigh station to be weighed and inspected.",
+      "zh-Hant": "This sign directs all commercial vehicles to enter the weigh station to be weighed and inspected."
+    },
+    "hasImage": true,
+    "imageUrl": "/images/signs/weigh-station.png",
+    "dmv_ref": {
+      "page": "2-19",
+      "section": "Traffic Signs",
+      "analysis_zh-Hans": "CDL交通标志题",
+      "analysis_zh-Hant": "CDL交通標誌題"
+    },
+    "source": "signs"
+  },
+  {
+    "id": 5005,
+    "category": "Regulatory",
+    "question": {
+      "en": "This sign means:",
+      "zh-Hans": "This sign means:",
+      "zh-Hant": "This sign means:"
+    },
+    "options": {
+      "A": {
+        "en": "HazMat Prohibited",
+        "zh-Hans": "HazMat Prohibited",
+        "zh-Hant": "HazMat Prohibited"
+      },
+      "B": {
+        "en": "HazMat Permitted",
+        "zh-Hans": "HazMat Permitted",
+        "zh-Hant": "HazMat Permitted"
+      },
+      "C": {
+        "en": "Explosives only",
+        "zh-Hans": "Explosives only",
+        "zh-Hant": "Explosives only"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "This sign (HC in a red circle with a slash) indicates that vehicles transporting hazardous materials are not allowed on this route.",
+      "zh-Hans": "This sign (HC in a red circle with a slash) indicates that vehicles transporting hazardous materials are not allowed on this route.",
+      "zh-Hant": "This sign (HC in a red circle with a slash) indicates that vehicles transporting hazardous materials are not allowed on this route."
+    },
+    "hasImage": true,
+    "imageUrl": "/images/signs/no-hazmat.png",
+    "dmv_ref": {
+      "page": "2-19",
+      "section": "Traffic Signs",
+      "analysis_zh-Hans": "CDL交通标志题",
+      "analysis_zh-Hant": "CDL交通標誌題"
+    },
+    "source": "signs"
+  },
+  {
+    "id": 4011,
+    "category": "Traffic Signs",
+    "question": {
+      "en": "A red octagonal sign means:",
+      "zh-Hans": "红色八角形标志表示：",
+      "zh-Hant": "紅色八角形標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Yield",
+        "zh-Hans": "让行",
+        "zh-Hant": "讓行"
+      },
+      "B": {
+        "en": "Stop",
+        "zh-Hans": "停车",
+        "zh-Hant": "停車"
+      },
+      "C": {
+        "en": "No Parking",
+        "zh-Hans": "禁止停车",
+        "zh-Hant": "禁止停車"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "A red octagon is a STOP sign. You must come to a complete stop.",
+      "zh-Hans": "红色八角形是停车标志。你必须完全停车。",
+      "zh-Hant": "紅色八角形是停車標誌。你必須完全停車。"
+    },
+    "dmv_ref": {
+      "page": "2-19",
+      "section": "Regulatory Signs",
+      "analysis_zh-Hans": "红色八角形=停车，全球通用。",
+      "analysis_zh-Hant": "紅色八角形=停車，全球通用。"
+    },
+    "source": "signs"
+  },
+  {
+    "id": 4012,
+    "category": "Traffic Signs",
+    "question": {
+      "en": "A red triangle pointing down means:",
+      "zh-Hans": "红色倒三角形标志表示：",
+      "zh-Hant": "紅色倒三角形標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Stop",
+        "zh-Hans": "停车",
+        "zh-Hant": "停車"
+      },
+      "B": {
+        "en": "Yield",
+        "zh-Hans": "让行",
+        "zh-Hant": "讓行"
+      },
+      "C": {
+        "en": "Speed Limit",
+        "zh-Hans": "限速",
+        "zh-Hant": "限速"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "A red and white triangle pointing down is a YIELD sign. Slow down and give way to traffic.",
+      "zh-Hans": "红白倒三角形是让行标志。减速并给其他车辆让路。",
+      "zh-Hant": "紅白倒三角形是讓行標誌。減速並給其他車輛讓路。"
+    },
+    "dmv_ref": {
+      "page": "2-19",
+      "section": "Regulatory Signs",
+      "analysis_zh-Hans": "让行≠停车，但必须减速。",
+      "analysis_zh-Hant": "讓行≠停車，但必須減速。"
+    },
+    "source": "signs"
+  },
+  {
+    "id": 4013,
+    "category": "Traffic Signs",
+    "question": {
+      "en": "Yellow diamond-shaped signs are:",
+      "zh-Hans": "黄色菱形标志是：",
+      "zh-Hant": "黃色菱形標誌是："
+    },
+    "options": {
+      "A": {
+        "en": "Regulatory signs",
+        "zh-Hans": "规则标志",
+        "zh-Hant": "規則標誌"
+      },
+      "B": {
+        "en": "Warning signs",
+        "zh-Hans": "警告标志",
+        "zh-Hant": "警告標誌"
+      },
+      "C": {
+        "en": "Guide signs",
+        "zh-Hans": "指路标志",
+        "zh-Hant": "指路標誌"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Yellow diamond-shaped signs are warning signs that alert you to hazards ahead.",
+      "zh-Hans": "黄色菱形标志是警告标志，提醒你前方有危险。",
+      "zh-Hant": "黃色菱形標誌是警告標誌，提醒你前方有危險。"
+    },
+    "dmv_ref": {
+      "page": "2-19",
+      "section": "Warning Signs",
+      "analysis_zh-Hans": "黄色=警告，菱形=警告形状。",
+      "analysis_zh-Hant": "黃色=警告，菱形=警告形狀。"
+    },
+    "source": "signs"
+  },
+  {
+    "id": 4014,
+    "category": "Traffic Signs",
+    "question": {
+      "en": "Orange signs in work zones mean:",
+      "zh-Hans": "施工区的橙色标志表示：",
+      "zh-Hant": "施工區的橙色標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Speed up to pass through",
+        "zh-Hans": "加速通过",
+        "zh-Hant": "加速通過"
+      },
+      "B": {
+        "en": "Construction or road work ahead",
+        "zh-Hans": "前方有施工或道路作业",
+        "zh-Hant": "前方有施工或道路作業"
+      },
+      "C": {
+        "en": "School zone",
+        "zh-Hans": "学校区域",
+        "zh-Hant": "學校區域"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Orange signs indicate construction zones. Reduce speed and watch for workers.",
+      "zh-Hans": "橙色标志表示施工区。减速并注意工人。",
+      "zh-Hant": "橙色標誌表示施工區。減速並注意工人。"
+    },
+    "dmv_ref": {
+      "page": "2-19",
+      "section": "Work Zone Signs",
+      "analysis_zh-Hans": "施工区违规罚款翻倍。",
+      "analysis_zh-Hant": "施工區違規罰款翻倍。"
+    },
+    "source": "signs"
+  },
+  {
+    "id": 4015,
+    "category": "Traffic Signs",
+    "question": {
+      "en": "Green rectangular signs are typically:",
+      "zh-Hans": "绿色矩形标志通常是：",
+      "zh-Hant": "綠色矩形標誌通常是："
+    },
+    "options": {
+      "A": {
+        "en": "Warning signs",
+        "zh-Hans": "警告标志",
+        "zh-Hant": "警告標誌"
+      },
+      "B": {
+        "en": "Regulatory signs",
+        "zh-Hans": "规则标志",
+        "zh-Hant": "規則標誌"
+      },
+      "C": {
+        "en": "Guide signs for directions and distances",
+        "zh-Hans": "方向和距离的指路标志",
+        "zh-Hant": "方向和距離的指路標誌"
+      }
+    },
+    "answer": "C",
+    "explanation": {
+      "en": "Green signs provide information about directions, distances, and destinations.",
+      "zh-Hans": "绿色标志提供方向、距离和目的地信息。",
+      "zh-Hant": "綠色標誌提供方向、距離和目的地信息。"
+    },
+    "dmv_ref": {
+      "page": "2-20",
+      "section": "Guide Signs",
+      "analysis_zh-Hans": "绿色=指路信息。",
+      "analysis_zh-Hant": "綠色=指路信息。"
+    },
+    "source": "signs"
+  },
+  {
+    "id": 4016,
+    "category": "Traffic Signs",
+    "question": {
+      "en": "A round sign with a crossbuck indicates:",
+      "zh-Hans": "带有交叉标志的圆形标志表示：",
+      "zh-Hant": "帶有交叉標誌的圓形標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Railroad crossing ahead",
+        "zh-Hans": "前方铁路道口",
+        "zh-Hant": "前方鐵路道口"
+      },
+      "B": {
+        "en": "School zone",
+        "zh-Hans": "学校区域",
+        "zh-Hant": "學校區域"
+      },
+      "C": {
+        "en": "No U-turn",
+        "zh-Hans": "禁止掉头",
+        "zh-Hant": "禁止掉頭"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "The round yellow sign with RR and crossbuck warns of a railroad crossing ahead.",
+      "zh-Hans": "带有RR和交叉标志的圆形黄色标志警告前方有铁路道口。",
+      "zh-Hant": "帶有RR和交叉標誌的圓形黃色標誌警告前方有鐵路道口。"
+    },
+    "dmv_ref": {
+      "page": "2-19",
+      "section": "Railroad Signs",
+      "analysis_zh-Hans": "铁路标志对CDL司机很重要。",
+      "analysis_zh-Hant": "鐵路標誌對CDL司機很重要。"
+    },
+    "source": "signs"
+  },
+  {
+    "id": 4017,
+    "category": "Traffic Signs",
+    "question": {
+      "en": "A pennant-shaped sign (triangular pointing right) means:",
+      "zh-Hans": "三角旗形标志（向右指）表示：",
+      "zh-Hant": "三角旗形標誌（向右指）表示："
+    },
+    "options": {
+      "A": {
+        "en": "School zone",
+        "zh-Hans": "学校区域",
+        "zh-Hant": "學校區域"
+      },
+      "B": {
+        "en": "No passing zone",
+        "zh-Hans": "禁止超车区",
+        "zh-Hant": "禁止超車區"
+      },
+      "C": {
+        "en": "Merge ahead",
+        "zh-Hans": "前方合流",
+        "zh-Hant": "前方合流"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "The pennant-shaped sign marks the beginning of a no-passing zone.",
+      "zh-Hans": "三角旗形标志标志着禁止超车区的开始。",
+      "zh-Hant": "三角旗形標誌標誌著禁止超車區的開始。"
+    },
+    "dmv_ref": {
+      "page": "2-19",
+      "section": "No Passing",
+      "analysis_zh-Hans": "这种形状只用于禁止超车。",
+      "analysis_zh-Hant": "這種形狀只用於禁止超車。"
+    },
+    "source": "signs"
+  },
+  {
+    "id": 4018,
+    "category": "Traffic Signs",
+    "question": {
+      "en": "A white rectangular sign is typically a:",
+      "zh-Hans": "白色矩形标志通常是：",
+      "zh-Hant": "白色矩形標誌通常是："
+    },
+    "options": {
+      "A": {
+        "en": "Warning sign",
+        "zh-Hans": "警告标志",
+        "zh-Hant": "警告標誌"
+      },
+      "B": {
+        "en": "Regulatory sign (speed limit, etc.)",
+        "zh-Hans": "规则标志（限速等）",
+        "zh-Hant": "規則標誌（限速等）"
+      },
+      "C": {
+        "en": "Guide sign",
+        "zh-Hans": "指路标志",
+        "zh-Hant": "指路標誌"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "White rectangular signs are regulatory signs like speed limits, lane use, and other rules.",
+      "zh-Hans": "白色矩形标志是规则标志，如限速、车道使用和其他规定。",
+      "zh-Hant": "白色矩形標誌是規則標誌，如限速、車道使用和其他規定。"
+    },
+    "dmv_ref": {
+      "page": "2-19",
+      "section": "Regulatory Signs",
+      "analysis_zh-Hans": "白色矩形=规则/法律。",
+      "analysis_zh-Hant": "白色矩形=規則/法律。"
+    },
+    "source": "signs"
+  },
+  {
+    "id": 4019,
+    "category": "Traffic Signs",
+    "question": {
+      "en": "A blue rectangular sign indicates:",
+      "zh-Hans": "蓝色矩形标志表示：",
+      "zh-Hant": "藍色矩形標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Warning",
+        "zh-Hans": "警告",
+        "zh-Hant": "警告"
+      },
+      "B": {
+        "en": "Services (gas, food, lodging)",
+        "zh-Hans": "服务设施（加油、餐饮、住宿）",
+        "zh-Hant": "服務設施（加油、餐飲、住宿）"
+      },
+      "C": {
+        "en": "Stop ahead",
+        "zh-Hans": "前方停车",
+        "zh-Hant": "前方停車"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Blue signs indicate motorist services like gas, food, lodging, and hospitals.",
+      "zh-Hans": "蓝色标志表示驾驶员服务设施，如加油站、餐厅、住宿和医院。",
+      "zh-Hant": "藍色標誌表示駕駛員服務設施，如加油站、餐廳、住宿和醫院。"
+    },
+    "dmv_ref": {
+      "page": "2-20",
+      "section": "Service Signs",
+      "analysis_zh-Hans": "蓝色=服务信息。",
+      "analysis_zh-Hant": "藍色=服務信息。"
+    },
+    "source": "signs"
+  },
+  {
+    "id": 4020,
+    "category": "Traffic Signs",
+    "question": {
+      "en": "A brown rectangular sign indicates:",
+      "zh-Hans": "棕色矩形标志表示：",
+      "zh-Hant": "棕色矩形標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Regulatory information",
+        "zh-Hans": "规则信息",
+        "zh-Hant": "規則信息"
+      },
+      "B": {
+        "en": "Recreational areas and parks",
+        "zh-Hans": "休闲区和公园",
+        "zh-Hant": "休閒區和公園"
+      },
+      "C": {
+        "en": "Construction zone",
+        "zh-Hans": "施工区",
+        "zh-Hant": "施工區"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Brown signs indicate recreational areas, parks, and points of interest.",
+      "zh-Hans": "棕色标志表示休闲区、公园和景点。",
+      "zh-Hant": "棕色標誌表示休閒區、公園和景點。"
+    },
+    "dmv_ref": {
+      "page": "2-20",
+      "section": "Recreation Signs",
+      "analysis_zh-Hans": "棕色=户外休闲。",
+      "analysis_zh-Hant": "棕色=戶外休閒。"
+    },
+    "source": "signs"
+  },
+  {
+    "id": 4021,
+    "category": "Traffic Signs",
+    "question": {
+      "en": "A five-sided sign (pentagon) indicates:",
+      "zh-Hans": "五边形标志表示：",
+      "zh-Hant": "五邊形標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Railroad crossing",
+        "zh-Hans": "铁路道口",
+        "zh-Hant": "鐵路道口"
+      },
+      "B": {
+        "en": "School zone or school crossing",
+        "zh-Hans": "学校区域或学校人行横道",
+        "zh-Hant": "學校區域或學校人行橫道"
+      },
+      "C": {
+        "en": "Hospital ahead",
+        "zh-Hans": "前方医院",
+        "zh-Hant": "前方醫院"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Pentagon-shaped signs indicate school zones or school crossings. Reduce speed and watch for children.",
+      "zh-Hans": "五边形标志表示学校区域或学校人行横道。减速并注意儿童。",
+      "zh-Hant": "五邊形標誌表示學校區域或學校人行橫道。減速並注意兒童。"
+    },
+    "dmv_ref": {
+      "page": "2-19",
+      "section": "School Signs",
+      "analysis_zh-Hans": "学校区域限速严格执行。",
+      "analysis_zh-Hant": "學校區域限速嚴格執行。"
+    },
+    "source": "signs"
+  },
+  {
+    "id": 4022,
+    "category": "Traffic Signs",
+    "question": {
+      "en": "A sign showing a truck on a hill means:",
+      "zh-Hans": "显示卡车在坡道上的标志表示：",
+      "zh-Hant": "顯示卡車在坡道上的標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Trucks prohibited",
+        "zh-Hans": "禁止卡车",
+        "zh-Hant": "禁止卡車"
+      },
+      "B": {
+        "en": "Steep grade ahead - trucks should use low gear",
+        "zh-Hans": "前方陡坡 - 卡车应使用低档",
+        "zh-Hant": "前方陡坡 - 卡車應使用低檔"
+      },
+      "C": {
+        "en": "Truck parking area",
+        "zh-Hans": "卡车停车区",
+        "zh-Hant": "卡車停車區"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This warning sign alerts truck drivers of a steep grade ahead. Use low gear for engine braking.",
+      "zh-Hans": "这个警告标志提醒卡车司机前方有陡坡。使用低档进行发动机制动。",
+      "zh-Hant": "這個警告標誌提醒卡車司機前方有陡坡。使用低檔進行發動機制動。"
+    },
+    "dmv_ref": {
+      "page": "2-21",
+      "section": "Grade Signs",
+      "analysis_zh-Hans": "CDL司机必须注意坡度标志。",
+      "analysis_zh-Hant": "CDL司機必須注意坡度標誌。"
+    },
+    "source": "signs"
+  },
+  {
+    "id": 4023,
+    "category": "Traffic Signs",
+    "question": {
+      "en": "A sign with 'RUNAWAY TRUCK RAMP' indicates:",
+      "zh-Hans": "'RUNAWAY TRUCK RAMP'（失控卡车坡道）标志表示：",
+      "zh-Hant": "'RUNAWAY TRUCK RAMP'（失控卡車坡道）標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Truck rest area",
+        "zh-Hans": "卡车休息区",
+        "zh-Hant": "卡車休息區"
+      },
+      "B": {
+        "en": "An escape ramp for trucks with brake failure",
+        "zh-Hans": "刹车失灵卡车的逃生坡道",
+        "zh-Hant": "剎車失靈卡車的逃生坡道"
+      },
+      "C": {
+        "en": "Weigh station",
+        "zh-Hans": "称重站",
+        "zh-Hant": "稱重站"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Runaway truck ramps provide a safe exit for trucks that have lost their brakes on steep downgrades.",
+      "zh-Hans": "失控卡车坡道为在陡下坡失去刹车的卡车提供安全出口。",
+      "zh-Hant": "失控卡車坡道為在陡下坡失去剎車的卡車提供安全出口。"
+    },
+    "dmv_ref": {
+      "page": "2-21",
+      "section": "Escape Ramps",
+      "analysis_zh-Hans": "不要犹豫使用逃生坡道。",
+      "analysis_zh-Hant": "不要猶豫使用逃生坡道。"
+    },
+    "source": "signs"
+  },
+  {
+    "id": 4024,
+    "category": "Traffic Signs",
+    "question": {
+      "en": "What does a 'LOW CLEARANCE' sign mean for truck drivers?",
+      "zh-Hans": "'LOW CLEARANCE'（低净空）标志对卡车司机意味着什么？",
+      "zh-Hant": "'LOW CLEARANCE'（低淨空）標誌對卡車司機意味著什麼？"
+    },
+    "options": {
+      "A": {
+        "en": "Low fuel prices ahead",
+        "zh-Hans": "前方油价低",
+        "zh-Hant": "前方油價低"
+      },
+      "B": {
+        "en": "The overhead clearance is limited - check your vehicle height",
+        "zh-Hans": "上方净空有限 - 检查你的车辆高度",
+        "zh-Hant": "上方淨空有限 - 檢查你的車輛高度"
+      },
+      "C": {
+        "en": "Low visibility area",
+        "zh-Hans": "低能见度区域",
+        "zh-Hant": "低能見度區域"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Low clearance signs warn of overhead obstacles. Know your vehicle height and compare to posted clearance.",
+      "zh-Hans": "低净空标志警告上方有障碍物。了解你的车辆高度并与公示的净空比较。",
+      "zh-Hant": "低淨空標誌警告上方有障礙物。了解你的車輛高度並與公示的淨空比較。"
+    },
+    "dmv_ref": {
+      "page": "2-20",
+      "section": "Clearance Signs",
+      "analysis_zh-Hans": "CDL司机必须知道车辆高度。",
+      "analysis_zh-Hant": "CDL司機必須知道車輛高度。"
+    },
+    "source": "signs"
+  },
+  {
+    "id": 4025,
+    "category": "Traffic Signs",
+    "question": {
+      "en": "A 'WEIGH STATION' sign means:",
+      "zh-Hans": "'WEIGH STATION'（称重站）标志表示：",
+      "zh-Hant": "'WEIGH STATION'（稱重站）標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "All vehicles must stop",
+        "zh-Hans": "所有车辆必须停车",
+        "zh-Hant": "所有車輛必須停車"
+      },
+      "B": {
+        "en": "Commercial vehicles must enter when station is open",
+        "zh-Hans": "称重站开放时商用车辆必须进入",
+        "zh-Hant": "稱重站開放時商用車輛必須進入"
+      },
+      "C": {
+        "en": "Trucks can bypass if in a hurry",
+        "zh-Hans": "赶时间的卡车可以绕行",
+        "zh-Hant": "趕時間的卡車可以繞行"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "When weigh stations are open, commercial vehicles must enter to be checked for weight compliance.",
+      "zh-Hans": "当称重站开放时，商用车辆必须进入接受重量检查。",
+      "zh-Hant": "當稱重站開放時，商用車輛必須進入接受重量檢查。"
+    },
+    "dmv_ref": {
+      "page": "2-20",
+      "section": "Weigh Stations",
+      "analysis_zh-Hans": "绕过开放的称重站是违法的。",
+      "analysis_zh-Hant": "繞過開放的稱重站是違法的。"
+    },
+    "source": "signs"
+  },
+  {
+    "id": 4026,
+    "category": "Traffic Signs",
+    "question": {
+      "en": "A 'NO TRUCKS' sign means:",
+      "zh-Hans": "'NO TRUCKS'（禁止卡车）标志表示：",
+      "zh-Hant": "'NO TRUCKS'（禁止卡車）標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Trucks have priority",
+        "zh-Hans": "卡车优先",
+        "zh-Hant": "卡車優先"
+      },
+      "B": {
+        "en": "Trucks are prohibited on this road",
+        "zh-Hans": "禁止卡车在此道路上行驶",
+        "zh-Hant": "禁止卡車在此道路上行駛"
+      },
+      "C": {
+        "en": "Truck parking available",
+        "zh-Hans": "有卡车停车位",
+        "zh-Hant": "有卡車停車位"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This sign prohibits trucks from using the road or lane. Find an alternate route.",
+      "zh-Hans": "此标志禁止卡车使用该道路或车道。寻找替代路线。",
+      "zh-Hant": "此標誌禁止卡車使用該道路或車道。尋找替代路線。"
+    },
+    "dmv_ref": {
+      "page": "2-19",
+      "section": "Truck Restrictions",
+      "analysis_zh-Hans": "了解路线上的卡车限制。",
+      "analysis_zh-Hant": "了解路線上的卡車限制。"
+    },
+    "source": "signs"
+  },
+  {
+    "id": 4027,
+    "category": "Traffic Signs",
+    "question": {
+      "en": "What does a sign showing 'TRUCKS USE RIGHT LANE' mean?",
+      "zh-Hans": "'TRUCKS USE RIGHT LANE'（卡车使用右车道）标志表示什么？",
+      "zh-Hant": "'TRUCKS USE RIGHT LANE'（卡車使用右車道）標誌表示什麼？"
+    },
+    "options": {
+      "A": {
+        "en": "Right lane is for trucks only",
+        "zh-Hans": "右车道仅供卡车使用",
+        "zh-Hant": "右車道僅供卡車使用"
+      },
+      "B": {
+        "en": "Trucks should stay in the right lane",
+        "zh-Hans": "卡车应该保持在右车道",
+        "zh-Hant": "卡車應該保持在右車道"
+      },
+      "C": {
+        "en": "Right turn for trucks",
+        "zh-Hans": "卡车右转",
+        "zh-Hant": "卡車右轉"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This sign directs trucks to travel in the right lane, usually on steep grades or highways.",
+      "zh-Hans": "此标志指示卡车在右车道行驶，通常在陡坡或高速公路上。",
+      "zh-Hant": "此標誌指示卡車在右車道行駛，通常在陡坡或高速公路上。"
+    },
+    "dmv_ref": {
+      "page": "2-25",
+      "section": "Lane Restrictions",
+      "analysis_zh-Hans": "遵守车道限制。",
+      "analysis_zh-Hant": "遵守車道限制。"
+    },
+    "source": "signs"
+  },
+  {
+    "id": 4028,
+    "category": "Traffic Signs",
+    "question": {
+      "en": "A sign with a curved arrow indicates:",
+      "zh-Hans": "带有弯曲箭头的标志表示：",
+      "zh-Hant": "帶有彎曲箭頭的標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Curve ahead - slow down",
+        "zh-Hans": "前方弯道 - 减速",
+        "zh-Hant": "前方彎道 - 減速"
+      },
+      "B": {
+        "en": "Speed up",
+        "zh-Hans": "加速",
+        "zh-Hant": "加速"
+      },
+      "C": {
+        "en": "No turns allowed",
+        "zh-Hans": "禁止转弯",
+        "zh-Hant": "禁止轉彎"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Curve signs warn of upcoming curves. Slow down before entering the curve.",
+      "zh-Hans": "弯道标志警告即将到来的弯道。在进入弯道前减速。",
+      "zh-Hant": "彎道標誌警告即將到來的彎道。在進入彎道前減速。"
+    },
+    "dmv_ref": {
+      "page": "2-20",
+      "section": "Curve Signs",
+      "analysis_zh-Hans": "Posted速度是给小车的，卡车更慢。",
+      "analysis_zh-Hant": "Posted速度是給小車的，卡車更慢。"
+    },
+    "source": "signs"
+  },
+  {
+    "id": 4029,
+    "category": "Traffic Signs",
+    "question": {
+      "en": "A speed limit sign with 'TRUCKS' below the limit means:",
+      "zh-Hans": "限速标志下方有'TRUCKS'（卡车）表示：",
+      "zh-Hant": "限速標誌下方有'TRUCKS'（卡車）表示："
+    },
+    "options": {
+      "A": {
+        "en": "Only trucks can exceed this speed",
+        "zh-Hans": "只有卡车可以超过此速度",
+        "zh-Hant": "只有卡車可以超過此速度"
+      },
+      "B": {
+        "en": "Maximum speed for trucks on this road",
+        "zh-Hans": "此道路上卡车的最高速度",
+        "zh-Hant": "此道路上卡車的最高速度"
+      },
+      "C": {
+        "en": "Minimum speed for trucks",
+        "zh-Hans": "卡车的最低速度",
+        "zh-Hant": "卡車的最低速度"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This sign shows a separate (usually lower) speed limit that applies specifically to trucks.",
+      "zh-Hans": "此标志显示专门适用于卡车的单独（通常较低）限速。",
+      "zh-Hant": "此標誌顯示專門適用於卡車的單獨（通常較低）限速。"
+    },
+    "dmv_ref": {
+      "page": "2-18",
+      "section": "Truck Speed Limits",
+      "analysis_zh-Hans": "加州卡车限速通常比小车低。",
+      "analysis_zh-Hant": "加州卡車限速通常比小車低。"
+    },
+    "source": "signs"
+  },
+  {
+    "id": 4030,
+    "category": "Traffic Signs",
+    "question": {
+      "en": "A flashing yellow light means:",
+      "zh-Hans": "闪烁的黄灯表示：",
+      "zh-Hant": "閃爍的黃燈表示："
+    },
+    "options": {
+      "A": {
+        "en": "Stop and wait",
+        "zh-Hans": "停车等待",
+        "zh-Hant": "停車等待"
+      },
+      "B": {
+        "en": "Slow down and proceed with caution",
+        "zh-Hans": "减速并谨慎通过",
+        "zh-Hant": "減速並謹慎通過"
+      },
+      "C": {
+        "en": "Speed up before light changes",
+        "zh-Hans": "在灯变之前加速",
+        "zh-Hant": "在燈變之前加速"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "A flashing yellow light means slow down and proceed with caution. Look carefully before crossing.",
+      "zh-Hans": "闪烁的黄灯表示减速并谨慎通过。过交叉口前仔细观察。",
+      "zh-Hant": "閃爍的黃燈表示減速並謹慎通過。過交叉口前仔細觀察。"
+    },
+    "dmv_ref": {
+      "page": "2-18",
+      "section": "Traffic Signals",
+      "analysis_zh-Hans": "闪黄≠闪红。",
+      "analysis_zh-Hant": "閃黃≠閃紅。"
+    },
+    "source": "signs"
+  },
+  {
+    "id": 4031,
+    "category": "Traffic Signs",
+    "question": {
+      "en": "A flashing red light means:",
+      "zh-Hans": "闪烁的红灯表示：",
+      "zh-Hant": "閃爍的紅燈表示："
+    },
+    "options": {
+      "A": {
+        "en": "Slow down and proceed",
+        "zh-Hans": "减速通过",
+        "zh-Hant": "減速通過"
+      },
+      "B": {
+        "en": "Stop, yield, then proceed when safe",
+        "zh-Hans": "停车，让行，安全时通过",
+        "zh-Hant": "停車，讓行，安全時通過"
+      },
+      "C": {
+        "en": "Speed up",
+        "zh-Hans": "加速",
+        "zh-Hant": "加速"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "A flashing red light means the same as a STOP sign. Stop, yield, then proceed when safe.",
+      "zh-Hans": "闪烁的红灯与停车标志意义相同。停车，让行，安全时通过。",
+      "zh-Hant": "閃爍的紅燈與停車標誌意義相同。停車，讓行，安全時通過。"
+    },
+    "dmv_ref": {
+      "page": "2-18",
+      "section": "Traffic Signals",
+      "analysis_zh-Hans": "闪红=停车标志。",
+      "analysis_zh-Hant": "閃紅=停車標誌。"
+    },
+    "source": "signs"
+  },
+  {
+    "id": 4032,
+    "category": "Traffic Signs",
+    "question": {
+      "en": "A 'DIVIDED HIGHWAY' sign means:",
+      "zh-Hans": "'DIVIDED HIGHWAY'（分隔公路）标志表示：",
+      "zh-Hant": "'DIVIDED HIGHWAY'（分隔公路）標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "The highway ends",
+        "zh-Hans": "公路结束",
+        "zh-Hant": "公路結束"
+      },
+      "B": {
+        "en": "A divided highway begins ahead",
+        "zh-Hans": "前方开始分隔公路",
+        "zh-Hant": "前方開始分隔公路"
+      },
+      "C": {
+        "en": "Two-way traffic",
+        "zh-Hans": "双向交通",
+        "zh-Hant": "雙向交通"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This sign warns that you are entering a divided highway with a median between traffic directions.",
+      "zh-Hans": "此标志警告你正在进入一条中央分隔的分隔公路。",
+      "zh-Hant": "此標誌警告你正在進入一條中央分隔的分隔公路。"
+    },
+    "dmv_ref": {
+      "page": "2-19",
+      "section": "Highway Signs",
+      "analysis_zh-Hans": "注意对向车流分隔。",
+      "analysis_zh-Hant": "注意對向車流分隔。"
+    },
+    "source": "signs"
+  },
+  {
+    "id": 4033,
+    "category": "Traffic Signs",
+    "question": {
+      "en": "A 'MERGE' sign means:",
+      "zh-Hans": "'MERGE'（合流）标志表示：",
+      "zh-Hant": "'MERGE'（合流）標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Your lane is ending, merge into traffic",
+        "zh-Hans": "你的车道即将结束，合流进入车流",
+        "zh-Hant": "你的車道即將結束，合流進入車流"
+      },
+      "B": {
+        "en": "Two roads are separating",
+        "zh-Hans": "两条道路正在分离",
+        "zh-Hant": "兩條道路正在分離"
+      },
+      "C": {
+        "en": "Stop and wait",
+        "zh-Hans": "停车等待",
+        "zh-Hant": "停車等待"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "A Merge sign warns that two lanes of traffic are coming together. Adjust your speed and position.",
+      "zh-Hans": "合流标志警告两条车道正在汇合。调整你的速度和位置。",
+      "zh-Hant": "合流標誌警告兩條車道正在匯合。調整你的速度和位置。"
+    },
+    "dmv_ref": {
+      "page": "2-19",
+      "section": "Merge Signs",
+      "analysis_zh-Hans": "合流时让右侧车辆。",
+      "analysis_zh-Hant": "合流時讓右側車輛。"
+    },
+    "source": "signs"
+  },
+  {
+    "id": 4034,
+    "category": "Traffic Signs",
+    "question": {
+      "en": "A 'SLIPPERY WHEN WET' sign means:",
+      "zh-Hans": "'SLIPPERY WHEN WET'（湿滑路面）标志表示：",
+      "zh-Hant": "'SLIPPERY WHEN WET'（濕滑路面）標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "The road is always slippery",
+        "zh-Hans": "道路一直很滑",
+        "zh-Hant": "道路一直很滑"
+      },
+      "B": {
+        "en": "The road may be slippery in wet conditions",
+        "zh-Hans": "道路在潮湿条件下可能会很滑",
+        "zh-Hant": "道路在潮濕條件下可能會很滑"
+      },
+      "C": {
+        "en": "No ice on the road",
+        "zh-Hans": "道路上没有冰",
+        "zh-Hant": "道路上沒有冰"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This sign warns that the road surface may become slippery when wet. Reduce speed in rain.",
+      "zh-Hans": "此标志警告道路表面在潮湿时可能变滑。雨天减速。",
+      "zh-Hant": "此標誌警告道路表面在潮濕時可能變滑。雨天減速。"
+    },
+    "dmv_ref": {
+      "page": "2-19",
+      "section": "Warning Signs",
+      "analysis_zh-Hans": "减速并保持更大跟车距离。",
+      "analysis_zh-Hant": "減速並保持更大跟車距離。"
+    },
+    "source": "signs"
+  },
+  {
+    "id": 4035,
+    "category": "Traffic Signs",
+    "question": {
+      "en": "A 'BRIDGE ICES BEFORE ROAD' sign means:",
+      "zh-Hans": "'BRIDGE ICES BEFORE ROAD'（桥面先结冰）标志表示：",
+      "zh-Hant": "'BRIDGE ICES BEFORE ROAD'（橋面先結冰）標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "The bridge is always icy",
+        "zh-Hans": "桥梁一直结冰",
+        "zh-Hant": "橋樑一直結冰"
+      },
+      "B": {
+        "en": "Bridge surface freezes before the rest of the road",
+        "zh-Hans": "桥面比其他路面更早结冰",
+        "zh-Hant": "橋面比其他路面更早結冰"
+      },
+      "C": {
+        "en": "No ice on the bridge",
+        "zh-Hans": "桥上没有冰",
+        "zh-Hant": "橋上沒有冰"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Bridges freeze faster because cold air circulates above and below them.",
+      "zh-Hans": "桥梁结冰更快，因为冷空气在其上下循环。",
+      "zh-Hant": "橋樑結冰更快，因為冷空氣在其上下循環。"
+    },
+    "dmv_ref": {
+      "page": "2-34",
+      "section": "Ice Warning",
+      "analysis_zh-Hans": "桥和高架比普通路面更危险。",
+      "analysis_zh-Hant": "橋和高架比普通路面更危險。"
+    },
+    "source": "signs"
+  },
+  {
+    "id": 4036,
+    "category": "Traffic Signs",
+    "question": {
+      "en": "A sign showing two arrows pointing in opposite directions means:",
+      "zh-Hans": "显示两个相反方向箭头的标志表示：",
+      "zh-Hant": "顯示兩個相反方向箭頭的標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "One-way street",
+        "zh-Hans": "单行道",
+        "zh-Hant": "單行道"
+      },
+      "B": {
+        "en": "Two-way traffic",
+        "zh-Hans": "双向交通",
+        "zh-Hant": "雙向交通"
+      },
+      "C": {
+        "en": "No through traffic",
+        "zh-Hans": "禁止通行",
+        "zh-Hant": "禁止通行"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "This sign warns of two-way traffic ahead. May be placed where a divided highway ends.",
+      "zh-Hans": "此标志警告前方有双向交通。可能放置在分隔公路结束处。",
+      "zh-Hant": "此標誌警告前方有雙向交通。可能放置在分隔公路結束處。"
+    },
+    "dmv_ref": {
+      "page": "2-19",
+      "section": "Two-Way Signs",
+      "analysis_zh-Hans": "注意对向来车。",
+      "analysis_zh-Hant": "注意對向來車。"
+    },
+    "source": "signs"
+  },
+  {
+    "id": 4037,
+    "category": "Traffic Signs",
+    "question": {
+      "en": "A 'LANE ENDS' sign means:",
+      "zh-Hans": "'LANE ENDS'（车道结束）标志表示：",
+      "zh-Hant": "'LANE ENDS'（車道結束）標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "A new lane is starting",
+        "zh-Hans": "新车道开始",
+        "zh-Hant": "新車道開始"
+      },
+      "B": {
+        "en": "Your lane will end and you must merge",
+        "zh-Hans": "你的车道将结束，你必须合流",
+        "zh-Hant": "你的車道將結束，你必須合流"
+      },
+      "C": {
+        "en": "The highway is closing",
+        "zh-Hans": "公路正在关闭",
+        "zh-Hant": "公路正在關閉"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Lane Ends sign warns that your lane will end. Merge into the appropriate lane.",
+      "zh-Hans": "车道结束标志警告你的车道将结束。合流到适当的车道。",
+      "zh-Hant": "車道結束標誌警告你的車道將結束。合流到適當的車道。"
+    },
+    "dmv_ref": {
+      "page": "2-19",
+      "section": "Lane Signs",
+      "analysis_zh-Hans": "提前变道，不要等到最后。",
+      "analysis_zh-Hant": "提前變道，不要等到最後。"
+    },
+    "source": "signs"
+  },
+  {
+    "id": 4038,
+    "category": "Traffic Signs",
+    "question": {
+      "en": "A 'DETOUR' sign means:",
+      "zh-Hans": "'DETOUR'（绕行）标志表示：",
+      "zh-Hant": "'DETOUR'（繞行）標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "The main road is closed, follow the detour route",
+        "zh-Hans": "主路关闭，按绕行路线行驶",
+        "zh-Hant": "主路關閉，按繞行路線行駛"
+      },
+      "B": {
+        "en": "Shortcut available",
+        "zh-Hans": "有捷径",
+        "zh-Hant": "有捷徑"
+      },
+      "C": {
+        "en": "Speed limit increase",
+        "zh-Hans": "限速提高",
+        "zh-Hant": "限速提高"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "A Detour sign indicates the main road is temporarily closed. Follow the marked detour route.",
+      "zh-Hans": "绕行标志表示主路暂时关闭。按标记的绕行路线行驶。",
+      "zh-Hant": "繞行標誌表示主路暫時關閉。按標記的繞行路線行駛。"
+    },
+    "dmv_ref": {
+      "page": "2-19",
+      "section": "Construction Signs",
+      "analysis_zh-Hans": "跟随橙色绕行标志。",
+      "analysis_zh-Hant": "跟隨橙色繞行標誌。"
+    },
+    "source": "signs"
+  },
+  {
+    "id": 4039,
+    "category": "Traffic Signs",
+    "question": {
+      "en": "A 'DO NOT ENTER' sign means:",
+      "zh-Hans": "'DO NOT ENTER'（禁止进入）标志表示：",
+      "zh-Hant": "'DO NOT ENTER'（禁止進入）標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Slow down",
+        "zh-Hans": "减速",
+        "zh-Hant": "減速"
+      },
+      "B": {
+        "en": "You are going the wrong way - do not enter",
+        "zh-Hans": "你走错路了 - 禁止进入",
+        "zh-Hant": "你走錯路了 - 禁止進入"
+      },
+      "C": {
+        "en": "Road under construction",
+        "zh-Hans": "道路正在施工",
+        "zh-Hant": "道路正在施工"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Do Not Enter signs are placed at exits of one-way streets. You are going the wrong way.",
+      "zh-Hans": "禁止进入标志放置在单行道出口。你走错方向了。",
+      "zh-Hant": "禁止進入標誌放置在單行道出口。你走錯方向了。"
+    },
+    "dmv_ref": {
+      "page": "2-19",
+      "section": "Regulatory Signs",
+      "analysis_zh-Hans": "逆行极端危险。",
+      "analysis_zh-Hant": "逆行極端危險。"
+    },
+    "source": "signs"
+  },
+  {
+    "id": 4040,
+    "category": "Traffic Signs",
+    "question": {
+      "en": "A 'WRONG WAY' sign means:",
+      "zh-Hans": "'WRONG WAY'（逆行）标志表示：",
+      "zh-Hant": "'WRONG WAY'（逆行）標誌表示："
+    },
+    "options": {
+      "A": {
+        "en": "Turn around immediately - you are going the wrong direction",
+        "zh-Hans": "立即掉头 - 你走错方向了",
+        "zh-Hant": "立即掉頭 - 你走錯方向了"
+      },
+      "B": {
+        "en": "Construction ahead",
+        "zh-Hans": "前方施工",
+        "zh-Hant": "前方施工"
+      },
+      "C": {
+        "en": "Sharp turn ahead",
+        "zh-Hans": "前方急转弯",
+        "zh-Hant": "前方急轉彎"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "If you see a Wrong Way sign, you are entering a highway or ramp in the wrong direction.",
+      "zh-Hans": "如果你看到逆行标志，你正在逆向进入公路或匝道。",
+      "zh-Hant": "如果你看到逆行標誌，你正在逆向進入公路或匝道。"
+    },
+    "dmv_ref": {
+      "page": "2-19",
+      "section": "Regulatory Signs",
+      "analysis_zh-Hans": "立即安全停车并掉头。",
+      "analysis_zh-Hant": "立即安全停車並掉頭。"
+    },
+    "source": "signs"
   }
 ]

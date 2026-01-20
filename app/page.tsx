@@ -67,7 +67,7 @@ const translations = {
   'zh-CN': {
     mainTitle: "2026加州驾照笔试题目",
     subtitle: "California DMV Written Test Practice",
-    questionCount: "题库共 305 题 | 选择您的学习模式",
+    questionCount: "题库共 345 题 | 选择您的学习模式",
     modes: {
       basics: {
         title: "扫盲模式",
@@ -79,7 +79,7 @@ const translations = {
       deepDive: {
         title: "专项突破",
         subtitle: "Deep Dive",
-        count: "137题",
+        count: "177题",
         tags: "规则 + 安全 + 法规",
         desc: "深入学习交通规则、安全知识和加州驾驶法规"
       },
@@ -124,7 +124,7 @@ const translations = {
   'zh-TW': {
     mainTitle: "2026加州駕照筆試題目",
     subtitle: "California DMV Written Test Practice",
-    questionCount: "題庫共 305 題 | 選擇您的學習模式",
+    questionCount: "題庫共 345 題 | 選擇您的學習模式",
     modes: {
       basics: {
         title: "掃盲模式",
@@ -136,7 +136,7 @@ const translations = {
       deepDive: {
         title: "專項突破",
         subtitle: "Deep Dive",
-        count: "137題",
+        count: "177題",
         tags: "規則 + 安全 + 法規",
         desc: "深入學習交通規則、安全知識和加州駕駛法規"
       },
@@ -310,10 +310,10 @@ export default function Home() {
       {/* Hero Section */}
       <div className="relative z-10 container mx-auto px-4 py-4 md:py-8">
         <div className="text-center space-y-3 max-w-4xl mx-auto mb-6 animate-fade-in-up">
-          <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-bold">
-            <span className="gradient-text">{t.mainTitle}</span>
+          <h1 className="text-3xl sm:text-4xl md:text-5xl lg:text-6xl font-black tracking-tight">
+            <span className="text-slate-900 dark:text-white" style={{ textShadow: '1px 1px 0 rgba(0,0,0,0.1)' }}>{t.mainTitle}</span>
           </h1>
-          <p className="text-base sm:text-lg md:text-xl text-muted-foreground">
+          <p className="text-base sm:text-lg md:text-xl text-slate-600 dark:text-slate-300 font-medium">
             {t.subtitle}
           </p>
           <div className="inline-flex items-center gap-2 glass rounded-full px-4 py-2 text-sm">
@@ -322,8 +322,8 @@ export default function Home() {
           </div>
         </div>
 
-        {/* Learning Modes Grid - Single column layout */}
-        <div className="grid grid-cols-1 gap-4 max-w-lg mx-auto mb-8">
+        {/* Learning Modes Grid - Single column on mobile, multi-column on desktop */}
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 max-w-5xl mx-auto mb-8">
           {modeConfigs.map((mode, index) => {
             const modeData = t.modes[mode.key as keyof typeof t.modes]
             const CardWrapper = mode.href === '#' ? 'div' : Link
@@ -343,8 +343,8 @@ export default function Home() {
                     <div className={`text-4xl sm:text-5xl mb-2 sm:mb-3 group-hover:animate-bounce-subtle transition-transform`}>
                       {mode.icon}
                     </div>
-                    <CardTitle className="text-base sm:text-lg font-bold leading-tight">{modeData.title}</CardTitle>
-                    <CardDescription className="text-xs sm:text-sm opacity-70">{modeData.subtitle}</CardDescription>
+                    <CardTitle className="text-xl sm:text-2xl font-bold leading-tight">{modeData.title}</CardTitle>
+                    <CardDescription className="text-sm sm:text-base opacity-70">{modeData.subtitle}</CardDescription>
                   </CardHeader>
 
                   <CardContent className="text-center space-y-2 sm:space-y-3 pb-5 px-4">

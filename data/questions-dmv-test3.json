@@ -1,0 +1,382 @@
+[
+    {
+        "id": 6021,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "What color curb does not allow vehicles to stop or park?",
+            "zh-Hans": "什么颜色的路缘不允许车辆停车或泊车？",
+            "zh-Hant": "什麼顏色的路緣不允許車輛停車或泊車？"
+        },
+        "options": {
+            "A": {
+                "en": "Yellow.",
+                "zh-Hans": "黄色。",
+                "zh-Hant": "黃色。"
+            },
+            "B": {
+                "en": "Red.",
+                "zh-Hans": "红色。",
+                "zh-Hant": "紅色。"
+            },
+            "C": {
+                "en": "White.",
+                "zh-Hans": "白色。",
+                "zh-Hant": "白色。"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Red curb means no stopping, standing, or parking at any time.",
+            "zh-Hans": "红色路缘表示任何时候都不允许停车、站立或泊车。",
+            "zh-Hant": "紅色路緣表示任何時候都不允許停車、站立或泊車。"
+        },
+        "dmv_ref": {
+            "page": "45",
+            "section": "第7章：道路法规 - 路缘颜色标记",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第45页「路缘颜色」，红色表示禁止停车。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第45頁「路緣顏色」，紅色表示禁止停車。"
+        }
+    },
+    {
+        "id": 6022,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "You are required to notify DMV by filing a Report of Traffic Accident Occurring in California (SR-1) form if:",
+            "zh-Hans": "如果发生以下情况，你需要向DMV提交加州交通事故报告表(SR-1)：",
+            "zh-Hant": "如果發生以下情況，你需要向DMV提交加州交通事故報告表(SR-1)："
+        },
+        "options": {
+            "A": {
+                "en": "You change your insurance company.",
+                "zh-Hans": "你更换了保险公司。",
+                "zh-Hant": "你更換了保險公司。"
+            },
+            "B": {
+                "en": "You were involved in a collision with an injury.",
+                "zh-Hans": "你卷入了有人受伤的碰撞事故。",
+                "zh-Hant": "你捲入了有人受傷的碰撞事故。"
+            },
+            "C": {
+                "en": "Your vehicle fails a smog test.",
+                "zh-Hans": "你的车辆未通过尾气检测。",
+                "zh-Hant": "你的車輛未通過尾氣檢測。"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "You must file an SR-1 form with DMV within 10 days if you're in a collision with any injury or death.",
+            "zh-Hans": "如果你卷入有人受伤或死亡的碰撞事故，必须在10天内向DMV提交SR-1表格。",
+            "zh-Hant": "如果你捲入有人受傷或死亡的碰撞事故，必須在10天內向DMV提交SR-1表格。"
+        },
+        "dmv_ref": {
+            "page": "78",
+            "section": "第10章：财务责任 - 事故报告",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第78页。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第78頁。"
+        }
+    },
+    {
+        "id": 6023,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "What is indicated by two sets of double yellow lines spaced 2 feet or more apart?",
+            "zh-Hans": "两组间隔2英尺或更多的双黄线表示什么？",
+            "zh-Hant": "兩組間隔2英尺或更多的雙黃線表示什麼？"
+        },
+        "options": {
+            "A": {
+                "en": "Lanes of traffic moving in the same direction.",
+                "zh-Hans": "同向行驶的车道。",
+                "zh-Hant": "同向行駛的車道。"
+            },
+            "B": {
+                "en": "Barrier.",
+                "zh-Hans": "隔离带。",
+                "zh-Hant": "隔離帶。"
+            },
+            "C": {
+                "en": "Carpool/High-Occupancy (HOV) lane.",
+                "zh-Hans": "拼车/高载客率(HOV)车道。",
+                "zh-Hant": "拼車/高載客率(HOV)車道。"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Two sets of double yellow lines spaced 2 feet or more apart act as a barrier. You may not cross them.",
+            "zh-Hans": "间隔2英尺或更多的两组双黄线起隔离带作用，不得跨越。",
+            "zh-Hant": "間隔2英尺或更多的兩組雙黃線起隔離帶作用，不得跨越。"
+        },
+        "dmv_ref": {
+            "page": "17",
+            "section": "第6章：道路导航 - 道路标线",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第17页「道路标线」部分。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第17頁「道路標線」部分。"
+        }
+    },
+    {
+        "id": 6024,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "What should you do to make a right turn at an upcoming intersection with a bicycle lane?",
+            "zh-Hans": "在有自行车道的路口右转时，你应该怎么做？",
+            "zh-Hant": "在有自行車道的路口右轉時，你應該怎麼做？"
+        },
+        "options": {
+            "A": {
+                "en": "Merge into the bicycle lane before making the turn.",
+                "zh-Hans": "转弯前并入自行车道。",
+                "zh-Hant": "轉彎前併入自行車道。"
+            },
+            "B": {
+                "en": "Wait until the bicycle lane ends, then make the turn.",
+                "zh-Hans": "等自行车道结束后再转弯。",
+                "zh-Hant": "等自行車道結束後再轉彎。"
+            },
+            "C": {
+                "en": "Make the turn from your current lane and do not enter the bicycle lane.",
+                "zh-Hans": "从当前车道转弯，不进入自行车道。",
+                "zh-Hant": "從當前車道轉彎，不進入自行車道。"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Before turning right, merge into the bicycle lane (if safe and clear) within 200 feet of the intersection.",
+            "zh-Hans": "右转前，在距路口200英尺内（如果安全且畅通）并入自行车道。",
+            "zh-Hant": "右轉前，在距路口200英尺內（如果安全且暢通）併入自行車道。"
+        },
+        "dmv_ref": {
+            "page": "26",
+            "section": "第6章：道路导航 - 与自行车共享道路",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第26页「自行车道右转」部分。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第26頁「自行車道右轉」部分。"
+        }
+    },
+    {
+        "id": 6025,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "A highway has a posted speed limit of 65 mph. What does this mean?",
+            "zh-Hans": "一条高速公路限速65英里/小时。这意味着什么？",
+            "zh-Hant": "一條高速公路限速65英里/小時。這意味著什麼？"
+        },
+        "options": {
+            "A": {
+                "en": "You must always drive 65 mph on that highway.",
+                "zh-Hans": "你必须始终以65英里/小时的速度行驶。",
+                "zh-Hant": "你必須始終以65英里/小時的速度行駛。"
+            },
+            "B": {
+                "en": "You may drive faster only if there are no other vehicles.",
+                "zh-Hans": "只有在没有其他车辆时才能开得更快。",
+                "zh-Hant": "只有在沒有其他車輛時才能開得更快。"
+            },
+            "C": {
+                "en": "You must drive 65 mph only if driving conditions are ideal.",
+                "zh-Hans": "只有在驾驶条件理想时才能以65英里/小时行驶。",
+                "zh-Hant": "只有在駕駛條件理想時才能以65英里/小時行駛。"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "The posted speed limit is the maximum speed allowed under ideal conditions. Reduce speed in poor conditions.",
+            "zh-Hans": "限速标志是理想条件下允许的最高速度。在恶劣条件下应减速。",
+            "zh-Hant": "限速標誌是理想條件下允許的最高速度。在惡劣條件下應減速。"
+        },
+        "dmv_ref": {
+            "page": "33",
+            "section": "第7章：道路法规 - 限速",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第33页「最高限速」部分。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第33頁「最高限速」部分。"
+        }
+    },
+    {
+        "id": 6026,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "When is parking in a crosshatched (diagonal lines) area allowed?",
+            "zh-Hans": "什么时候可以在交叉斜线区域停车？",
+            "zh-Hant": "什麼時候可以在交叉斜線區域停車？"
+        },
+        "options": {
+            "A": {
+                "en": "It is never allowed to park in a crosshatched (diagonal lines) area.",
+                "zh-Hans": "任何时候都不允许在交叉斜线区域停车。",
+                "zh-Hant": "任何時候都不允許在交叉斜線區域停車。"
+            },
+            "B": {
+                "en": "If the area is at least twenty feet away from a railroad track.",
+                "zh-Hans": "如果该区域距离铁轨至少20英尺。",
+                "zh-Hant": "如果該區域距離鐵軌至少20英尺。"
+            },
+            "C": {
+                "en": "If the area is labeled as a bicycle lane, unless otherwise posted.",
+                "zh-Hans": "如果该区域标记为自行车道，除非另有标示。",
+                "zh-Hant": "如果該區域標記為自行車道，除非另有標示。"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "Crosshatched areas next to disabled parking spaces are never for parking. They provide space for wheelchair access.",
+            "zh-Hans": "残疾人停车位旁边的交叉斜线区域永远不能停车，它们为轮椅通道提供空间。",
+            "zh-Hant": "殘疾人停車位旁邊的交叉斜線區域永遠不能停車，它們為輪椅通道提供空間。"
+        },
+        "dmv_ref": {
+            "page": "47",
+            "section": "第7章：道路法规 - 禁止停车区域",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第47页。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第47頁。"
+        }
+    },
+    {
+        "id": 6027,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "What should you do if your cell phone rings and you do not have a hands-free device?",
+            "zh-Hans": "如果你的手机响了但你没有免提设备，你应该怎么做？",
+            "zh-Hant": "如果你的手機響了但你沒有免提設備，你應該怎麼做？"
+        },
+        "options": {
+            "A": {
+                "en": "Answer the call and keep the conversation short.",
+                "zh-Hans": "接听电话并简短通话。",
+                "zh-Hant": "接聽電話並簡短通話。"
+            },
+            "B": {
+                "en": "Do not answer the phone and let it go to voice mail.",
+                "zh-Hans": "不接电话，让它转到语音信箱。",
+                "zh-Hant": "不接電話，讓它轉到語音信箱。"
+            },
+            "C": {
+                "en": "Answer the call if you are stopped at a red light.",
+                "zh-Hans": "如果你在红灯处停车，可以接听电话。",
+                "zh-Hant": "如果你在紅燈處停車，可以接聽電話。"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "In California, it is illegal to hold and use a cell phone while driving. Let calls go to voicemail.",
+            "zh-Hans": "在加州，驾驶时手持使用手机是违法的。让电话转入语音信箱。",
+            "zh-Hant": "在加州，駕駛時手持使用手機是違法的。讓電話轉入語音信箱。"
+        },
+        "dmv_ref": {
+            "page": "69",
+            "section": "第8章：安全驾驶 - 分心驾驶",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第69页「手机使用法规」部分。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第69頁「手機使用法規」部分。"
+        }
+    },
+    {
+        "id": 6028,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "If a traffic signal is green, but traffic is blocking the intersection, what should you do?",
+            "zh-Hans": "如果交通信号灯是绿灯，但交通堵塞了路口，你应该怎么做？",
+            "zh-Hant": "如果交通信號燈是綠燈，但交通堵塞了路口，你應該怎麼做？"
+        },
+        "options": {
+            "A": {
+                "en": "Partially enter the intersection, as allowed by traffic.",
+                "zh-Hans": "根据交通情况部分进入路口。",
+                "zh-Hant": "根據交通情況部分進入路口。"
+            },
+            "B": {
+                "en": "Wait and do not enter the intersection until your vehicle can get completely across.",
+                "zh-Hans": "等待，直到你的车辆可以完全通过路口再进入。",
+                "zh-Hant": "等待，直到你的車輛可以完全通過路口再進入。"
+            },
+            "C": {
+                "en": "Drive around the traffic on the shoulder to help ease the congestion.",
+                "zh-Hans": "从路肩绕过车流以缓解拥堵。",
+                "zh-Hant": "從路肩繞過車流以緩解擁堵。"
+            }
+        },
+        "answer": "B",
+        "explanation": {
+            "en": "Never enter an intersection unless you can get completely across. Blocking intersections is illegal.",
+            "zh-Hans": "除非你能完全通过路口，否则永远不要进入。阻塞路口是违法的。",
+            "zh-Hant": "除非你能完全通過路口，否則永遠不要進入。阻塞路口是違法的。"
+        },
+        "dmv_ref": {
+            "page": "38",
+            "section": "第7章：道路法规 - 通过路口",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第38页「路口规则」部分。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第38頁「路口規則」部分。"
+        }
+    },
+    {
+        "id": 6029,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "In which lane should you end your turn when making a right turn?",
+            "zh-Hans": "右转时应该在哪个车道结束转弯？",
+            "zh-Hant": "右轉時應該在哪個車道結束轉彎？"
+        },
+        "options": {
+            "A": {
+                "en": "Any lane free of traffic.",
+                "zh-Hans": "任何没有车辆的车道。",
+                "zh-Hant": "任何沒有車輛的車道。"
+            },
+            "B": {
+                "en": "The lane closest to the left edge of the road.",
+                "zh-Hans": "最靠近道路左侧的车道。",
+                "zh-Hant": "最靠近道路左側的車道。"
+            },
+            "C": {
+                "en": "The lane closest to the right edge of the road.",
+                "zh-Hans": "最靠近道路右侧的车道。",
+                "zh-Hant": "最靠近道路右側的車道。"
+            }
+        },
+        "answer": "C",
+        "explanation": {
+            "en": "When making a right turn, stay in the rightmost lane throughout the turn.",
+            "zh-Hans": "右转时，始终保持在最右侧车道。",
+            "zh-Hant": "右轉時，始終保持在最右側車道。"
+        },
+        "dmv_ref": {
+            "page": "24",
+            "section": "第6章：道路导航 - 转弯",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第24页「右转」部分。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第24頁「右轉」部分。"
+        }
+    },
+    {
+        "id": 6030,
+        "category": "DMV Official Sample",
+        "question": {
+            "en": "When is it required for you to obey directions from a crossing guard?",
+            "zh-Hans": "什么时候你必须服从交通协管员的指挥？",
+            "zh-Hant": "什麼時候你必須服從交通協管員的指揮？"
+        },
+        "options": {
+            "A": {
+                "en": "At all times.",
+                "zh-Hans": "任何时候。",
+                "zh-Hant": "任何時候。"
+            },
+            "B": {
+                "en": "During school hours only.",
+                "zh-Hans": "仅在上学时间。",
+                "zh-Hant": "僅在上學時間。"
+            },
+            "C": {
+                "en": "Only when children are present in front of a school.",
+                "zh-Hans": "仅当学校前有儿童时。",
+                "zh-Hant": "僅當學校前有兒童時。"
+            }
+        },
+        "answer": "A",
+        "explanation": {
+            "en": "You must always obey directions from a crossing guard. Their signals override traffic signs and signals.",
+            "zh-Hans": "你必须始终服从交通协管员的指挥。他们的信号优先于交通标志和信号。",
+            "zh-Hant": "你必須始終服從交通協管員的指揮。他們的信號優先於交通標誌和信號。"
+        },
+        "dmv_ref": {
+            "page": "53",
+            "section": "第7章：道路法规 - 学校区域",
+            "analysis_zh-Hans": "参见2026年加州DMV手册第53页「交通协管员」部分。",
+            "analysis_zh-Hant": "參見2026年加州DMV手冊第53頁「交通協管員」部分。"
+        }
+    }
+]
