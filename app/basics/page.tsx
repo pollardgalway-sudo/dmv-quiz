@@ -6,7 +6,7 @@ import { Button } from '@/components/ui/button'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Label } from '@/components/ui/label'
 import { addWrongQuestion } from '@/lib/wrong-questions'
-import { getProgress, saveProgress } from '@/lib/progress'
+import { getProgress, saveProgress, clearProgress } from '@/lib/progress'
 
 interface Question {
   id: number
@@ -44,6 +44,7 @@ export default function BasicsPage() {
   const [lang, setLang] = useState<'en' | 'zh-Hans' | 'zh-Hant'>('zh-Hans')
   const [mounted, setMounted] = useState(false)
   const [progressLoaded, setProgressLoaded] = useState(false)
+  const [isCompleted, setIsCompleted] = useState(false)
 
   // Load questions and restore progress
   useEffect(() => {
@@ -110,6 +111,9 @@ export default function BasicsPage() {
       setSelectedAnswer('')
       setShowExplanation(false)
       window.scrollTo({ top: 0, behavior: 'smooth' })
+    } else if (showExplanation) {
+      // At the last question and answered, show completion
+      setIsCompleted(true)
     }
   }
 
@@ -120,6 +124,16 @@ export default function BasicsPage() {
       setShowExplanation(false)
       window.scrollTo({ top: 0, behavior: 'smooth' })
     }
+  }
+
+  const handleRestart = () => {
+    clearProgress('basics')
+    setCurrentIndex(0)
+    setSelectedAnswer('')
+    setShowExplanation(false)
+    setScore({ correct: 0, total: 0 })
+    setIsCompleted(false)
+    window.scrollTo({ top: 0, behavior: 'smooth' })
   }
 
   return (
@@ -163,132 +177,172 @@ export default function BasicsPage() {
 
       <div className="relative z-10 container mx-auto px-4 py-6 max-w-4xl">
 
-        {/* Question Card */}
-        <Card className="premium-card overflow-hidden animate-fade-in-up" style={{ animationDelay: '100ms' }}>
-          {/* Gradient top border */}
-          <div className="h-1 bg-gradient-to-r from-emerald-400 via-teal-500 to-cyan-500" />
+        {/* Completion Screen */}
+        {isCompleted ? (
+          <Card className="premium-card overflow-hidden animate-scale-in">
+            <div className="h-1 bg-gradient-to-r from-emerald-400 via-teal-500 to-cyan-500" />
+            <CardContent className="p-6 sm:p-8 text-center">
+              <div className="text-6xl mb-4">🎉</div>
+              <h2 className="text-2xl sm:text-3xl font-bold mb-4">恭喜完成！</h2>
+              <p className="text-lg text-muted-foreground mb-6">
+                您已完成所有 {questions.length} 道题目
+              </p>
 
-          <CardHeader className="p-4 sm:p-6">
-            <div className="flex items-start gap-3">
-              <span className="flex-shrink-0 w-8 h-8 rounded-full bg-gradient-to-br from-emerald-400 to-teal-500 flex items-center justify-center text-white font-bold text-sm">
-                {currentIndex + 1}
-              </span>
-              <CardTitle className="text-lg sm:text-xl md:text-2xl leading-relaxed font-semibold">
-                {currentQuestion.question[lang]}
-              </CardTitle>
-            </div>
-          </CardHeader>
+              <div className="glass rounded-2xl p-6 mb-6 inline-block">
+                <div className="text-4xl font-bold mb-2" style={{ color: score.total > 0 && (score.correct / score.total) >= 0.8 ? '#10B981' : '#F59E0B' }}>
+                  {score.correct} / {score.total}
+                </div>
+                <p className="text-muted-foreground">
+                  正确率: {score.total > 0 ? Math.round((score.correct / score.total) * 100) : 0}%
+                </p>
+              </div>
 
-          <CardContent className="space-y-4 sm:space-y-6 p-4 sm:p-6 pt-0">
-            {/* Options - Click to select and auto-submit */}
-            <div className="space-y-3">
-              {(['A', 'B', 'C'] as const).map((option, index) => {
-                const isSelected = selectedAnswer === option
-                const isCorrectOption = currentQuestion.answer === option
-
-                return (
-                  <div
-                    key={option}
-                    onClick={() => handleSelectAnswer(option)}
-                    className={`flex items-start space-x-3 p-4 rounded-xl border-2 transition-all duration-300 touch-target cursor-pointer animate-fade-in-up ${showExplanation
-                      ? isCorrectOption
-                        ? 'border-emerald-500 bg-emerald-50 dark:bg-emerald-900/20 shadow-lg shadow-emerald-500/20'
-                        : isSelected
-                          ? 'border-red-500 bg-red-50 dark:bg-red-900/20 shadow-lg shadow-red-500/20'
-                          : 'border-border bg-muted/30 opacity-60'
-                      : 'border-border hover:border-blue-400 hover:bg-accent/50 hover:shadow-md'
-                      }`}
-                    style={{ animationDelay: `${(index + 1) * 50}ms` }}
+              <div className="flex flex-col sm:flex-row gap-3 justify-center">
+                <Button
+                  onClick={handleRestart}
+                  className="h-12 px-8 text-base font-medium"
+                  style={{ background: 'linear-gradient(135deg, #10B981, #14B8A6)' }}
+                >
+                  🔄 重新开始
+                </Button>
+                <Link href="/">
+                  <Button
+                    variant="outline"
+                    className="w-full sm:w-auto h-12 px-8 text-base font-medium glass border-2"
                   >
-                    {/* Custom Radio Circle */}
-                    <div className={`flex-shrink-0 w-5 h-5 rounded-full border-2 transition-all duration-300 flex items-center justify-center mt-0.5 ${showExplanation
-                      ? isCorrectOption
-                        ? 'border-emerald-500 bg-emerald-500'
+                    ← 返回首页
+                  </Button>
+                </Link>
+              </div>
+            </CardContent>
+          </Card>
+        ) : (
+          /* Question Card */
+          <Card className="premium-card overflow-hidden animate-fade-in-up" style={{ animationDelay: '100ms' }}>
+            {/* Gradient top border */}
+            <div className="h-1 bg-gradient-to-r from-emerald-400 via-teal-500 to-cyan-500" />
+
+            <CardHeader className="p-4 sm:p-6">
+              <div className="flex items-start gap-3">
+                <span className="flex-shrink-0 w-8 h-8 rounded-full bg-gradient-to-br from-emerald-400 to-teal-500 flex items-center justify-center text-white font-bold text-sm">
+                  {currentIndex + 1}
+                </span>
+                <CardTitle className="text-lg sm:text-xl md:text-2xl leading-relaxed font-semibold">
+                  {currentQuestion.question[lang]}
+                </CardTitle>
+              </div>
+            </CardHeader>
+
+            <CardContent className="space-y-4 sm:space-y-6 p-4 sm:p-6 pt-0">
+              {/* Options - Click to select and auto-submit */}
+              <div className="space-y-3">
+                {(['A', 'B', 'C'] as const).map((option, index) => {
+                  const isSelected = selectedAnswer === option
+                  const isCorrectOption = currentQuestion.answer === option
+
+                  return (
+                    <div
+                      key={option}
+                      onClick={() => handleSelectAnswer(option)}
+                      className={`flex items-start space-x-3 p-4 rounded-xl border-2 transition-all duration-300 touch-target cursor-pointer animate-fade-in-up ${showExplanation
+                        ? isCorrectOption
+                          ? 'border-emerald-500 bg-emerald-50 dark:bg-emerald-900/20 shadow-lg shadow-emerald-500/20'
+                          : isSelected
+                            ? 'border-red-500 bg-red-50 dark:bg-red-900/20 shadow-lg shadow-red-500/20'
+                            : 'border-border bg-muted/30 opacity-60'
+                        : 'border-border hover:border-blue-400 hover:bg-accent/50 hover:shadow-md'
+                        }`}
+                      style={{ animationDelay: `${(index + 1) * 50}ms` }}
+                    >
+                      {/* Custom Radio Circle */}
+                      <div className={`flex-shrink-0 w-5 h-5 rounded-full border-2 transition-all duration-300 flex items-center justify-center mt-0.5 ${showExplanation
+                        ? isCorrectOption
+                          ? 'border-emerald-500 bg-emerald-500'
+                          : isSelected
+                            ? 'border-red-500 bg-red-500'
+                            : 'border-gray-300 dark:border-gray-600'
                         : isSelected
-                          ? 'border-red-500 bg-red-500'
-                          : 'border-gray-300 dark:border-gray-600'
-                      : isSelected
-                        ? 'border-blue-500 bg-blue-500'
-                        : 'border-gray-300 dark:border-gray-600 group-hover:border-blue-400'
-                      }`}>
-                      {(isSelected || (showExplanation && isCorrectOption)) && (
-                        <div className="w-2 h-2 rounded-full bg-white" />
+                          ? 'border-blue-500 bg-blue-500'
+                          : 'border-gray-300 dark:border-gray-600 group-hover:border-blue-400'
+                        }`}>
+                        {(isSelected || (showExplanation && isCorrectOption)) && (
+                          <div className="w-2 h-2 rounded-full bg-white" />
+                        )}
+                      </div>
+
+                      <Label className="flex-1 cursor-pointer text-base sm:text-lg leading-relaxed">
+                        <span className={`font-bold mr-2 ${showExplanation
+                          ? isCorrectOption
+                            ? 'text-emerald-600 dark:text-emerald-400'
+                            : isSelected
+                              ? 'text-red-600 dark:text-red-400'
+                              : 'text-gray-400'
+                          : 'text-blue-600 dark:text-blue-400'
+                          }`}>{option}.</span>
+                        {currentQuestion.options[option][lang]}
+                      </Label>
+
+                      {showExplanation && isCorrectOption && (
+                        <span className="flex-shrink-0 text-lg text-emerald-500">✓</span>
+                      )}
+                      {showExplanation && isSelected && !isCorrectOption && (
+                        <span className="flex-shrink-0 text-lg text-red-500">✗</span>
                       )}
                     </div>
-
-                    <Label className="flex-1 cursor-pointer text-base sm:text-lg leading-relaxed">
-                      <span className={`font-bold mr-2 ${showExplanation
-                        ? isCorrectOption
-                          ? 'text-emerald-600 dark:text-emerald-400'
-                          : isSelected
-                            ? 'text-red-600 dark:text-red-400'
-                            : 'text-gray-400'
-                        : 'text-blue-600 dark:text-blue-400'
-                        }`}>{option}.</span>
-                      {currentQuestion.options[option][lang]}
-                    </Label>
-
-                    {showExplanation && isCorrectOption && (
-                      <span className="flex-shrink-0 text-lg text-emerald-500">✓</span>
-                    )}
-                    {showExplanation && isSelected && !isCorrectOption && (
-                      <span className="flex-shrink-0 text-lg text-red-500">✗</span>
-                    )}
-                  </div>
-                )
-              })}
-            </div>
-
-            {/* Explanation - Shows immediately after selection */}
-            {showExplanation && (
-              <div className={`p-4 sm:p-5 rounded-xl border-2 animate-scale-in ${isCorrect
-                ? 'bg-gradient-to-br from-emerald-50 to-teal-50 dark:from-emerald-900/20 dark:to-teal-900/20 border-emerald-300 dark:border-emerald-700'
-                : 'bg-gradient-to-br from-red-50 to-orange-50 dark:from-red-900/20 dark:to-orange-900/20 border-red-300 dark:border-red-700'
-                }`}>
-                <div className="flex items-center gap-2 mb-3">
-                  <span className="text-2xl">{isCorrect ? '🎉' : '💪'}</span>
-                  <p className="font-bold text-base sm:text-lg">
-                    {isCorrect ? '回答正确！' : `正确答案是 ${currentQuestion.answer}`}
-                  </p>
-                </div>
-                <p className="text-sm sm:text-base mb-4 leading-relaxed text-muted-foreground">
-                  {currentQuestion.explanation[lang]}
-                </p>
-                <div className="glass rounded-lg p-3 space-y-2">
-                  <p className="text-sm flex items-center gap-2">
-                    <span>📖</span>
-                    <span className="font-medium">参考:</span>
-                    <span className="text-muted-foreground">{currentQuestion.dmv_ref.section}, 第 {currentQuestion.dmv_ref.page} 页</span>
-                  </p>
-                  <p className="text-sm italic text-muted-foreground leading-relaxed">
-                    {currentQuestion.dmv_ref[`analysis_${lang}` as keyof typeof currentQuestion.dmv_ref]}
-                  </p>
-                </div>
+                  )
+                })}
               </div>
-            )}
 
-            {/* Navigation Buttons - Only Previous and Next */}
-            <div className="flex flex-col sm:flex-row gap-3 pt-4">
-              <Button
-                onClick={handlePrevious}
-                disabled={currentIndex === 0}
-                variant="outline"
-                className="w-full sm:w-auto sm:flex-1 h-12 sm:h-11 text-base font-medium glass border-2 hover:bg-accent/50 touch-target"
-              >
-                ← 上一题
-              </Button>
-              <Button
-                onClick={handleNext}
-                disabled={currentIndex === questions.length - 1}
-                className="w-full sm:w-auto sm:flex-1 h-12 sm:h-11 text-base font-medium touch-target"
-                style={{ background: 'linear-gradient(135deg, #3B82F6, #8B5CF6)' }}
-              >
-                下一题 →
-              </Button>
-            </div>
-          </CardContent>
-        </Card>
+              {/* Explanation - Shows immediately after selection */}
+              {showExplanation && (
+                <div className={`p-4 sm:p-5 rounded-xl border-2 animate-scale-in ${isCorrect
+                  ? 'bg-gradient-to-br from-emerald-50 to-teal-50 dark:from-emerald-900/20 dark:to-teal-900/20 border-emerald-300 dark:border-emerald-700'
+                  : 'bg-gradient-to-br from-red-50 to-orange-50 dark:from-red-900/20 dark:to-orange-900/20 border-red-300 dark:border-red-700'
+                  }`}>
+                  <div className="flex items-center gap-2 mb-3">
+                    <span className="text-2xl">{isCorrect ? '🎉' : '💪'}</span>
+                    <p className="font-bold text-base sm:text-lg">
+                      {isCorrect ? '回答正确！' : `正确答案是 ${currentQuestion.answer}`}
+                    </p>
+                  </div>
+                  <p className="text-sm sm:text-base mb-4 leading-relaxed text-muted-foreground">
+                    {currentQuestion.explanation[lang]}
+                  </p>
+                  <div className="glass rounded-lg p-3 space-y-2">
+                    <p className="text-sm flex items-center gap-2">
+                      <span>📖</span>
+                      <span className="font-medium">参考:</span>
+                      <span className="text-muted-foreground">{currentQuestion.dmv_ref.section}, 第 {currentQuestion.dmv_ref.page} 页</span>
+                    </p>
+                    <p className="text-sm italic text-muted-foreground leading-relaxed">
+                      {currentQuestion.dmv_ref[`analysis_${lang}` as keyof typeof currentQuestion.dmv_ref]}
+                    </p>
+                  </div>
+                </div>
+              )}
 
+              {/* Navigation Buttons - Only Previous and Next */}
+              <div className="flex flex-col sm:flex-row gap-3 pt-4">
+                <Button
+                  onClick={handlePrevious}
+                  disabled={currentIndex === 0}
+                  variant="outline"
+                  className="w-full sm:w-auto sm:flex-1 h-12 sm:h-11 text-base font-medium glass border-2 hover:bg-accent/50 touch-target"
+                >
+                  ← 上一题
+                </Button>
+                <Button
+                  onClick={handleNext}
+                  disabled={currentIndex === questions.length - 1 && !showExplanation}
+                  className="w-full sm:w-auto sm:flex-1 h-12 sm:h-11 text-base font-medium touch-target"
+                  style={{ background: 'linear-gradient(135deg, #3B82F6, #8B5CF6)' }}
+                >
+                  {currentIndex === questions.length - 1 ? '完成 ✓' : '下一题 →'}
+                </Button>
+              </div>
+            </CardContent>
+          </Card>
+        )}
 
       </div>
     </div>

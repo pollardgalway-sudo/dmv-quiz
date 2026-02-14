@@ -67,19 +67,19 @@ const translations = {
   'zh-CN': {
     mainTitle: "2026加州驾照笔试题目",
     subtitle: "California DMV Written Test Practice",
-    questionCount: "题库共 345 题 | 选择您的学习模式",
+    questionCount: "题库共 753 题 | 选择您的学习模式",
     modes: {
       basics: {
         title: "扫盲模式",
         subtitle: "The Basics",
-        count: "70题",
+        count: "150题",
         tags: "基础标志 + 核心数字",
         desc: "适合零基础学员，建立信心，掌握最基本的交通知识"
       },
       deepDive: {
         title: "专项突破",
         subtitle: "Deep Dive",
-        count: "177题",
+        count: "603题",
         tags: "规则 + 安全 + 法规",
         desc: "深入学习交通规则、安全知识和加州驾驶法规"
       },

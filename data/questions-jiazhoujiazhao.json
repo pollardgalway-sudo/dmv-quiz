@@ -1,0 +1,1647 @@
+[
+  {
+    "id": 1,
+    "originalId": "691b73d3ae28c2405c54d5ff",
+    "category": "通用",
+    "question": {
+      "en": "What does a solid red traffic signal light mean?",
+      "zh-Hans": "一个恒亮的红色交通信号灯（Solid Red Light）是什么意思？",
+      "zh-Hant": "一个恒亮的红色交通信号灯（Solid Red Light）是什么意思？"
+    },
+    "options": {
+      "A": {
+        "en": "Slow down and proceed with caution.",
+        "zh-Hans": "减速并谨慎通过。",
+        "zh-Hant": "减速并谨慎通过。"
+      },
+      "B": {
+        "en": "'STOP.' Stop at the limit line or crosswalk.",
+        "zh-Hans": "“停车”。在限制线或人行道前停下。",
+        "zh-Hant": "“停车”。在限制线或人行道前停下。"
+      },
+      "C": {
+        "en": "The signal is broken.",
+        "zh-Hans": "信号灯故障。",
+        "zh-Hant": "信号灯故障。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a solid red light means stop before the limit line or crosswalk.",
+      "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯表示停车，应在限制线或人行横道前完全停下。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯表示停车，应在限制线或人行横道前完全停下。"
+    },
+    "hasImage": false,
+    "imageUrl": null,
+    "dmv_ref": {
+      "page": "",
+      "section": "通用",
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯表示停车，应在限制线或人行横道前完全停下。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯表示停车，应在限制线或人行横道前完全停下。"
+    },
+    "difficulty": "medium",
+    "tags": [
+      "交通信号",
+      "标志"
+    ],
+    "isMustKnow": true
+  },
+  {
+    "id": 2,
+    "originalId": "691b73d3ae28c2405c54d600",
+    "category": "通用",
+    "question": {
+      "en": "When can you legally make a right turn on a solid red light?",
+      "zh-Hans": "在什么情况下，您可以在恒亮的红灯（Solid Red Light）时合法地右转？",
+      "zh-Hant": "在什么情况下，您可以在恒亮的红灯（Solid Red Light）时合法地右转？"
+    },
+    "options": {
+      "A": {
+        "en": "Never. It is always illegal.",
+        "zh-Hans": "在任何情况下都不允许。",
+        "zh-Hant": "在任何情况下都不允许。"
+      },
+      "B": {
+        "en": "After coming to a complete stop, AND if there is no sign prohibiting the turn.",
+        "zh-Hans": "在您完全停车后，并且没有“红灯禁止转弯”的标志时。",
+        "zh-Hant": "在您完全停车后，并且没有“红灯禁止转弯”的标志时。"
+      },
+      "C": {
+        "en": "Only at night.",
+        "zh-Hans": "仅在夜间。",
+        "zh-Hant": "仅在夜间。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a right turn on red is allowed only after a complete stop and if no sign prohibits it.",
+      "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯右转须先完全停车，且无“红灯禁止转弯”标志时才可转弯。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯右转须先完全停车，且无“红灯禁止转弯”标志时才可转弯。"
+    },
+    "hasImage": false,
+    "imageUrl": null,
+    "dmv_ref": {
+      "page": "",
+      "section": "通用",
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯右转须先完全停车，且无“红灯禁止转弯”标志时才可转弯。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯右转须先完全停车，且无“红灯禁止转弯”标志时才可转弯。"
+    },
+    "difficulty": "medium",
+    "tags": [
+      "交通信号",
+      "标志"
+    ],
+    "isMustKnow": true
+  },
+  {
+    "id": 3,
+    "originalId": "691b73d3ae28c2405c54d601",
+    "category": "通用",
+    "question": {
+      "en": "When can you legally make a *left* turn on a solid red light?",
+      "zh-Hans": "在恒亮的红灯（Solid Red Light）时，您在什么情况下可以合法地*左转*？",
+      "zh-Hant": "在恒亮的红灯（Solid Red Light）时，您在什么情况下可以合法地*左转*？"
+    },
+    "options": {
+      "A": {
+        "en": "Never. It is always illegal.",
+        "zh-Hans": "在任何情况下都不允许。",
+        "zh-Hant": "在任何情况下都不允许。"
+      },
+      "B": {
+        "en": "When turning from a one-way street onto another one-way street.",
+        "zh-Hans": "当您从单行道转入另一条单行道时。",
+        "zh-Hant": "当您从单行道转入另一条单行道时。"
+      },
+      "C": {
+        "en": "When turning from a two-way street onto a two-way street.",
+        "zh-Hans": "当您从双向道转入双向道时。",
+        "zh-Hant": "当您从双向道转入双向道时。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a left turn on red is allowed only from a one-way to a one-way street after stopping and yielding.",
+      "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯左转仅限单行道转入另一条单行道，需先停车并让行。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯左转仅限单行道转入另一条单行道，需先停车并让行。"
+    },
+    "hasImage": false,
+    "imageUrl": null,
+    "dmv_ref": {
+      "page": "",
+      "section": "通用",
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯左转仅限单行道转入另一条单行道，需先停车并让行。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯左转仅限单行道转入另一条单行道，需先停车并让行。"
+    },
+    "difficulty": "medium",
+    "tags": [
+      "交通信号",
+      "标志"
+    ],
+    "isMustKnow": true
+  },
+  {
+    "id": 4,
+    "originalId": "691b73d3ae28c2405c54d604",
+    "category": "通用",
+    "question": {
+      "en": "Before making a right turn on a solid red light (when permitted), what MUST you do?",
+      "zh-Hans": "在恒亮的红灯（Solid Red Light）时，您在右转（当允许时）之前*必须*做什么？",
+      "zh-Hant": "在恒亮的红灯（Solid Red Light）时，您在右转（当允许时）之前*必须*做什么？"
+    },
+    "options": {
+      "A": {
+        "en": "Slow to a crawling speed.",
+        "zh-Hans": "减速至爬行速度。",
+        "zh-Hant": "减速至爬行速度。"
+      },
+      "B": {
+        "en": "Honk your horn.",
+        "zh-Hans": "鸣喇叭。",
+        "zh-Hant": "鸣喇叭。"
+      },
+      "C": {
+        "en": "Come to a complete stop.",
+        "zh-Hans": "完全停车。",
+        "zh-Hant": "完全停车。"
+      }
+    },
+    "answer": "C",
+    "explanation": {
+      "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, you must come to a complete stop before turning on red.",
+      "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯转弯前必须先完全停车。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯转弯前必须先完全停车。"
+    },
+    "hasImage": false,
+    "imageUrl": null,
+    "dmv_ref": {
+      "page": "",
+      "section": "通用",
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯转弯前必须先完全停车。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯转弯前必须先完全停车。"
+    },
+    "difficulty": "medium",
+    "tags": [
+      "交通信号",
+      "标志"
+    ],
+    "isMustKnow": true
+  },
+  {
+    "id": 5,
+    "originalId": "691b73d3ae28c2405c54d606",
+    "category": "通用",
+    "question": {
+      "en": "When you are at an intersection with a 'NO TURN ON RED' sign, it means:",
+      "zh-Hans": "当您在有“红灯禁止转弯”（NO TURN ON RED）标志的十字路口时，这意味着：",
+      "zh-Hant": "当您在有“红灯禁止转弯”（NO TURN ON RED）标志的十字路口时，这意味着："
+    },
+    "options": {
+      "A": {
+        "en": "You may not turn right on the red light.",
+        "zh-Hans": "您不可以在红灯时右转。",
+        "zh-Hant": "您不可以在红灯时右转。"
+      },
+      "B": {
+        "en": "You may not turn right on red, unless you stop first.",
+        "zh-Hans": "您不可以在红灯时右转，除非您先停车。",
+        "zh-Hant": "您不可以在红灯时右转，除非您先停车。"
+      },
+      "C": {
+        "en": "The sign applies only to trucks.",
+        "zh-Hans": "该标志仅适用于卡车。",
+        "zh-Hant": "该标志仅适用于卡车。"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a NO TURN ON RED sign means you must wait for green.",
+      "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，NO TURN ON RED 表示红灯时禁止转弯，需等待绿灯。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，NO TURN ON RED 表示红灯时禁止转弯，需等待绿灯。"
+    },
+    "hasImage": false,
+    "imageUrl": null,
+    "dmv_ref": {
+      "page": "",
+      "section": "通用",
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，NO TURN ON RED 表示红灯时禁止转弯，需等待绿灯。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，NO TURN ON RED 表示红灯时禁止转弯，需等待绿灯。"
+    },
+    "difficulty": "medium",
+    "tags": [
+      "交通信号",
+      "标志"
+    ],
+    "isMustKnow": true
+  },
+  {
+    "id": 6,
+    "originalId": "691b73d3ae28c2405c54d607",
+    "category": "通用",
+    "question": {
+      "en": "If you stop at an intersection with a flashing red light, and a vehicle to your right (also facing a flashing red) stops at the same time, who has the right-of-way?",
+      "zh-Hans": "如果您在有闪烁红灯（Flashing Red Light）的十字路口停车，并且您右侧的车辆（也面对闪烁红灯）与您同时停车，谁有先行权？",
+      "zh-Hant": "如果您在有闪烁红灯（Flashing Red Light）的十字路口停车，并且您右侧的车辆（也面对闪烁红灯）与您同时停车，谁有先行权？"
+    },
+    "options": {
+      "A": {
+        "en": "You, because you are on the left.",
+        "zh-Hans": "您，因为您在左侧。",
+        "zh-Hant": "您，因为您在左侧。"
+      },
+      "B": {
+        "en": "The vehicle on your right.",
+        "zh-Hans": "您右侧的车辆。",
+        "zh-Hant": "您右侧的车辆。"
+      },
+      "C": {
+        "en": "You may both proceed at the same time.",
+        "zh-Hans": "您们都可以同时行驶。",
+        "zh-Hant": "您们都可以同时行驶。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a flashing red is treated as a STOP sign; if you arrive together, yield to the vehicle on your right.",
+      "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，闪烁红灯按 STOP 处理，同时到达应让右侧车辆先行。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，闪烁红灯按 STOP 处理，同时到达应让右侧车辆先行。"
+    },
+    "hasImage": false,
+    "imageUrl": null,
+    "dmv_ref": {
+      "page": "",
+      "section": "通用",
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，闪烁红灯按 STOP 处理，同时到达应让右侧车辆先行。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，闪烁红灯按 STOP 处理，同时到达应让右侧车辆先行。"
+    },
+    "difficulty": "medium",
+    "tags": [
+      "交通信号",
+      "标志"
+    ],
+    "isMustKnow": true
+  },
+  {
+    "id": 7,
+    "originalId": "691b73d3ae28c2405c54d608",
+    "category": "通用",
+    "question": {
+      "en": "When turning right on a solid red light (after stopping), who must you yield to?",
+      "zh-Hans": "在有恒亮红灯（Solid Red Light）的情况下，您在右转（在停车后）之前，必须为谁让行？",
+      "zh-Hant": "在有恒亮红灯（Solid Red Light）的情况下，您在右转（在停车后）之前，必须为谁让行？"
+    },
+    "options": {
+      "A": {
+        "en": "Only pedestrians.",
+        "zh-Hans": "仅为行人让行。",
+        "zh-Hant": "仅为行人让行。"
+      },
+      "B": {
+        "en": "Pedestrians and traffic (including bicyclists) who have the right-of-way.",
+        "zh-Hans": "行人和（有先行权的）车流（包括自行车）。",
+        "zh-Hant": "行人和（有先行权的）车流（包括自行车）。"
+      },
+      "C": {
+        "en": "No one; you may proceed.",
+        "zh-Hans": "无需让行。",
+        "zh-Hant": "无需让行。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, when turning right on red you must yield to pedestrians and any traffic with the right-of-way.",
+      "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯右转前必须为行人及有先行权的车流（含自行车）让行。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯右转前必须为行人及有先行权的车流（含自行车）让行。"
+    },
+    "hasImage": false,
+    "imageUrl": null,
+    "dmv_ref": {
+      "page": "",
+      "section": "通用",
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯右转前必须为行人及有先行权的车流（含自行车）让行。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯右转前必须为行人及有先行权的车流（含自行车）让行。"
+    },
+    "difficulty": "medium",
+    "tags": [
+      "交通信号",
+      "标志"
+    ],
+    "isMustKnow": true
+  },
+  {
+    "id": 8,
+    "originalId": "691b73d3ae28c2405c54d609",
+    "category": "通用",
+    "question": {
+      "en": "You are turning left from a one-way street onto another one-way street on a solid red light. Who must you yield to?",
+      "zh-Hans": "在有恒亮红灯（Solid Red Light）的情况下，您从单行道左转进入另一条单行道。您在转弯前必须为谁让行？",
+      "zh-Hant": "在有恒亮红灯（Solid Red Light）的情况下，您从单行道左转进入另一条单行道。您在转弯前必须为谁让行？"
+    },
+    "options": {
+      "A": {
+        "en": "No one; it is a legal turn.",
+        "zh-Hans": "无需让行，因为这是合法的。",
+        "zh-Hant": "无需让行，因为这是合法的。"
+      },
+      "B": {
+        "en": "Only pedestrians.",
+        "zh-Hans": "仅为行人让行。",
+        "zh-Hant": "仅为行人让行。"
+      },
+      "C": {
+        "en": "Vehicles, pedestrians, and bicyclists (who have the green light).",
+        "zh-Hans": "（有绿灯的）车辆、行人和自行车使用者。",
+        "zh-Hant": "（有绿灯的）车辆、行人和自行车使用者。"
+      }
+    },
+    "answer": "C",
+    "explanation": {
+      "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, even when left on red is allowed you must yield to vehicles, pedestrians, and bicyclists with a green light.",
+      "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，单行道红灯左转仍须为有绿灯的车辆、行人和自行车让行。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，单行道红灯左转仍须为有绿灯的车辆、行人和自行车让行。"
+    },
+    "hasImage": false,
+    "imageUrl": null,
+    "dmv_ref": {
+      "page": "",
+      "section": "通用",
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，单行道红灯左转仍须为有绿灯的车辆、行人和自行车让行。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，单行道红灯左转仍须为有绿灯的车辆、行人和自行车让行。"
+    },
+    "difficulty": "medium",
+    "tags": [
+      "交通信号",
+      "标志"
+    ],
+    "isMustKnow": true
+  },
+  {
+    "id": 9,
+    "originalId": "691b73d3ae28c2405c54d60a",
+    "category": "通用",
+    "question": {
+      "en": "If a traffic signal light is not working (blackout), how should you treat it?",
+      "zh-Hans": "如果交通信号灯不运作（停电），您应该将其视为什么？",
+      "zh-Hant": "如果交通信号灯不运作（停电），您应该将其视为什么？"
+    },
+    "options": {
+      "A": {
+        "en": "Treat it as a green light and proceed with caution.",
+        "zh-Hans": "视​​为绿灯，谨慎通过。",
+        "zh-Hant": "视​​为绿灯，谨慎通过。"
+      },
+      "B": {
+        "en": "Treat it as if it had 'STOP' signs in all directions (a four-way stop).",
+        "zh-Hans": "视​​为在各​​个方向都由“STOP”（停车）标志控制。",
+        "zh-Hant": "视​​为在各​​个方向都由“STOP”（停车）标志控制。"
+      },
+      "C": {
+        "en": "Stop and wait for a law enforcement officer.",
+        "zh-Hans": "停车，并等待执（Law Enforcement）法人员。",
+        "zh-Hant": "停车，并等待执（Law Enforcement）法人员。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a power-out traffic light is treated as a four-way stop.",
+      "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，信号灯失效应当作四向停牌处理，完全停车后依序通行。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，信号灯失效应当作四向停牌处理，完全停车后依序通行。"
+    },
+    "hasImage": false,
+    "imageUrl": null,
+    "dmv_ref": {
+      "page": "",
+      "section": "通用",
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，信号灯失效应当作四向停牌处理，完全停车后依序通行。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，信号灯失效应当作四向停牌处理，完全停车后依序通行。"
+    },
+    "difficulty": "medium",
+    "tags": [
+      "交通信号",
+      "标志"
+    ],
+    "isMustKnow": true
+  },
+  {
+    "id": 10,
+    "originalId": "691b73d3ae28c2405c54d60b",
+    "category": "通用",
+    "question": {
+      "en": "You stop at a flashing red light, and the car opposite you (also facing a flashing red) stops at the same time. You want to go straight; they want to turn left. Who has the right-of-way?",
+      "zh-Hans": "如果您在有闪烁红灯（Flashing Red Light）的十字路口停车，并且您对面的车辆（也面对闪烁红灯）与您同时停车。您想直行，对方想左转。谁有先行权？",
+      "zh-Hant": "如果您在有闪烁红灯（Flashing Red Light）的十字路口停车，并且您对面的车辆（也面对闪烁红灯）与您同时停车。您想直行，对方想左转。谁有先行权？"
+    },
+    "options": {
+      "A": {
+        "en": "The vehicle turning left.",
+        "zh-Hans": "对方（左转车辆）。",
+        "zh-Hant": "对方（左转车辆）。"
+      },
+      "B": {
+        "en": "You (the vehicle going straight).",
+        "zh-Hans": "您（直行车辆）。",
+        "zh-Hant": "您（直行车辆）。"
+      },
+      "C": {
+        "en": "The vehicle that signaled first.",
+        "zh-Hans": "最先打信号的车辆。",
+        "zh-Hant": "最先打信号的车辆。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Right-of-Way, at a flashing red treated as a stop, straight-through traffic has priority over a left turn when arriving together.",
+      "zh-Hans": "根据手册第7章《道路法律及规定》《先行权》的规定，闪烁红灯按停牌处理，同时到达时直行优先于左转。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《先行权》的规定，闪烁红灯按停牌处理，同时到达时直行优先于左转。"
+    },
+    "hasImage": false,
+    "imageUrl": null,
+    "dmv_ref": {
+      "page": "",
+      "section": "通用",
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《先行权》的规定，闪烁红灯按停牌处理，同时到达时直行优先于左转。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《先行权》的规定，闪烁红灯按停牌处理，同时到达时直行优先于左转。"
+    },
+    "difficulty": "medium",
+    "tags": [
+      "交通信号",
+      "标志"
+    ],
+    "isMustKnow": true
+  },
+  {
+    "id": 11,
+    "originalId": "691b73d3ae28c2405c54d60c",
+    "category": "通用",
+    "question": {
+      "en": "At a solid red light, you see a pedestrian preparing to cross illegally (jaywalk) against their signal. You should:",
+      "zh-Hans": "在有恒亮红灯（Solid Red Light）的十字路口，如果您看到有行人（没有“行走”信号）正准备（Jaywalk）非法穿越马路，您应该：",
+      "zh-Hant": "在有恒亮红灯（Solid Red Light）的十字路口，如果您看到有行人（没有“行走”信号）正准备（Jaywalk）非法穿越马路，您应该："
+    },
+    "options": {
+      "A": {
+        "en": "Remain stopped, even if your light turns green, and let the pedestrian cross to avoid a collision.",
+        "zh-Hans": "即使您的红灯变绿，也要保持停车，并为行人让行，以避免碰撞。",
+        "zh-Hant": "即使您的红灯变绿，也要保持停车，并为行人让行，以避免碰撞。"
+      },
+      "B": {
+        "en": "Flash your high-beams to warn them.",
+        "zh-Hans": "打开您的远光灯以警告他们。",
+        "zh-Hant": "打开您的远光灯以警告他们。"
+      },
+      "C": {
+        "en": "Try to turn right in front of them.",
+        "zh-Hans": "尝试在他们前面右转。",
+        "zh-Hant": "尝试在他们前面右转。"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "According to the handbook, Chapter 8: Safe Driving - Defensive Driving and Risk Management, avoiding a collision comes first, so you should yield even to an illegal pedestrian.",
+      "zh-Hans": "根据手册第8章《安全驾驶》《防御性驾驶与风险管理》的规定，应以避免碰撞为先，即使行人违规也应停车让行。",
+      "zh-Hant": "根据手册第8章《安全驾驶》《防御性驾驶与风险管理》的规定，应以避免碰撞为先，即使行人违规也应停车让行。"
+    },
+    "hasImage": false,
+    "imageUrl": null,
+    "dmv_ref": {
+      "page": "",
+      "section": "通用",
+      "analysis_zh-Hans": "根据手册第8章《安全驾驶》《防御性驾驶与风险管理》的规定，应以避免碰撞为先，即使行人违规也应停车让行。",
+      "analysis_zh-Hant": "根据手册第8章《安全驾驶》《防御性驾驶与风险管理》的规定，应以避免碰撞为先，即使行人违规也应停车让行。"
+    },
+    "difficulty": "medium",
+    "tags": [
+      "交通信号",
+      "标志"
+    ],
+    "isMustKnow": true
+  },
+  {
+    "id": 12,
+    "originalId": "691b73d3ae28c2405c54d60d",
+    "category": "通用",
+    "question": {
+      "en": "When turning right on a solid red light (when permitted), you must yield to which traffic from your left?",
+      "zh-Hans": "在恒亮的红灯（Solid Red Light）时，您在右转（当允许时）之前，必须为（从您左侧驶来的）哪类车流让行？",
+      "zh-Hant": "在恒亮的红灯（Solid Red Light）时，您在右转（当允许时）之前，必须为（从您左侧驶来的）哪类车流让行？"
+    },
+    "options": {
+      "A": {
+        "en": "Only vehicles in the far-right lane.",
+        "zh-Hans": "仅为最右侧行车线的车辆。",
+        "zh-Hant": "仅为最右侧行车线的车辆。"
+      },
+      "B": {
+        "en": "Only trucks and buses.",
+        "zh-Hans": "仅为卡车和公共汽车。",
+        "zh-Hant": "仅为卡车和公共汽车。"
+      },
+      "C": {
+        "en": "All vehicles, motorcycles, and bicycles in all lanes.",
+        "zh-Hans": "所有行车线上的所有车辆、摩托车和自行车。",
+        "zh-Hant": "所有行车线上的所有车辆、摩托车和自行车。"
+      }
+    },
+    "answer": "C",
+    "explanation": {
+      "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, when turning right on red you must yield to all traffic from the left, including motorcycles and bicycles.",
+      "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯右转需让行来自左侧所有车道的车辆以及摩托车和自行车。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯右转需让行来自左侧所有车道的车辆以及摩托车和自行车。"
+    },
+    "hasImage": false,
+    "imageUrl": null,
+    "dmv_ref": {
+      "page": "",
+      "section": "通用",
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯右转需让行来自左侧所有车道的车辆以及摩托车和自行车。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯右转需让行来自左侧所有车道的车辆以及摩托车和自行车。"
+    },
+    "difficulty": "medium",
+    "tags": [
+      "交通信号",
+      "标志"
+    ],
+    "isMustKnow": true
+  },
+  {
+    "id": 13,
+    "originalId": "691b73d3ae28c2405c54d60e",
+    "category": "通用",
+    "question": {
+      "en": "A solid red arrow means you must:",
+      "zh-Hans": "一个恒亮的红色箭头（Solid Red Arrow）表示您必须：",
+      "zh-Hant": "一个恒亮的红色箭头（Solid Red Arrow）表示您必须："
+    },
+    "options": {
+      "A": {
+        "en": "Remain stopped and not turn in the direction of the arrow.",
+        "zh-Hans": "保持停车，不得转向箭头方向。",
+        "zh-Hant": "保持停车，不得转向箭头方向。"
+      },
+      "B": {
+        "en": "Slow down and turn with caution.",
+        "zh-Hans": "减速并谨慎转弯。",
+        "zh-Hant": "减速并谨慎转弯。"
+      },
+      "C": {
+        "en": "Yield to pedestrians, then turn.",
+        "zh-Hans": "为行人让行，然后转弯。",
+        "zh-Hant": "为行人让行，然后转弯。"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a red arrow requires a stop and prohibits turning in the arrow’s direction.",
+      "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红色箭头要求停车并禁止转向箭头方向。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红色箭头要求停车并禁止转向箭头方向。"
+    },
+    "hasImage": false,
+    "imageUrl": null,
+    "dmv_ref": {
+      "page": "",
+      "section": "通用",
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红色箭头要求停车并禁止转向箭头方向。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红色箭头要求停车并禁止转向箭头方向。"
+    },
+    "difficulty": "medium",
+    "tags": [
+      "交通信号",
+      "标志"
+    ],
+    "isMustKnow": true
+  },
+  {
+    "id": 14,
+    "originalId": "691b73d3ae28c2405c54d60f",
+    "category": "通用",
+    "question": {
+      "en": "If you are at a railroad crossing with a flashing red light, you should:",
+      "zh-Hans": "如果您在有闪烁红灯（Flashing Red Light）的铁路交叉口，您应该：",
+      "zh-Hant": "如果您在有闪烁红灯（Flashing Red Light）的铁路交叉口，您应该："
+    },
+    "options": {
+      "A": {
+        "en": "Stop at least 15 feet from the nearest rail and wait (until the lights stop flashing).",
+        "zh-Hans": "在距离最近的铁轨至少 15 呎以外之处停车，并等待（直到灯停止闪烁）。",
+        "zh-Hant": "在距离最近的铁轨至少 15 呎以外之处停车，并等待（直到灯停止闪烁）。"
+      },
+      "B": {
+        "en": "Slow down and proceed with caution (if no train is visible).",
+        "zh-Hans": "减速并（如果没有火车）小心通过。",
+        "zh-Hant": "减速并（如果没有火车）小心通过。"
+      },
+      "C": {
+        "en": "Treat it as a 'YIELD' sign while the lights are flashing.",
+        "zh-Hans": "在灯光闪烁时，将其视为“YIELD”（让行）标志。",
+        "zh-Hant": "在灯光闪烁时，将其视为“YIELD”（让行）标志。"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Road Rules, flashing red railroad lights require stopping at least 15 feet from the tracks and waiting.",
+      "zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，道口红灯闪烁必须在距铁轨至少 15 英尺处停车等待。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，道口红灯闪烁必须在距铁轨至少 15 英尺处停车等待。"
+    },
+    "hasImage": false,
+    "imageUrl": null,
+    "dmv_ref": {
+      "page": "",
+      "section": "通用",
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，道口红灯闪烁必须在距铁轨至少 15 英尺处停车等待。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，道口红灯闪烁必须在距铁轨至少 15 英尺处停车等待。"
+    },
+    "difficulty": "medium",
+    "tags": [
+      "交通信号",
+      "标志"
+    ],
+    "isMustKnow": true
+  },
+  {
+    "id": 15,
+    "originalId": "691b73d3ae28c2405c54d610",
+    "category": "通用",
+    "question": {
+      "en": "Is it legal to turn left from a two-way street onto a one-way street on a solid red light?",
+      "zh-Hans": "在有恒亮红灯（Solid Red Light）的情况下，您从双向道左转进入单行道是否合法？",
+      "zh-Hant": "在有恒亮红灯（Solid Red Light）的情况下，您从双向道左转进入单行道是否合法？"
+    },
+    "options": {
+      "A": {
+        "en": "Yes, after stopping.",
+        "zh-Hans": "是，在停车后。",
+        "zh-Hant": "是，在停车后。"
+      },
+      "B": {
+        "en": "No, this is illegal.",
+        "zh-Hans": "否，这是违法的。",
+        "zh-Hant": "否，这是违法的。"
+      },
+      "C": {
+        "en": "Yes, but only at night.",
+        "zh-Hans": "是，但仅限夜间。",
+        "zh-Hant": "是，但仅限夜间。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, left on red is only allowed from a one-way to a one-way street; from a two-way street it is illegal.",
+      "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯左转仅限单行道转单行道，从双向道左转仍属违法。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯左转仅限单行道转单行道，从双向道左转仍属违法。"
+    },
+    "hasImage": false,
+    "imageUrl": null,
+    "dmv_ref": {
+      "page": "",
+      "section": "通用",
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯左转仅限单行道转单行道，从双向道左转仍属违法。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯左转仅限单行道转单行道，从双向道左转仍属违法。"
+    },
+    "difficulty": "medium",
+    "tags": [
+      "交通信号",
+      "标志"
+    ],
+    "isMustKnow": true
+  },
+  {
+    "id": 16,
+    "originalId": "691b73d3ae28c2405c54d611",
+    "category": "通用",
+    "question": {
+      "en": "You are turning right on a red light (after stopping) and see a blind pedestrian (with a white cane) preparing to enter the crosswalk. You should:",
+      "zh-Hans": "如果红灯亮着，并且您正在右转（在停车后），您看到一位盲人行人（有白色手杖）正准备进入人行横道。您应该：",
+      "zh-Hant": "如果红灯亮着，并且您正在右转（在停车后），您看到一位盲人行人（有白色手杖）正准备进入人行横道。您应该："
+    },
+    "options": {
+      "A": {
+        "en": "Honk (to let them know you are there), then turn.",
+        "zh-Hans": "鸣喇叭（以让他们知道您在那里），然后转弯。",
+        "zh-Hant": "鸣喇叭（以让他们知道您在那里），然后转弯。"
+      },
+      "B": {
+        "en": "Remain stopped and wait for the pedestrian to cross completely.",
+        "zh-Hans": "保持停车状态，并等待行人完全通过。",
+        "zh-Hant": "保持停车状态，并等待行人完全通过。"
+      },
+      "C": {
+        "en": "Turn slowly behind them.",
+        "zh-Hans": "在他们后方缓慢转弯。",
+        "zh-Hant": "在他们后方缓慢转弯。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Pedestrians and Crosswalks, blind pedestrians have the right-of-way and you must wait for them to cross.",
+      "zh-Hans": "根据手册第7章《道路法律及规定》《行人与人行横道》的规定，盲人行人享有先行权，红灯右转应等待其完全通过。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《行人与人行横道》的规定，盲人行人享有先行权，红灯右转应等待其完全通过。"
+    },
+    "hasImage": false,
+    "imageUrl": null,
+    "dmv_ref": {
+      "page": "",
+      "section": "通用",
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《行人与人行横道》的规定，盲人行人享有先行权，红灯右转应等待其完全通过。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《行人与人行横道》的规定，盲人行人享有先行权，红灯右转应等待其完全通过。"
+    },
+    "difficulty": "medium",
+    "tags": [
+      "交通信号",
+      "标志"
+    ],
+    "isMustKnow": true
+  },
+  {
+    "id": 17,
+    "originalId": "691b73d3ae28c2405c54d612",
+    "category": "通用",
+    "question": {
+      "en": "What does a solid yellow traffic signal light mean?",
+      "zh-Hans": "一个恒亮的黄色交通信号灯（Solid Yellow Light）是什么意思？",
+      "zh-Hant": "一个恒亮的黄色交通信号灯（Solid Yellow Light）是什么意思？"
+    },
+    "options": {
+      "A": {
+        "en": "'CAUTION,' the signal is about to turn red. You should stop if safe.",
+        "zh-Hans": "“小心”，信号灯即将变红。应安全停车。",
+        "zh-Hant": "“小心”，信号灯即将变红。应安全停车。"
+      },
+      "B": {
+        "en": "'GO,' but slow down.",
+        "zh-Hans": "“通行”，但要减速。",
+        "zh-Hant": "“通行”，但要减速。"
+      },
+      "C": {
+        "en": "'YIELD,' give way to other traffic.",
+        "zh-Hans": "“让行”，为其他车辆让行。",
+        "zh-Hant": "“让行”，为其他车辆让行。"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a solid yellow light warns it is turning red; stop if safe, otherwise proceed cautiously.",
+      "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，黄灯表示警示即将变红，应在安全时停车，否则谨慎通过。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，黄灯表示警示即将变红，应在安全时停车，否则谨慎通过。"
+    },
+    "hasImage": false,
+    "imageUrl": null,
+    "dmv_ref": {
+      "page": "",
+      "section": "通用",
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，黄灯表示警示即将变红，应在安全时停车，否则谨慎通过。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，黄灯表示警示即将变红，应在安全时停车，否则谨慎通过。"
+    },
+    "difficulty": "medium",
+    "tags": [
+      "交通信号",
+      "标志"
+    ],
+    "isMustKnow": true
+  },
+  {
+    "id": 18,
+    "originalId": "691b73d3ae28c2405c54d613",
+    "category": "通用",
+    "question": {
+      "en": "When you approach an intersection and the signal turns to a solid yellow light, what should you do?",
+      "zh-Hans": "当您接近一个十字路口，信号灯变为恒亮的黄灯时，您应该怎么做？",
+      "zh-Hant": "当您接近一个十字路口，信号灯变为恒亮的黄灯时，您应该怎么做？"
+    },
+    "options": {
+      "A": {
+        "en": "Speed up to 'beat' the red light.",
+        "zh-Hans": "加速以在红灯前“抢灯”通过。",
+        "zh-Hant": "加速以在红灯前“抢灯”通过。"
+      },
+      "B": {
+        "en": "Slam on your brakes to stop immediately.",
+        "zh-Hans": "猛踩刹车以立即停车。",
+        "zh-Hant": "猛踩刹车以立即停车。"
+      },
+      "C": {
+        "en": "If you cannot stop safely, proceed cautiously through the intersection.",
+        "zh-Hans": "如果您无法安全停车，则应小心穿过十字路口。",
+        "zh-Hant": "如果您无法安全停车，则应小心穿过十字路口。"
+      }
+    },
+    "answer": "C",
+    "explanation": {
+      "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, if you cannot stop safely for a yellow light, proceed cautiously through the intersection.",
+      "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，接近黄灯若无法安全停车，应谨慎通过路口。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，接近黄灯若无法安全停车，应谨慎通过路口。"
+    },
+    "hasImage": false,
+    "imageUrl": null,
+    "dmv_ref": {
+      "page": "",
+      "section": "通用",
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，接近黄灯若无法安全停车，应谨慎通过路口。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，接近黄灯若无法安全停车，应谨慎通过路口。"
+    },
+    "difficulty": "medium",
+    "tags": [
+      "交通信号",
+      "标志"
+    ],
+    "isMustKnow": true
+  },
+  {
+    "id": 19,
+    "originalId": "691b73d3ae28c2405c54d615",
+    "category": "通用",
+    "question": {
+      "en": "You are waiting in the intersection to turn left when the signal light turns solid yellow. You should:",
+      "zh-Hans": "当您在十字路口（已进入）等待左转时，信号灯变为恒亮的黄灯。您应该：",
+      "zh-Hant": "当您在十字路口（已进入）等待左转时，信号灯变为恒亮的黄灯。您应该："
+    },
+    "options": {
+      "A": {
+        "en": "Stop immediately and stay in the middle of the intersection.",
+        "zh-Hans": "立即停车，并留在十字路口中间。",
+        "zh-Hant": "立即停车，并留在十字路口中间。"
+      },
+      "B": {
+        "en": "Reverse your vehicle back behind the limit line.",
+        "zh-Hans": "倒车，退回到限制线后面。",
+        "zh-Hant": "倒车，退回到限制线后面。"
+      },
+      "C": {
+        "en": "Complete the turn cautiously after oncoming traffic stops.",
+        "zh-Hans": "在迎面车流停止后，谨慎完成转弯。",
+        "zh-Hant": "在迎面车流停止后，谨慎完成转弯。"
+      }
+    },
+    "answer": "C",
+    "explanation": {
+      "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, if you are waiting in the intersection, complete the left turn safely when the gap appears.",
+      "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，已在路口等待左转时，黄灯后应在安全空隙完成转弯并清空路口。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，已在路口等待左转时，黄灯后应在安全空隙完成转弯并清空路口。"
+    },
+    "hasImage": false,
+    "imageUrl": null,
+    "dmv_ref": {
+      "page": "",
+      "section": "通用",
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，已在路口等待左转时，黄灯后应在安全空隙完成转弯并清空路口。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，已在路口等待左转时，黄灯后应在安全空隙完成转弯并清空路口。"
+    },
+    "difficulty": "medium",
+    "tags": [
+      "交通信号",
+      "标志"
+    ],
+    "isMustKnow": true
+  },
+  {
+    "id": 20,
+    "originalId": "691b73d3ae28c2405c54d617",
+    "category": "通用",
+    "question": {
+      "en": "When you approach an intersection with a flashing yellow light, you should:",
+      "zh-Hans": "当您接近一个有闪烁黄灯（Flashing Yellow Light）的十字路口时，您应该：",
+      "zh-Hant": "当您接近一个有闪烁黄灯（Flashing Yellow Light）的十字路口时，您应该："
+    },
+    "options": {
+      "A": {
+        "en": "Stop completely and wait.",
+        "zh-Hans": "完全停车，并等待。",
+        "zh-Hant": "完全停车，并等待。"
+      },
+      "B": {
+        "en": "Slow down, stay alert, and be prepared to yield if necessary.",
+        "zh-Hans": "减速，保持警惕，并准备在必要时让行。",
+        "zh-Hant": "减速，保持警惕，并准备在必要时让行。"
+      },
+      "C": {
+        "en": "Speed up to get through quickly.",
+        "zh-Hans": "加速以快速通过。",
+        "zh-Hant": "加速以快速通过。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a flashing yellow light requires slowing down and proceeding with caution.",
+      "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，闪烁黄灯需减速、保持警惕，必要时让行。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，闪烁黄灯需减速、保持警惕，必要时让行。"
+    },
+    "hasImage": false,
+    "imageUrl": null,
+    "dmv_ref": {
+      "page": "",
+      "section": "通用",
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，闪烁黄灯需减速、保持警惕，必要时让行。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，闪烁黄灯需减速、保持警惕，必要时让行。"
+    },
+    "difficulty": "medium",
+    "tags": [
+      "交通信号",
+      "标志"
+    ],
+    "isMustKnow": true
+  },
+  {
+    "id": 21,
+    "originalId": "691b73d3ae28c2405c54d61a",
+    "category": "通用",
+    "question": {
+      "en": "What is the main difference between a solid yellow light and a flashing yellow light?",
+      "zh-Hans": "恒亮的黄灯（Solid Yellow Light）和闪烁的黄灯（Flashing Yellow Light）之间的主要区别是什么？",
+      "zh-Hant": "恒亮的黄灯（Solid Yellow Light）和闪烁的黄灯（Flashing Yellow Light）之间的主要区别是什么？"
+    },
+    "options": {
+      "A": {
+        "en": "No difference; they both mean 'slow down'.",
+        "zh-Hans": "没有区别，它们都意味着“减速”。",
+        "zh-Hant": "没有区别，它们都意味着“减速”。"
+      },
+      "B": {
+        "en": "Solid yellow means 'Stop if safe, turning red'; Flashing yellow means 'Caution, do not stop'.",
+        "zh-Hans": "恒亮黄灯表示“即将变红，应安全停车”；闪烁黄灯表示“谨慎驾驶，无需停车”。",
+        "zh-Hant": "恒亮黄灯表示“即将变红，应安全停车”；闪烁黄灯表示“谨慎驾驶，无需停车”。"
+      },
+      "C": {
+        "en": "Solid yellow is for daytime; Flashing yellow is for nighttime.",
+        "zh-Hans": "恒亮黄灯适用于白天；闪烁黄灯适用于夜间。",
+        "zh-Hant": "恒亮黄灯适用于白天；闪烁黄灯适用于夜间。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, solid yellow means stop if safe because it will turn red; flashing yellow means caution without stopping.",
+      "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，恒亮黄灯提示即将变红应安全停车；闪烁黄灯仅提示谨慎无需停车。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，恒亮黄灯提示即将变红应安全停车；闪烁黄灯仅提示谨慎无需停车。"
+    },
+    "hasImage": false,
+    "imageUrl": null,
+    "dmv_ref": {
+      "page": "",
+      "section": "通用",
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，恒亮黄灯提示即将变红应安全停车；闪烁黄灯仅提示谨慎无需停车。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，恒亮黄灯提示即将变红应安全停车；闪烁黄灯仅提示谨慎无需停车。"
+    },
+    "difficulty": "medium",
+    "tags": [
+      "交通信号",
+      "标志"
+    ],
+    "isMustKnow": true
+  },
+  {
+    "id": 22,
+    "originalId": "691b73d3ae28c2405c54d61b",
+    "category": "通用",
+    "question": {
+      "en": "You are *in* the intersection, making a left turn, when the signal changes to a solid yellow arrow. You should:",
+      "zh-Hans": "在您左转（在十字路口内）时，信号灯变为恒亮的黄色箭头。您应该：",
+      "zh-Hant": "在您左转（在十字路口内）时，信号灯变为恒亮的黄色箭头。您应该："
+    },
+    "options": {
+      "A": {
+        "en": "Back up.",
+        "zh-Hans": "倒车。",
+        "zh-Hant": "倒车。"
+      },
+      "B": {
+        "en": "Complete your turn cautiously (if safe).",
+        "zh-Hans": "谨慎完成您的转弯（如果安全）。",
+        "zh-Hant": "谨慎完成您的转弯（如果安全）。"
+      },
+      "C": {
+        "en": "Speed up to beat the red light.",
+        "zh-Hans": "加速以抢在红灯前。",
+        "zh-Hant": "加速以抢在红灯前。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, if you are already in the intersection on a yellow arrow, complete the turn safely and clear the intersection.",
+      "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，已在路口内遇黄箭头时应在安全情况下完成转弯并清空路口。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，已在路口内遇黄箭头时应在安全情况下完成转弯并清空路口。"
+    },
+    "hasImage": false,
+    "imageUrl": null,
+    "dmv_ref": {
+      "page": "",
+      "section": "通用",
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，已在路口内遇黄箭头时应在安全情况下完成转弯并清空路口。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，已在路口内遇黄箭头时应在安全情况下完成转弯并清空路口。"
+    },
+    "difficulty": "medium",
+    "tags": [
+      "交通信号",
+      "标志"
+    ],
+    "isMustKnow": true
+  },
+  {
+    "id": 23,
+    "originalId": "691b73d3ae28c2405c54d61d",
+    "category": "通用",
+    "question": {
+      "en": "At an intersection with a flashing yellow light, do you need to stop for cross-traffic (which may have a flashing red)?",
+      "zh-Hans": "在有闪烁黄灯（Flashing Yellow Light）的十字路口，您是否需要为（可能有闪烁红灯的）交叉车流停车？",
+      "zh-Hant": "在有闪烁黄灯（Flashing Yellow Light）的十字路口，您是否需要为（可能有闪烁红灯的）交叉车流停车？"
+    },
+    "options": {
+      "A": {
+        "en": "Yes, you must always stop.",
+        "zh-Hans": "是，您必须始终停车。",
+        "zh-Hant": "是，您必须始终停车。"
+      },
+      "B": {
+        "en": "No, you have the right-of-way, but you must still slow down and be alert.",
+        "zh-Hans": "否，您有先行权，但您仍应减速并保持警惕。",
+        "zh-Hant": "否，您有先行权，但您仍应减速并保持警惕。"
+      },
+      "C": {
+        "en": "Yes, you must yield to them.",
+        "zh-Hans": "是，您必须为他们让行。",
+        "zh-Hant": "是，您必须为他们让行。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a flashing yellow light does not require a stop but you must slow down and be alert.",
+      "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，闪烁黄灯无需停车，但必须减速并保持警惕。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，闪烁黄灯无需停车，但必须减速并保持警惕。"
+    },
+    "hasImage": false,
+    "imageUrl": null,
+    "dmv_ref": {
+      "page": "",
+      "section": "通用",
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，闪烁黄灯无需停车，但必须减速并保持警惕。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，闪烁黄灯无需停车，但必须减速并保持警惕。"
+    },
+    "difficulty": "medium",
+    "tags": [
+      "交通信号",
+      "标志"
+    ],
+    "isMustKnow": true
+  },
+  {
+    "id": 24,
+    "originalId": "691b73d3ae28c2405c54d61e",
+    "category": "通用",
+    "question": {
+      "en": "Does a solid yellow light mean 'speed up'?",
+      "zh-Hans": "恒亮的黄灯（Solid Yellow Light）是否意味着“加速”？",
+      "zh-Hant": "恒亮的黄灯（Solid Yellow Light）是否意味着“加速”？"
+    },
+    "options": {
+      "A": {
+        "en": "Yes, if it means you can 'beat the red light'.",
+        "zh-Hans": "是，如果这意味着您可以“抢在红灯前”。",
+        "zh-Hant": "是，如果这意味着您可以“抢在红灯前”。"
+      },
+      "B": {
+        "en": "No, it means 'CAUTION,' and you must stop if it is safe to do so.",
+        "zh-Hans": "否，它意味着“小心”，并且您必须在安全的情况下停车。",
+        "zh-Hant": "否，它意味着“小心”，并且您必须在安全的情况下停车。"
+      },
+      "C": {
+        "en": "Yes, it is designed to clear the intersection.",
+        "zh-Hans": "是，这是为了清空十字路口。",
+        "zh-Hant": "是，这是为了清空十字路口。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a solid yellow light is a warning; stop if safe and do not speed up.",
+      "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，黄灯是警示，应在安全时停车，不应加速抢灯。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，黄灯是警示，应在安全时停车，不应加速抢灯。"
+    },
+    "hasImage": false,
+    "imageUrl": null,
+    "dmv_ref": {
+      "page": "",
+      "section": "通用",
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，黄灯是警示，应在安全时停车，不应加速抢灯。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，黄灯是警示，应在安全时停车，不应加速抢灯。"
+    },
+    "difficulty": "medium",
+    "tags": [
+      "交通信号",
+      "标志"
+    ],
+    "isMustKnow": true
+  },
+  {
+    "id": 25,
+    "originalId": "691b73d3ae28c2405c54d61f",
+    "category": "通用",
+    "question": {
+      "en": "In a school zone with a flashing yellow light, you should:",
+      "zh-Hans": "在有闪烁黄灯的学校区域，您应该：",
+      "zh-Hant": "在有闪烁黄灯的学校区域，您应该："
+    },
+    "options": {
+      "A": {
+        "en": "Slow down to 15 mph.",
+        "zh-Hans": "减速至时速 15 哩。",
+        "zh-Hant": "减速至时速 15 哩。"
+      },
+      "B": {
+        "en": "Slow down and be extra cautious for children (who may be crossing).",
+        "zh-Hans": "减速，并为儿童（他们可能正在过马路）格外小心。",
+        "zh-Hant": "减速，并为儿童（他们可能正在过马路）格外小心。"
+      },
+      "C": {
+        "en": "Stop and wait for the light to stop flashing.",
+        "zh-Hans": "停车，并等待灯停止闪烁。",
+        "zh-Hant": "停车，并等待灯停止闪烁。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a flashing yellow in a school zone means caution—slow down and watch for children.",
+      "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，学校区闪烁黄灯表示谨慎驾驶，应减速并留意儿童。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，学校区闪烁黄灯表示谨慎驾驶，应减速并留意儿童。"
+    },
+    "hasImage": false,
+    "imageUrl": null,
+    "dmv_ref": {
+      "page": "",
+      "section": "通用",
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，学校区闪烁黄灯表示谨慎驾驶，应减速并留意儿童。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，学校区闪烁黄灯表示谨慎驾驶，应减速并留意儿童。"
+    },
+    "difficulty": "medium",
+    "tags": [
+      "交通信号",
+      "标志"
+    ],
+    "isMustKnow": true
+  },
+  {
+    "id": 26,
+    "originalId": "691b73d3ae28c2405c54d620",
+    "category": "通用",
+    "question": {
+      "en": "You are approaching an intersection with a solid yellow arrow. You should:",
+      "zh-Hans": "在有恒亮黄色箭头的十字路口，您正在接近。您应该：",
+      "zh-Hant": "在有恒亮黄色箭头的十字路口，您正在接近。您应该："
+    },
+    "options": {
+      "A": {
+        "en": "Speed up to make the turn.",
+        "zh-Hans": "加速以完成转弯。",
+        "zh-Hant": "加速以完成转弯。"
+      },
+      "B": {
+        "en": "Stop, if you can do so safely, behind the limit line.",
+        "zh-Hans": "如果您可以安全地停在限制线后，您应该停车。",
+        "zh-Hant": "如果您可以安全地停在限制线后，您应该停车。"
+      },
+      "C": {
+        "en": "Treat it as a flashing yellow and yield.",
+        "zh-Hans": "将其视为闪烁黄灯并让行。",
+        "zh-Hant": "将其视为闪烁黄灯并让行。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, on a solid yellow arrow you should stop behind the limit line if you can do so safely.",
+      "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，接近黄箭头时应在安全情况下于限制线前停车。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，接近黄箭头时应在安全情况下于限制线前停车。"
+    },
+    "hasImage": false,
+    "imageUrl": null,
+    "dmv_ref": {
+      "page": "",
+      "section": "通用",
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，接近黄箭头时应在安全情况下于限制线前停车。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，接近黄箭头时应在安全情况下于限制线前停车。"
+    },
+    "difficulty": "medium",
+    "tags": [
+      "交通信号",
+      "标志"
+    ],
+    "isMustKnow": true
+  },
+  {
+    "id": 27,
+    "originalId": "691b73d3ae28c2405c54d621",
+    "category": "通用",
+    "question": {
+      "en": "At an intersection with a flashing yellow light, you want to turn left. You should:",
+      "zh-Hans": "在有闪烁黄灯的十字路口，您想左转。您应该：",
+      "zh-Hant": "在有闪烁黄灯的十字路口，您想左转。您应该："
+    },
+    "options": {
+      "A": {
+        "en": "Slow down and yield to oncoming traffic and pedestrians.",
+        "zh-Hans": "减速，并为迎面而来的车流和行人让行。",
+        "zh-Hant": "减速，并为迎面而来的车流和行人让行。"
+      },
+      "B": {
+        "en": "Stop, then turn.",
+        "zh-Hans": "停车，然后转弯。",
+        "zh-Hant": "停车，然后转弯。"
+      },
+      "C": {
+        "en": "You may not turn left under any circumstances.",
+        "zh-Hans": "在任何情况下都不允许左转。",
+        "zh-Hant": "在任何情况下都不允许左转。"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, with a flashing yellow you must slow down and yield to oncoming traffic and pedestrians when turning left.",
+      "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，闪烁黄灯左转需减速并让行迎面车流及行人。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，闪烁黄灯左转需减速并让行迎面车流及行人。"
+    },
+    "hasImage": false,
+    "imageUrl": null,
+    "dmv_ref": {
+      "page": "",
+      "section": "通用",
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，闪烁黄灯左转需减速并让行迎面车流及行人。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，闪烁黄灯左转需减速并让行迎面车流及行人。"
+    },
+    "difficulty": "medium",
+    "tags": [
+      "交通信号",
+      "标志"
+    ],
+    "isMustKnow": true
+  },
+  {
+    "id": 28,
+    "originalId": "691b73d3ae28c2405c54d623",
+    "category": "通用",
+    "question": {
+      "en": "If you stop at a limit line for a solid yellow light at an intersection, you should:",
+      "zh-Hans": "如果您在十字路口（在限制线后）因恒亮的黄灯而停车，您应该：",
+      "zh-Hant": "如果您在十字路口（在限制线后）因恒亮的黄灯而停车，您应该："
+    },
+    "options": {
+      "A": {
+        "en": "Back up immediately when the light turns red.",
+        "zh-Hans": "在灯变红后立即倒车。",
+        "zh-Hant": "在灯变红后立即倒车。"
+      },
+      "B": {
+        "en": "Remain stopped and wait for the green light.",
+        "zh-Hans": "保持停车，并等待绿灯。",
+        "zh-Hant": "保持停车，并等待绿灯。"
+      },
+      "C": {
+        "en": "Proceed cautiously (if safe).",
+        "zh-Hans": "（如果安全）谨慎地继续行驶。",
+        "zh-Hant": "（如果安全）谨慎地继续行驶。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, if you stop for a yellow light you must remain stopped until the next green.",
+      "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，若已在黄灯时停车，应保持停车等待下一次绿灯。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，若已在黄灯时停车，应保持停车等待下一次绿灯。"
+    },
+    "hasImage": false,
+    "imageUrl": null,
+    "dmv_ref": {
+      "page": "",
+      "section": "通用",
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，若已在黄灯时停车，应保持停车等待下一次绿灯。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，若已在黄灯时停车，应保持停车等待下一次绿灯。"
+    },
+    "difficulty": "medium",
+    "tags": [
+      "交通信号",
+      "标志"
+    ],
+    "isMustKnow": true
+  },
+  {
+    "id": 29,
+    "originalId": "691b73d3ae28c2405c54d624",
+    "category": "通用",
+    "question": {
+      "en": "At a railroad crossing with a flashing yellow light, you should:",
+      "zh-Hans": "在有闪烁黄灯的铁路交叉口，您应该：",
+      "zh-Hant": "在有闪烁黄灯的铁路交叉口，您应该："
+    },
+    "options": {
+      "A": {
+        "en": "(Though not in the handbook, this is standard) Slow down and be prepared to stop as the red lights will begin flashing.",
+        "zh-Hans": "（虽然手册未明确说明，但这是标准做法）减速并准备在红灯开始闪烁时停车。",
+        "zh-Hant": "（虽然手册未明确说明，但这是标准做法）减速并准备在红灯开始闪烁时停车。"
+      },
+      "B": {
+        "en": "(This is not in the handbook) Speed up to cross.",
+        "zh-Hans": "（在手册中没有此规定）加速通过。",
+        "zh-Hant": "（在手册中没有此规定）加速通过。"
+      },
+      "C": {
+        "en": "(This is not in the handbook) Treat it as a STOP sign.",
+        "zh-Hans": "（在手册中没有此规定）将其视为“STOP”标志。",
+        "zh-Hant": "（在手册中没有此规定）将其视为“STOP”标志。"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a flashing yellow at a railroad crossing is a caution to slow and prepare to stop for the red lights.",
+      "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，道口黄灯提示谨慎并准备停车，随后会出现红灯。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，道口黄灯提示谨慎并准备停车，随后会出现红灯。"
+    },
+    "hasImage": false,
+    "imageUrl": null,
+    "dmv_ref": {
+      "page": "",
+      "section": "通用",
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，道口黄灯提示谨慎并准备停车，随后会出现红灯。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，道口黄灯提示谨慎并准备停车，随后会出现红灯。"
+    },
+    "difficulty": "medium",
+    "tags": [
+      "交通信号",
+      "标志"
+    ],
+    "isMustKnow": true
+  },
+  {
+    "id": 30,
+    "originalId": "691b73d3ae28c2405c54d625",
+    "category": "通用",
+    "question": {
+      "en": "What does a solid green traffic signal light mean?",
+      "zh-Hans": "一个恒亮的绿色交通信号灯（Solid Green Light）是什么意思？",
+      "zh-Hant": "一个恒亮的绿色交通信号灯（Solid Green Light）是什么意思？"
+    },
+    "options": {
+      "A": {
+        "en": "'GO,' but you must still yield to anyone (vehicle, pedestrian) already in the intersection.",
+        "zh-Hans": "“通行”，但您仍必须为已经在十字路口内的任何人（车辆、行人）让行。",
+        "zh-Hant": "“通行”，但您仍必须为已经在十字路口内的任何人（车辆、行人）让行。"
+      },
+      "B": {
+        "en": "'STOP,' and wait.",
+        "zh-Hans": "“停车”，并等待。",
+        "zh-Hant": "“停车”，并等待。"
+      },
+      "C": {
+        "en": "'CAUTION,' slow down.",
+        "zh-Hans": "“谨慎”，减速。",
+        "zh-Hant": "“谨慎”，减速。"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a green light means go but you must yield to anyone already in the intersection.",
+      "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，绿灯表示通行，但仍须让行路口内车辆、行人或自行车。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，绿灯表示通行，但仍须让行路口内车辆、行人或自行车。"
+    },
+    "hasImage": false,
+    "imageUrl": null,
+    "dmv_ref": {
+      "page": "",
+      "section": "通用",
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，绿灯表示通行，但仍须让行路口内车辆、行人或自行车。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，绿灯表示通行，但仍须让行路口内车辆、行人或自行车。"
+    },
+    "difficulty": "medium",
+    "tags": [
+      "交通信号",
+      "标志"
+    ],
+    "isMustKnow": true
+  },
+  {
+    "id": 31,
+    "originalId": "691c083e09551403ae280ddc",
+    "category": "交通标志",
+    "question": {
+      "en": "What must you do when you see this red octagonal sign?",
+      "zh-Hans": "看到这个红色八边形标志时必须做什么？",
+      "zh-Hant": "看到这个红色八边形标志时必须做什么？"
+    },
+    "options": {
+      "A": {
+        "en": "Make a full stop at the limit line or crosswalk, then proceed when safe",
+        "zh-Hans": "在停车线或人行横道前完全停下，再安全通行",
+        "zh-Hant": "在停车线或人行横道前完全停下，再安全通行"
+      },
+      "B": {
+        "en": "Slow down and roll through if no pedestrians",
+        "zh-Hans": "若无行人可减速通过",
+        "zh-Hant": "若无行人可减速通过"
+      },
+      "C": {
+        "en": "Yield to pedestrians without stopping",
+        "zh-Hans": "只需让行行人，不必停车",
+        "zh-Hant": "只需让行行人，不必停车"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, a STOP sign requires a full stop before proceeding.",
+      "zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，STOP 标志要求在限制线前完全停车后再通行。",
+      "zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，STOP 标志要求在限制线前完全停车后再通行。"
+    },
+    "hasImage": true,
+    "imageUrl": "https://tk.jiazhoujiazhao.com/signs-webp/Stop.webp",
+    "dmv_ref": {
+      "page": "",
+      "section": "交通标志",
+      "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，STOP 标志要求在限制线前完全停车后再通行。",
+      "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，STOP 标志要求在限制线前完全停车后再通行。"
+    },
+    "difficulty": "medium",
+    "tags": [
+      "交通信号",
+      "标志"
+    ],
+    "isMustKnow": true
+  },
+  {
+    "id": 32,
+    "originalId": "691c083e09551403ae280dde",
+    "category": "交通标志",
+    "question": {
+      "en": "At a 4-way stop with this sign, how do you proceed?",
+      "zh-Hans": "在四向停车路口看到这个标志时，通行顺序如何？",
+      "zh-Hant": "在四向停车路口看到这个标志时，通行顺序如何？"
+    },
+    "options": {
+      "A": {
+        "en": "Proceed in order of arrival, yielding to pedestrians and to the vehicle on your right if tied",
+        "zh-Hans": "按到达顺序依次通行，同时让行行人和右侧车辆",
+        "zh-Hant": "按到达顺序依次通行，同时让行行人和右侧车辆"
+      },
+      "B": {
+        "en": "All vehicles yield to the car on the right regardless of arrival order",
+        "zh-Hans": "先来的车都让右侧车先走",
+        "zh-Hant": "先来的车都让右侧车先走"
+      },
+      "C": {
+        "en": "You may roll through if no pedestrians",
+        "zh-Hans": "若无行人可不必完全停",
+        "zh-Hant": "若无行人可不必完全停"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, at a four-way stop all vehicles must stop, proceed by arrival order, and yield to the right and pedestrians.",
+      "zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，四向停牌需全部车辆先停，按先来先行并让行右侧车辆与行人。",
+      "zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，四向停牌需全部车辆先停，按先来先行并让行右侧车辆与行人。"
+    },
+    "hasImage": true,
+    "imageUrl": "https://tk.jiazhoujiazhao.com/signs-webp/Four_Way_Stop.webp",
+    "dmv_ref": {
+      "page": "",
+      "section": "交通标志",
+      "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，四向停牌需全部车辆先停，按先来先行并让行右侧车辆与行人。",
+      "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，四向停牌需全部车辆先停，按先来先行并让行右侧车辆与行人。"
+    },
+    "difficulty": "medium",
+    "tags": [
+      "交通信号",
+      "标志"
+    ],
+    "isMustKnow": true
+  },
+  {
+    "id": 33,
+    "originalId": "691c083f09551403ae280de0",
+    "category": "交通标志",
+    "question": {
+      "en": "What does this 'EXCEPT RIGHT TURN' sign mean at a red light?",
+      "zh-Hans": "这个 “EXCEPT RIGHT TURN” 配合红灯时表示什么？",
+      "zh-Hant": "这个 “EXCEPT RIGHT TURN” 配合红灯时表示什么？"
+    },
+    "options": {
+      "A": {
+        "en": "You may turn right on red without stopping",
+        "zh-Hans": "红灯时仅允许右转无需停",
+        "zh-Hant": "红灯时仅允许右转无需停"
+      },
+      "B": {
+        "en": "Only right turns are permitted on red, but a full stop and yield are required",
+        "zh-Hans": "红灯时仅允许右转，仍需完全停下并让行",
+        "zh-Hant": "红灯时仅允许右转，仍需完全停下并让行"
+      },
+      "C": {
+        "en": "Only left turns must stop",
+        "zh-Hans": "仅左转时需要停",
+        "zh-Hant": "仅左转时需要停"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, on red only right turns are allowed, and you must stop and yield first.",
+      "zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，红灯时仅允许右转，但必须先停车并让行。",
+      "zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，红灯时仅允许右转，但必须先停车并让行。"
+    },
+    "hasImage": true,
+    "imageUrl": "https://tk.jiazhoujiazhao.com/signs-webp/Except_Right_Turn.webp",
+    "dmv_ref": {
+      "page": "",
+      "section": "交通标志",
+      "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，红灯时仅允许右转，但必须先停车并让行。",
+      "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，红灯时仅允许右转，但必须先停车并让行。"
+    },
+    "difficulty": "medium",
+    "tags": [
+      "交通信号",
+      "标志"
+    ],
+    "isMustKnow": true
+  },
+  {
+    "id": 34,
+    "originalId": "691c083f09551403ae280de2",
+    "category": "交通标志",
+    "question": {
+      "en": "What must you do at a red light when you see this arrow sign?",
+      "zh-Hans": "这个箭头标志要求你在红灯时做什么？",
+      "zh-Hant": "这个箭头标志要求你在红灯时做什么？"
+    },
+    "options": {
+      "A": {
+        "en": "Come to a complete stop where the arrow indicates",
+        "zh-Hans": "在箭头指示位置完全停下",
+        "zh-Hant": "在箭头指示位置完全停下"
+      },
+      "B": {
+        "en": "Stop in the middle of the intersection",
+        "zh-Hans": "在路口中心停下",
+        "zh-Hant": "在路口中心停下"
+      },
+      "C": {
+        "en": "Only slow to 5 mph",
+        "zh-Hans": "减速到 5 mph 即可",
+        "zh-Hant": "减速到 5 mph 即可"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, this sign tells you where to make a full stop on red.",
+      "zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，红灯时须在箭头指示位置完全停车。",
+      "zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，红灯时须在箭头指示位置完全停车。"
+    },
+    "hasImage": true,
+    "imageUrl": "https://tk.jiazhoujiazhao.com/signs-webp/Stop_Here_On_Red.webp",
+    "dmv_ref": {
+      "page": "",
+      "section": "交通标志",
+      "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，红灯时须在箭头指示位置完全停车。",
+      "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，红灯时须在箭头指示位置完全停车。"
+    },
+    "difficulty": "medium",
+    "tags": [
+      "交通信号",
+      "标志"
+    ],
+    "isMustKnow": true
+  },
+  {
+    "id": 35,
+    "originalId": "691c083f09551403ae280de4",
+    "category": "交通标志",
+    "question": {
+      "en": "What should you do when you see this red 'WRONG WAY' sign?",
+      "zh-Hans": "看到这个红底白字标志时应怎样？",
+      "zh-Hant": "看到这个红底白字标志时应怎样？"
+    },
+    "options": {
+      "A": {
+        "en": "Keep going; you have the right of way",
+        "zh-Hans": "继续前进，前方有优先权",
+        "zh-Hant": "继续前进，前方有优先权"
+      },
+      "B": {
+        "en": "Stop at once and safely turn around or exit",
+        "zh-Hans": "立即停车并安全掉头或驶离",
+        "zh-Hant": "立即停车并安全掉头或驶离"
+      },
+      "C": {
+        "en": "Proceed slowly while watching",
+        "zh-Hans": "靠右慢行观察",
+        "zh-Hant": "靠右慢行观察"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, WRONG WAY means you are going the wrong way; stop and exit safely.",
+      "zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，WRONG WAY 表示逆行，应立即安全驶离。",
+      "zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，WRONG WAY 表示逆行，应立即安全驶离。"
+    },
+    "hasImage": true,
+    "imageUrl": "https://tk.jiazhoujiazhao.com/signs-webp/Wrong_Way.webp",
+    "dmv_ref": {
+      "page": "",
+      "section": "交通标志",
+      "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，WRONG WAY 表示逆行，应立即安全驶离。",
+      "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，WRONG WAY 表示逆行，应立即安全驶离。"
+    },
+    "difficulty": "medium",
+    "tags": [
+      "交通信号",
+      "标志"
+    ],
+    "isMustKnow": true
+  }
+]

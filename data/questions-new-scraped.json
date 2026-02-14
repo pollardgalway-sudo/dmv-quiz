@@ -1,0 +1,2131 @@
+{
+  "totalQuestions": 35,
+  "isPremiumActivated": false,
+  "scrapedAt": "2026-01-27T09:49:33.031Z",
+  "activationCode": "XHS-XD8A-UPUJ-GEC2",
+  "questions": [
+    {
+      "_id": "691b73d3ae28c2405c54d5ff",
+      "question": "一个恒亮的红色交通信号灯（Solid Red Light）是什么意思？",
+      "question_en": "What does a solid red traffic signal light mean?",
+      "image_path": "",
+      "options": [
+        "减速并谨慎通过。",
+        "“停车”。在限制线或人行道前停下。",
+        "信号灯故障。"
+      ],
+      "options_en": [
+        "Slow down and proceed with caution.",
+        "'STOP.' Stop at the limit line or crosswalk.",
+        "The signal is broken."
+      ],
+      "correctAnswer": 1,
+      "explanation": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯表示停车，应在限制线或人行横道前完全停下。",
+      "explanation_en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a solid red light means stop before the limit line or crosswalk.",
+      "category": "通用",
+      "state": "CA",
+      "difficulty": "medium",
+      "isActive": true,
+      "isMustKnow": true,
+      "frequency": "high",
+      "tags": [
+        "交通信号",
+        "标志"
+      ],
+      "reviewCount": 89,
+      "lastReviewed": "2025-12-15T18:33:24.358Z",
+      "__v": 0,
+      "explanation_es": "Explicación: Explicación: Según el manual, Capítulo 7 | Leyes y reglamentos viales | Señales de tráfico. El manual dice claramente: 'A red signal light means 'STOP. '' Debe detenerse por completo antes de la línea de límite, cruce de peatones o intersección.",
+      "explanation_ko": "설명: 설명: 핸드북에 따르면 7장 | 도로 법규 및 규정 | 교통 신호, 안내서에는 다음과 같이 명확하게 명시되어 있습니다: 'A red signal light means 'STOP. '' 제한선, 횡단보도, 교차로 앞에서는 완전히 정지해야 합니다.",
+      "explanation_tl": "Paliwanag: Paliwanag: Ayon sa handbook, Kabanata 7 | Mga Batas at Regulasyon sa Kalsada | Traffic Signals, Malinaw na nakasaad sa handbook ang: 'A red signal light means 'STOP. '' Dapat kang ganap na huminto bago ang linya ng limitasyon, tawiran, o intersection.",
+      "explanation_vi": "Giải thích: Giải thích: Theo sổ tay, Chương 7 | Luật và Quy định Đường bộ | Tín hiệu giao thông, Sổ tay ghi rõ: 'A red signal light means 'STOP. '' Bạn phải dừng hẳn trước vạch giới hạn, lối qua đường dành cho người đi bộ hoặc giao lộ.",
+      "options_es": [
+        "Reduzca la velocidad y avance con precaución.",
+        "'STOP.' Deténgase en la línea de límite o cruce de peatones.",
+        "La señal está rota."
+      ],
+      "options_ko": [
+        "속도를 늦추고 주의해서 진행하십시오.",
+        "'STOP.' 제한선이나 횡단보도에서 정지하세요.",
+        "신호가 끊어졌습니다."
+      ],
+      "options_tl": [
+        "Dahan-dahan at magpatuloy nang may pag-iingat.",
+        "'STOP.' Huminto sa linya ng limitasyon o tawiran.",
+        "Sira ang signal."
+      ],
+      "options_vi": [
+        "Hãy chậm lại và tiến hành một cách thận trọng.",
+        "'STOP.' Dừng lại ở vạch giới hạn hoặc lối qua đường dành cho người đi bộ.",
+        "Tín hiệu bị hỏng."
+      ],
+      "question_es": "¿Qué significa un semáforo en rojo fijo?",
+      "question_ko": "빨간색으로 켜져 있는 교통 신호등은 무엇을 의미합니까?",
+      "question_tl": "Ano ang ibig sabihin ng solid red traffic signal light?",
+      "question_vi": "Đèn tín hiệu giao thông màu đỏ liên tục có ý nghĩa gì?"
+    },
+    {
+      "_id": "691b73d3ae28c2405c54d600",
+      "question": "在什么情况下，您可以在恒亮的红灯（Solid Red Light）时合法地右转？",
+      "question_en": "When can you legally make a right turn on a solid red light?",
+      "image_path": "",
+      "options": [
+        "在任何情况下都不允许。",
+        "在您完全停车后，并且没有“红灯禁止转弯”的标志时。",
+        "仅在夜间。"
+      ],
+      "options_en": [
+        "Never. It is always illegal.",
+        "After coming to a complete stop, AND if there is no sign prohibiting the turn.",
+        "Only at night."
+      ],
+      "correctAnswer": 1,
+      "explanation": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯右转须先完全停车，且无“红灯禁止转弯”标志时才可转弯。",
+      "explanation_en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a right turn on red is allowed only after a complete stop and if no sign prohibits it.",
+      "category": "通用",
+      "state": "CA",
+      "difficulty": "medium",
+      "isActive": true,
+      "isMustKnow": true,
+      "frequency": "high",
+      "tags": [
+        "交通信号",
+        "标志"
+      ],
+      "reviewCount": 94,
+      "lastReviewed": "2025-12-15T18:33:15.759Z",
+      "__v": 0,
+      "explanation_es": "Explicación: Explicación: Basado en el Capítulo 7 | Leyes y reglamentos viales | Señales de tráfico en el manual. El manual permite girar a la derecha en rojo, pero con dos condiciones clave: 1. Primero debe detenerse por completo. 2. No debe haber un signo 'NO TURN ON RED'.",
+      "explanation_ko": "설명: 설명: 7장 | 도로 법규 및 규정 | 안내서의 교통 신호 안내서에서는 빨간색 신호등에서 우회전을 허용하지만 두 가지 주요 조건이 있습니다. 1. 먼저 완전히 정지해야 합니다. 2. 'NO TURN ON RED' 기호가 있어서는 안 됩니다.",
+      "explanation_tl": "Paliwanag: Paliwanag: Batay sa Kabanata 7 | Mga Batas at Regulasyon sa Kalsada | Mga Signal ng Trapiko sa handbook, Pinahihintulutan ng handbook ang pagliko sa kanan sa pula, ngunit may dalawang pangunahing kundisyon: 1. Kailangan mo munang huminto. 2. Dapat walang 'NO TURN ON RED' sign.",
+      "explanation_vi": "Giải thích: Giải thích: Dựa trên Chương 7 | Luật và Quy định Đường bộ | Tín hiệu giao thông trong sổ tay, Sổ tay cho phép rẽ phải khi đèn đỏ, nhưng với hai điều kiện chính: 1. Trước tiên bạn phải dừng hẳn. 2. Không được có ký hiệu 'NO TURN ON RED'.",
+      "options_es": [
+        "Nunca. Siempre es ilegal.",
+        "Después de detenerse por completo, AND si no hay ninguna señal que prohíba el giro.",
+        "Sólo de noche."
+      ],
+      "options_ko": [
+        "절대. 항상 불법입니다.",
+        "완전히 정지한 후 회전을 금지하는 표지판이 없으면 AND입니다.",
+        "밤에만."
+      ],
+      "options_tl": [
+        "Hindi kailanman. Ito ay palaging ilegal.",
+        "Pagkatapos ng ganap na paghinto, AND kung walang karatulang nagbabawal sa pagliko.",
+        "Sa gabi lang."
+      ],
+      "options_vi": [
+        "Không bao giờ. Nó luôn luôn là bất hợp pháp.",
+        "Sau khi đã dừng hẳn, AND nếu không có biển cấm rẽ.",
+        "Chỉ vào ban đêm."
+      ],
+      "question_es": "¿Cuándo se puede girar legalmente a la derecha con una luz roja fija?",
+      "question_ko": "빨간불이 켜져 있을 때 합법적으로 우회전할 수 있는 때는 언제입니까?",
+      "question_tl": "Kailan ka legal na makakapag-right turn sa isang solidong pulang ilaw?",
+      "question_vi": "Khi nào bạn có thể rẽ phải khi đèn đỏ liên tục?"
+    },
+    {
+      "_id": "691b73d3ae28c2405c54d601",
+      "question": "在恒亮的红灯（Solid Red Light）时，您在什么情况下可以合法地*左转*？",
+      "question_en": "When can you legally make a *left* turn on a solid red light?",
+      "image_path": "",
+      "options": [
+        "在任何情况下都不允许。",
+        "当您从单行道转入另一条单行道时。",
+        "当您从双向道转入双向道时。"
+      ],
+      "options_en": [
+        "Never. It is always illegal.",
+        "When turning from a one-way street onto another one-way street.",
+        "When turning from a two-way street onto a two-way street."
+      ],
+      "correctAnswer": 1,
+      "explanation": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯左转仅限单行道转入另一条单行道，需先停车并让行。",
+      "explanation_en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a left turn on red is allowed only from a one-way to a one-way street after stopping and yielding.",
+      "category": "通用",
+      "state": "CA",
+      "difficulty": "medium",
+      "isActive": true,
+      "isMustKnow": true,
+      "frequency": "high",
+      "tags": [
+        "交通信号",
+        "标志"
+      ],
+      "reviewCount": 62,
+      "lastReviewed": "2025-12-15T18:15:57.387Z",
+      "__v": 0,
+      "explanation_es": "Explicación: Explicación: Según el manual, Capítulo 7 | Leyes y reglamentos viales | Señales de tráfico. Esta es una excepción muy específica. 'You may only turn left against a red light when you are turning from a one-way street onto another one-way street. ' Aún así debe detenerse primero y ceder el paso a todo el tráfico y a los peatones que tengan el derecho de paso.",
+      "explanation_ko": "설명: 설명: 핸드북에 따르면 7장 | 도로 법규 및 규정 | 교통 신호등은 매우 구체적인 예외입니다. 'You may only turn left against a red light when you are turning from a one-way street onto another one-way street. ' 여전히 먼저 정지하고 통행우선권이 있는 모든 차량과 보행자에게 양보해야 합니다.",
+      "explanation_tl": "Paliwanag: Paliwanag: Ayon sa handbook, Kabanata 7 | Mga Batas at Regulasyon sa Kalsada | Mga Signal ng Trapiko, Ito ay isang napaka-espesipikong pagbubukod. 'You may only turn left against a red light when you are turning from a one-way street onto another one-way street. ' Dapat ka pa ring huminto muna at sumuko sa lahat ng trapiko at pedestrian na may right-of-way.",
+      "explanation_vi": "Giải thích: Giải thích: Theo sổ tay, Chương 7 | Luật và Quy định Đường bộ | Tín hiệu giao thông, Đây là một ngoại lệ rất cụ thể. 'You may only turn left against a red light when you are turning from a one-way street onto another one-way street. ' Bạn vẫn phải dừng lại trước và nhường đường cho tất cả xe cộ và người đi bộ có quyền ưu tiên.",
+      "options_es": [
+        "Nunca. Siempre es ilegal.",
+        "Al girar de una calle de un solo sentido a otra calle de un solo sentido.",
+        "Al girar de una calle de doble sentido a una calle de doble sentido."
+      ],
+      "options_ko": [
+        "절대. 항상 불법입니다.",
+        "일방 통행로에서 다른 일방 통행로로 방향을 틀 때.",
+        "양방향 도로에서 양방향 도로로 방향을 틀 때."
+      ],
+      "options_tl": [
+        "Hindi kailanman. Ito ay palaging ilegal.",
+        "Kapag lumiko mula sa isang one-way na kalye papunta sa isa pang one-way na kalye.",
+        "Kapag lumiko mula sa isang two-way na kalye papunta sa isang two-way na kalye."
+      ],
+      "options_vi": [
+        "Không bao giờ. Nó luôn luôn là bất hợp pháp.",
+        "Khi rẽ từ đường một chiều sang đường một chiều khác.",
+        "Khi rẽ từ đường hai chiều sang đường hai chiều."
+      ],
+      "question_es": "¿Cuándo se puede girar legalmente *a la izquierda* con una luz roja fija?",
+      "question_ko": "빨간 신호등에서 언제 합법적으로 *좌회전*을 할 수 있나요?",
+      "question_tl": "Kailan ka maaaring legal na gumawa ng *kaliwa* na pag-on ng solidong pulang ilaw?",
+      "question_vi": "Khi nào bạn có thể rẽ *trái* khi đèn đỏ liên tục?"
+    },
+    {
+      "_id": "691b73d3ae28c2405c54d604",
+      "question": "在恒亮的红灯（Solid Red Light）时，您在右转（当允许时）之前*必须*做什么？",
+      "question_en": "Before making a right turn on a solid red light (when permitted), what MUST you do?",
+      "image_path": "",
+      "options": [
+        "减速至爬行速度。",
+        "鸣喇叭。",
+        "完全停车。"
+      ],
+      "options_en": [
+        "Slow to a crawling speed.",
+        "Honk your horn.",
+        "Come to a complete stop."
+      ],
+      "correctAnswer": 2,
+      "explanation": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯转弯前必须先完全停车。",
+      "explanation_en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, you must come to a complete stop before turning on red.",
+      "category": "通用",
+      "state": "CA",
+      "difficulty": "medium",
+      "isActive": true,
+      "isMustKnow": true,
+      "frequency": "high",
+      "tags": [
+        "交通信号",
+        "标志"
+      ],
+      "reviewCount": 53,
+      "lastReviewed": "2025-12-15T18:16:22.766Z",
+      "__v": 0,
+      "explanation_es": "Explicación: Explicación: Basado en el Capítulo 7 | Leyes y reglamentos viales | Señales de tráfico en el manual. El permiso para encender una luz roja siempre requiere que usted 'come to a complete stop' primero. Sólo después de detenerse por completo podrá ceder el paso a los peatones y al tráfico.",
+      "explanation_ko": "설명: 설명: 7장 | 도로 법규 및 규정 | 핸드북의 교통 신호, 빨간불을 켜려면 항상 'come to a complete stop'을(를) 먼저 해야 합니다. 완전히 정지한 후에만 보행자와 차량에 양보할 수 있습니다.",
+      "explanation_tl": "Paliwanag: Paliwanag: Batay sa Kabanata 7 | Mga Batas at Regulasyon sa Kalsada | Mga Signal ng Trapiko sa handbook, Ang pahintulot na magbukas ng pulang ilaw ay palaging nangangailangan sa iyo na 'come to a complete stop' muna. Pagkatapos lamang na ganap na huminto maaari kang sumuko sa mga naglalakad at trapiko.",
+      "explanation_vi": "Giải thích: Giải thích: Dựa trên Chương 7 | Luật và Quy định Đường bộ | Tín hiệu giao thông trong sổ tay, Việc xin phép vượt đèn đỏ luôn yêu cầu bạn phải 'come to a complete stop' trước tiên. Chỉ sau khi dừng hẳn, bạn mới được nhường đường cho người đi bộ và xe cộ.",
+      "options_es": [
+        "Lento a una velocidad lenta.",
+        "Toca la bocina.",
+        "Deténgase por completo."
+      ],
+      "options_ko": [
+        "크롤링 속도로 천천히.",
+        "경적을 울려보세요.",
+        "완전히 멈추세요."
+      ],
+      "options_tl": [
+        "Mabagal hanggang sa bilis ng pag-crawl.",
+        "Bumusina ka.",
+        "Halika sa isang ganap na paghinto."
+      ],
+      "options_vi": [
+        "Chậm đến tốc độ bò.",
+        "Bấm còi đi.",
+        "Hãy dừng lại hoàn toàn."
+      ],
+      "question_es": "Antes de girar a la derecha con una luz roja fija (cuando esté permitido), ¿qué MUST haces?",
+      "question_ko": "빨간불이 켜진 상태에서(허용되는 경우) 우회전하기 전에 무엇을 합니까?",
+      "question_tl": "Bago kumanan sa isang solidong pulang ilaw (kapag pinahihintulutan), ano MUST ang iyong ginagawa?",
+      "question_vi": "Trước khi rẽ phải khi đèn đỏ liên tục (khi được phép), bạn MUST làm gì?"
+    },
+    {
+      "_id": "691b73d3ae28c2405c54d606",
+      "question": "当您在有“红灯禁止转弯”（NO TURN ON RED）标志的十字路口时，这意味着：",
+      "question_en": "When you are at an intersection with a 'NO TURN ON RED' sign, it means:",
+      "image_path": "",
+      "options": [
+        "您不可以在红灯时右转。",
+        "您不可以在红灯时右转，除非您先停车。",
+        "该标志仅适用于卡车。"
+      ],
+      "options_en": [
+        "You may not turn right on the red light.",
+        "You may not turn right on red, unless you stop first.",
+        "The sign applies only to trucks."
+      ],
+      "correctAnswer": 0,
+      "explanation": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，NO TURN ON RED 表示红灯时禁止转弯，需等待绿灯。",
+      "explanation_en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a NO TURN ON RED sign means you must wait for green.",
+      "category": "通用",
+      "state": "CA",
+      "difficulty": "medium",
+      "isActive": true,
+      "isMustKnow": true,
+      "frequency": "high",
+      "tags": [
+        "交通信号",
+        "标志"
+      ],
+      "reviewCount": 58,
+      "lastReviewed": "2025-12-15T18:16:51.764Z",
+      "__v": 0,
+      "explanation_es": "Explicación: Explicación: Según el manual, Capítulo 7 | Leyes y reglamentos viales | Señales de tráfico. El manual indica que puede girar a la derecha en rojo a menos que haya una señal 'NO TURN ON RED'. Esta señal anula el permiso para girar a la derecha en rojo (incluso después de una parada). Debes esperar a que haya luz verde.",
+      "explanation_ko": "설명: 설명: 핸드북에 따르면 7장 | 도로 법규 및 규정 | 교통 신호, 안내서에는 'NO TURN ON RED' 표지판이 없는 한 빨간색 신호등에서 우회전할 수 있다고 명시되어 있습니다. 이 표지판은 (정지 후에도) 빨간색 신호등에서 우회전 허가를 무시합니다. 초록불이 들어올 때까지 기다려야 합니다.",
+      "explanation_tl": "Paliwanag: Paliwanag: Ayon sa handbook, Kabanata 7 | Mga Batas at Regulasyon sa Kalsada | Mga Signal ng Trapiko, Nakasaad sa handbook na maaari kang kumanan sa pula maliban kung mayroong 'NO TURN ON RED' sign. Ino-override ng sign na ito ang pahintulot na kumanan sa pula (kahit pagkatapos ng paghinto). Dapat kang maghintay para sa isang berdeng ilaw.",
+      "explanation_vi": "Giải thích: Giải thích: Theo sổ tay, Chương 7 | Luật và Quy định Đường bộ | Tín hiệu giao thông, Sổ tay nêu rõ bạn có thể rẽ phải khi đèn đỏ trừ khi có biển báo 'NO TURN ON RED'. Biển báo này ghi đè quyền rẽ phải khi đèn đỏ (kể cả sau khi đã dừng). Bạn phải chờ đèn xanh.",
+      "options_es": [
+        "No se puede girar a la derecha en el semáforo en rojo.",
+        "No puede girar a la derecha en rojo, a menos que se detenga primero.",
+        "La señal se aplica sólo a los camiones."
+      ],
+      "options_ko": [
+        "빨간 신호등에서는 우회전할 수 없습니다.",
+        "먼저 정지하지 않는 한 빨간색 신호등에서는 우회전할 수 없습니다.",
+        "이 표시는 트럭에만 적용됩니다."
+      ],
+      "options_tl": [
+        "Maaaring hindi ka kumanan sa pulang ilaw.",
+        "Maaaring hindi ka kumanan sa pula, maliban kung hihinto ka muna.",
+        "Ang karatula ay nalalapat lamang sa mga trak."
+      ],
+      "options_vi": [
+        "Bạn không được rẽ phải khi đèn đỏ.",
+        "Bạn không được rẽ phải khi đèn đỏ trừ khi bạn dừng lại trước.",
+        "Biển báo chỉ áp dụng cho xe tải."
+      ],
+      "question_es": "Cuando se encuentra en una intersección con una señal 'NO TURN ON RED', significa:",
+      "question_ko": "'NO TURN ON RED' 표지판이 있는 교차로에 있다는 것은 다음을 의미합니다.",
+      "question_tl": "Kapag nasa intersection ka na may 'NO TURN ON RED' sign, ang ibig sabihin nito ay:",
+      "question_vi": "Khi bạn đang ở ngã tư có biển báo 'NO TURN ON RED', điều đó có nghĩa là:"
+    },
+    {
+      "_id": "691b73d3ae28c2405c54d607",
+      "question": "如果您在有闪烁红灯（Flashing Red Light）的十字路口停车，并且您右侧的车辆（也面对闪烁红灯）与您同时停车，谁有先行权？",
+      "question_en": "If you stop at an intersection with a flashing red light, and a vehicle to your right (also facing a flashing red) stops at the same time, who has the right-of-way?",
+      "image_path": "",
+      "options": [
+        "您，因为您在左侧。",
+        "您右侧的车辆。",
+        "您们都可以同时行驶。"
+      ],
+      "options_en": [
+        "You, because you are on the left.",
+        "The vehicle on your right.",
+        "You may both proceed at the same time."
+      ],
+      "correctAnswer": 1,
+      "explanation": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，闪烁红灯按 STOP 处理，同时到达应让右侧车辆先行。",
+      "explanation_en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a flashing red is treated as a STOP sign; if you arrive together, yield to the vehicle on your right.",
+      "category": "通用",
+      "state": "CA",
+      "difficulty": "medium",
+      "isActive": true,
+      "isMustKnow": true,
+      "frequency": "high",
+      "tags": [
+        "交通信号",
+        "标志"
+      ],
+      "reviewCount": 58,
+      "lastReviewed": "2025-12-15T18:17:12.685Z",
+      "__v": 0,
+      "explanation_es": "Explicación: Explicación: Según el Capítulo 7 | Leyes y reglamentos viales | Señales de tráfico del manual. El manual establece que una luz roja intermitente se trata como una señal 'STOP'. Las reglas de las señales 'STOP' establecen que si los vehículos llegan al mismo tiempo, debe ceder el paso al vehículo de su derecha. Por lo tanto, vosotros (los de la izquierda) debéis ceder.",
+      "explanation_ko": "설명: 설명: 7장에 따라 | 도로 법규 및 규정 | 핸드북의 교통 신호 핸드북에는 깜박이는 빨간불이 'STOP' 기호로 취급된다고 명시되어 있습니다. 'STOP' 표지판 규칙에는 차량이 동시에 도착하는 경우 오른쪽 차량에 양보해야 한다고 명시되어 있습니다. 그러므로 (왼쪽에 있는) 당신은 양보해야 합니다.",
+      "explanation_tl": "Paliwanag: Paliwanag: Bawat Kabanata 7 | Mga Batas at Regulasyon sa Kalsada | Mga Signal ng Trapiko ng handbook, Ang handbook ay nagsasaad na ang isang kumikislap na pulang ilaw ay itinuturing bilang isang 'STOP' na palatandaan. Ang 'STOP' sign rules ay nagsasaad na kung ang mga sasakyan ay dumating sa parehong oras, dapat kang sumuko sa sasakyan sa iyong kanan. Samakatuwid, ikaw (sa kaliwa) ay dapat sumuko.",
+      "explanation_vi": "Giải thích: Giải thích: Theo Chương 7 | Luật và Quy định Đường bộ | Tín hiệu giao thông của sổ tay, Sổ tay nêu rõ đèn đỏ nhấp nháy được coi là biển báo 'STOP'. Quy tắc biển báo 'STOP' quy định rằng nếu các phương tiện đến cùng lúc, bạn phải nhường đường cho xe bên phải. Vì vậy, bạn (bên trái) phải nhường bước.",
+      "options_es": [
+        "Tú, porque eres de izquierdas.",
+        "El vehículo a su derecha.",
+        "Ambos pueden proceder al mismo tiempo."
+      ],
+      "options_ko": [
+        "당신은 왼쪽에 있기 때문입니다.",
+        "오른쪽에 있는 차량입니다.",
+        "동시에 진행할 수도 있습니다."
+      ],
+      "options_tl": [
+        "Ikaw, dahil nasa kaliwa ka.",
+        "Ang sasakyan sa iyong kanan.",
+        "Maaari kayong dalawa magpatuloy sa parehong oras."
+      ],
+      "options_vi": [
+        "Bạn, bởi vì bạn ở bên trái.",
+        "Xe bên phải bạn.",
+        "Cả hai bạn có thể tiến hành cùng một lúc."
+      ],
+      "question_es": "Si se detiene en una intersección con una luz roja intermitente y un vehículo a su derecha (también frente a una luz roja intermitente) se detiene al mismo tiempo, ¿quién tiene el derecho de paso?",
+      "question_ko": "깜박이는 빨간색 신호등이 있는 교차로에서 정지하고 오른쪽에 있는 차량(또한 깜박이는 빨간색 신호를 향함)이 동시에 정지하는 경우 누가 통행 우선권을 갖습니까?",
+      "question_tl": "Kung huminto ka sa isang intersection na may kumikislap na pulang ilaw, at ang sasakyan sa iyong kanan (nakaharap din sa kumikislap na pula) ay sabay na hihinto, sino ang may right-of-way?",
+      "question_vi": "Nếu bạn dừng ở ngã tư có đèn đỏ nhấp nháy và xe bên phải bạn (cũng đối mặt với đèn đỏ nhấp nháy) dừng cùng lúc thì ai được ưu tiên?"
+    },
+    {
+      "_id": "691b73d3ae28c2405c54d608",
+      "question": "在有恒亮红灯（Solid Red Light）的情况下，您在右转（在停车后）之前，必须为谁让行？",
+      "question_en": "When turning right on a solid red light (after stopping), who must you yield to?",
+      "image_path": "",
+      "options": [
+        "仅为行人让行。",
+        "行人和（有先行权的）车流（包括自行车）。",
+        "无需让行。"
+      ],
+      "options_en": [
+        "Only pedestrians.",
+        "Pedestrians and traffic (including bicyclists) who have the right-of-way.",
+        "No one; you may proceed."
+      ],
+      "correctAnswer": 1,
+      "explanation": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯右转前必须为行人及有先行权的车流（含自行车）让行。",
+      "explanation_en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, when turning right on red you must yield to pedestrians and any traffic with the right-of-way.",
+      "category": "通用",
+      "state": "CA",
+      "difficulty": "medium",
+      "isActive": true,
+      "isMustKnow": true,
+      "frequency": "high",
+      "tags": [
+        "交通信号",
+        "标志"
+      ],
+      "reviewCount": 49,
+      "lastReviewed": "2025-12-15T18:17:51.732Z",
+      "__v": 0,
+      "explanation_es": "Explicación: Explicación: Basado en el Capítulo 7 | Leyes y reglamentos viales | Señales de tránsito en el manual. El manual requiere que al girar a la derecha en rojo (después de detenerse), debe ceder el paso a 'pedestrians' y a todos los vehículos que se aproximan (incluidas bicicletas y motocicletas) que tengan luz verde (principio de paso).",
+      "explanation_ko": "설명: 설명: 7장 | 도로 법규 및 규정 | 핸드북의 교통 신호 핸드북에서는 빨간색(정지 후)에서 우회전할 때 'pedestrians' 및 녹색 신호(통행권)를 켜고 접근하는 모든 차량(자전거 및 오토바이 포함)에게 양보해야 한다고 요구합니다.",
+      "explanation_tl": "Paliwanag: Paliwanag: Batay sa Kabanata 7 | Mga Batas at Regulasyon sa Kalsada | Mga Signal ng Trapiko sa handbook, Inaatasan ng handbook na kapag kumanan sa pula (pagkatapos huminto), dapat kang sumuko sa 'pedestrians' at sa lahat ng paparating na sasakyan (kabilang ang mga bisikleta at motorsiklo) na may berdeng ilaw (right-of-way).",
+      "explanation_vi": "Giải thích: Giải thích: Dựa trên Chương 7 | Luật và Quy định Đường bộ | Tín hiệu giao thông trong sổ tay, Sổ tay yêu cầu khi rẽ phải khi đèn đỏ (sau khi dừng xe) phải nhường đường 'pedestrians' và tất cả các phương tiện đang đến gần (kể cả xe đạp, xe máy) có đèn xanh (quyền ưu tiên).",
+      "options_es": [
+        "Sólo peatones.",
+        "Peatones y tráfico (incluidos ciclistas) que tienen el derecho de paso.",
+        "Nadie; puedes continuar."
+      ],
+      "options_ko": [
+        "보행자만.",
+        "통행 우선권이 있는 보행자 및 차량(자전거 운전자 포함).",
+        "아무도 없습니다. 계속 진행할 수 있습니다."
+      ],
+      "options_tl": [
+        "Mga pedestrian lang.",
+        "Mga pedestrian at trapiko (kabilang ang mga nagbibisikleta) na may karapatan sa daan.",
+        "Walang sinuman; maaari kang magpatuloy."
+      ],
+      "options_vi": [
+        "Chỉ có người đi bộ.",
+        "Người đi bộ và phương tiện giao thông (bao gồm cả người đi xe đạp) có quyền ưu tiên.",
+        "Không có ai; bạn có thể tiếp tục."
+      ],
+      "question_es": "Al girar a la derecha con un semáforo en rojo fijo (después de detenerse), ¿a quién debe cederle el paso?",
+      "question_ko": "빨간 신호등에서(정지 후) 우회전할 때 누구에게 양보해야 합니까?",
+      "question_tl": "Kapag lumiko pakanan sa isang solidong pulang ilaw (pagkatapos huminto), kanino ka dapat sumuko?",
+      "question_vi": "Khi rẽ phải khi đèn đỏ liên tục (sau khi dừng lại), bạn phải nhường đường cho ai?"
+    },
+    {
+      "_id": "691b73d3ae28c2405c54d609",
+      "question": "在有恒亮红灯（Solid Red Light）的情况下，您从单行道左转进入另一条单行道。您在转弯前必须为谁让行？",
+      "question_en": "You are turning left from a one-way street onto another one-way street on a solid red light. Who must you yield to?",
+      "image_path": "",
+      "options": [
+        "无需让行，因为这是合法的。",
+        "仅为行人让行。",
+        "（有绿灯的）车辆、行人和自行车使用者。"
+      ],
+      "options_en": [
+        "No one; it is a legal turn.",
+        "Only pedestrians.",
+        "Vehicles, pedestrians, and bicyclists (who have the green light)."
+      ],
+      "correctAnswer": 2,
+      "explanation": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，单行道红灯左转仍须为有绿灯的车辆、行人和自行车让行。",
+      "explanation_en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, even when left on red is allowed you must yield to vehicles, pedestrians, and bicyclists with a green light.",
+      "category": "通用",
+      "state": "CA",
+      "difficulty": "medium",
+      "isActive": true,
+      "isMustKnow": true,
+      "frequency": "high",
+      "tags": [
+        "交通信号",
+        "标志"
+      ],
+      "reviewCount": 50,
+      "lastReviewed": "2025-12-15T18:18:25.030Z",
+      "__v": 0,
+      "explanation_es": "Explicación: Explicación: Basado en el Capítulo 7 | Leyes y reglamentos viales | Señales de tráfico en el manual. El manual establece que incluso cuando se permite este giro específico a la izquierda, usted debe 'yield to other vehicles, pedestrians, or bicyclists who have the green light. '. Sólo puede girar cuando sea seguro.",
+      "explanation_ko": "설명: 설명: 7장 | 도로 법규 및 규정 | 핸드북의 교통 신호 핸드북에는 특정 좌회전이 허용되는 경우에도 'yield to other vehicles, pedestrians, or bicyclists who have the green light. ' 안전할 때만 회전할 수 있다고 명시되어 있습니다.",
+      "explanation_tl": "Paliwanag: Paliwanag: Batay sa Kabanata 7 | Mga Batas at Regulasyon sa Kalsada | Mga Signal ng Trapiko sa handbook, Ang handbook ay nagsasaad na kahit na ang partikular na pagliko sa kaliwa ay pinahihintulutan, dapat kang 'yield to other vehicles, pedestrians, or bicyclists who have the green light. ' Maaari ka lamang lumiko kapag ito ay ligtas.",
+      "explanation_vi": "Giải thích: Giải thích: Dựa trên Chương 7 | Luật và Quy định Đường bộ | Tín hiệu giao thông trong sổ tay, Sổ tay nêu rõ rằng ngay cả khi được phép rẽ trái cụ thể này, bạn phải 'yield to other vehicles, pedestrians, or bicyclists who have the green light. ' Bạn chỉ được rẽ khi thấy an toàn.",
+      "options_es": [
+        "Nadie; es un giro legal.",
+        "Sólo peatones.",
+        "Vehículos, peatones y ciclistas (que tengan luz verde)."
+      ],
+      "options_ko": [
+        "아무도 없습니다. 그것은 합법적인 차례이다.",
+        "보행자만.",
+        "차량, 보행자, 자전거 운전자(녹색 신호등이 켜진 사람)."
+      ],
+      "options_tl": [
+        "Walang sinuman; ito ay isang ligal na pagliko.",
+        "Mga pedestrian lang.",
+        "Mga sasakyan, pedestrian, at nagbibisikleta (na may berdeng ilaw)."
+      ],
+      "options_vi": [
+        "Không có ai; đó là một bước ngoặt hợp pháp.",
+        "Chỉ có người đi bộ.",
+        "Xe cộ, người đi bộ và người đi xe đạp (có đèn xanh)."
+      ],
+      "question_es": "Está girando a la izquierda desde una calle de un solo sentido hacia otra calle de un solo sentido con un semáforo en rojo fijo. ¿Ante quién debes ceder?",
+      "question_ko": "빨간불이 켜진 상태에서 일방통행 도로에서 다른 일방통행 도로로 좌회전하고 있습니다. 누구에게 양보해야 합니까?",
+      "question_tl": "Kumaliwa ka mula sa isang one-way na kalye papunta sa isa pang one-way na kalye sa isang solidong pulang ilaw. Kanino ka dapat sumuko?",
+      "question_vi": "Bạn đang rẽ trái từ đường một chiều sang đường một chiều khác khi đang có đèn đỏ liên tục. Bạn phải nhường nhịn ai?"
+    },
+    {
+      "_id": "691b73d3ae28c2405c54d60a",
+      "question": "如果交通信号灯不运作（停电），您应该将其视为什么？",
+      "question_en": "If a traffic signal light is not working (blackout), how should you treat it?",
+      "image_path": "",
+      "options": [
+        "视​​为绿灯，谨慎通过。",
+        "视​​为在各​​个方向都由“STOP”（停车）标志控制。",
+        "停车，并等待执（Law Enforcement）法人员。"
+      ],
+      "options_en": [
+        "Treat it as a green light and proceed with caution.",
+        "Treat it as if it had 'STOP' signs in all directions (a four-way stop).",
+        "Stop and wait for a law enforcement officer."
+      ],
+      "correctAnswer": 1,
+      "explanation": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，信号灯失效应当作四向停牌处理，完全停车后依序通行。",
+      "explanation_en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a power-out traffic light is treated as a four-way stop.",
+      "category": "通用",
+      "state": "CA",
+      "difficulty": "medium",
+      "isActive": true,
+      "isMustKnow": true,
+      "frequency": "high",
+      "tags": [
+        "交通信号",
+        "标志"
+      ],
+      "reviewCount": 51,
+      "lastReviewed": "2025-12-15T18:35:45.919Z",
+      "__v": 0,
+      "explanation_es": "Explicación: Explicación: Según el manual, Capítulo 7 | Leyes y reglamentos viales | Señales de tráfico. El manual establece explícitamente: 'When a traffic signal is not working, stop as if the intersection is controlled by STOP signs in all directions. ' Debe detenerse por completo y ceder el paso (según las reglas de alto en cuatro direcciones) antes de continuar cuando sea seguro.",
+      "explanation_ko": "설명: 설명: 핸드북에 따르면 7장 | 도로 법규 및 규정 | 교통 신호 안내서에는 다음과 같이 명시되어 있습니다. 'When a traffic signal is not working, stop as if the intersection is controlled by STOP signs in all directions. ' 안전할 때 진행하기 전에 완전히 정지하고 (4방향 정지 규칙에 따라) 양보해야 합니다.",
+      "explanation_tl": "Paliwanag: Paliwanag: Ayon sa handbook, Kabanata 7 | Mga Batas at Regulasyon sa Kalsada | Mga Signal ng Trapiko, Ang handbook ay tahasang nagsasaad ng: 'When a traffic signal is not working, stop as if the intersection is controlled by STOP signs in all directions. ' Dapat kang ganap na huminto at magbigay (bawat apat na paraan ng paghinto ng mga patakaran) bago magpatuloy kapag ligtas.",
+      "explanation_vi": "Giải thích: Giải thích: Theo sổ tay, Chương 7 | Luật và Quy định Đường bộ | Tín hiệu Giao thông, Sổ tay nêu rõ: 'When a traffic signal is not working, stop as if the intersection is controlled by STOP signs in all directions. ' Bạn phải dừng hẳn và nhường đường (theo quy tắc dừng bốn chiều) trước khi tiếp tục khi an toàn.",
+      "options_es": [
+        "Trátelo como una luz verde y proceda con precaución.",
+        "Trátelo como si tuviera señales de 'STOP' en todas direcciones (una parada de cuatro vías).",
+        "Deténgase y espere a que llegue un agente del orden."
+      ],
+      "options_ko": [
+        "이를 녹색 신호등으로 간주하고 주의해서 진행하십시오.",
+        "모든 방향에 'STOP' 기호가 있는 것처럼 취급하십시오(4방향 정지).",
+        "멈춰서 법 집행관을 기다리십시오."
+      ],
+      "options_tl": [
+        "Tratuhin ito bilang isang berdeng ilaw at magpatuloy nang may pag-iingat.",
+        "Tratuhin ito na parang may 'STOP' na mga palatandaan sa lahat ng direksyon (isang four-way stop).",
+        "Huminto at maghintay para sa isang opisyal ng pagpapatupad ng batas."
+      ],
+      "options_vi": [
+        "Hãy coi nó như một đèn xanh và tiến hành một cách thận trọng.",
+        "Hãy đối xử với nó như thể nó có biển báo 'STOP' ở mọi hướng (điểm dừng bốn chiều).",
+        "Dừng lại và chờ đợi một nhân viên thực thi pháp luật."
+      ],
+      "question_es": "Si un semáforo no funciona (apagón), ¿cómo se debe tratar?",
+      "question_ko": "신호등이 작동하지 않는(정전) 경우 어떻게 처리해야 합니까?",
+      "question_tl": "Kung ang isang traffic signal light ay hindi gumagana (blackout), paano mo ito dapat tratuhin?",
+      "question_vi": "Nếu đèn tín hiệu giao thông không hoạt động (mất điện), bạn nên xử lý như thế nào?"
+    },
+    {
+      "_id": "691b73d3ae28c2405c54d60b",
+      "question": "如果您在有闪烁红灯（Flashing Red Light）的十字路口停车，并且您对面的车辆（也面对闪烁红灯）与您同时停车。您想直行，对方想左转。谁有先行权？",
+      "question_en": "You stop at a flashing red light, and the car opposite you (also facing a flashing red) stops at the same time. You want to go straight; they want to turn left. Who has the right-of-way?",
+      "image_path": "",
+      "options": [
+        "对方（左转车辆）。",
+        "您（直行车辆）。",
+        "最先打信号的车辆。"
+      ],
+      "options_en": [
+        "The vehicle turning left.",
+        "You (the vehicle going straight).",
+        "The vehicle that signaled first."
+      ],
+      "correctAnswer": 1,
+      "explanation": "根据手册第7章《道路法律及规定》《先行权》的规定，闪烁红灯按停牌处理，同时到达时直行优先于左转。",
+      "explanation_en": "According to the handbook, Chapter 7: Road Laws and Regulations - Right-of-Way, at a flashing red treated as a stop, straight-through traffic has priority over a left turn when arriving together.",
+      "category": "通用",
+      "state": "CA",
+      "difficulty": "medium",
+      "isActive": true,
+      "isMustKnow": true,
+      "frequency": "high",
+      "tags": [
+        "交通信号",
+        "标志"
+      ],
+      "reviewCount": 46,
+      "lastReviewed": "2025-12-15T18:19:53.463Z",
+      "__v": 0,
+      "explanation_es": "Explicación: Explicación: Basado en el Capítulo 7 | Leyes y reglamentos viales | Señales de tráfico en el manual. Una luz roja intermitente se trata como una señal 'STOP'. En una señal 'STOP', el tráfico que va directo tiene preferencia de paso sobre el tráfico que gira a la izquierda. Como te detuviste al mismo tiempo, (seguir recto) tienes prioridad.",
+      "explanation_ko": "설명: 설명: 7장 | 도로 법규 및 규정 | 안내서의 교통 신호, 깜박이는 빨간불은 'STOP' 표지판으로 간주됩니다. 'STOP' 표지판에서는 직진 차량이 좌회전 차량보다 우선권을 갖습니다. 동시에 멈춰섰기 때문에 (직진하는) 당신이 우선권을 가집니다.",
+      "explanation_tl": "Paliwanag: Paliwanag: Batay sa Kabanata 7 | Mga Batas at Regulasyon sa Kalsada | Mga Signal ng Trapiko sa handbook, Ang isang kumikislap na pulang ilaw ay itinuturing bilang isang 'STOP' na palatandaan. Sa isang 'STOP' sign , ang straight-through na trapiko ay may right-of-way sa pakaliwa na trapiko. Dahil sabay kayong huminto, ikaw (dumiretso) ang may priority.",
+      "explanation_vi": "Giải thích: Giải thích: Dựa trên Chương 7 | Luật và Quy định Đường bộ | Tín hiệu giao thông trong sổ tay, Đèn đỏ nhấp nháy được coi là biển báo 'STOP'. Tại biển báo 'STOP' , xe đi thẳng được quyền ưu tiên đối với xe rẽ trái. Vì bạn dừng lại cùng lúc nên bạn (đi thẳng) được ưu tiên.",
+      "options_es": [
+        "El vehículo gira a la izquierda.",
+        "Tú (el vehículo que va recto).",
+        "El vehículo que hizo la señal primero."
+      ],
+      "options_ko": [
+        "좌회전하는 차량입니다.",
+        "당신(직진하는 차량).",
+        "먼저 신호를 보낸 차량입니다."
+      ],
+      "options_tl": [
+        "Pakaliwa ang sasakyan.",
+        "Ikaw (dumiretso ang sasakyan).",
+        "Ang sasakyan na unang nagsenyas."
+      ],
+      "options_vi": [
+        "Xe rẽ trái.",
+        "Bạn (xe đi thẳng).",
+        "Chiếc xe có tín hiệu đầu tiên."
+      ],
+      "question_es": "Te detienes ante una luz roja intermitente y el automóvil frente a ti (también frente a una luz roja intermitente) se detiene al mismo tiempo. Quieres ir derecho; Quieren girar a la izquierda. ¿Quién tiene el derecho de paso?",
+      "question_ko": "당신은 깜박이는 빨간 신호등에 정지하고, 당신 맞은편의 자동차(역시 깜박이는 빨간 신호등을 바라보고 있는)도 동시에 정지합니다. 당신은 똑바로 가고 싶어합니다. 그들은 왼쪽으로 가고 싶어해요. 통행우선권은 누구에게 있나요?",
+      "question_tl": "Huminto ka sa isang kumikislap na pulang ilaw, at ang sasakyan sa tapat mo (nakaharap din sa isang kumikislap na pula) ay huminto sa parehong oras. Gusto mong dumiretso; gusto nilang lumiko sa kaliwa. Sino ang may right-of-way?",
+      "question_vi": "Bạn dừng lại khi đèn đỏ đang nhấp nháy và xe đối diện (cũng đang đối mặt với đèn đỏ đang nhấp nháy) cũng dừng lại cùng lúc. Bạn muốn đi thẳng; họ muốn rẽ trái. Ai có quyền ưu tiên?"
+    },
+    {
+      "_id": "691b73d3ae28c2405c54d60c",
+      "question": "在有恒亮红灯（Solid Red Light）的十字路口，如果您看到有行人（没有“行走”信号）正准备（Jaywalk）非法穿越马路，您应该：",
+      "question_en": "At a solid red light, you see a pedestrian preparing to cross illegally (jaywalk) against their signal. You should:",
+      "image_path": "",
+      "options": [
+        "即使您的红灯变绿，也要保持停车，并为行人让行，以避免碰撞。",
+        "打开您的远光灯以警告他们。",
+        "尝试在他们前面右转。"
+      ],
+      "options_en": [
+        "Remain stopped, even if your light turns green, and let the pedestrian cross to avoid a collision.",
+        "Flash your high-beams to warn them.",
+        "Try to turn right in front of them."
+      ],
+      "correctAnswer": 0,
+      "explanation": "根据手册第8章《安全驾驶》《防御性驾驶与风险管理》的规定，应以避免碰撞为先，即使行人违规也应停车让行。",
+      "explanation_en": "According to the handbook, Chapter 8: Safe Driving - Defensive Driving and Risk Management, avoiding a collision comes first, so you should yield even to an illegal pedestrian.",
+      "category": "通用",
+      "state": "CA",
+      "difficulty": "medium",
+      "isActive": true,
+      "isMustKnow": true,
+      "frequency": "high",
+      "tags": [
+        "交通信号",
+        "标志"
+      ],
+      "reviewCount": 38,
+      "lastReviewed": "2025-12-15T18:20:33.163Z",
+      "__v": 0,
+      "explanation_es": "Explicación: Explicación: Basado en el Capítulo 10 | Responsabilidad financiera, seguros y colisiones | Colisiones y seguros en el manual, El 'Basic Speed Law' y la regla principal para una conducción segura es evitar una colisión a toda costa. Incluso si el peatón es ilegal, usted (el conductor) aún tiene la responsabilidad de 'Give up your right-of-way when it helps prevent collisions. '",
+      "explanation_ko": "설명: 설명: 10장 | 재정적 책임, 보험 및 충돌 | 충돌 및 보험 핸드북의 'Basic Speed Law' 및 안전 운전의 기본 규칙은 어떤 경우에도 충돌을 피하는 것입니다. 보행자가 불법이더라도 귀하(운전자)는 여전히 'Give up your right-of-way when it helps prevent collisions. '에 대한 책임이 있습니다.",
+      "explanation_tl": "Paliwanag: Paliwanag: Batay sa Kabanata 10 | Pananagutan sa Pinansyal, Seguro, at Pagbangga | Mga banggaan at Seguro sa handbook, Ang 'Basic Speed Law' at ang pangunahing tuntunin ng ligtas na pagmamaneho ay ang pag-iwas sa banggaan sa lahat ng paraan. Kahit na ang pedestrian ay labag sa batas, ikaw (ang driver) ay may pananagutan pa rin na 'Give up your right-of-way when it helps prevent collisions. '",
+      "explanation_vi": "Giải thích: Giải thích: Dựa trên Chương 10 | Trách nhiệm tài chính, bảo hiểm và va chạm | Va chạm và Bảo hiểm trong sổ tay, 'Basic Speed Law' và nguyên tắc cơ bản của việc lái xe an toàn là tránh va chạm bằng mọi giá. Ngay cả khi người đi bộ vi phạm luật, bạn (người lái xe) vẫn có trách nhiệm 'Give up your right-of-way when it helps prevent collisions. '",
+      "options_es": [
+        "Toque la bocina y proceda inmediatamente cuando la luz se ponga verde.",
+        "Permanezca detenido, incluso si su semáforo se pone verde, y deje que el peatón cruce para evitar una colisión.",
+        "Encienda sus luces altas para advertirles.",
+        "Intenta girar a la derecha frente a ellos."
+      ],
+      "options_ko": [
+        "경적을 울리고 신호등이 녹색으로 바뀌면 즉시 진행하세요.",
+        "신호등이 녹색으로 바뀌더라도 정지 상태를 유지하고 충돌을 피하기 위해 보행자가 횡단하도록 하십시오.",
+        "상향등을 깜박여 경고하십시오.",
+        "그들 앞에서 우회전을 해보세요."
+      ],
+      "options_tl": [
+        "Bumusina at magpatuloy kaagad kapag naging berde ang iyong ilaw.",
+        "Manatiling tumigil, kahit na maging berde ang iyong ilaw, at hayaang tumawid ang pedestrian upang maiwasan ang banggaan.",
+        "I-flash ang iyong mga high-beam para balaan sila.",
+        "Subukang lumiko pakanan sa harap nila."
+      ],
+      "options_vi": [
+        "Bấm còi và đi tiếp ngay khi đèn chuyển sang màu xanh.",
+        "Vẫn dừng lại, ngay cả khi đèn của bạn chuyển sang màu xanh và để người đi bộ băng qua để tránh va chạm.",
+        "Hãy nháy đèn pha cao của bạn để cảnh báo họ.",
+        "Cố gắng rẽ phải trước mặt họ."
+      ],
+      "question_es": "En un semáforo en rojo fijo, verá a un peatón preparándose para cruzar ilegalmente (cruzar imprudentemente) en contra de su señal. Deberías:",
+      "question_ko": "빨간불이 켜진 상태에서 보행자가 신호를 무시하고 불법 횡단(무단횡단)을 준비하는 것을 봅니다. 다음을 수행해야 합니다.",
+      "question_tl": "Sa isang solidong pulang ilaw, makikita mo ang isang pedestrian na naghahanda na tumawid nang ilegal (jaywalk) laban sa kanilang signal. Dapat mong:",
+      "question_vi": "Khi đèn đỏ liên tục, bạn nhìn thấy một người đi bộ đang chuẩn bị vượt trái phép (đi bộ jaywalk) trái với tín hiệu của họ. Bạn nên:"
+    },
+    {
+      "_id": "691b73d3ae28c2405c54d60d",
+      "question": "在恒亮的红灯（Solid Red Light）时，您在右转（当允许时）之前，必须为（从您左侧驶来的）哪类车流让行？",
+      "question_en": "When turning right on a solid red light (when permitted), you must yield to which traffic from your left?",
+      "image_path": "",
+      "options": [
+        "仅为最右侧行车线的车辆。",
+        "仅为卡车和公共汽车。",
+        "所有行车线上的所有车辆、摩托车和自行车。"
+      ],
+      "options_en": [
+        "Only vehicles in the far-right lane.",
+        "Only trucks and buses.",
+        "All vehicles, motorcycles, and bicycles in all lanes."
+      ],
+      "correctAnswer": 2,
+      "explanation": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯右转需让行来自左侧所有车道的车辆以及摩托车和自行车。",
+      "explanation_en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, when turning right on red you must yield to all traffic from the left, including motorcycles and bicycles.",
+      "category": "通用",
+      "state": "CA",
+      "difficulty": "medium",
+      "isActive": true,
+      "isMustKnow": true,
+      "frequency": "high",
+      "tags": [
+        "交通信号",
+        "标志"
+      ],
+      "reviewCount": 33,
+      "lastReviewed": "2025-12-15T18:21:42.010Z",
+      "__v": 0,
+      "explanation_es": "Explicación: Explicación: Según el Capítulo 8 | Conducción segura | Conducción defensiva y gestión de riesgos del manual. Cuando gira a la derecha en rojo, se está incorporando al tráfico que tiene luz verde. Debe ceder el paso a todo el tráfico legal que se acerque y que sea peligroso. Esto incluye vehículos en todos los carriles que vienen por su izquierda, así como motocicletas y ciclistas.",
+      "explanation_ko": "설명: 설명: 8장에 따라 | 안전운전 | 수첩의 방어 운전 및 위험 관리, 빨간색 신호등에서 우회전하면 녹색 신호등이 켜진 차량에 합류하게 됩니다. 위험할 수 있는 모든 법적 교통 접근에 양보해야 합니다. 여기에는 왼쪽에서 오는 모든 차선의 차량뿐만 아니라 오토바이와 자전거 운전자도 포함됩니다.",
+      "explanation_tl": "Paliwanag: Paliwanag: Bawat Kabanata 8 | Ligtas na Pagmamaneho | Defensive Driving at Risk Management ng handbook, Kapag kumanan ka sa pula, ikaw ay nagsasama sa trapiko na may berdeng ilaw. Dapat kang sumuko sa lahat ng paparating na legal na trapiko na isang panganib. Kabilang dito ang mga sasakyan sa lahat ng lane na nagmumula sa iyong kaliwa, pati na rin ang mga motorsiklo at nagbibisikleta .",
+      "explanation_vi": "Giải thích: Giải thích: Theo Chương 8 | Lái xe an toàn | Cuốn sổ tay Lái xe Phòng vệ và Quản lý Rủi ro Khi rẽ phải khi đèn đỏ, bạn đang nhập vào luồng giao thông đang có đèn xanh. Bạn phải nhường đường cho tất cả các phương tiện giao thông hợp pháp đang đến gần vì đó là mối nguy hiểm. Điều này bao gồm các phương tiện ở tất cả các làn đường đến từ bên trái của bạn, cũng như xe mô tô và người đi xe đạp .",
+      "options_es": [
+        "Sólo vehículos en el carril de extrema derecha.",
+        "Sólo camiones y autobuses.",
+        "Todos los vehículos, motocicletas y bicicletas en todos los carriles.",
+        "Sólo vehículos que van más rápido que 30 mph."
+      ],
+      "options_ko": [
+        "가장 오른쪽 차선에 있는 차량만 해당됩니다.",
+        "트럭과 버스만 있습니다.",
+        "모든 차선에 모든 차량, 오토바이, 자전거가 있습니다.",
+        "30 mph보다 빠르게 달리는 차량만 있습니다."
+      ],
+      "options_tl": [
+        "Mga sasakyan lang sa dulong kanan.",
+        "Tanging mga trak at bus.",
+        "Lahat ng sasakyan, motorsiklo, at bisikleta sa lahat ng lane.",
+        "Ang mga sasakyan lang ang mas mabilis kaysa 30 mph."
+      ],
+      "options_vi": [
+        "Chỉ có xe ở làn ngoài cùng bên phải.",
+        "Chỉ có xe tải và xe buýt.",
+        "Tất cả các loại xe ô tô, xe máy, xe đạp trên tất cả các làn đường.",
+        "Chỉ có xe đi nhanh hơn 30 mph."
+      ],
+      "question_es": "Al girar a la derecha con un semáforo en rojo fijo (cuando está permitido), ¿a qué tráfico de su izquierda debe ceder el paso?",
+      "question_ko": "빨간 신호등에서 우회전할 때(허용되는 경우) 왼쪽에서 어떤 차량에게 양보해야 합니까?",
+      "question_tl": "Kapag lumiko pakanan sa isang solidong pulang ilaw (kapag pinahihintulutan), dapat kang sumuko sa aling trapiko mula sa iyong kaliwa?",
+      "question_vi": "Khi rẽ phải khi đèn đỏ liên tục (khi được phép), bạn phải nhường đường cho xe nào từ bên trái của bạn?"
+    },
+    {
+      "_id": "691b73d3ae28c2405c54d60e",
+      "question": "一个恒亮的红色箭头（Solid Red Arrow）表示您必须：",
+      "question_en": "A solid red arrow means you must:",
+      "image_path": "",
+      "options": [
+        "保持停车，不得转向箭头方向。",
+        "减速并谨慎转弯。",
+        "为行人让行，然后转弯。"
+      ],
+      "options_en": [
+        "Remain stopped and not turn in the direction of the arrow.",
+        "Slow down and turn with caution.",
+        "Yield to pedestrians, then turn."
+      ],
+      "correctAnswer": 0,
+      "explanation": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红色箭头要求停车并禁止转向箭头方向。",
+      "explanation_en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a red arrow requires a stop and prohibits turning in the arrow’s direction.",
+      "category": "通用",
+      "state": "CA",
+      "difficulty": "medium",
+      "isActive": true,
+      "isMustKnow": true,
+      "frequency": "high",
+      "tags": [
+        "交通信号",
+        "标志"
+      ],
+      "reviewCount": 38,
+      "lastReviewed": "2025-12-15T18:23:48.476Z",
+      "__v": 0,
+      "explanation_es": "Explicación: Explicación: Según el Capítulo 7 | Leyes y reglamentos viales | Señales de tráfico del manual, El manual es absoluto: 'A red arrow means 'STOP. ' You may NOT turn while the red arrow is lit. ' Debe permanecer detenido hasta que cambie la señal. No permite un giro 'stop-and-go' como lo hace una luz roja fija.",
+      "explanation_ko": "설명: 설명: 7장에 따라 | 도로 법규 및 규정 | 핸드북의 교통 신호, 핸드북은 절대적입니다: 'A red arrow means 'STOP. ' You may NOT turn while the red arrow is lit. ' 신호가 바뀔 때까지 정지 상태를 유지해야 합니다. 빨간불이 켜져 있는 것처럼 'stop-and-go' 회전을 허용하지 않습니다.",
+      "explanation_tl": "Paliwanag: Paliwanag: Bawat Kabanata 7 | Mga Batas at Regulasyon sa Kalsada | Mga Signal ng Trapiko ng handbook, Ang handbook ay ganap: 'A red arrow means 'STOP. ' You may NOT turn while the red arrow is lit. ' Dapat kang manatiling nakahinto hanggang sa magbago ang signal. Hindi nito pinahihintulutan ang 'stop-and-go' na pagliko tulad ng ginagawa ng solidong pulang ilaw.",
+      "explanation_vi": "Giải thích: Giải thích: Theo Chương 7 | Luật và Quy định Đường bộ | Tín hiệu giao thông của sổ tay, Sổ tay tuyệt đối: 'A red arrow means 'STOP. ' You may NOT turn while the red arrow is lit. ' Bạn phải dừng lại cho đến khi có tín hiệu thay đổi. Nó không cho phép rẽ 'stop-and-go' như đèn đỏ liên tục.",
+      "options_es": [
+        "Permanecer detenido y no girar en el sentido de la flecha.",
+        "Reduzca la velocidad y gire con precaución.",
+        "Ceda el paso a los peatones y luego gire."
+      ],
+      "options_ko": [
+        "정지한 상태를 유지하고 화살표 방향으로 회전하지 마십시오.",
+        "속도를 줄이고 조심해서 방향을 바꾸세요.",
+        "보행자에게 양보한 후 방향을 바꾸세요."
+      ],
+      "options_tl": [
+        "Manatiling tumigil at huwag lumiko sa direksyon ng arrow.",
+        "Dahan-dahan at lumiko nang may pag-iingat.",
+        "Magbigay sa mga naglalakad, pagkatapos ay lumiko."
+      ],
+      "options_vi": [
+        "Tiếp tục dừng lại và không rẽ theo hướng mũi tên.",
+        "Hãy đi chậm lại và rẽ cẩn thận.",
+        "Nhường đường cho người đi bộ rồi rẽ."
+      ],
+      "question_es": "Una flecha roja sólida significa que debes:",
+      "question_ko": "빨간색 화살표는 다음을 수행해야 함을 의미합니다.",
+      "question_tl": "Ang isang solidong pulang arrow ay nangangahulugang kailangan mong:",
+      "question_vi": "Mũi tên liền màu đỏ có nghĩa là bạn phải:"
+    },
+    {
+      "_id": "691b73d3ae28c2405c54d60f",
+      "question": "如果您在有闪烁红灯（Flashing Red Light）的铁路交叉口，您应该：",
+      "question_en": "If you are at a railroad crossing with a flashing red light, you should:",
+      "image_path": "",
+      "options": [
+        "在距离最近的铁轨至少 15 呎以外之处停车，并等待（直到灯停止闪烁）。",
+        "减速并（如果没有火车）小心通过。",
+        "在灯光闪烁时，将其视为“YIELD”（让行）标志。"
+      ],
+      "options_en": [
+        "Stop at least 15 feet from the nearest rail and wait (until the lights stop flashing).",
+        "Slow down and proceed with caution (if no train is visible).",
+        "Treat it as a 'YIELD' sign while the lights are flashing."
+      ],
+      "correctAnswer": 0,
+      "explanation": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，道口红灯闪烁必须在距铁轨至少 15 英尺处停车等待。",
+      "explanation_en": "According to the handbook, Chapter 7: Road Laws and Regulations - Road Rules, flashing red railroad lights require stopping at least 15 feet from the tracks and waiting.",
+      "category": "通用",
+      "state": "CA",
+      "difficulty": "medium",
+      "isActive": true,
+      "isMustKnow": true,
+      "frequency": "high",
+      "tags": [
+        "交通信号",
+        "标志"
+      ],
+      "reviewCount": 44,
+      "lastReviewed": "2025-12-15T18:35:59.408Z",
+      "__v": 0,
+      "explanation_es": "Explicación: Explicación: Basado en el Capítulo 7 | Leyes y reglamentos viales | Señales de tráfico en el manual. El manual establece: 'Flashing red warning lights mean you must stop and wait. ' Debes 'detenerte al menos 15 feet del carril más cercano.",
+      "explanation_ko": "설명: 설명: 7장 | 도로 법규 및 규정 | 핸드북의 교통 신호 핸드북에는 다음과 같이 명시되어 있습니다. 'Flashing red warning lights mean you must stop and wait. ' 가장 가까운 철도에서 최소 15 feet 정지해야 합니다.",
+      "explanation_tl": "Paliwanag: Paliwanag: Batay sa Kabanata 7 | Mga Batas at Regulasyon sa Kalsada | Mga Signal ng Trapiko sa handbook, Nakasaad sa handbook: 'Flashing red warning lights mean you must stop and wait. ' Dapat kang 'Huminto kahit 15 feet mula sa pinakamalapit na riles.",
+      "explanation_vi": "Giải thích: Giải thích: Dựa trên Chương 7 | Luật và Quy định Đường bộ | Tín hiệu giao thông trong sổ tay, Sổ tay nêu rõ: 'Flashing red warning lights mean you must stop and wait. ' Bạn phải 'Dừng lại ít nhất 15 feet từ đường ray gần nhất.",
+      "options_es": [
+        "Deténgase al menos a 15 feet del riel más cercano y espere (hasta que las luces dejen de parpadear).",
+        "Reduzca la velocidad y avance con precaución (si no se ve ningún tren).",
+        "Trátelo como una señal 'YIELD' mientras las luces parpadean."
+      ],
+      "options_ko": [
+        "가장 가까운 레일에서 최소 15 feet 정지하고 기다리세요(신호등 깜박임이 멈출 때까지).",
+        "속도를 줄이고 주의해서 진행하십시오(기차가 보이지 않는 경우).",
+        "표시등이 깜박이는 동안 이를 'YIELD' 기호로 취급하십시오."
+      ],
+      "options_tl": [
+        "Huminto kahit 15 feet mula sa pinakamalapit na riles at maghintay (hanggang sa tumigil ang pagkislap ng mga ilaw).",
+        "Magdahan-dahan at magpatuloy nang may pag-iingat (kung walang nakikitang tren).",
+        "Tratuhin ito bilang 'YIELD' sign habang kumikislap ang mga ilaw."
+      ],
+      "options_vi": [
+        "Dừng lại ít nhất 15 feet từ đường ray gần nhất và đợi (cho đến khi đèn ngừng nhấp nháy).",
+        "Hãy giảm tốc độ và tiếp tục đi một cách thận trọng (nếu không nhìn thấy tàu).",
+        "Hãy coi nó như một dấu hiệu 'YIELD' khi đèn đang nhấp nháy."
+      ],
+      "question_es": "Si se encuentra en un cruce de ferrocarril con una luz roja intermitente, debe:",
+      "question_ko": "빨간색 신호등이 깜박이는 철도 건널목에 있는 경우 다음을 수행해야 합니다.",
+      "question_tl": "Kung ikaw ay nasa isang riles na tumatawid na may kumikislap na pulang ilaw, dapat mong:",
+      "question_vi": "Nếu bạn đang ở nơi giao nhau với đường sắt có đèn đỏ nhấp nháy, bạn nên:"
+    },
+    {
+      "_id": "691b73d3ae28c2405c54d610",
+      "question": "在有恒亮红灯（Solid Red Light）的情况下，您从双向道左转进入单行道是否合法？",
+      "question_en": "Is it legal to turn left from a two-way street onto a one-way street on a solid red light?",
+      "image_path": "",
+      "options": [
+        "是，在停车后。",
+        "否，这是违法的。",
+        "是，但仅限夜间。"
+      ],
+      "options_en": [
+        "Yes, after stopping.",
+        "No, this is illegal.",
+        "Yes, but only at night."
+      ],
+      "correctAnswer": 1,
+      "explanation": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯左转仅限单行道转单行道，从双向道左转仍属违法。",
+      "explanation_en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, left on red is only allowed from a one-way to a one-way street; from a two-way street it is illegal.",
+      "category": "通用",
+      "state": "CA",
+      "difficulty": "medium",
+      "isActive": true,
+      "isMustKnow": true,
+      "frequency": "high",
+      "tags": [
+        "交通信号",
+        "标志"
+      ],
+      "reviewCount": 42,
+      "lastReviewed": "2025-12-15T18:36:16.608Z",
+      "__v": 0,
+      "explanation_es": "Explicación: Explicación: Basado en el Capítulo 7 | Leyes y reglamentos viales | Señales de tráfico en el manual. La única excepción para un giro a la izquierda en rojo que figura en el manual es 'from a one-way street onto another one-way street. '. Girar a la izquierda desde una calle de doble sentido (con tráfico en sentido contrario) con un semáforo en rojo (incluso en un semáforo de un solo sentido) es ilegal, ya que entra en conflicto con el tráfico (de su izquierda) que tiene luz verde.",
+      "explanation_ko": "설명: 설명: 7장 | 도로 법규 및 규정 | 핸드북의 교통 신호, 핸드북에 나열된 빨간색 좌회전에 대한 유일한 예외는 'from a one-way street onto another one-way street. '입니다. 양방향 도로(다가오는 차량이 있는 경우)에서 빨간 신호등(일방통행이라도)에서 좌회전하는 것은 녹색 신호등이 켜진(왼쪽에서 오는) 차량과 충돌하므로 불법입니다.",
+      "explanation_tl": "Paliwanag: Paliwanag: Batay sa Kabanata 7 | Mga Batas at Regulasyon sa Kalsada | Mga Signal ng Trapiko sa handbook, Ang tanging pagbubukod para sa pagliko sa kaliwa sa pulang nakalista sa handbook ay 'from a one-way street onto another one-way street. ' Ang pagliko pakaliwa mula sa isang two-way na kalye (na may paparating na trapiko) sa isang pulang ilaw (kahit sa isang one-way) ay ilegal, dahil sumasalungat ito sa trapiko (mula sa iyong kaliwa) na may berdeng ilaw.",
+      "explanation_vi": "Giải thích: Giải thích: Dựa trên Chương 7 | Luật và Quy định Đường bộ | Tín hiệu giao thông trong sổ tay, Ngoại lệ duy nhất cho việc rẽ trái khi đèn đỏ được liệt kê trong sổ tay là 'from a one-way street onto another one-way street. ' Rẽ trái từ đường hai chiều (có xe đang chạy tới) khi đèn đỏ (thậm chí vào đường một chiều) là bất hợp pháp vì nó xung đột với giao thông (từ bên trái của bạn) có đèn xanh.",
+      "options_es": [
+        "Sí, después de parar.",
+        "No, esto es ilegal.",
+        "Sí, pero sólo de noche."
+      ],
+      "options_ko": [
+        "네, 멈춘 후에요.",
+        "아니요, 이것은 불법입니다.",
+        "네, 하지만 밤에만요."
+      ],
+      "options_tl": [
+        "Oo, pagkatapos huminto.",
+        "Hindi, ito ay labag sa batas.",
+        "Oo, pero sa gabi lang."
+      ],
+      "options_vi": [
+        "Vâng, sau khi dừng lại.",
+        "Không, điều này là bất hợp pháp.",
+        "Có, nhưng chỉ vào ban đêm."
+      ],
+      "question_es": "¿Es legal girar a la izquierda desde una calle de doble sentido hacia una calle de un solo sentido con un semáforo en rojo fijo?",
+      "question_ko": "빨간불이 켜진 상태에서 양방향 도로에서 일방통행 도로로 좌회전하는 것이 합법적인가요?",
+      "question_tl": "Legal ba na lumiko pakaliwa mula sa isang two-way na kalye papunta sa isang one-way na kalye sa isang solidong pulang ilaw?",
+      "question_vi": "Rẽ trái từ đường hai chiều vào đường một chiều khi đèn đỏ liên tục có vi phạm pháp luật không?"
+    },
+    {
+      "_id": "691b73d3ae28c2405c54d611",
+      "question": "如果红灯亮着，并且您正在右转（在停车后），您看到一位盲人行人（有白色手杖）正准备进入人行横道。您应该：",
+      "question_en": "You are turning right on a red light (after stopping) and see a blind pedestrian (with a white cane) preparing to enter the crosswalk. You should:",
+      "image_path": "",
+      "options": [
+        "鸣喇叭（以让他们知道您在那里），然后转弯。",
+        "保持停车状态，并等待行人完全通过。",
+        "在他们后方缓慢转弯。"
+      ],
+      "options_en": [
+        "Honk (to let them know you are there), then turn.",
+        "Remain stopped and wait for the pedestrian to cross completely.",
+        "Turn slowly behind them."
+      ],
+      "correctAnswer": 1,
+      "explanation": "根据手册第7章《道路法律及规定》《行人与人行横道》的规定，盲人行人享有先行权，红灯右转应等待其完全通过。",
+      "explanation_en": "According to the handbook, Chapter 7: Road Laws and Regulations - Pedestrians and Crosswalks, blind pedestrians have the right-of-way and you must wait for them to cross.",
+      "category": "通用",
+      "state": "CA",
+      "difficulty": "medium",
+      "isActive": true,
+      "isMustKnow": true,
+      "frequency": "high",
+      "tags": [
+        "交通信号",
+        "标志"
+      ],
+      "reviewCount": 34,
+      "lastReviewed": "2025-12-15T18:26:27.531Z",
+      "__v": 0,
+      "explanation_es": "Explicación: Explicación: Basado en el Capítulo 7 | Leyes y reglamentos viales | Señales de tráfico en el manual. El manual indica que los peatones ciegos 'have the right-of-way at all times. '. Girar a la derecha en rojo requiere que ceda el paso a los peatones. Debes permanecer detenido. El manual también advierte específicamente: \"No toque la bocina\".",
+      "explanation_ko": "설명: 설명: 7장 | 도로 법규 및 규정 | 수첩의 교통 신호, 수첩에는 시각 장애인 보행자가 명시되어 있습니다. 'have the right-of-way at all times. ' 빨간색 신호등에서 우회전하려면 보행자에게 양보해야 합니다. 정지된 상태를 유지해야 합니다. 핸드북에는 '경적을 울리지 마세요'라고 구체적으로 경고합니다.",
+      "explanation_tl": "Paliwanag: Paliwanag: Batay sa Kabanata 7 | Mga Batas at Regulasyon sa Kalsada | Mga Signal ng Trapiko sa handbook, Ang handbook ay nagsasaad ng mga bulag na pedestrian 'have the right-of-way at all times. ' Ang pagliko sa kanan sa pula ay nangangailangan sa iyo na sumuko sa mga pedestrian. Dapat kang manatiling tumigil. Partikular ding nagbabala ang handbook na 'Huwag bumusina.",
+      "explanation_vi": "Giải thích: Giải thích: Dựa trên Chương 7 | Luật và Quy định Đường bộ | Tín hiệu giao thông trong sổ tay, Sổ tay nêu rõ người đi bộ bị mù 'have the right-of-way at all times. ' Rẽ phải khi đèn đỏ yêu cầu bạn phải nhường đường cho người đi bộ. Bạn phải dừng lại. Cuốn sổ tay còn đặc biệt cảnh báo “Đừng bấm còi”.",
+      "options_es": [
+        "Toque la bocina (para hacerles saber que está allí) y luego gire.",
+        "Permanecer detenido y esperar a que el peatón cruce por completo.",
+        "Gira lentamente detrás de ellos."
+      ],
+      "options_ko": [
+        "경적을 울리고(당신이 거기 있다는 것을 알리기 위해) 돌아서십시오.",
+        "정지한 상태에서 보행자가 완전히 건널 때까지 기다리십시오.",
+        "천천히 그들 뒤에서 돌아서세요."
+      ],
+      "options_tl": [
+        "Bumusina (para ipaalam sa kanila na nandoon ka), pagkatapos ay lumiko.",
+        "Manatiling tumigil at hintayin ang pedestrian na ganap na tumawid.",
+        "Dahan-dahang lumiko sa likod nila."
+      ],
+      "options_vi": [
+        "Bấm còi (để họ biết bạn đang ở đó), sau đó quay lại.",
+        "Tiếp tục dừng lại và đợi người đi bộ băng qua hoàn toàn.",
+        "Hãy từ từ quay lại phía sau họ."
+      ],
+      "question_es": "Está girando a la derecha en un semáforo en rojo (después de detenerse) y ve a un peatón ciego (con un bastón blanco) preparándose para ingresar al cruce de peatones. Deberías:",
+      "question_ko": "빨간 신호등(정지 후)에서 우회전하는 중에 횡단보도로 진입을 준비하는 시각 장애인 보행자(흰색 지팡이를 쥔)가 보입니다. 다음을 수행해야 합니다.",
+      "question_tl": "Kumanan ka sa pulang ilaw (pagkatapos huminto) at may nakita kang bulag na pedestrian (na may puting tungkod) na naghahanda para pumasok sa tawiran. Dapat mong:",
+      "question_vi": "Bạn đang rẽ phải khi đèn đỏ (sau khi dừng lại) và nhìn thấy một người đi bộ mù (cầm gậy trắng) đang chuẩn bị đi vào lối qua đường dành cho người đi bộ. Bạn nên:"
+    },
+    {
+      "_id": "691b73d3ae28c2405c54d612",
+      "question": "一个恒亮的黄色交通信号灯（Solid Yellow Light）是什么意思？",
+      "question_en": "What does a solid yellow traffic signal light mean?",
+      "image_path": "",
+      "options": [
+        "“小心”，信号灯即将变红。应安全停车。",
+        "“通行”，但要减速。",
+        "“让行”，为其他车辆让行。"
+      ],
+      "options_en": [
+        "'CAUTION,' the signal is about to turn red. You should stop if safe.",
+        "'GO,' but slow down.",
+        "'YIELD,' give way to other traffic."
+      ],
+      "correctAnswer": 0,
+      "explanation": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，黄灯表示警示即将变红，应在安全时停车，否则谨慎通过。",
+      "explanation_en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a solid yellow light warns it is turning red; stop if safe, otherwise proceed cautiously.",
+      "category": "通用",
+      "state": "CA",
+      "difficulty": "medium",
+      "isActive": true,
+      "isMustKnow": true,
+      "frequency": "high",
+      "tags": [
+        "交通信号",
+        "标志"
+      ],
+      "reviewCount": 38,
+      "lastReviewed": "2025-12-15T18:36:27.649Z",
+      "__v": 0,
+      "explanation_es": "Explicación: Explicación: Basado en el Capítulo 7 | Leyes y reglamentos viales | Señales de tráfico en el manual. El manual establece: 'A yellow traffic signal light means 'PRECAUCIÓN. ' The signal is about to turn red. ' Su respuesta correcta es 'stop if you can do so safely. '. Si no puede detenerse de manera segura, debe avanzar con cautela a través de la intersección.",
+      "explanation_ko": "설명: 설명: 7장 | 도로 법규 및 규정 | 안내서의 교통 신호, 안내서에는 다음과 같이 명시되어 있습니다: 'A yellow traffic signal light means '주의. ' The signal is about to turn red. ' 귀하의 올바른 반응은 'stop if you can do so safely. '입니다. 안전하게 정지할 수 없는 경우 교차로를 조심스럽게 통과해야 합니다.",
+      "explanation_tl": "Paliwanag: Paliwanag: Batay sa Kabanata 7 | Mga Batas at Regulasyon sa Kalsada | Mga Signal ng Trapiko sa handbook, Ang handbook ay nagsasaad ng: 'A yellow traffic signal light means 'INGAT. ' The signal is about to turn red. ' Ang iyong tamang tugon ay sa 'stop if you can do so safely. ' Kung hindi ka makahinto nang ligtas, dapat kang magpatuloy nang maingat sa intersection.",
+      "explanation_vi": "Giải thích: Giải thích: Dựa trên Chương 7 | Luật và Quy định Đường bộ | Tín hiệu giao thông trong sổ tay, Sổ tay nêu rõ: 'A yellow traffic signal light means 'THẬN TRỌNG. ' The signal is about to turn red. ' Câu trả lời đúng của bạn là 'stop if you can do so safely. ' Nếu bạn không thể dừng lại an toàn, bạn nên thận trọng khi đi qua giao lộ.",
+      "options_es": [
+        "'CAUTION,' la señal está a punto de ponerse roja. Debes detenerte si es seguro.",
+        "'GO,' pero más despacio.",
+        "'YIELD,' ceda el paso al resto del tráfico."
+      ],
+      "options_ko": [
+        "'CAUTION,' 신호가 빨간색으로 바뀌려고 합니다. 안전하다면 멈춰야 합니다.",
+        "'GO,' 하지만 천천히 하세요.",
+        "'YIELD,' 다른 차량에게 양보하세요."
+      ],
+      "options_tl": [
+        "'CAUTION,' malapit nang maging pula ang signal. Dapat kang huminto kung ligtas ka.",
+        "'GO,' ngunit dahan-dahan.",
+        "'YIELD,' magbigay daan sa ibang trapiko."
+      ],
+      "options_vi": [
+        "'CAUTION,' tín hiệu sắp chuyển sang màu đỏ. Bạn nên dừng lại nếu an toàn.",
+        "'GO,' nhưng hãy chậm lại.",
+        "'YIELD,' nhường đường cho xe khác."
+      ],
+      "question_es": "¿Qué significa un semáforo en amarillo fijo?",
+      "question_ko": "노란색으로 켜져 있는 교통 신호등은 무엇을 의미합니까?",
+      "question_tl": "Ano ang ibig sabihin ng solid na dilaw na traffic signal light?",
+      "question_vi": "Đèn tín hiệu giao thông màu vàng liên tục có ý nghĩa gì?"
+    },
+    {
+      "_id": "691b73d3ae28c2405c54d613",
+      "question": "当您接近一个十字路口，信号灯变为恒亮的黄灯时，您应该怎么做？",
+      "question_en": "When you approach an intersection and the signal turns to a solid yellow light, what should you do?",
+      "image_path": "",
+      "options": [
+        "加速以在红灯前“抢灯”通过。",
+        "猛踩刹车以立即停车。",
+        "如果您无法安全停车，则应小心穿过十字路口。"
+      ],
+      "options_en": [
+        "Speed up to 'beat' the red light.",
+        "Slam on your brakes to stop immediately.",
+        "If you cannot stop safely, proceed cautiously through the intersection."
+      ],
+      "correctAnswer": 2,
+      "explanation": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，接近黄灯若无法安全停车，应谨慎通过路口。",
+      "explanation_en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, if you cannot stop safely for a yellow light, proceed cautiously through the intersection.",
+      "category": "通用",
+      "state": "CA",
+      "difficulty": "medium",
+      "isActive": true,
+      "isMustKnow": true,
+      "frequency": "high",
+      "tags": [
+        "交通信号",
+        "标志"
+      ],
+      "reviewCount": 31,
+      "lastReviewed": "2025-12-15T18:28:06.955Z",
+      "__v": 0,
+      "explanation_es": "Explicación: Explicación: Basado en el Capítulo 8 | Conducción segura | Conducción defensiva y gestión de riesgos en el manual. La regla es \"detenerse si puede hacerlo de forma segura\".",
+      "explanation_ko": "설명: 설명: 8장 | 안전운전 | 방어운전과 위험관리 수첩에는 '안전하게 할 수 있으면 멈추라'는 규칙이 있습니다.",
+      "explanation_tl": "Paliwanag: Paliwanag: Batay sa Kabanata 8 | Ligtas na Pagmamaneho | Defensive Driving at Risk Management sa handbook, Ang panuntunan ay 'itigil kung magagawa mo ito nang ligtas.",
+      "explanation_vi": "Giải thích: Giải thích: Dựa trên Chương 8 | Lái xe an toàn | Lái xe Phòng vệ và Quản lý Rủi ro trong sổ tay, Quy tắc là 'dừng lại nếu bạn có thể làm như vậy một cách an toàn.",
+      "options_es": [
+        "Acelera hasta 'beat' la luz roja.",
+        "Pise los frenos de golpe para detenerse inmediatamente.",
+        "Si no puede detenerse de manera segura, avance con precaución a través de la intersección.",
+        "Debes parar bajo todas las circunstancias."
+      ],
+      "options_ko": [
+        "빨간 신호등에서 'beat' 속도를 높이세요.",
+        "즉시 정지하려면 브레이크를 세게 밟으십시오.",
+        "안전하게 정지할 수 없는 경우에는 교차로를 조심스럽게 통과하십시오.",
+        "어떤 상황에서도 멈춰야 합니다."
+      ],
+      "options_tl": [
+        "Pabilisin hanggang 'beat' ang pulang ilaw.",
+        "I-slam ang iyong preno upang huminto kaagad.",
+        "Kung hindi ka makahinto nang ligtas, magpatuloy nang maingat sa intersection.",
+        "Dapat kang huminto sa lahat ng pagkakataon."
+      ],
+      "options_vi": [
+        "Tăng tốc tới 'beat' khi đèn đỏ.",
+        "Hãy đạp phanh để dừng ngay lập tức.",
+        "Nếu bạn không thể dừng lại an toàn, hãy thận trọng đi qua giao lộ.",
+        "Bạn phải dừng lại trong mọi trường hợp."
+      ],
+      "question_es": "Cuando te acercas a una intersección y el semáforo se convierte en una luz amarilla fija, ¿qué debes hacer?",
+      "question_ko": "교차로에 접근하여 신호등이 황색 신호등으로 바뀌면 어떻게 해야 합니까?",
+      "question_tl": "Kapag lumalapit ka sa isang intersection at ang signal ay naging solidong dilaw na ilaw, ano ang dapat mong gawin?",
+      "question_vi": "Khi đến gần một ngã tư và đèn tín hiệu chuyển sang đèn vàng liên tục, bạn nên làm gì?"
+    },
+    {
+      "_id": "691b73d3ae28c2405c54d615",
+      "question": "当您在十字路口（已进入）等待左转时，信号灯变为恒亮的黄灯。您应该：",
+      "question_en": "You are waiting in the intersection to turn left when the signal light turns solid yellow. You should:",
+      "image_path": "",
+      "options": [
+        "立即停车，并留在十字路口中间。",
+        "倒车，退回到限制线后面。",
+        "在迎面车流停止后，谨慎完成转弯。"
+      ],
+      "options_en": [
+        "Stop immediately and stay in the middle of the intersection.",
+        "Reverse your vehicle back behind the limit line.",
+        "Complete the turn cautiously after oncoming traffic stops."
+      ],
+      "correctAnswer": 2,
+      "explanation": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，已在路口等待左转时，黄灯后应在安全空隙完成转弯并清空路口。",
+      "explanation_en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, if you are waiting in the intersection, complete the left turn safely when the gap appears.",
+      "category": "通用",
+      "state": "CA",
+      "difficulty": "medium",
+      "isActive": true,
+      "isMustKnow": true,
+      "frequency": "high",
+      "tags": [
+        "交通信号",
+        "标志"
+      ],
+      "reviewCount": 35,
+      "lastReviewed": "2025-12-15T18:28:35.547Z",
+      "__v": 0,
+      "explanation_es": "Explicación: Explicación: Según el Capítulo 7 | Leyes y reglamentos viales | Señales de tráfico del manual. El manual establece que si usted 'cannot stop safely or are already in the intersection' cuando aparece el amarillo, debe 'cautiously complete your turn. '. Si está esperando en la intersección, debe despejarla de manera segura una vez que el tráfico que viene en sentido contrario (por su luz roja) se detenga, incluso si su luz ahora está en rojo.",
+      "explanation_ko": "설명: 설명: 7장에 따라 | 도로 법규 및 규정 | 핸드북의 교통 신호 핸드북에는 노란색 신호등이 나타날 때 'cannot stop safely or are already in the intersection'하면 'cautiously complete your turn. '해야 한다고 명시되어 있습니다. 교차로에서 기다리고 있는 경우, 다가오는 차량(빨간 신호등 때문에)이 정지한 후 신호등이 현재 빨간색이더라도 안전하게 통과해야 합니다.",
+      "explanation_tl": "Paliwanag: Paliwanag: Bawat Kabanata 7 | Mga Batas at Regulasyon sa Kalsada | Mga Signal ng Trapiko ng handbook, Nakasaad sa handbook na kung ikaw ay 'cannot stop safely or are already in the intersection' kapag lumitaw ang dilaw, dapat mong 'cautiously complete your turn. ' Kung naghihintay ka sa intersection, dapat mong i-clear ito nang ligtas kapag huminto ang paparating na trapiko (para sa kanilang pulang ilaw), kahit na ang iyong ilaw ay pula na ngayon.",
+      "explanation_vi": "Giải thích: Giải thích: Theo Chương 7 | Luật và Quy định Đường bộ | Tín hiệu giao thông trong sổ tay, Sổ tay nêu rõ rằng nếu bạn 'cannot stop safely or are already in the intersection' khi đèn vàng xuất hiện, bạn nên 'cautiously complete your turn. ' Nếu bạn đang đợi ở giao lộ, bạn phải vượt qua giao lộ một cách an toàn khi xe cộ đang tới (vì đèn đỏ) dừng lại, ngay cả khi đèn của bạn hiện đang chuyển sang màu đỏ.",
+      "options_es": [
+        "Deténgase inmediatamente y quédese en el medio de la intersección.",
+        "Retroceda su vehículo detrás de la línea límite.",
+        "Complete el giro con precaución después de que el tráfico que viene en sentido contrario se detenga."
+      ],
+      "options_ko": [
+        "즉시 정지하고 교차로 중앙에 머무르십시오.",
+        "제한선 뒤로 차량을 후진시키세요.",
+        "다가오는 차량이 정지한 후 조심스럽게 회전을 완료하십시오."
+      ],
+      "options_tl": [
+        "Huminto kaagad at manatili sa gitna ng intersection.",
+        "Baliktarin ang iyong sasakyan pabalik sa likod ng linya ng limitasyon.",
+        "Kumpletuhin ang pagliko nang maingat pagkatapos ng paparating na paghinto ng trapiko."
+      ],
+      "options_vi": [
+        "Dừng lại ngay lập tức và ở giữa ngã tư.",
+        "Lùi xe về phía sau vạch giới hạn.",
+        "Hoàn thành việc rẽ một cách thận trọng sau khi các phương tiện giao thông đang đối diện dừng lại."
+      ],
+      "question_es": "Está esperando en la intersección para girar a la izquierda cuando el semáforo se vuelve amarillo fijo. Deberías:",
+      "question_ko": "교차로에서 신호등이 노란색으로 바뀌면 좌회전을 기다리고 있습니다. 다음을 수행해야 합니다.",
+      "question_tl": "Naghihintay ka sa intersection upang lumiko sa kaliwa kapag ang signal light ay naging solid na dilaw. Dapat mong:",
+      "question_vi": "Bạn đang đợi ở ngã tư để rẽ trái thì đèn tín hiệu chuyển sang màu vàng liên tục. Bạn nên:"
+    },
+    {
+      "_id": "691b73d3ae28c2405c54d617",
+      "question": "当您接近一个有闪烁黄灯（Flashing Yellow Light）的十字路口时，您应该：",
+      "question_en": "When you approach an intersection with a flashing yellow light, you should:",
+      "image_path": "",
+      "options": [
+        "完全停车，并等待。",
+        "减速，保持警惕，并准备在必要时让行。",
+        "加速以快速通过。"
+      ],
+      "options_en": [
+        "Stop completely and wait.",
+        "Slow down, stay alert, and be prepared to yield if necessary.",
+        "Speed up to get through quickly."
+      ],
+      "correctAnswer": 1,
+      "explanation": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，闪烁黄灯需减速、保持警惕，必要时让行。",
+      "explanation_en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a flashing yellow light requires slowing down and proceeding with caution.",
+      "category": "通用",
+      "state": "CA",
+      "difficulty": "medium",
+      "isActive": true,
+      "isMustKnow": true,
+      "frequency": "high",
+      "tags": [
+        "交通信号",
+        "标志"
+      ],
+      "reviewCount": 31,
+      "lastReviewed": "2025-12-15T18:29:17.109Z",
+      "__v": 0,
+      "explanation_es": "Explicación: Explicación: Según el Capítulo 7 | Leyes y reglamentos viales | Señales de tráfico del manual. El manual le indica que 'Slow down and be alert' ante una luz amarilla intermitente. Usted tiene el derecho de paso (ya que el tráfico que cruza generalmente tendrá una luz roja intermitente), pero nunca debe asumir que los demás conductores obedecerán. Debes 'proceed with caution'.",
+      "explanation_ko": "설명: 설명: 7장에 따라 | 도로 법규 및 규정 | 핸드북의 교통 신호, 핸드북에서는 깜박이는 노란색 신호등에서 'Slow down and be alert'하도록 지시합니다. 귀하에게 통행 우선권이 있지만(교차로에서는 일반적으로 빨간색 불이 깜박이기 때문에) 다른 운전자가 순종할 것이라고 가정해서는 안 됩니다. 'proceed with caution'을(를) 수행해야 합니다.",
+      "explanation_tl": "Paliwanag: Paliwanag: Bawat Kabanata 7 | Mga Batas at Regulasyon sa Kalsada | Mga Signal ng Trapiko ng handbook, Ang handbook ay nagtuturo sa iyo na 'Slow down and be alert' sa isang kumikislap na dilaw na ilaw. Mayroon kang right-of-way (dahil ang cross-traffic ay karaniwang may kumikislap na pula), ngunit hindi mo dapat ipagpalagay na susunod ang ibang mga driver. Dapat kang 'proceed with caution'.",
+      "explanation_vi": "Giải thích: Giải thích: Theo Chương 7 | Luật và Quy định Đường bộ | Tín hiệu giao thông của sổ tay, Sổ tay hướng dẫn bạn 'Slow down and be alert' khi có đèn vàng nhấp nháy. Bạn có quyền ưu tiên (vì giao thông cắt ngang thường có đèn đỏ nhấp nháy), nhưng bạn không bao giờ được cho rằng những người lái xe khác sẽ tuân theo. Bạn phải 'proceed with caution'.",
+      "options_es": [
+        "Deténgase por completo y espere.",
+        "Disminuya la velocidad, manténgase alerta y esté preparado para ceder el paso si es necesario.",
+        "Acelere para pasar rápidamente."
+      ],
+      "options_ko": [
+        "완전히 멈추고 기다리십시오.",
+        "속도를 늦추고 경계심을 유지하며 필요한 경우 양보할 준비를 하십시오.",
+        "빠르게 통과하려면 속도를 높이세요."
+      ],
+      "options_tl": [
+        "Huminto nang lubusan at maghintay.",
+        "Magdahan-dahan, manatiling alerto, at maging handa na magbigay kung kinakailangan.",
+        "Bilisan mo para mabilis makalusot."
+      ],
+      "options_vi": [
+        "Dừng lại hoàn toàn và chờ đợi.",
+        "Hãy chậm lại, cảnh giác và sẵn sàng nhượng bộ nếu cần thiết.",
+        "Tăng tốc để vượt qua nhanh chóng."
+      ],
+      "question_es": "Cuando se acerque a una intersección con una luz amarilla intermitente, debe:",
+      "question_ko": "노란색 신호등이 깜박이는 교차로에 접근할 때 다음을 수행해야 합니다.",
+      "question_tl": "Kapag lumalapit ka sa isang intersection na may kumikislap na dilaw na ilaw, dapat mong:",
+      "question_vi": "Khi đến gần một giao lộ có đèn vàng nhấp nháy, bạn nên:"
+    },
+    {
+      "_id": "691b73d3ae28c2405c54d61a",
+      "question": "恒亮的黄灯（Solid Yellow Light）和闪烁的黄灯（Flashing Yellow Light）之间的主要区别是什么？",
+      "question_en": "What is the main difference between a solid yellow light and a flashing yellow light?",
+      "image_path": "",
+      "options": [
+        "没有区别，它们都意味着“减速”。",
+        "恒亮黄灯表示“即将变红，应安全停车”；闪烁黄灯表示“谨慎驾驶，无需停车”。",
+        "恒亮黄灯适用于白天；闪烁黄灯适用于夜间。"
+      ],
+      "options_en": [
+        "No difference; they both mean 'slow down'.",
+        "Solid yellow means 'Stop if safe, turning red'; Flashing yellow means 'Caution, do not stop'.",
+        "Solid yellow is for daytime; Flashing yellow is for nighttime."
+      ],
+      "correctAnswer": 1,
+      "explanation": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，恒亮黄灯提示即将变红应安全停车；闪烁黄灯仅提示谨慎无需停车。",
+      "explanation_en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, solid yellow means stop if safe because it will turn red; flashing yellow means caution without stopping.",
+      "category": "通用",
+      "state": "CA",
+      "difficulty": "medium",
+      "isActive": true,
+      "isMustKnow": true,
+      "frequency": "high",
+      "tags": [
+        "交通信号",
+        "标志"
+      ],
+      "reviewCount": 51,
+      "lastReviewed": "2025-12-15T20:40:59.197Z",
+      "__v": 0,
+      "explanation_es": "Explicación: Explicación: Según el manual, Capítulo 7 | Leyes y reglamentos viales | Señales de tráfico. El manual las diferencia. Una luz amarilla fija significa que la señal se está volviendo roja y usted debe 'stop if you can do so safely. ' Una luz amarilla intermitente es una advertencia para 'slow down and be alert,' pero 'You do not need to stop. '",
+      "explanation_ko": "설명: 설명: 핸드북에 따르면 7장 | 도로 법규 및 규정 | 교통 신호 핸드북은 이를 차별화합니다. 계속 켜져 있는 노란색 표시등은 신호가 빨간색으로 바뀌고 있음을 의미하므로 'stop if you can do so safely. '해야 합니다. 깜박이는 노란색 표시등은 'slow down and be alert,'에 대한 경고이지만 'You do not need to stop. '에 대한 경고입니다.",
+      "explanation_tl": "Paliwanag: Paliwanag: Ayon sa handbook, Kabanata 7 | Mga Batas at Regulasyon sa Kalsada | Mga Signal ng Trapiko, Ang handbook ay nag-iiba ng mga ito. Ang isang solidong dilaw na ilaw ay nangangahulugan na ang signal ay nagiging pula, at dapat kang 'stop if you can do so safely. ' Ang kumikislap na dilaw na ilaw ay isang babala sa 'slow down and be alert,' ngunit 'You do not need to stop. '",
+      "explanation_vi": "Giải thích: Giải thích: Theo sổ tay, Chương 7 | Luật và Quy định Đường bộ | Tín hiệu giao thông, Sổ tay phân biệt những tín hiệu này. Đèn vàng liên tục có nghĩa là tín hiệu đang chuyển sang màu đỏ và bạn phải 'stop if you can do so safely. ' Đèn vàng nhấp nháy là cảnh báo cho 'slow down and be alert,' nhưng 'You do not need to stop. '",
+      "options_es": [
+        "No hay diferencia; ambos quieren decir 'slow down'.",
+        "Amarillo sólido significa 'Stop if safe, turning red'; Amarillo intermitente significa 'Caution, do not stop'.",
+        "El amarillo sólido es para el día; El amarillo intermitente es para la noche."
+      ],
+      "options_ko": [
+        "차이는 없습니다. 둘 다 'slow down'을 의미합니다.",
+        "노란색은 'Stop if safe, turning red'을 의미합니다. 노란색으로 깜박이는 것은 'Caution, do not stop'을 의미합니다.",
+        "노란색은 주간용입니다. 노란색으로 깜박이는 것은 야간용입니다."
+      ],
+      "options_tl": [
+        "Walang pagkakaiba; pareho silang ibig sabihin ay 'slow down'.",
+        "Ang ibig sabihin ng solid yellow ay 'Stop if safe, turning red'; Ang ibig sabihin ng kumikislap na dilaw ay 'Caution, do not stop'.",
+        "Ang solid na dilaw ay para sa araw; Ang kumikislap na dilaw ay para sa gabi."
+      ],
+      "options_vi": [
+        "Không có sự khác biệt; cả hai đều có nghĩa là 'slow down'.",
+        "Màu vàng đặc có nghĩa là 'Stop if safe, turning red'; Màu vàng nhấp nháy có nghĩa là 'Caution, do not stop'.",
+        "Màu vàng đặc dành cho ban ngày; Màu vàng nhấp nháy là dành cho ban đêm."
+      ],
+      "question_es": "¿Cuál es la principal diferencia entre una luz amarilla fija y una luz amarilla intermitente?",
+      "question_ko": "계속 켜져 있는 노란색 표시등과 깜박이는 노란색 표시등의 주요 차이점은 무엇입니까?",
+      "question_tl": "Ano ang pangunahing pagkakaiba sa pagitan ng isang solidong dilaw na ilaw at isang kumikislap na dilaw na ilaw?",
+      "question_vi": "Sự khác biệt chính giữa đèn vàng liên tục và đèn vàng nhấp nháy là gì?"
+    },
+    {
+      "_id": "691b73d3ae28c2405c54d61b",
+      "question": "在您左转（在十字路口内）时，信号灯变为恒亮的黄色箭头。您应该：",
+      "question_en": "You are *in* the intersection, making a left turn, when the signal changes to a solid yellow arrow. You should:",
+      "image_path": "",
+      "options": [
+        "倒车。",
+        "谨慎完成您的转弯（如果安全）。",
+        "加速以抢在红灯前。"
+      ],
+      "options_en": [
+        "Back up.",
+        "Complete your turn cautiously (if safe).",
+        "Speed up to beat the red light."
+      ],
+      "correctAnswer": 1,
+      "explanation": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，已在路口内遇黄箭头时应在安全情况下完成转弯并清空路口。",
+      "explanation_en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, if you are already in the intersection on a yellow arrow, complete the turn safely and clear the intersection.",
+      "category": "通用",
+      "state": "CA",
+      "difficulty": "medium",
+      "isActive": true,
+      "isMustKnow": true,
+      "frequency": "high",
+      "tags": [
+        "交通信号",
+        "标志"
+      ],
+      "reviewCount": 35,
+      "lastReviewed": "2025-12-15T20:41:03.262Z",
+      "__v": 0,
+      "explanation_es": "Explicación: Explicación: Según el manual, Capítulo 8 | Conducción segura | Conducción defensiva y gestión de riesgos. El manual establece que si 'cannot stop safely or are already in the intersection' en una flecha amarilla, 'cautiously complete your turn. ' Esto también se aplica a una flecha amarilla sólida. Debe despejar la intersección de forma segura.",
+      "explanation_ko": "설명: 설명: 핸드북에 따르면 8장 | 안전운전 | 방어 운전 및 위험 관리, 핸드북에는 노란색으로 'cannot stop safely or are already in the intersection'하면 'cautiously complete your turn. '라고 명시되어 있습니다. 이는 노란색 실선 화살표에도 적용됩니다. 교차로를 안전하게 통과해야 합니다.",
+      "explanation_tl": "Paliwanag: Paliwanag: Ayon sa handbook, Kabanata 8 | Ligtas na Pagmamaneho | Defensive Driving and Risk Management, Ang handbook ay nagsasaad na kung ikaw ay 'cannot stop safely or are already in the intersection' sa isang dilaw, 'cautiously complete your turn. ' Ito ay nalalapat din sa isang solid na dilaw na arrow. Dapat mong i-clear ang intersection nang ligtas.",
+      "explanation_vi": "Giải thích: Giải thích: Theo sổ tay, Chương 8 | Lái xe an toàn | Lái xe Phòng thủ và Quản lý Rủi ro, Sổ tay nêu rõ rằng nếu bạn 'cannot stop safely or are already in the intersection' trên đèn vàng, 'cautiously complete your turn. ' Điều này cũng áp dụng cho mũi tên liền màu vàng. Bạn phải vượt qua ngã tư một cách an toàn.",
+      "options_es": [
+        "Deténgase inmediatamente.",
+        "Retroceda.",
+        "Complete su turno con cautela (si es seguro).",
+        "Acelera para superar la luz roja."
+      ],
+      "options_ko": [
+        "즉시 중지하십시오.",
+        "백업하세요.",
+        "(안전하다면) 조심스럽게 차례를 완료하십시오.",
+        "빨간불을 이기기 위해 속도를 높이세요."
+      ],
+      "options_tl": [
+        "Huminto kaagad.",
+        "I-back up.",
+        "Kumpletuhin ang iyong pagliko nang maingat (kung ligtas).",
+        "Bilisan upang matalo ang pulang ilaw."
+      ],
+      "options_vi": [
+        "Dừng lại ngay lập tức.",
+        "Hỗ trợ.",
+        "Hoàn thành lượt của bạn một cách thận trọng (nếu an toàn).",
+        "Tăng tốc để vượt đèn đỏ."
+      ],
+      "question_es": "Usted está *en* la intersección, girando a la izquierda, cuando la señal cambia a una flecha amarilla sólida. Deberías:",
+      "question_ko": "교차로 *안*에서 좌회전 중일 때 신호가 노란색 실선 화살표로 변경됩니다. 다음을 수행해야 합니다.",
+      "question_tl": "Ikaw ay *nasa* intersection, lumiko sa kaliwa, kapag ang signal ay nagbago sa isang solidong dilaw na arrow. Dapat mong:",
+      "question_vi": "Bạn đang *ở* giao lộ, rẽ trái thì tín hiệu chuyển sang mũi tên liền màu vàng. Bạn nên:"
+    },
+    {
+      "_id": "691b73d3ae28c2405c54d61d",
+      "question": "在有闪烁黄灯（Flashing Yellow Light）的十字路口，您是否需要为（可能有闪烁红灯的）交叉车流停车？",
+      "question_en": "At an intersection with a flashing yellow light, do you need to stop for cross-traffic (which may have a flashing red)?",
+      "image_path": "",
+      "options": [
+        "是，您必须始终停车。",
+        "否，您有先行权，但您仍应减速并保持警惕。",
+        "是，您必须为他们让行。"
+      ],
+      "options_en": [
+        "Yes, you must always stop.",
+        "No, you have the right-of-way, but you must still slow down and be alert.",
+        "Yes, you must yield to them."
+      ],
+      "correctAnswer": 1,
+      "explanation": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，闪烁黄灯无需停车，但必须减速并保持警惕。",
+      "explanation_en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a flashing yellow light does not require a stop but you must slow down and be alert.",
+      "category": "通用",
+      "state": "CA",
+      "difficulty": "medium",
+      "isActive": true,
+      "isMustKnow": true,
+      "frequency": "high",
+      "tags": [
+        "交通信号",
+        "标志"
+      ],
+      "reviewCount": 41,
+      "lastReviewed": "2025-12-15T20:41:10.522Z",
+      "__v": 0,
+      "explanation_es": "Explicación: Explicación: Según el Capítulo 7 | Leyes y reglamentos viales | Señales de tráfico del manual. El manual indica que una luz amarilla intermitente es una advertencia 'caution'. Usted 'do not need to stop. ' Tiene el derecho de paso en esta situación, ya que el tráfico que cruza (frente al rojo intermitente) debe detenerse y cederle el paso. Sin embargo, nunca debes asumir que obedecerán, de ahí la necesidad de 'slow down and be alert'.",
+      "explanation_ko": "설명: 설명: 7장에 따라 | 도로 법규 및 규정 | 핸드북의 교통 신호, 핸드북에는 깜박이는 노란색 표시등이 'caution' 경고라고 명시되어 있습니다. 당신은 'do not need to stop. ' 이 상황에서 교차 교통(깜박이는 빨간색을 향하는)이 멈추고 당신에게 양보해야 하기 때문에 통행우선권이 있습니다. 그러나 그들이 순종할 것이라고 가정해서는 안 되므로 'slow down and be alert'이 필요합니다.",
+      "explanation_tl": "Paliwanag: Paliwanag: Bawat Kabanata 7 | Mga Batas at Regulasyon sa Kalsada | Mga Signal ng Trapiko ng handbook, Ang handbook ay nagsasaad na ang kumikislap na dilaw na ilaw ay isang 'caution' na babala. Ikaw 'do not need to stop. ' Mayroon kang right-of-way sa sitwasyong ito, dahil ang cross-traffic (nakaharap sa kumikislap na pula) ay dapat huminto at sumuko sa iyo. Gayunpaman, hindi mo dapat ipagpalagay na susunod sila, kaya kailangang 'slow down and be alert'.",
+      "explanation_vi": "Giải thích: Giải thích: Theo Chương 7 | Luật và Quy định Đường bộ | Tín hiệu giao thông của sổ tay, Sổ tay cho biết đèn vàng nhấp nháy là cảnh báo 'caution'. Bạn 'do not need to stop. ' Bạn có quyền ưu tiên trong tình huống này, vì xe cộ cắt ngang (đối mặt với đèn đỏ nhấp nháy) phải dừng lại và nhường đường cho bạn. Tuy nhiên, bạn không bao giờ được cho rằng họ sẽ tuân theo, do đó cần phải 'slow down and be alert'.",
+      "options_es": [
+        "Sí, siempre debes parar.",
+        "No, usted tiene el derecho de paso, pero aun así debe reducir la velocidad y estar alerta.",
+        "Sí, debes ceder ante ellos."
+      ],
+      "options_ko": [
+        "네, 항상 멈춰야 합니다.",
+        "아니요, 통행우선권이 있지만 속도를 늦추고 주의를 기울여야 합니다.",
+        "그렇습니다. 당신은 그들에게 양보해야 합니다."
+      ],
+      "options_tl": [
+        "Oo, dapat palagi kang huminto.",
+        "Hindi, mayroon kang right-of-way, ngunit dapat ka pa ring magdahan-dahan at maging alerto.",
+        "Oo, dapat kang sumuko sa kanila."
+      ],
+      "options_vi": [
+        "Vâng, bạn phải luôn dừng lại.",
+        "Không, bạn được quyền ưu tiên nhưng bạn vẫn phải giảm tốc độ và cảnh giác.",
+        "Vâng, bạn phải nhượng bộ họ."
+      ],
+      "question_es": "En una intersección con una luz amarilla intermitente, ¿es necesario detenerse en caso de tráfico que cruza (que puede tener una luz roja intermitente)?",
+      "question_ko": "노란색 신호등이 깜박이는 교차로에서 교차 교통(빨간색 신호등이 깜박일 수 있음) 때문에 정지해야 합니까?",
+      "question_tl": "Sa isang intersection na may kumikislap na dilaw na ilaw, kailangan mo bang huminto para sa cross-traffic (na maaaring may kumikislap na pula)?",
+      "question_vi": "Tại giao lộ có đèn vàng nhấp nháy, bạn có cần dừng xe để cắt ngang (có thể có đèn đỏ nhấp nháy) không?"
+    },
+    {
+      "_id": "691b73d3ae28c2405c54d61e",
+      "question": "恒亮的黄灯（Solid Yellow Light）是否意味着“加速”？",
+      "question_en": "Does a solid yellow light mean 'speed up'?",
+      "image_path": "",
+      "options": [
+        "是，如果这意味着您可以“抢在红灯前”。",
+        "否，它意味着“小心”，并且您必须在安全的情况下停车。",
+        "是，这是为了清空十字路口。"
+      ],
+      "options_en": [
+        "Yes, if it means you can 'beat the red light'.",
+        "No, it means 'CAUTION,' and you must stop if it is safe to do so.",
+        "Yes, it is designed to clear the intersection."
+      ],
+      "correctAnswer": 1,
+      "explanation": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，黄灯是警示，应在安全时停车，不应加速抢灯。",
+      "explanation_en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a solid yellow light is a warning; stop if safe and do not speed up.",
+      "category": "通用",
+      "state": "CA",
+      "difficulty": "medium",
+      "isActive": true,
+      "isMustKnow": true,
+      "frequency": "high",
+      "tags": [
+        "交通信号",
+        "标志"
+      ],
+      "reviewCount": 43,
+      "lastReviewed": "2025-12-15T20:41:14.586Z",
+      "__v": 0,
+      "explanation_es": "Explicación: Explicación: Según el manual, Capítulo 10 | Responsabilidad financiera, seguros y colisiones | Colisiones y seguros. El manual instruye a 'CAUTION' y a 'stop if you can do so safely. If you cannot stop safely, you proceed ' con precaución, sin acelerar.",
+      "explanation_ko": "설명: 설명: 핸드북에 따르면 10장 | 재정적 책임, 보험 및 충돌 | 충돌 및 보험, 핸드북에서는 가속이 아닌 'CAUTION' 및 'stop if you can do so safely. If you cannot stop safely, you proceed '을(를) 조심스럽게 지시합니다.",
+      "explanation_tl": "Paliwanag: Paliwanag: Ayon sa handbook, Kabanata 10 | Pananagutan sa Pinansyal, Seguro, at Pagbangga | Mga banggaan at Seguro, Ang handbook ay nagtuturo sa 'CAUTION' at sa 'stop if you can do so safely. If you cannot stop safely, you proceed 'maingat,' hindi sa pamamagitan ng pagpapabilis.",
+      "explanation_vi": "Giải thích: Giải thích: Theo sổ tay, Chương 10 | Trách nhiệm tài chính, bảo hiểm và va chạm | Va chạm và Bảo hiểm, Sổ tay hướng dẫn 'CAUTION' và 'stop if you can do so safely. If you cannot stop safely, you proceed 'thận trọng', không phải bằng cách tăng tốc.",
+      "options_es": [
+        "Sí, si eso significa que puedes 'beat the red light'.",
+        "No, significa 'CAUTION,' y debes detenerte si es seguro hacerlo.",
+        "Sí, está diseñado para despejar la intersección.",
+        "No, significa 'Stop immediately'."
+      ],
+      "options_ko": [
+        "예, 'beat the red light'할 수 있다는 뜻이라면요.",
+        "아니요, 이는 'CAUTION,'을 의미하며 안전하다면 중지해야 합니다.",
+        "예, 교차로를 통과하도록 설계되었습니다.",
+        "아니요, 'Stop immediately'을 의미합니다."
+      ],
+      "options_tl": [
+        "Oo, kung ibig sabihin ay kaya mong 'beat the red light'.",
+        "Hindi, nangangahulugan ito ng 'CAUTION,' at dapat kang huminto kung ligtas na gawin ito.",
+        "Oo, ito ay idinisenyo upang i-clear ang intersection.",
+        "Hindi, ibig sabihin ay 'Stop immediately'."
+      ],
+      "options_vi": [
+        "Có, nếu điều đó có nghĩa là bạn có thể 'beat the red light'.",
+        "Không, nó có nghĩa là 'CAUTION,' và bạn phải dừng lại nếu thấy an toàn.",
+        "Vâng, nó được thiết kế để dọn sạch giao lộ.",
+        "Không, nó có nghĩa là 'Stop immediately'."
+      ],
+      "question_es": "¿Una luz amarilla fija significa 'speed up'?",
+      "question_ko": "노란색 표시등이 켜져 있으면 'speed up'을 의미합니까?",
+      "question_tl": "Ang ibig sabihin ba ng solid yellow light ay 'speed up'?",
+      "question_vi": "Đèn vàng liên tục có nghĩa là 'speed up'?"
+    },
+    {
+      "_id": "691b73d3ae28c2405c54d61f",
+      "question": "在有闪烁黄灯的学校区域，您应该：",
+      "question_en": "In a school zone with a flashing yellow light, you should:",
+      "image_path": "",
+      "options": [
+        "减速至时速 15 哩。",
+        "减速，并为儿童（他们可能正在过马路）格外小心。",
+        "停车，并等待灯停止闪烁。"
+      ],
+      "options_en": [
+        "Slow down to 15 mph.",
+        "Slow down and be extra cautious for children (who may be crossing).",
+        "Stop and wait for the light to stop flashing."
+      ],
+      "correctAnswer": 1,
+      "explanation": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，学校区闪烁黄灯表示谨慎驾驶，应减速并留意儿童。",
+      "explanation_en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a flashing yellow in a school zone means caution—slow down and watch for children.",
+      "category": "通用",
+      "state": "CA",
+      "difficulty": "medium",
+      "isActive": true,
+      "isMustKnow": true,
+      "frequency": "high",
+      "tags": [
+        "交通信号",
+        "标志"
+      ],
+      "reviewCount": 44,
+      "lastReviewed": "2025-12-15T20:41:22.226Z",
+      "__v": 0,
+      "explanation_es": "Explicación: Explicación: Basado en el Capítulo 7 | Leyes y reglamentos viales | Señales de tráfico en el manual, una luz amarilla intermitente significa 'CAUTION. ' En una zona escolar, esto (a menudo) significa que hay niños presentes. Debe reducir la velocidad (potencialmente por debajo de 25 mph) y estar especialmente atento a los niños que puedan estar cruzando o a punto de entrar a la calle.",
+      "explanation_ko": "설명: 설명: 7장 | 도로 법규 및 규정 | 안내서의 교통 신호등, 깜박이는 노란색 표시등은 'CAUTION. '을 의미합니다. 학교 구역에서 이는 (종종) 어린이가 있음을 의미합니다. 속도를 늦추고(아마도 25 mph 미만) 길을 건너거나 막 진입하려는 어린이를 위해 각별히 주의해야 합니다.",
+      "explanation_tl": "Paliwanag: Paliwanag: Batay sa Kabanata 7 | Mga Batas at Regulasyon sa Kalsada | Mga Signal ng Trapiko sa handbook, Ang isang kumikislap na dilaw na ilaw ay nangangahulugang 'CAUTION. ' Sa isang lugar ng paaralan , ito (madalas) ay nangangahulugan na ang mga bata ay naroroon. Dapat kang magdahan-dahan (malamang sa ibaba 25 mph) at maging mas mapagbantay para sa mga bata na maaaring tumawid o papasok sa kalye.",
+      "explanation_vi": "Giải thích: Giải thích: Dựa trên Chương 7 | Luật và Quy định Đường bộ | Tín hiệu giao thông trong sổ tay, Đèn vàng nhấp nháy có nghĩa là 'CAUTION. ' Trong khu vực trường học, điều này (thường) có nghĩa là có trẻ em đang có mặt. Bạn phải giảm tốc độ (có thể dưới 25 mph) và hết sức cảnh giác với trẻ em có thể đang băng qua hoặc sắp đi vào đường.",
+      "options_es": [
+        "Reduzca la velocidad hasta 15 mph.",
+        "Reduzca la velocidad y tenga mucho cuidado con los niños (que pueden estar cruzando).",
+        "Deténgase y espere a que la luz deje de parpadear."
+      ],
+      "options_ko": [
+        "15 mph까지 천천히 가세요.",
+        "속도를 늦추고 어린이(건널 수도 있음)에 특히 주의하십시오.",
+        "멈추고 표시등이 깜박이는 것을 멈출 때까지 기다리십시오."
+      ],
+      "options_tl": [
+        "Magdahan-dahan sa 15 mph.",
+        "Magdahan-dahan at maging mas maingat sa mga bata (na maaaring tumatawid).",
+        "Huminto at hintaying huminto ang pagkislap ng ilaw."
+      ],
+      "options_vi": [
+        "Giảm tốc độ xuống 15 mph.",
+        "Hãy đi chậm lại và hết sức thận trọng với trẻ em (có thể đang băng qua đường).",
+        "Dừng lại và đợi đèn ngừng nhấp nháy."
+      ],
+      "question_es": "En una zona escolar con una luz amarilla intermitente, debes:",
+      "question_ko": "노란색 등이 깜박이는 학교 구역에서는 다음을 수행해야 합니다.",
+      "question_tl": "Sa isang school zone na may kumikislap na dilaw na ilaw, dapat mong:",
+      "question_vi": "Trong khu vực trường học có đèn vàng nhấp nháy, bạn nên:"
+    },
+    {
+      "_id": "691b73d3ae28c2405c54d620",
+      "question": "在有恒亮黄色箭头的十字路口，您正在接近。您应该：",
+      "question_en": "You are approaching an intersection with a solid yellow arrow. You should:",
+      "image_path": "",
+      "options": [
+        "加速以完成转弯。",
+        "如果您可以安全地停在限制线后，您应该停车。",
+        "将其视为闪烁黄灯并让行。"
+      ],
+      "options_en": [
+        "Speed up to make the turn.",
+        "Stop, if you can do so safely, behind the limit line.",
+        "Treat it as a flashing yellow and yield."
+      ],
+      "correctAnswer": 1,
+      "explanation": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，接近黄箭头时应在安全情况下于限制线前停车。",
+      "explanation_en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, on a solid yellow arrow you should stop behind the limit line if you can do so safely.",
+      "category": "通用",
+      "state": "CA",
+      "difficulty": "medium",
+      "isActive": true,
+      "isMustKnow": true,
+      "frequency": "high",
+      "tags": [
+        "交通信号",
+        "标志"
+      ],
+      "reviewCount": 50,
+      "lastReviewed": "2025-12-15T20:41:25.277Z",
+      "__v": 0,
+      "explanation_es": "Explicación: Explicación: Según el Capítulo 7 | Leyes y reglamentos viales | Reglas de tránsito del manual. El manual indica que una flecha amarilla sólida significa que el tiempo de giro 'protected' está terminando. Al igual que una luz amarilla fija, su primera acción debe ser detenerse si es seguro hacerlo. Sólo si está demasiado cerca para detenerse de manera segura debe proceder con cautela para completar el giro.",
+      "explanation_ko": "설명: 설명: 7장에 따라 | 도로 법규 및 규정 | 핸드북의 도로 규칙, 핸드북에는 노란색 실선 화살표가 'protected' 회전 시간이 종료됨을 의미한다고 명시되어 있습니다. 계속 켜져 있는 노란색 신호등과 마찬가지로, 가장 먼저 해야 할 일은 정지하는 것이 안전하다면 정지하는 것입니다. 너무 가까워서 안전하게 정지할 수 없는 경우에만 조심스럽게 진행하여 회전을 완료해야 합니다.",
+      "explanation_tl": "Paliwanag: Paliwanag: Bawat Kabanata 7 | Mga Batas at Regulasyon sa Kalsada | Mga Panuntunan sa Daan ng handbook, Ang handbook ay nagsasaad na ang isang solidong dilaw na arrow ay nangangahulugang ang 'protected' turn time ay nagtatapos. Tulad ng isang solidong dilaw na ilaw, ang iyong unang aksyon ay dapat na huminto kung ito ay ligtas na gawin ito. Tanging kung ikaw ay masyadong malapit upang huminto nang ligtas dapat kang magpatuloy nang maingat upang kumpletuhin ang pagliko.",
+      "explanation_vi": "Giải thích: Giải thích: Theo Chương 7 | Luật và Quy định Đường bộ | Nội quy Đường bộ trong sổ tay, Sổ tay ghi rõ mũi tên liền màu vàng có nghĩa là thời gian rẽ 'protected' sắp kết thúc. Giống như đèn vàng liên tục, hành động đầu tiên của bạn là dừng lại nếu thấy an toàn. Chỉ khi bạn ở quá gần để dừng lại một cách an toàn thì bạn mới nên thận trọng tiếp tục rẽ.",
+      "options_es": [
+        "Acelera para hacer el giro.",
+        "Detente, si puedes hacerlo con seguridad, detrás de la línea límite.",
+        "Trátelo como si fuera de color amarillo intermitente y ceda el paso."
+      ],
+      "options_ko": [
+        "속도를 높여 방향을 바꾸세요.",
+        "안전하게 할 수 있으면 제한선 뒤에서 멈추세요.",
+        "깜박이는 노란색으로 처리하고 수확하십시오."
+      ],
+      "options_tl": [
+        "Bilisan mo para lumiko.",
+        "Huminto, kung magagawa mo ito nang ligtas, sa likod ng linya ng limitasyon.",
+        "Tratuhin ito bilang isang kumikislap na dilaw at magbunga."
+      ],
+      "options_vi": [
+        "Tăng tốc để rẽ.",
+        "Dừng lại, nếu bạn có thể làm như vậy một cách an toàn, phía sau vạch giới hạn.",
+        "Hãy coi nó như một màu vàng nhấp nháy và mang lại."
+      ],
+      "question_es": "Te estás acercando a una intersección con una flecha amarilla continua. Deberías:",
+      "question_ko": "노란색 실선 화살표가 있는 교차로에 접근하고 있습니다. 다음을 수행해야 합니다.",
+      "question_tl": "Papalapit ka sa isang intersection na may solidong dilaw na arrow. Dapat mong:",
+      "question_vi": "Bạn đang đến gần một giao lộ có mũi tên liền màu vàng. Bạn nên:"
+    },
+    {
+      "_id": "691b73d3ae28c2405c54d621",
+      "question": "在有闪烁黄灯的十字路口，您想左转。您应该：",
+      "question_en": "At an intersection with a flashing yellow light, you want to turn left. You should:",
+      "image_path": "",
+      "options": [
+        "减速，并为迎面而来的车流和行人让行。",
+        "停车，然后转弯。",
+        "在任何情况下都不允许左转。"
+      ],
+      "options_en": [
+        "Slow down and yield to oncoming traffic and pedestrians.",
+        "Stop, then turn.",
+        "You may not turn left under any circumstances."
+      ],
+      "correctAnswer": 0,
+      "explanation": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，闪烁黄灯左转需减速并让行迎面车流及行人。",
+      "explanation_en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, with a flashing yellow you must slow down and yield to oncoming traffic and pedestrians when turning left.",
+      "category": "通用",
+      "state": "CA",
+      "difficulty": "medium",
+      "isActive": true,
+      "isMustKnow": true,
+      "frequency": "high",
+      "tags": [
+        "交通信号",
+        "标志"
+      ],
+      "reviewCount": 38,
+      "lastReviewed": "2025-12-15T20:41:32.893Z",
+      "__v": 0,
+      "explanation_es": "Explicación: Explicación: Según el Capítulo 7 | Leyes y reglamentos viales | Señales de tráfico del manual. En este escenario, usted tiene un color amarillo intermitente y el tráfico que viene en sentido contrario también tiene un color amarillo intermitente (precaución). Se aplica la regla básica de giro a la izquierda: el vehículo que gira a la izquierda debe ceder el paso al tráfico que viene en sentido contrario (en línea recta). Debes ceder.",
+      "explanation_ko": "설명: 설명: 7장에 따라 | 도로 법규 및 규정 | 핸드북의 교통 신호, 이 시나리오에서는 깜박이는 노란색이 있고 다가오는 차량도 깜박이는 노란색이 있습니다(주의). 기본 좌회전 규칙이 적용됩니다. 즉, 좌회전 차량은 다가오는 차량(직진)에 양보해야 합니다. 당신은 양보해야합니다.",
+      "explanation_tl": "Paliwanag: Paliwanag: Bawat Kabanata 7 | Mga Batas at Regulasyon sa Kalsada | Mga Signal ng Trapiko ng handbook, Sa sitwasyong ito, mayroon kang kumikislap na dilaw , at ang paparating na trapiko ay mayroon ding kumikislap na dilaw (pag-iingat). Nalalapat ang pangunahing panuntunan sa pagliko sa kaliwa: ang sasakyang paliko sa kaliwa ay dapat sumuko sa paparating na trapiko (dumiretso). Dapat kang sumuko.",
+      "explanation_vi": "Giải thích: Giải thích: Theo Chương 7 | Luật và Quy định Đường bộ | Tín hiệu giao thông trong sổ tay, Trong trường hợp này, bạn có đèn vàng nhấp nháy và xe cộ đang chạy tới cũng có đèn vàng nhấp nháy (thận trọng). Áp dụng quy tắc rẽ trái cơ bản: xe rẽ trái phải nhường đường cho xe đi ngược chiều (đi thẳng). Bạn phải nhường bước.",
+      "options_es": [
+        "Reduzca la velocidad y ceda el paso al tráfico que viene en sentido contrario y a los peatones.",
+        "Deténgase y luego gire.",
+        "No podrá girar a la izquierda bajo ninguna circunstancia."
+      ],
+      "options_ko": [
+        "속도를 줄이고 다가오는 차량과 보행자에게 양보하십시오.",
+        "멈추고 나서 돌아서세요.",
+        "어떠한 경우에도 좌회전을 할 수 없습니다."
+      ],
+      "options_tl": [
+        "Magdahan-dahan at sumuko sa paparating na trapiko at mga pedestrian.",
+        "Huminto, pagkatapos ay lumiko.",
+        "Hindi ka maaaring lumiko pakaliwa sa anumang pagkakataon."
+      ],
+      "options_vi": [
+        "Giảm tốc độ và nhường đường cho xe cộ và người đi bộ đang tới.",
+        "Dừng lại rồi rẽ.",
+        "Bạn không được rẽ trái trong bất kỳ trường hợp nào."
+      ],
+      "question_es": "En una intersección con una luz amarilla intermitente, desea girar a la izquierda. Deberías:",
+      "question_ko": "노란색 신호등이 깜박이는 교차로에서 좌회전하려고 합니다. 다음을 수행해야 합니다.",
+      "question_tl": "Sa isang intersection na may kumikislap na dilaw na ilaw, gusto mong kumaliwa. Dapat mong:",
+      "question_vi": "Đến ngã tư có đèn vàng nhấp nháy, bạn muốn rẽ trái. Bạn nên:"
+    },
+    {
+      "_id": "691b73d3ae28c2405c54d623",
+      "question": "如果您在十字路口（在限制线后）因恒亮的黄灯而停车，您应该：",
+      "question_en": "If you stop at a limit line for a solid yellow light at an intersection, you should:",
+      "image_path": "",
+      "options": [
+        "在灯变红后立即倒车。",
+        "保持停车，并等待绿灯。",
+        "（如果安全）谨慎地继续行驶。"
+      ],
+      "options_en": [
+        "Back up immediately when the light turns red.",
+        "Remain stopped and wait for the green light.",
+        "Proceed cautiously (if safe)."
+      ],
+      "correctAnswer": 1,
+      "explanation": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，若已在黄灯时停车，应保持停车等待下一次绿灯。",
+      "explanation_en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, if you stop for a yellow light you must remain stopped until the next green.",
+      "category": "通用",
+      "state": "CA",
+      "difficulty": "medium",
+      "isActive": true,
+      "isMustKnow": true,
+      "frequency": "high",
+      "tags": [
+        "交通信号",
+        "标志"
+      ],
+      "reviewCount": 36,
+      "lastReviewed": "2025-12-15T20:41:36.943Z",
+      "__v": 0,
+      "explanation_es": "Explicación: Explicación: Según el manual, Capítulo 7 | Leyes y reglamentos viales | Señales de tráfico: una luz amarilla fija significa que la señal es 'about to turn red. '. Si se detuvo (de manera segura) ante la luz amarilla, ahora debe esperar el siguiente ciclo. Debe permanecer detenido hasta que el semáforo se ponga verde.",
+      "explanation_ko": "설명: 설명: 핸드북에 따르면 7장 | 도로 법규 및 규정 | 교통 신호등, 노란색 신호등은 신호가 'about to turn red. '임을 의미합니다. 노란색 신호등에 (안전하게) 정지했다면 이제 다음 자전거를 기다려야 합니다. 신호등이 녹색으로 바뀔 때까지 정지 상태를 유지해야 합니다.",
+      "explanation_tl": "Paliwanag: Paliwanag: Ayon sa handbook, Kabanata 7 | Mga Batas at Regulasyon sa Kalsada | Mga Signal ng Trapiko, Ang isang solidong dilaw na ilaw ay nangangahulugang ang signal ay 'about to turn red. ' Kung ikaw (ligtas) ay huminto para sa dilaw na ilaw, kailangan mo na ngayong maghintay para sa susunod na cycle. Dapat kang manatiling nakahinto hanggang sa maging berde ang ilaw.",
+      "explanation_vi": "Giải thích: Giải thích: Theo sổ tay, Chương 7 | Luật và Quy định Đường bộ | Tín hiệu Giao thông, Đèn vàng liên tục có nghĩa là tín hiệu là 'about to turn red. ' Nếu bạn (an toàn) dừng đèn vàng, bây giờ bạn phải đợi chu kỳ tiếp theo. Bạn phải dừng lại cho đến khi đèn chuyển sang màu xanh.",
+      "options_es": [
+        "Retroceda inmediatamente cuando la luz se ponga roja.",
+        "Permanezca detenido y espere la luz verde.",
+        "Proceda con cautela (si es seguro)."
+      ],
+      "options_ko": [
+        "표시등이 빨간색으로 바뀌면 즉시 백업하십시오.",
+        "정지한 상태에서 녹색 신호등이 켜질 때까지 기다리십시오.",
+        "(안전하다면) 조심해서 진행하세요."
+      ],
+      "options_tl": [
+        "Bumalik kaagad kapag naging pula ang ilaw.",
+        "Manatiling tumigil at maghintay para sa berdeng ilaw.",
+        "Magpatuloy nang maingat (kung ligtas)."
+      ],
+      "options_vi": [
+        "Lùi xe ngay khi đèn chuyển sang màu đỏ.",
+        "Vẫn dừng lại và chờ đèn xanh.",
+        "Tiến hành thận trọng (nếu an toàn)."
+      ],
+      "question_es": "Si se detiene en una línea de límite debido a una luz amarilla fija en una intersección, debe:",
+      "question_ko": "교차로에서 황색 신호등이 켜져 있는 제한선에 정지하는 경우 다음을 수행해야 합니다.",
+      "question_tl": "Kung huminto ka sa isang limitasyong linya para sa isang solidong dilaw na ilaw sa isang intersection, dapat mong:",
+      "question_vi": "Nếu bạn dừng lại ở vạch giới hạn vì đèn vàng liên tục ở ngã tư, bạn nên:"
+    },
+    {
+      "_id": "691b73d3ae28c2405c54d624",
+      "question": "在有闪烁黄灯的铁路交叉口，您应该：",
+      "question_en": "At a railroad crossing with a flashing yellow light, you should:",
+      "image_path": "",
+      "options": [
+        "（虽然手册未明确说明，但这是标准做法）减速并准备在红灯开始闪烁时停车。",
+        "（在手册中没有此规定）加速通过。",
+        "（在手册中没有此规定）将其视为“STOP”标志。"
+      ],
+      "options_en": [
+        "(Though not in the handbook, this is standard) Slow down and be prepared to stop as the red lights will begin flashing.",
+        "(This is not in the handbook) Speed up to cross.",
+        "(This is not in the handbook) Treat it as a STOP sign."
+      ],
+      "correctAnswer": 0,
+      "explanation": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，道口黄灯提示谨慎并准备停车，随后会出现红灯。",
+      "explanation_en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a flashing yellow at a railroad crossing is a caution to slow and prepare to stop for the red lights.",
+      "category": "通用",
+      "state": "CA",
+      "difficulty": "medium",
+      "isActive": true,
+      "isMustKnow": true,
+      "frequency": "high",
+      "tags": [
+        "交通信号",
+        "标志"
+      ],
+      "reviewCount": 34,
+      "lastReviewed": "2025-12-15T20:41:44.644Z",
+      "__v": 0,
+      "explanation_es": "Explicación: Explicación: Según el Capítulo 7 | Leyes y reglamentos viales | Señales de tráfico del manual, si bien el manual de 2025 solo detalla 'flashing red warning lights,' en muchos cruces de ferrocarril, una luz amarilla parpadeará antes de que comiencen las luces rojas. Similar a una intersección's flashing yellow, this (at a railroad crossing) is a 'CAUTION' que advierte que se acerca un tren y usted debe reducir la velocidad y prepararse para detenerse.",
+      "explanation_ko": "설명: 설명: 7장에 따라 | 도로 법규 및 규정 | 핸드북의 교통 신호, 2025 핸드북에서는 많은 철도 건널목의 'flashing red warning lights,'에 대해서만 자세히 설명하지만 빨간색 신호등이 시작되기 전에 노란색 신호등이 깜박입니다. 기차가 접근하고 있으므로 속도를 줄이고 정지할 준비를 해야 함을 경고하는 교차로's flashing yellow, this (at a railroad crossing) is a '주의'와 유사합니다.",
+      "explanation_tl": "Paliwanag: Paliwanag: Bawat Kabanata 7 | Mga Batas at Regulasyon sa Kalsada | Mga Signal ng Trapiko ng handbook, Habang ang 2025 handbook ay nagdetalye lamang ng 'flashing red warning lights,' sa maraming tawiran ng riles, isang dilaw na ilaw ang magkislap bago magsimula ang mga pulang ilaw. Katulad ng babala ng intersection's flashing yellow, this (at a railroad crossing) is a 'CAUTION' na may paparating na tren, at dapat kang bumagal at maghandang huminto.",
+      "explanation_vi": "Giải thích: Giải thích: Theo Chương 7 | Luật và Quy định Đường bộ | Tín hiệu giao thông của sổ tay, Trong khi sổ tay năm 2025 chỉ nêu chi tiết 'flashing red warning lights,' tại nhiều điểm giao nhau với đường sắt, đèn vàng sẽ nhấp nháy trước khi đèn đỏ bắt đầu. Tương tự như giao lộ's flashing yellow, this (at a railroad crossing) is a 'THẬN TRỌNG' cảnh báo có tàu đang đến gần, bạn nên giảm tốc độ và chuẩn bị dừng lại.",
+      "options_es": [
+        "(Aunque no está en el manual, esto es estándar) Reduzca la velocidad y prepárese para detenerse cuando las luces rojas comiencen a parpadear.",
+        "(Esto no está en el manual) Acelera para cruzar.",
+        "(Esto no está en el manual) Trátelo como un signo STOP."
+      ],
+      "options_ko": [
+        "(안내서에는 없지만 이것이 표준입니다.) 속도를 줄이고 빨간불이 깜박이기 시작하면 정지할 준비를 하십시오.",
+        "(이것은 핸드북에 없습니다.) 교차할 때까지 속도를 높이세요.",
+        "(이것은 핸드북에 없습니다.) STOP 기호로 취급하십시오."
+      ],
+      "options_tl": [
+        "(Bagaman wala sa handbook, ito ay pamantayan) Magdahan-dahan at maghandang huminto habang ang mga pulang ilaw ay magsisimulang kumikislap.",
+        "(Wala ito sa handbook) Bilisan mo ang pagtawid.",
+        "(Wala ito sa handbook) Tratuhin ito bilang STOP sign."
+      ],
+      "options_vi": [
+        "(Mặc dù không có trong sổ tay nhưng đây là tiêu chuẩn) Hãy giảm tốc độ và chuẩn bị dừng lại vì đèn đỏ sẽ bắt đầu nhấp nháy.",
+        "(Điều này không có trong sổ tay) Tăng tốc để vượt qua.",
+        "(Điều này không có trong sổ tay) Hãy coi nó như một dấu hiệu STOP."
+      ],
+      "question_es": "En un cruce de ferrocarril con una luz amarilla intermitente, usted debe:",
+      "question_ko": "노란색 신호등이 깜박이는 철도 건널목에서는 다음을 수행해야 합니다.",
+      "question_tl": "Sa isang tawiran ng riles na may kumikislap na dilaw na ilaw, dapat mong:",
+      "question_vi": "Tại nơi đường sắt giao nhau có đèn vàng nhấp nháy, bạn nên:"
+    },
+    {
+      "_id": "691b73d3ae28c2405c54d625",
+      "question": "一个恒亮的绿色交通信号灯（Solid Green Light）是什么意思？",
+      "question_en": "What does a solid green traffic signal light mean?",
+      "image_path": "",
+      "options": [
+        "“通行”，但您仍必须为已经在十字路口内的任何人（车辆、行人）让行。",
+        "“停车”，并等待。",
+        "“谨慎”，减速。"
+      ],
+      "options_en": [
+        "'GO,' but you must still yield to anyone (vehicle, pedestrian) already in the intersection.",
+        "'STOP,' and wait.",
+        "'CAUTION,' slow down."
+      ],
+      "correctAnswer": 0,
+      "explanation": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，绿灯表示通行，但仍须让行路口内车辆、行人或自行车。",
+      "explanation_en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a green light means go but you must yield to anyone already in the intersection.",
+      "category": "通用",
+      "state": "CA",
+      "difficulty": "medium",
+      "isActive": true,
+      "isMustKnow": true,
+      "frequency": "high",
+      "tags": [
+        "交通信号",
+        "标志"
+      ],
+      "reviewCount": 81,
+      "lastReviewed": "2026-01-15T01:04:38.992Z",
+      "__v": 0,
+      "explanation_es": "Explicación: Explicación: Según el Capítulo 7 | Leyes y reglamentos viales | Señales de tráfico del manual. El manual indica que una luz verde significa 'GO. ' Sin embargo, inmediatamente matiza esto: 'Aun así, debes detenerte ante cualquier vehículo, ciclista o peatón en la intersección.",
+      "explanation_ko": "설명: 설명: 7장에 따라 | 도로 법규 및 규정 | 핸드북의 교통 신호 핸드북에는 녹색 신호등이 'GO. '을 의미한다고 명시되어 있습니다. 그러나 이는 즉시 다음과 같은 자격을 부여합니다. '교차로에 있는 모든 차량, 자전거 운전자 또는 보행자가 있으면 정지해야 합니다.",
+      "explanation_tl": "Paliwanag: Paliwanag: Bawat Kabanata 7 | Mga Batas at Regulasyon sa Kalsada | Mga Signal ng Trapiko ng handbook, Ang handbook ay nagsasaad na ang berdeng ilaw ay nangangahulugang 'GO. ' Gayunpaman, ito ay agad na kwalipikado: 'Dapat ka pa ring huminto para sa anumang sasakyan, nagbibisikleta, o pedestrian sa intersection.",
+      "explanation_vi": "Giải thích: Giải thích: Theo Chương 7 | Luật và Quy định Đường bộ | Tín hiệu giao thông của sổ tay, Sổ tay nêu rõ đèn xanh có nghĩa là 'GO. ' Tuy nhiên, nó ngay lập tức xác định điều này: 'Bạn vẫn nên dừng xe đối với bất kỳ phương tiện, người đi xe đạp hoặc người đi bộ nào trong giao lộ.",
+      "options_es": [
+        "'GO,' pero aun así debe cederle el paso a cualquier persona (vehículo, peatón) que ya se encuentre en la intersección.",
+        "'STOP,' y espera.",
+        "'CAUTION,' más despacio."
+      ],
+      "options_ko": [
+        "'GO,' 하지만 이미 교차로에 있는 사람(차량, 보행자)에게 양보해야 합니다.",
+        "'STOP,' 그리고 기다리세요.",
+        "'CAUTION,' 천천히 하세요."
+      ],
+      "options_tl": [
+        "'GO,' ngunit kailangan mo pa ring sumuko sa sinuman (sasakyan, pedestrian) na nasa intersection na.",
+        "'STOP,' at maghintay.",
+        "'CAUTION,' bumagal."
+      ],
+      "options_vi": [
+        "'GO,' nhưng bạn vẫn phải nhường đường cho bất kỳ ai (phương tiện, người đi bộ) đã ở trong giao lộ.",
+        "'STOP,' và chờ đợi.",
+        "'CAUTION,' chậm lại."
+      ],
+      "question_es": "¿Qué significa un semáforo en verde fijo?",
+      "question_ko": "녹색 신호등이 켜져 있다는 것은 무엇을 의미합니까?",
+      "question_tl": "Ano ang ibig sabihin ng solidong berdeng traffic signal light?",
+      "question_vi": "Đèn tín hiệu giao thông màu xanh liên tục có ý nghĩa gì?"
+    },
+    {
+      "_id": "691c083e09551403ae280ddc",
+      "question": "看到这个红色八边形标志时必须做什么？",
+      "question_en": "What must you do when you see this red octagonal sign?",
+      "image_path": "signs-webp/Stop.webp",
+      "options": [
+        "在停车线或人行横道前完全停下，再安全通行",
+        "若无行人可减速通过",
+        "只需让行行人，不必停车"
+      ],
+      "options_en": [
+        "Make a full stop at the limit line or crosswalk, then proceed when safe",
+        "Slow down and roll through if no pedestrians",
+        "Yield to pedestrians without stopping"
+      ],
+      "correctAnswer": 0,
+      "explanation": "根据手册第6章《导览道路》《交通标志》的规定，STOP 标志要求在限制线前完全停车后再通行。",
+      "explanation_en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, a STOP sign requires a full stop before proceeding.",
+      "category": "交通标志",
+      "state": "CA",
+      "difficulty": "medium",
+      "isActive": true,
+      "__v": 0,
+      "frequency": "high",
+      "isMustKnow": true,
+      "tags": [
+        "交通信号",
+        "标志"
+      ],
+      "lastReviewed": "2025-12-15T18:37:27.766Z",
+      "reviewCount": 38,
+      "explanation_es": "Explicación: Según el Capítulo 7 | Leyes y reglamentos viales | Señales STOP y paradas en cuatro direcciones del manual. Una señal STOP requiere una parada completa antes de continuar cuando el camino está despejado.",
+      "explanation_ko": "설명: 7장 | 도로 법규 및 규정 | STOP 표지판 및 핸드북의 4방향 정지, STOP 표지판은 길이 비어 있을 때 진행하기 전에 완전히 정지해야 합니다.",
+      "explanation_tl": "Paliwanag: Bawat Kabanata 7 | Mga Batas at Regulasyon sa Kalsada | STOP Signs at Four-Way Stops ng handbook, Ang STOP sign ay nangangailangan ng kumpletong paghinto bago magpatuloy kapag ang daan ay malinaw.",
+      "explanation_vi": "Giải thích: Theo Chương 7 | Luật và Quy định Đường bộ | STOP Biển báo và Điểm dừng bốn chiều trong sổ tay, Biển báo STOP yêu cầu dừng hẳn trước khi đi tiếp khi đường thông thoáng.",
+      "options_es": [
+        "Deténgase por completo en la línea límite o en el cruce de peatones y luego continúe cuando sea seguro",
+        "Reduzca la velocidad y avance si no hay peatones.",
+        "Ceder el paso a los peatones sin parar"
+      ],
+      "options_ko": [
+        "제한선이나 횡단보도에서는 완전히 정지한 후 안전할 때 진행하세요.",
+        "보행자가 없으면 속도를 줄이고 굴러가세요.",
+        "정지하지 않고 보행자에게 양보하세요"
+      ],
+      "options_tl": [
+        "Huminto sa linya ng limitasyon o tawiran, pagkatapos ay magpatuloy kapag ligtas",
+        "Dahan-dahan at gumulong kung walang pedestrian",
+        "Magbigay sa mga pedestrian nang walang tigil"
+      ],
+      "options_vi": [
+        "Dừng hẳn ở vạch giới hạn hoặc lối qua đường dành cho người đi bộ, sau đó tiếp tục đi khi an toàn",
+        "Giảm tốc độ và lăn qua nếu không có người đi bộ",
+        "Nhường đường cho người đi bộ mà không dừng lại"
+      ],
+      "question_es": "¿Qué debes hacer cuando veas este letrero octogonal rojo?",
+      "question_ko": "이 빨간 팔각형 표지판을 보면 어떻게 해야 합니까?",
+      "question_tl": "Ano ang dapat mong gawin kapag nakita mo itong pulang octagonal sign?",
+      "question_vi": "Bạn phải làm gì khi nhìn thấy tấm biển hình bát giác màu đỏ này?"
+    },
+    {
+      "_id": "691c083e09551403ae280dde",
+      "question": "在四向停车路口看到这个标志时，通行顺序如何？",
+      "question_en": "At a 4-way stop with this sign, how do you proceed?",
+      "image_path": "signs-webp/Four_Way_Stop.webp",
+      "options": [
+        "按到达顺序依次通行，同时让行行人和右侧车辆",
+        "先来的车都让右侧车先走",
+        "若无行人可不必完全停"
+      ],
+      "options_en": [
+        "Proceed in order of arrival, yielding to pedestrians and to the vehicle on your right if tied",
+        "All vehicles yield to the car on the right regardless of arrival order",
+        "You may roll through if no pedestrians"
+      ],
+      "correctAnswer": 0,
+      "explanation": "根据手册第6章《导览道路》《交通标志》的规定，四向停牌需全部车辆先停，按先来先行并让行右侧车辆与行人。",
+      "explanation_en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, at a four-way stop all vehicles must stop, proceed by arrival order, and yield to the right and pedestrians.",
+      "category": "交通标志",
+      "state": "CA",
+      "difficulty": "medium",
+      "isActive": true,
+      "__v": 0,
+      "frequency": "high",
+      "isMustKnow": true,
+      "tags": [
+        "交通信号",
+        "标志"
+      ],
+      "lastReviewed": "2025-12-15T18:37:53.061Z",
+      "reviewCount": 52,
+      "explanation_es": "Explicación: Según el manual, Capítulo 7 | Leyes y reglamentos viales | STOP Señales y alto en cuatro direcciones, todos los accesos deben detenerse; proceder por orden de llegada, con preferencia de paso al vehículo de su derecha y a los peatones.",
+      "explanation_ko": "설명: 핸드북 7장 | 도로 법규 및 규정 | STOP 표지판 및 4방향 정지, 모든 접근은 정지되어야 합니다. 오른쪽에 있는 차량과 보행자에게 우선권을 두고 도착 순서대로 진행하세요.",
+      "explanation_tl": "Paliwanag: Ayon sa handbook, Kabanata 7 | Mga Batas at Regulasyon sa Kalsada | STOP Mga Palatandaan at Four-Way Stop, Lahat ng paglapit ay dapat huminto; magpatuloy sa pamamagitan ng arrival order, na may right-of-way sa sasakyan sa iyong kanan at sa mga pedestrian.",
+      "explanation_vi": "Giải thích: Theo sổ tay, Chương 7 | Luật và Quy định Đường bộ | STOP Biển báo và Điểm dừng bốn chiều, Tất cả các lối vào đều phải dừng lại; tiến hành theo lệnh đến, có quyền ưu tiên cho xe bên phải của bạn và cho người đi bộ.",
+      "options_es": [
+        "Proceda por orden de llegada, cediendo el paso a los peatones y al vehículo de su derecha si está atado.",
+        "Todos los vehículos ceden el paso al de la derecha independientemente del orden de llegada.",
+        "Puede pasar si no hay peatones."
+      ],
+      "options_ko": [
+        "도착한 순서대로 진행하고, 보행자와 묶인 경우 오른쪽 차량에 양보하세요.",
+        "모든 차량은 도착순서에 관계없이 오른쪽 차량에 양보합니다.",
+        "보행자가 없으면 굴러갈 수 있습니다."
+      ],
+      "options_tl": [
+        "Magpatuloy sa pagkakasunud-sunod ng pagdating, sumuko sa mga pedestrian at sa sasakyan sa iyong kanan kung nakatali",
+        "Lahat ng sasakyan ay sumusuko sa kotse sa kanan anuman ang order ng pagdating",
+        "Maaari kang gumulong kung walang pedestrian"
+      ],
+      "options_vi": [
+        "Đi theo thứ tự đến, nhường đường cho người đi bộ và xe bên phải nếu bị trói",
+        "Tất cả các xe nhường đường cho xe bên phải bất kể thứ tự đến",
+        "Bạn có thể lăn qua nếu không có người đi bộ"
+      ],
+      "question_es": "En una parada de 4 vías con esta señal, ¿cómo se debe proceder?",
+      "question_ko": "이 표지판이 있는 4방향 정류장에서는 어떻게 진행하나요?",
+      "question_tl": "Sa isang 4-way stop na may sign na ito, paano ka magpapatuloy?",
+      "question_vi": "Khi dừng ở ngã 4 có biển này, bạn đi tiếp như thế nào?"
+    },
+    {
+      "_id": "691c083f09551403ae280de0",
+      "question": "这个 “EXCEPT RIGHT TURN” 配合红灯时表示什么？",
+      "question_en": "What does this 'EXCEPT RIGHT TURN' sign mean at a red light?",
+      "image_base64": "",
+      "image_path": "signs-webp/Except_Right_Turn.webp",
+      "options": [
+        "红灯时仅允许右转无需停",
+        "红灯时仅允许右转，仍需完全停下并让行",
+        "仅左转时需要停"
+      ],
+      "options_en": [
+        "You may turn right on red without stopping",
+        "Only right turns are permitted on red, but a full stop and yield are required",
+        "Only left turns must stop"
+      ],
+      "correctAnswer": 1,
+      "explanation": "根据手册第6章《导览道路》《交通标志》的规定，红灯时仅允许右转，但必须先停车并让行。",
+      "explanation_en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, on red only right turns are allowed, and you must stop and yield first.",
+      "category": "交通标志",
+      "state": "CA",
+      "difficulty": "medium",
+      "isActive": true,
+      "__v": 0,
+      "frequency": "high",
+      "isMustKnow": true,
+      "tags": [
+        "交通信号",
+        "标志"
+      ],
+      "lastReviewed": "2025-12-15T18:38:20.724Z",
+      "reviewCount": 33,
+      "explanation_es": "Explicación: Según el manual, Capítulo 7 | Leyes y reglamentos viales | Semáforos: En un semáforo en rojo, sólo se permiten giros a la derecha; primero debe detenerse y ceder el paso a los peatones y al tráfico que viene en sentido contrario.",
+      "explanation_ko": "설명: 핸드북 7장 | 도로 법규 및 규정 | 교통 신호등, 빨간 신호등에서는 우회전만 허용됩니다. 먼저 정지하고 보행자와 다가오는 차량에 양보해야 합니다.",
+      "explanation_tl": "Paliwanag: Ayon sa handbook, Kabanata 7 | Mga Batas at Regulasyon sa Kalsada | Mga Signal ng Trapiko, Sa pulang ilaw, pakanan lang ang pinapayagan; kailangan mo munang huminto at sumuko sa mga pedestrian at paparating na trapiko.",
+      "explanation_vi": "Giải thích: Theo sổ tay, Chương 7 | Luật và Quy định Đường bộ | Tín hiệu giao thông, Khi đèn đỏ, chỉ được phép rẽ phải; trước tiên bạn phải dừng lại và nhường đường cho người đi bộ và xe cộ đang chạy tới.",
+      "options_es": [
+        "Puedes girar a la derecha en rojo sin parar.",
+        "Solo se permiten giros a la derecha en rojo, pero se requiere detenerse por completo y ceder el paso.",
+        "Sólo deben detenerse los giros a la izquierda."
+      ],
+      "options_ko": [
+        "빨간색 신호등에서는 정지하지 않고 우회전해도 됩니다",
+        "빨간색에서는 우회전만 허용되지만, 완전 정지 및 양보가 필요합니다.",
+        "좌회전만 정지해야 합니다"
+      ],
+      "options_tl": [
+        "Maaari kang lumiko pakanan sa pula nang hindi tumitigil",
+        "Pakanan lang ang pinahihintulutan sa pula, ngunit kailangan ng full stop at yield",
+        "Pakaliwa lang ang dapat huminto"
+      ],
+      "options_vi": [
+        "Bạn có thể rẽ phải khi đèn đỏ mà không dừng lại",
+        "Chỉ được phép rẽ phải khi đèn đỏ, nhưng phải dừng hẳn và nhường đường",
+        "Chỉ rẽ trái phải dừng lại"
+      ],
+      "question_es": "¿Qué significa esta señal 'EXCEPT RIGHT TURN' en un semáforo en rojo?",
+      "question_ko": "빨간 신호등에서 이 'EXCEPT RIGHT TURN' 표시는 무엇을 의미합니까?",
+      "question_tl": "Ano ang ibig sabihin ng 'EXCEPT RIGHT TURN' sign na ito sa pulang ilaw?",
+      "question_vi": "Biển báo 'EXCEPT RIGHT TURN' này có ý nghĩa gì khi đèn đỏ?"
+    },
+    {
+      "_id": "691c083f09551403ae280de2",
+      "question": "这个箭头标志要求你在红灯时做什么？",
+      "question_en": "What must you do at a red light when you see this arrow sign?",
+      "image_base64": "",
+      "image_path": "signs-webp/Stop_Here_On_Red.webp",
+      "options": [
+        "在箭头指示位置完全停下",
+        "在路口中心停下",
+        "减速到 5 mph 即可"
+      ],
+      "options_en": [
+        "Come to a complete stop where the arrow indicates",
+        "Stop in the middle of the intersection",
+        "Only slow to 5 mph"
+      ],
+      "correctAnswer": 0,
+      "explanation": "根据手册第6章《导览道路》《交通标志》的规定，红灯时须在箭头指示位置完全停车。",
+      "explanation_en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, this sign tells you where to make a full stop on red.",
+      "category": "交通标志",
+      "state": "CA",
+      "difficulty": "medium",
+      "isActive": true,
+      "__v": 0,
+      "frequency": "high",
+      "isMustKnow": true,
+      "tags": [
+        "交通信号",
+        "标志"
+      ],
+      "lastReviewed": "2025-12-15T18:39:25.733Z",
+      "reviewCount": 31,
+      "explanation_es": "Explicación: Según el manual, Capítulo 7 | Leyes y reglamentos viales | Semáforos, Marca donde debes hacer un alto total en color rojo, en el punto indicado por la flecha.",
+      "explanation_ko": "설명: 핸드북 7장 | 도로 법규 및 규정 | 교통 신호등은 화살표가 가리키는 지점에서 빨간색으로 완전히 정지해야 하는 위치를 표시합니다.",
+      "explanation_tl": "Paliwanag: Ayon sa handbook, Kabanata 7 | Mga Batas at Regulasyon sa Kalsada | Mga Signal ng Trapiko, Ito ay nagmamarka kung saan dapat kang tumigil sa pula, sa nakasaad na punto ng arrow.",
+      "explanation_vi": "Giải thích: Theo sổ tay, Chương 7 | Luật và Quy định Đường bộ | Tín hiệu giao thông, Nó đánh dấu nơi bạn phải dừng hẳn khi đèn đỏ, tại điểm chỉ định của mũi tên.",
+      "options_es": [
+        "Deténgase por completo donde la flecha indica",
+        "Deténgase en medio de la intersección.",
+        "Sólo lento para 5 mph"
+      ],
+      "options_ko": [
+        "화살표가 가리키는 곳에서 완전히 정지하세요.",
+        "교차로 중앙에 멈춰라",
+        "5 mph까지만 느림"
+      ],
+      "options_tl": [
+        "Halika sa isang kumpletong paghinto kung saan ang arrow ay nagpapahiwatig",
+        "Huminto sa gitna ng intersection",
+        "Mabagal lang sa 5 mph"
+      ],
+      "options_vi": [
+        "Hãy dừng hẳn ở nơi có mũi tên chỉ",
+        "Dừng lại giữa ngã tư",
+        "Chỉ chậm đến 5 mph"
+      ],
+      "question_es": "¿Qué debes hacer en un semáforo en rojo cuando ves esta señal de flecha?",
+      "question_ko": "빨간 신호등에 이 화살표 표시가 보이면 어떻게 해야 합니까?",
+      "question_tl": "Ano ang dapat mong gawin sa pulang ilaw kapag nakita mo itong arrow sign?",
+      "question_vi": "Khi gặp đèn đỏ bạn phải làm gì khi nhìn thấy biển báo mũi tên này?"
+    },
+    {
+      "_id": "691c083f09551403ae280de4",
+      "question": "看到这个红底白字标志时应怎样？",
+      "question_en": "What should you do when you see this red 'WRONG WAY' sign?",
+      "image_base64": "",
+      "image_path": "signs-webp/Wrong_Way.webp",
+      "options": [
+        "继续前进，前方有优先权",
+        "立即停车并安全掉头或驶离",
+        "靠右慢行观察"
+      ],
+      "options_en": [
+        "Keep going; you have the right of way",
+        "Stop at once and safely turn around or exit",
+        "Proceed slowly while watching"
+      ],
+      "correctAnswer": 1,
+      "explanation": "根据手册第6章《导览道路》《交通标志》的规定，WRONG WAY 表示逆行，应立即安全驶离。",
+      "explanation_en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, WRONG WAY means you are going the wrong way; stop and exit safely.",
+      "category": "交通标志",
+      "state": "CA",
+      "difficulty": "medium",
+      "isActive": true,
+      "__v": 0,
+      "frequency": "high",
+      "isMustKnow": true,
+      "tags": [
+        "交通信号",
+        "标志"
+      ],
+      "lastReviewed": "2025-12-18T19:02:17.540Z",
+      "reviewCount": 67,
+      "explanation_es": "Explicación: Basado en el Capítulo 6 | Navegando por el camino | Señales de tráfico en el manual, indican que vas en sentido contrario; Deténgase inmediatamente y dé la vuelta o salga de manera segura.",
+      "explanation_ko": "설명: 6장 | 도로 탐색 | 안내서에 있는 교통 표지판은 잘못된 길로 가고 있음을 나타냅니다. 즉시 정지하고 안전하게 방향을 바꾸거나 나가십시오.",
+      "explanation_tl": "Paliwanag: Batay sa Kabanata 6 | Pag-navigate sa Daan | Traffic Signs sa handbook, Ito ay nagpapahiwatig na ikaw ay pupunta sa maling paraan; huminto kaagad at ligtas na lumiko o lumabas.",
+      "explanation_vi": "Giải thích: Dựa trên Chương 6 | Điều hướng đường | Biển báo giao thông trong sổ tay, Nó cho biết bạn đang đi sai đường; dừng lại ngay lập tức và quay đầu hoặc thoát ra một cách an toàn.",
+      "options_es": [
+        "Sigue adelante; tienes el derecho de paso",
+        "Deténgase de inmediato y dé la vuelta o salga de manera segura.",
+        "Proceda lentamente mientras observa"
+      ],
+      "options_ko": [
+        "계속하세요. 당신에게는 통행우선권이 있습니다",
+        "일단 정지하고 안전하게 우회전 또는 하차",
+        "보면서 천천히 진행하세요"
+      ],
+      "options_tl": [
+        "Magpatuloy; may karapatan kang daan",
+        "Huminto kaagad at ligtas na lumiko o lumabas",
+        "Magpatuloy nang dahan-dahan habang nanonood"
+      ],
+      "options_vi": [
+        "Tiếp tục đi; bạn có quyền đi trước",
+        "Dừng lại ngay lập tức và quay lại hoặc thoát ra một cách an toàn",
+        "Tiến hành chậm rãi trong khi xem"
+      ],
+      "question_es": "¿Qué debes hacer cuando veas este letrero rojo 'WRONG WAY'?",
+      "question_ko": "이 빨간색 'WRONG WAY' 표시가 보이면 어떻게 해야 합니까?",
+      "question_tl": "Ano ang dapat mong gawin kapag nakita mo itong pulang 'WRONG WAY' sign?",
+      "question_vi": "Bạn nên làm gì khi nhìn thấy biển báo 'WRONG WAY' màu đỏ này?"
+    }
+  ]
+}

@@ -1126,17 +1126,17 @@
         "zh-Hant": "$30,000"
       }
     },
-    "answer": "A",
+    "answer": "B",
     "explanation": {
-      "en": "The law requires at least $5,000 for property damage coverage per accident.",
-      "zh-Hans": "加州法律要求每起事故至少赔付 5,000 美元的财产损失保险。",
-      "zh-Hant": "加州法律要求每起事故至少賠付 5,000 美元的財產損失保險。"
+      "en": "As of January 1, 2025, California law requires at least $15,000 for property damage coverage per accident.",
+      "zh-Hans": "自2025年1月1日起，加州法律要求每起事故至少赔付 15,000 美元的财产损失保险。",
+      "zh-Hant": "自2025年1月1日起，加州法律要求每起事故至少賠付 15,000 美元的財產損失保險。"
     },
     "dmv_ref": {
       "page": "101",
       "section": "Section 10: Financial Responsibility",
-      "analysis_zh-Hans": "手册完整要求：15/30/5（单人伤亡 1.5 万/总伤亡 3 万/财损 5 千）。",
-      "analysis_zh-Hant": "手冊完整要求：15/30/5（單人傷亡 1.5 萬/總傷亡 3 萬/財損 5 千）。"
+      "analysis_zh-Hans": "2025年更新：手册完整要求已从15/30/5更新为30/60/15（单人伤亡 3 万/总伤亡 6 万/财损 1.5 万）。",
+      "analysis_zh-Hant": "2025年更新：手冊完整要求已從15/30/5更新為30/60/15（單人傷亡 3 萬/總傷亡 6 萬/財損 1.5 萬）。"
     }
   },
   {

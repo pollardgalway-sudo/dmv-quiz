@@ -49,14 +49,14 @@ export default function ExamPage() {
       // 随机打乱每个分类
       const shuffleArray = (arr: any[]) => [...arr].sort(() => Math.random() - 0.5)
 
-      // 从 signs 模块选取 6 道标志题（这些都有图片）
-      const selectedSigns = shuffleArray(signsQuestions).slice(0, 6)
+      // 从 signs 模块选取 2 道标志题（这些都有图片）
+      const selectedSigns = shuffleArray(signsQuestions).slice(0, 2)
 
-      // 从 basics 和 deepdive 各选取一定数量的题目
-      const selectedBasics = shuffleArray(basicsQuestions).slice(0, 15)
-      const selectedDeepdive = shuffleArray(deepdiveQuestions).slice(0, 15)
+      // 从 basics 选取 8 道，从 deepdive 选取 26 道复杂题目
+      const selectedBasics = shuffleArray(basicsQuestions).slice(0, 8)
+      const selectedDeepdive = shuffleArray(deepdiveQuestions).slice(0, 26)
 
-      // 合并并再次打乱顺序
+      // 合并并再次打乱顺序 (总共 36 道题)
       const selected = shuffleArray([...selectedBasics, ...selectedDeepdive, ...selectedSigns])
 
       // Transform to the format expected by the exam page

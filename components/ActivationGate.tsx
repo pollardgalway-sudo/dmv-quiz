@@ -1,11 +1,16 @@
 'use client'
 
 import { useState, useEffect, ReactNode } from 'react'
+import { usePathname } from 'next/navigation'
 import { Button } from '@/components/ui/button'
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@/components/ui/card'
+import Link from 'next/link'
 
 // 激活码（需与 API 中的 CONFIG.ACTIVATION_CODE 保持一致）
 const ACTIVATION_CODE = 'DMV2026-CALI-PASS'
+
+// 免激活页面白名单
+const PUBLIC_PATHS = ['/demo']
 
 // 生成设备指纹
 function generateDeviceFingerprint(): string {
@@ -42,11 +47,15 @@ interface ActivationGateProps {
 }
 
 export default function ActivationGate({ children }: ActivationGateProps) {
+    const pathname = usePathname()
     const [isActivated, setIsActivated] = useState(false)
     const [code, setCode] = useState('')
     const [error, setError] = useState('')
     const [mounted, setMounted] = useState(false)
     const [isLoading, setIsLoading] = useState(false)
+
+    // 检查是否是公开页面（不需要激活）
+    const isPublicPath = PUBLIC_PATHS.some(path => pathname?.startsWith(path))
 
     useEffect(() => {
         setMounted(true)
@@ -120,7 +129,8 @@ export default function ActivationGate({ children }: ActivationGateProps) {
         )
     }
 
-    if (isActivated) {
+    // 公开页面或已激活用户直接通过
+    if (isPublicPath || isActivated) {
         return <>{children}</>
     }
 
@@ -179,6 +189,21 @@ export default function ActivationGate({ children }: ActivationGateProps) {
 
                     <div className="mt-6 text-center text-sm text-muted-foreground">
                         <p>如需获取激活码，请联系管理员</p>
+                    </div>
+
+                    {/* 免费试用入口 */}
+                    <div className="mt-4 pt-4 border-t border-border/50">
+                        <Link href="/demo">
+                            <Button
+                                variant="outline"
+                                className="w-full h-11 text-base font-medium glass border-2 hover:bg-accent/50"
+                            >
+                                🎁 免费试用 20 道题目
+                            </Button>
+                        </Link>
+                        <p className="mt-2 text-xs text-muted-foreground text-center">
+                            先体验，后购买
+                        </p>
                     </div>
                 </CardContent>
             </Card>

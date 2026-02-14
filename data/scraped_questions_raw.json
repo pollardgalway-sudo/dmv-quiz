@@ -1,0 +1,24 @@
+{
+    "questions": [
+        {
+            "_id": "691b73d3ae28c2405c54d5ff",
+            "question": "一个恒亮的红色交通信号灯（Solid Red Light）是什么意思？",
+            "question_en": "What does a solid red traffic signal light mean?",
+            "image_base64": "",
+            "image_path": "",
+            "options": [
+                "减速并谨慎通过。",
+                "“停车”。在限制线或人行道前停下。",
+                "信号灯故障。"
+            ],
+            "options_en": [
+                "Slow down and proceed with caution.",
+                "'STOP.' Stop at the limit line or crosswalk.",
+                "The signal is broken."
+            ],
+            "correctAnswer": 1,
+            "explanation": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯表示停车，应在限制线或人行横道前完全停下。",
+            "explanation_en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a solid red light means stop before the limit line or crosswalk."
+        }
+    ]
+}
