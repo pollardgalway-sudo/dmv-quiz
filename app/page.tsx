@@ -8,9 +8,9 @@ import { getWrongQuestionsCount } from '@/lib/wrong-questions'
 
 const translations = {
   en: {
-    mainTitle: "2026 California DMV Written Test",
+    mainTitle: "2026 California DMV Written Test v2",
     subtitle: "California Driver License Practice",
-    questionCount: "Question Bank: 305 Questions | Choose Your Learning Mode",
+    questionCount: "Question Bank: 753 Questions | Choose Your Learning Mode",
     modes: {
       basics: {
         title: "The Basics",
@@ -65,7 +65,7 @@ const translations = {
     viewAll: "View All Mistakes"
   },
   'zh-CN': {
-    mainTitle: "2026加州驾照笔试题目",
+    mainTitle: "2026加州驾照笔试题目 v2",
     subtitle: "California DMV Written Test Practice",
     questionCount: "题库共 753 题 | 选择您的学习模式",
     modes: {
@@ -122,21 +122,21 @@ const translations = {
     viewAll: "清空错题本"
   },
   'zh-TW': {
-    mainTitle: "2026加州駕照筆試題目",
+    mainTitle: "2026加州駕照筆試題目 v2",
     subtitle: "California DMV Written Test Practice",
     questionCount: "題庫共 345 題 | 選擇您的學習模式",
     modes: {
       basics: {
         title: "掃盲模式",
         subtitle: "The Basics",
-        count: "70題",
+        count: "150題",
         tags: "基礎標誌 + 核心數字",
         desc: "適合零基礎學員，建立信心，掌握最基本的交通知識"
       },
       deepDive: {
         title: "專項突破",
         subtitle: "Deep Dive",
-        count: "177題",
+        count: "603題",
         tags: "規則 + 安全 + 法規",
         desc: "深入學習交通規則、安全知識和加州駕駛法規"
       },
