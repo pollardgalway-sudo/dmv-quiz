@@ -6,9 +6,6 @@ import { Button } from '@/components/ui/button'
 import { Card, CardContent, CardHeader, CardTitle, CardDescription } from '@/components/ui/card'
 import Link from 'next/link'
 
-// 激活码（需与 API 中的 CONFIG.ACTIVATION_CODE 保持一致）
-const ACTIVATION_CODE = 'DMV2026-CALI-PASS'
-
 // 免激活页面白名单
 const PUBLIC_PATHS = ['/demo']
 
@@ -54,7 +51,7 @@ export default function ActivationGate({ children }: ActivationGateProps) {
     const [mounted, setMounted] = useState(false)
     const [isLoading, setIsLoading] = useState(false)
 
-    // 检查是否是公开页面（不需要激活）
+    // 检查是否是公开页面
     const isPublicPath = PUBLIC_PATHS.some(path => pathname?.startsWith(path))
 
     useEffect(() => {
@@ -62,7 +59,8 @@ export default function ActivationGate({ children }: ActivationGateProps) {
         // 检查本地是否已激活
         const activated = localStorage.getItem('dmv_activated')
         const deviceId = localStorage.getItem('dmv_device_id')
-        if (activated === 'true' && deviceId) {
+        const savedCode = localStorage.getItem('dmv_activation_code')
+        if (activated === 'true' && deviceId && savedCode) {
             setIsActivated(true)
         }
     }, [])
@@ -72,9 +70,9 @@ export default function ActivationGate({ children }: ActivationGateProps) {
         setIsLoading(true)
         setError('')
 
-        // 先验证激活码格式
-        if (code.toUpperCase() !== ACTIVATION_CODE) {
-            setError('激活码错误，请重新输入')
+        const trimmedCode = code.trim()
+        if (!trimmedCode) {
+            setError('请输入激活码')
             setIsLoading(false)
             return
         }
@@ -86,7 +84,7 @@ export default function ActivationGate({ children }: ActivationGateProps) {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
                 body: JSON.stringify({
-                    code: code.toUpperCase(),
+                    code: trimmedCode,
                     deviceId
                 })
             })
@@ -96,21 +94,17 @@ export default function ActivationGate({ children }: ActivationGateProps) {
             if (result.success) {
                 localStorage.setItem('dmv_activated', 'true')
                 localStorage.setItem('dmv_device_id', deviceId)
+                localStorage.setItem('dmv_activation_code', result.code || trimmedCode.toUpperCase())
                 setIsActivated(true)
             } else {
                 if (result.code === 'DEVICE_LIMIT_REACHED') {
-                    setError('激活码已达使用上限，请联系客服获取帮助')
+                    setError(`该激活码已绑定 ${result.boundDeviceCount} 台设备（上限 ${result.maxDevices} 台），无法绑定更多设备。请联系管理员解绑。`)
                 } else {
                     setError(result.error || '激活失败，请重试')
                 }
             }
-        } catch (err) {
-            console.warn('API error, using fallback:', err)
-            // API 失败时使用本地验证
-            const deviceId = generateDeviceFingerprint()
-            localStorage.setItem('dmv_activated', 'true')
-            localStorage.setItem('dmv_device_id', deviceId)
-            setIsActivated(true)
+        } catch {
+            setError('网络错误，请检查网络后重试')
         } finally {
             setIsLoading(false)
         }
@@ -158,8 +152,8 @@ export default function ActivationGate({ children }: ActivationGateProps) {
                             <input
                                 type="text"
                                 value={code}
-                                onChange={(e) => setCode(e.target.value)}
-                                placeholder="请输入激活码"
+                                onChange={(e) => setCode(e.target.value.toUpperCase())}
+                                placeholder="例如: DMV-ABCD-1234"
                                 className="w-full px-4 py-3 text-center text-lg font-mono tracking-widest rounded-xl border-2 border-border bg-background/50 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent transition-all"
                                 autoFocus
                                 disabled={isLoading}
@@ -174,7 +168,7 @@ export default function ActivationGate({ children }: ActivationGateProps) {
 
                         <Button
                             type="submit"
-                            className="w-full h-12 text-base font-medium"
+                            className="w-full h-12 text-base font-medium text-white"
                             style={{ background: 'linear-gradient(135deg, #3B82F6, #8B5CF6)' }}
                             disabled={isLoading}
                         >
@@ -188,7 +182,8 @@ export default function ActivationGate({ children }: ActivationGateProps) {
                     </form>
 
                     <div className="mt-6 text-center text-sm text-muted-foreground">
-                        <p>如需获取激活码，请联系管理员</p>
+                        <p>每个激活码最多可绑定 2 台设备</p>
+                        <p className="mt-1">如需获取激活码，请联系管理员</p>
                     </div>
 
                     {/* 免费试用入口 */}
