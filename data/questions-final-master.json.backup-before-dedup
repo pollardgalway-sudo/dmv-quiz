@@ -1639,6 +1639,38 @@
     ]
   },
   {
+    "questionText": "You are waiting *in* the intersection to turn left when the signal changes to a solid yellow arrow. You should:",
+    "questionTextZh": "当您在十字路口（已进入）等待左转时，信号灯变为恒亮的黄色箭头。您应该：",
+    "category": "traffic_rules",
+    "difficulty": "medium",
+    "imageUrl": null,
+    "explanation": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, if you are already in the intersection on a yellow arrow, finish the turn when safe.",
+    "explanationZh": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，已在路口内遇黄箭头时，应在安全情况下完成转弯并清空路口。",
+    "dmvManualReference": "California DMV Handbook",
+    "dmvManualUrl": null,
+    "handbookVersion": "2026",
+    "options": [
+      {
+        "optionText": "Back up.",
+        "optionTextZh": "倒车。",
+        "isCorrect": false,
+        "order": "A"
+      },
+      {
+        "optionText": "Complete your turn cautiously (if safe).",
+        "optionTextZh": "谨慎完成您的转弯（如果安全）。",
+        "isCorrect": true,
+        "order": "B"
+      },
+      {
+        "optionText": "Speed up to beat the red light.",
+        "optionTextZh": "加速以抢在红灯前。",
+        "isCorrect": false,
+        "order": "C"
+      }
+    ]
+  },
+  {
     "questionText": "What signal light typically follows a solid yellow arrow?",
     "questionTextZh": "一个恒亮的黄色箭头（Solid Yellow Arrow）之后通常会跟​​着什么信号灯？",
     "category": "traffic_rules",
@@ -2273,6 +2305,38 @@
       {
         "optionText": "Treat it as a 'YIELD' sign.",
         "optionTextZh": "将其视为“YIELD”（让行）标志。",
+        "isCorrect": false,
+        "order": "C"
+      }
+    ]
+  },
+  {
+    "questionText": "What is the main difference between a flashing yellow arrow and a solid yellow arrow?",
+    "questionTextZh": "闪烁的黄色箭头（Flashing Yellow Arrow）和恒亮的黄色箭头（Solid Yellow Arrow）之间的主要区别是什么？",
+    "category": "traffic_rules",
+    "difficulty": "medium",
+    "imageUrl": null,
+    "explanation": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a solid yellow arrow means a protected turn is ending; a flashing yellow arrow means an unprotected turn requiring a yield.",
+    "explanationZh": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，恒亮黄箭头表示受保护转弯即将结束；闪烁黄箭头表示不受保护需让行。",
+    "dmvManualReference": "California DMV Handbook",
+    "dmvManualUrl": null,
+    "handbookVersion": "2026",
+    "options": [
+      {
+        "optionText": "No difference; they both mean 'Yield'.",
+        "optionTextZh": "没有区别，它们都意味着“让行”。",
+        "isCorrect": false,
+        "order": "A"
+      },
+      {
+        "optionText": "Solid yellow means 'Protected turn is ending'; Flashing yellow means 'Turn is unprotected (must yield)'.",
+        "optionTextZh": "恒亮黄箭头表示“受保护的转弯即将结束”；闪烁黄箭头表示“转弯不受保护（必须让行）”。",
+        "isCorrect": true,
+        "order": "B"
+      },
+      {
+        "optionText": "Solid yellow means 'Stop'; Flashing yellow means 'Slow down'.",
+        "optionTextZh": "恒亮黄箭头表示“停车”；闪烁黄箭头表示“减速”。",
         "isCorrect": false,
         "order": "C"
       }
@@ -10860,6 +10924,38 @@
     ]
   },
   {
+    "questionText": "Parking in the diagonally striped (cross-hatched) area next to a disabled parking space:",
+    "questionTextZh": "在残疾人停车位旁边的交叉影线区域（Diagonal Lines）泊车会：",
+    "category": "traffic_rules",
+    "difficulty": "medium",
+    "imageUrl": null,
+    "explanation": "According to the handbook, Chapter 7: Road Laws and Regulations - Parking Rules, parking in the cross-hatched area carries the same penalties as illegally parking in the blue curb space.",
+    "explanationZh": "根据手册第7章《道路法律及规定》《停车规定》的规定，交叉影线区域受与蓝色路缘石相同的严厉处罚。",
+    "dmvManualReference": "California DMV Handbook",
+    "dmvManualUrl": null,
+    "handbookVersion": "2026",
+    "options": [
+      {
+        "optionText": "Carries the same penalties as parking illegally at a blue curb.",
+        "optionTextZh": "受到与非法停在蓝色路缘石相同的处罚。",
+        "isCorrect": true,
+        "order": "A"
+      },
+      {
+        "optionText": "Will only result in a warning.",
+        "optionTextZh": "仅会导致警告。",
+        "isCorrect": false,
+        "order": "B"
+      },
+      {
+        "optionText": "Is legal, if you have a disabled placard.",
+        "optionTextZh": "是合法的，如果您有残疾人标语牌。",
+        "isCorrect": false,
+        "order": "C"
+      }
+    ]
+  },
+  {
     "questionText": "What is the first step when parallel parking?",
     "questionTextZh": "平行泊车（Parallel Parking）的第一步是什么？",
     "category": "traffic_rules",
@@ -12140,6 +12236,38 @@
     ]
   },
   {
+    "questionText": "After parking parallel to traffic, what should you do before opening your door (on the traffic side)?",
+    "questionTextZh": "在与车流平行的路边停车后，在打开车门（朝向车流一侧）之前，您应该怎么做？",
+    "category": "traffic_rules",
+    "difficulty": "medium",
+    "imageUrl": null,
+    "explanation": "According to the handbook, Chapter 8: Safe Driving - Defensive Driving and Risk Management, before opening a door next to traffic look over your shoulder for approaching bicyclists or vehicles.",
+    "explanationZh": "根据手册第8章《安全驾驶》《防御性驾驶与风险管理》的规定，开车门前应回头查看是否有自行车或车辆从后方接近。",
+    "dmvManualReference": "California DMV Handbook",
+    "dmvManualUrl": null,
+    "handbookVersion": "2026",
+    "options": [
+      {
+        "optionText": "Open the door immediately.",
+        "optionTextZh": "立即打开车门。",
+        "isCorrect": false,
+        "order": "A"
+      },
+      {
+        "optionText": "Look over your shoulder and check for approaching bicycles, motorcycles, or vehicles.",
+        "optionTextZh": "回头看，检查是否有（从后方接近的）自行车、摩托车或车辆。",
+        "isCorrect": true,
+        "order": "B"
+      },
+      {
+        "optionText": "Open the door, then look out.",
+        "optionTextZh": "打开车门，然后向外看。",
+        "isCorrect": false,
+        "order": "C"
+      }
+    ]
+  },
+  {
     "questionText": "When riding at night, what lights must a bicyclist have on their bicycle?",
     "questionTextZh": "自行车使用者在夜间骑行时，必须在自行车上配备哪些灯光？",
     "category": "traffic_rules",
@@ -12780,6 +12908,38 @@
     ]
   },
   {
+    "questionText": "When are you *not* required to drive at 25 mph (or less) in a school zone?",
+    "questionTextZh": "在学校区域，您什么时候不需要以时速 25 英里（或更低）的速度行驶？",
+    "category": "traffic_rules",
+    "difficulty": "medium",
+    "imageUrl": null,
+    "explanation": "According to the handbook, Chapter 7: Road Laws and Regulations - Road Rules, the 25 mph school limit does not apply when no children are present unless a sign states otherwise.",
+    "explanationZh": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，只有在没有儿童在场时，学校区域 25 英里限速才不适用（除非另有标志）。",
+    "dmvManualReference": "California DMV Handbook",
+    "dmvManualUrl": null,
+    "handbookVersion": "2026",
+    "options": [
+      {
+        "optionText": "When you are running late.",
+        "optionTextZh": "当您迟到时。",
+        "isCorrect": false,
+        "order": "A"
+      },
+      {
+        "optionText": "When no children are present.",
+        "optionTextZh": "当没有儿童在场时。",
+        "isCorrect": true,
+        "order": "B"
+      },
+      {
+        "optionText": "When a crossing guard is not present.",
+        "optionTextZh": "当学校安全巡视员不在场时。",
+        "isCorrect": false,
+        "order": "C"
+      }
+    ]
+  },
+  {
     "questionText": "What is a potential penalty if you fail to stop for a school bus with flashing red lights?",
     "questionTextZh": "如果您未能为闪烁红灯的校车停车，可能会受到什么处罚？",
     "category": "traffic_rules",
@@ -12934,6 +13094,38 @@
       {
         "optionText": "Honk, then drive around the bus.",
         "optionTextZh": "鸣喇叭，然后绕过校车。",
+        "isCorrect": false,
+        "order": "C"
+      }
+    ]
+  },
+  {
+    "questionText": "What is the speed limit for a 'blind intersection' in a residential area, such as near a school?",
+    "questionTextZh": "在学校区域附近（住宅区），“盲点交叉路口”的限速是多少？",
+    "category": "traffic_rules",
+    "difficulty": "medium",
+    "imageUrl": null,
+    "explanation": "According to the handbook, Chapter 7: Road Laws and Regulations - Road Rules, the speed limit for a blind intersection is 15 mph.",
+    "explanationZh": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，学校附近的盲点交叉路口限速为 15 英里/小时。",
+    "dmvManualReference": "California DMV Handbook",
+    "dmvManualUrl": null,
+    "handbookVersion": "2026",
+    "options": [
+      {
+        "optionText": "15 mph",
+        "optionTextZh": "时速 15 英里",
+        "isCorrect": true,
+        "order": "A"
+      },
+      {
+        "optionText": "25 mph",
+        "optionTextZh": "时速 25 英里",
+        "isCorrect": false,
+        "order": "B"
+      },
+      {
+        "optionText": "30 mph",
+        "optionTextZh": "时速 30 英里",
         "isCorrect": false,
         "order": "C"
       }
@@ -16615,6 +16807,38 @@
         "optionText": "Continue, exit at your intended exit, and then pull over to the side.",
         "optionTextZh": "继续行驶，从您的预定出口驶出，然后在路边停车。",
         "isCorrect": true,
+        "order": "C"
+      }
+    ]
+  },
+  {
+    "questionText": "The “Move Over and Slow Down” law applies to which vehicles?",
+    "questionTextZh": "“让路与减速”（Move Over and Slow Down）法适用于哪类车辆？",
+    "category": "traffic_rules",
+    "difficulty": "medium",
+    "imageUrl": null,
+    "explanation": "Explanation: According to the handbook, Chapter 7 | Road Laws and Regulations | Road Rules, the Move Over and Slow Down law applies to emergency, tow, or construction vehicles displaying flashing red/yellow/amber lights.",
+    "explanationZh": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，该法律仅适用于有特定闪烁灯光的紧急、拖车或施工车辆。",
+    "dmvManualReference": "California DMV Handbook",
+    "dmvManualUrl": null,
+    "handbookVersion": "2026",
+    "options": [
+      {
+        "optionText": "All vehicles parked on the shoulder.",
+        "optionTextZh": "路肩上的所有车辆。",
+        "isCorrect": false,
+        "order": "A"
+      },
+      {
+        "optionText": "Emergency, tow, or construction vehicles with flashing red/yellow/amber lights.",
+        "optionTextZh": "有闪烁红/黄/琥珀灯的紧急、拖车或施工车辆。",
+        "isCorrect": true,
+        "order": "B"
+      },
+      {
+        "optionText": "School buses only.",
+        "optionTextZh": "只有校车。",
+        "isCorrect": false,
         "order": "C"
       }
     ]
@@ -25646,6 +25870,45 @@
     "source": "deepdive"
   },
   {
+    "id": 47,
+    "category": "Literacy",
+    "question": {
+      "en": "What does a flashing yellow traffic signal mean?",
+      "zh-Hans": "闪烁的黄灯信号意味着什么？",
+      "zh-Hant": "閃爍的黃燈信號意味著什麼？"
+    },
+    "options": {
+      "A": {
+        "en": "Stop and wait for the green light.",
+        "zh-Hans": "停车并等待绿灯。",
+        "zh-Hant": "停車並等待綠燈。"
+      },
+      "B": {
+        "en": "Proceed with caution.",
+        "zh-Hans": "减速并小心通过。",
+        "zh-Hant": "減速並小心通過。"
+      },
+      "C": {
+        "en": "Speed up to clear the intersection.",
+        "zh-Hans": "加速通过路口。",
+        "zh-Hant": "加速通過路口。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "A flashing yellow light warns you to slow down and be alert, but you do not need to stop.",
+      "zh-Hans": "闪烁黄灯是提醒您降低车速并保持警觉，不需要完全停车。",
+      "zh-Hant": "閃爍黃燈是提醒您降低車速並保持警覺，不需要完全停車。"
+    },
+    "dmv_ref": {
+      "page": "27",
+      "section": "Section 6: Traffic Signals",
+      "analysis_zh-Hans": "手册解析：对比闪烁红灯（视同停止信号），闪烁黄灯强调的是“警示”。",
+      "analysis_zh-Hant": "手冊解析：對比閃爍紅燈（視同停止信號），閃爍黃燈強調的是「警示」。"
+    },
+    "source": "basics"
+  },
+  {
     "id": 48,
     "category": "Literacy",
     "question": {
@@ -26459,6 +26722,45 @@
       "section": "Section 7: Turns",
       "analysis_zh-Hans": "手册解析：必须先完全停车，避让行人和其他车辆后，确认安全方可左转。",
       "analysis_zh-Hant": "手冊解析：必須先完全停車，避讓行人和其他車輛後，確認安全方可左轉。"
+    },
+    "source": "basics"
+  },
+  {
+    "id": 69,
+    "category": "Literacy",
+    "question": {
+      "en": "If you hit a parked car and cannot find the owner, you must:",
+      "zh-Hans": "如果您撞到一辆停着的车且找不到车主，您必须：",
+      "zh-Hant": "如果您撞到一輛停著的車且找不到車主，您必須："
+    },
+    "options": {
+      "A": {
+        "en": "Leave a note with your name and address and report the accident to the police.",
+        "zh-Hans": "留下写有姓名、地址的纸条，并向警方报告事故。",
+        "zh-Hant": "留下寫有姓名、地址的紙條，並向警方報告事故。"
+      },
+      "B": {
+        "en": "Wait for 30 minutes, then leave.",
+        "zh-Hans": "等待 30 分钟，然后离开。",
+        "zh-Hant": "等待 30 分鐘，然後離開。"
+      },
+      "C": {
+        "en": "Drive away if there is no visible damage.",
+        "zh-Hans": "如果没有可见损伤就直接开车走。",
+        "zh-Hant": "如果沒有可見損傷就直接開車走。"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Leaving the scene without identifying yourself is considered hit-and-run.",
+      "zh-Hans": "不留信息直接离开属于“肇事逃逸”，即使损伤微小也属于犯罪行为。",
+      "zh-Hant": "不留信息直接離開屬於「肇事逃逸」，即使損傷微小也屬於犯罪行為。"
+    },
+    "dmv_ref": {
+      "page": "100",
+      "section": "Section 10: Traffic Accidents",
+      "analysis_zh-Hans": "手册解析：纸条应稳固地贴在受损车辆上，并在其后立即致电当地执法部门。",
+      "analysis_zh-Hant": "手冊解析：紙條應穩固地貼在受損車輛上，並在其後立即致電當地執法部門。"
     },
     "source": "basics"
   },
@@ -27891,17 +28193,56 @@
         "zh-Hant": "等待行人完全過馬路後再前行。"
       }
     },
-    "answer": "C",
+    "answer": "A",
     "explanation": {
-      "en": "Wait until the pedestrian has completely crossed the street before proceeding, to ensure their safety.",
-      "zh-Hans": "等待行人完全过马路后再前行，以确保行人安全。",
-      "zh-Hant": "等待行人完全過馬路後再前行，以確保行人安全。"
+      "en": "Wait until the pedestrian is safely out of your path. You do not need to wait for them to completely cross if they are in other lanes.",
+      "zh-Hans": "等待行人安全离开你的路线。如果他们在其他车道，你不需要等他们完全过马路。",
+      "zh-Hant": "等待行人安全離開你的路線。如果他們在其他車道，你不需要等他們完全過馬路。"
     },
     "dmv_ref": {
       "page": "41",
       "section": "第7章：道路法规 - 行人",
       "analysis_zh-Hans": "参见2026年加州DMV手册第41页「行人让行」。",
       "analysis_zh-Hant": "參見2026年加州DMV手冊第41頁「行人讓行」。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6040,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "You must yield to a pedestrian using a white cane or guide dog:",
+      "zh-Hans": "你必须让路给使用白色手杖或导盲犬的行人：",
+      "zh-Hant": "你必須讓路給使用白色手杖或導盲犬的行人："
+    },
+    "options": {
+      "A": {
+        "en": "At all times.",
+        "zh-Hans": "任何时候。",
+        "zh-Hant": "任何時候。"
+      },
+      "B": {
+        "en": "Only at crosswalks.",
+        "zh-Hans": "仅在人行横道。",
+        "zh-Hant": "僅在人行橫道。"
+      },
+      "C": {
+        "en": "Only at traffic signals.",
+        "zh-Hans": "仅在交通信号灯处。",
+        "zh-Hant": "僅在交通信號燈處。"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Always yield to pedestrians who are blind (using a white cane or guide dog), regardless of traffic signals.",
+      "zh-Hans": "无论交通信号如何，始终让路给盲人行人（使用白色手杖或导盲犬）。",
+      "zh-Hant": "無論交通信號如何，始終讓路給盲人行人（使用白色手杖或導盲犬）。"
+    },
+    "dmv_ref": {
+      "page": "42",
+      "section": "第7章：道路法规 - 特殊行人",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第42页「盲人行人」。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第42頁「盲人行人」。"
     },
     "source": "deepdive"
   },
@@ -28959,6 +29300,43 @@
     "source": "deepdive"
   },
   {
+    "id": 28,
+    "category": "Literacy",
+    "question": {
+      "en": "When driving in heavy fog, you should use your:",
+      "zh-Hans": "在浓雾中驾驶时，您应该使用：",
+      "zh-Hant": "在濃霧中駕駛時，您應該使用："
+    },
+    "options": {
+      "A": {
+        "en": "High beams.",
+        "zh-Hans": "远光灯。",
+        "zh-Hant": "遠光燈。"
+      },
+      "B": {
+        "en": "Low beams.",
+        "zh-Hans": "近光灯。",
+        "zh-Hant": "近光燈。"
+      },
+      "C": {
+        "en": "Parking lights only.",
+        "zh-Hans": "仅开启示宽灯（小灯）。",
+        "zh-Hant": "僅開啟示寬燈（小燈）。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "High beams reflect off the fog and cause glare. Low beams provide better visibility.",
+      "zh-Hans": "远光灯会被雾气反射产生眩光，导致视线模糊。近光灯照射地面效果更好。",
+      "zh-Hant": "遠光燈會被霧氣反射產生眩光，導致視線模糊。近光燈照射地面效果更好。"
+    },
+    "dmv_ref": {
+      "page": "82",
+      "section": "Section 8: Driving Hazards"
+    },
+    "source": "deepdive"
+  },
+  {
     "id": 29,
     "category": "Literacy",
     "question": {
@@ -29072,6 +29450,45 @@
       "section": "Section 7: Speed Limits",
       "analysis_zh-Hans": "手册解析：这种路口通常出现在树木茂密的住宅区，目的是防止侧撞。",
       "analysis_zh-Hant": "手冊解析：這種路口通常出現在樹木茂密的住宅區，目的是防止側撞。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 32,
+    "category": "Literacy",
+    "question": {
+      "en": "If your car starts to 'Hydroplane', you should:",
+      "zh-Hans": "如果您的车发生“水膜滑行（Hydroplaning）”，您应该：",
+      "zh-Hant": "如果您的車發生「水膜滑行（Hydroplaning）」，您應該："
+    },
+    "options": {
+      "A": {
+        "en": "Slam on the brakes immediately.",
+        "zh-Hans": "立即猛踩刹车。",
+        "zh-Hant": "立即猛踩剎車。"
+      },
+      "B": {
+        "en": "Gradually slow down and avoid sharp turns.",
+        "zh-Hans": "逐渐减速，并避免猛打方向盘。",
+        "zh-Hant": "逐漸減速，並避免猛打方向盤。"
+      },
+      "C": {
+        "en": "Accelerate to gain traction.",
+        "zh-Hans": "加速以获得抓地力。",
+        "zh-Hant": "加速以獲得抓地力。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Hydroplaning happens when tires lose contact with the road. Do not brake or turn suddenly.",
+      "zh-Hans": "水膜滑行是指轮胎在积水上失去抓地力。应松开油门，保持方向稳定，直到轮胎重新接触路面。",
+      "zh-Hant": "水膜滑行是指輪胎在積水上失去抓地力。應鬆開油門，保持方向穩定，直到輪胎重新接觸路面。"
+    },
+    "dmv_ref": {
+      "page": "82",
+      "section": "Section 8: Driving Hazards",
+      "analysis_zh-Hans": "手册警示：在车速超过 50 英里时，由于积水严重，汽车可能完全在水面上“飞行”。",
+      "analysis_zh-Hant": "手冊警示：在車速超過 50 英哩時，由於積水嚴重，汽車可能完全在水面上「飛行」。"
     },
     "source": "deepdive"
   },
@@ -29822,6 +30239,43 @@
     "dmv_ref": {
       "page": "29",
       "section": "Section 6: Signs"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 53,
+    "category": "Literacy",
+    "question": {
+      "en": "If your brakes fail while driving, you should first:",
+      "zh-Hans": "如果行驶中刹车失灵，您首先应该：",
+      "zh-Hant": "如果行駛中剎車失靈，您首先應該："
+    },
+    "options": {
+      "A": {
+        "en": "Downshift and pump the brake pedal.",
+        "zh-Hans": "降档并连续踩下刹车踏板（抽打式）。",
+        "zh-Hant": "降檔並連續踩下剎車踏板（抽打式）。"
+      },
+      "B": {
+        "en": "Turn off the engine.",
+        "zh-Hans": "关闭引擎。",
+        "zh-Hant": "關閉引擎。"
+      },
+      "C": {
+        "en": "Jump out of the car.",
+        "zh-Hans": "跳车。",
+        "zh-Hant": "跳車。"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Pumping the brakes may build enough pressure to stop, and downshifting uses the engine to slow down.",
+      "zh-Hans": "连续抽打式踩踏板可能恢复一部分油压。同时切换到低档利用引擎制动。",
+      "zh-Hant": "連續抽打式踩踏板可能恢復一部分油壓。同時切換到低檔利用引擎制動。"
+    },
+    "dmv_ref": {
+      "page": "91",
+      "section": "Section 8: Vehicle Failures"
     },
     "source": "deepdive"
   },

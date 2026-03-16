@@ -1468,11 +1468,11 @@
         "zh-Hant": "等待行人完全過馬路後再前行。"
       }
     },
-    "answer": "A",
+    "answer": "C",
     "explanation": {
-      "en": "Wait until the pedestrian is safely out of your path. You do not need to wait for them to completely cross if they are in other lanes.",
-      "zh-Hans": "等待行人安全离开你的路线。如果他们在其他车道，你不需要等他们完全过马路。",
-      "zh-Hant": "等待行人安全離開你的路線。如果他們在其他車道，你不需要等他們完全過馬路。"
+      "en": "Wait until the pedestrian has completely crossed the street before proceeding, to ensure their safety.",
+      "zh-Hans": "等待行人完全过马路后再前行，以确保行人安全。",
+      "zh-Hant": "等待行人完全過馬路後再前行，以確保行人安全。"
     },
     "dmv_ref": {
       "page": "41",

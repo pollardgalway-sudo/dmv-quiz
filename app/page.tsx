@@ -10,7 +10,7 @@ const translations = {
   en: {
     mainTitle: "2026 California DMV Written Test v2",
     subtitle: "California Driver License Practice",
-    questionCount: "Question Bank: 753 Questions | Choose Your Learning Mode",
+    questionCount: "Question Bank: 1026 Questions | Choose Your Learning Mode",
     modes: {
       basics: {
         title: "The Basics",
@@ -22,7 +22,7 @@ const translations = {
       deepDive: {
         title: "Deep Dive",
         subtitle: "专项突破",
-        count: "137 Questions",
+        count: "876 Questions",
         tags: "Rules + Safety + Laws",
         desc: "Master detailed traffic rules, safety knowledge, and California driving laws."
       },
@@ -67,7 +67,7 @@ const translations = {
   'zh-CN': {
     mainTitle: "2026加州驾照笔试题目 v2",
     subtitle: "California DMV Written Test Practice",
-    questionCount: "题库共 753 题 | 选择您的学习模式",
+    questionCount: "题库共 1026 题 | 选择您的学习模式",
     modes: {
       basics: {
         title: "扫盲模式",
@@ -79,7 +79,7 @@ const translations = {
       deepDive: {
         title: "专项突破",
         subtitle: "Deep Dive",
-        count: "603题",
+        count: "876题",
         tags: "规则 + 安全 + 法规",
         desc: "深入学习交通规则、安全知识和加州驾驶法规"
       },
@@ -124,7 +124,7 @@ const translations = {
   'zh-TW': {
     mainTitle: "2026加州駕照筆試題目 v2",
     subtitle: "California DMV Written Test Practice",
-    questionCount: "題庫共 345 題 | 選擇您的學習模式",
+    questionCount: "題庫共 1026 題 | 選擇您的學習模式",
     modes: {
       basics: {
         title: "掃盲模式",
@@ -136,7 +136,7 @@ const translations = {
       deepDive: {
         title: "專項突破",
         subtitle: "Deep Dive",
-        count: "603題",
+        count: "876題",
         tags: "規則 + 安全 + 法規",
         desc: "深入學習交通規則、安全知識和加州駕駛法規"
       },

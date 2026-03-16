@@ -125,10 +125,10 @@ export default function CombinationPage() {
             setScore(prev => ({ ...prev, correct: prev.correct + 1, total: prev.total + 1 }))
         } else {
             setScore(prev => ({ ...prev, total: prev.total + 1 }))
-            // Add to wrong questions (using 'combination' as source key)
-            // Note: We need to update wrong questions logic to handle this new source if desired
-            // For now we can use a string key, assuming the backend/storage supports it or we accept it might just work if it's string based
-            addWrongQuestion(currentQuestion.id, 'combination' as any)
+            // Add to wrong questions using the question's actual source
+            const qSource = (currentQuestion as any).source || 'basics'
+            const validSource = (['basics', 'deepdive', 'signs'].includes(qSource) ? qSource : 'basics') as 'basics' | 'deepdive' | 'signs'
+            addWrongQuestion(currentQuestion.id, validSource)
         }
     }
 

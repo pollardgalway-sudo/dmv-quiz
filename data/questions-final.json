@@ -4666,11 +4666,11 @@
         "zh-Hant": "僅供綠色氫能車輛停車。"
       }
     },
-    "answer": "A",
+    "answer": "B",
     "explanation": {
-      "en": "2026 update: Many cities now use green-tipped curbs to designate EV charging or EV-only parking spots.",
-      "zh-Hans": "2026 年新规：许多城市开始使用绿头路缘标识电动车专用位。普通车停放将被罚款或拖走。",
-      "zh-Hant": "2026 年新規：許多城市開始使用綠頭路緣標識電動車專用位。普通車停放將被罰款或拖走。"
+      "en": "Green curb means you may park for a limited time. Look for a posted sign next to the green zone for time limits, or look for the time limit painted on the curb.",
+      "zh-Hans": "绿色路缘表示限时停车。请查看路缘上喷涂的停车时限或路边标识的停车时限。",
+      "zh-Hant": "綠色路緣表示限時停車。請查看路緣上噴塗的停車時限或路邊標識的停車時限。"
     },
     "dmv_ref": {
       "page": "51",

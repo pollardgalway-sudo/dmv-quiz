@@ -94,7 +94,7 @@ async function sync() {
         console.log(`   - 专项突破: ${deepdiveData.length} 题`);
         console.log(`   - 标志图库: ${signsData.length} 题`);
         console.log(`   - 全真模拟总库: ${questionsAll.length} 题 (已更新)`);
-        console.log('\n💡 模拟测试现在会从全部 753 道新题中抽取了！');
+        console.log(`\n💡 模拟测试现在会从全部 ${allQuestions.length} 道新题中抽取了！`);
 
     } catch (err) {
         console.error('❌ 同步失败:', err.message);

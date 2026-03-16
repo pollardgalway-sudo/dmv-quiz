@@ -35,7 +35,8 @@
       "section": "Section 5: Seat Belts",
       "analysis_zh-Hans": "手册强调安全带能显著提高事故生存率。若乘客未满16岁，驾驶员将因其未系安全带而被开罚单。",
       "analysis_zh-Hant": "手冊強調安全帶能顯著提高事故生存率。若乘客未滿16歲，駕駛員將因其未系安全帶而被開罰單。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 2,
@@ -73,7 +74,8 @@
       "section": "Section 7: Speed Limits",
       "analysis_zh-Hans": "手册解析：安全车速受路面状况（湿滑）、可见度（大雾）和行人流量影响。在极端天气下，即使开 30mph 只要不安全也算违规。",
       "analysis_zh-Hant": "手冊解析：安全車速受路面狀況（濕滑）、可見度（大霧）和行人流量影響。在極端天氣下，即使開 30mph 只要不安全也算違規。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 3,
@@ -111,7 +113,8 @@
       "section": "Section 5: Vehicle Controls",
       "analysis_zh-Hans": "手册特别强调，在日出前和日落后 30 分鐘，以及任何视线模糊的情况下，必须开启近光灯。",
       "analysis_zh-Hant": "手冊特別強調，在日出前和日落後 30 分鐘，以及任何視線模糊的情況下，必須開啟近光燈。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 4,
@@ -149,7 +152,8 @@
       "section": "Section 7: Sharing the Road",
       "analysis_zh-Hans": "该法律此前仅限紧急车辆。2026年修订旨在保护所有在路边处理故障的普通驾驶员安全。",
       "analysis_zh-Hant": "該法律此前僅限緊急車輛。2026年修訂旨在保護所有在路邊處理故障的普通駕駛員安全。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 5,
@@ -187,7 +191,8 @@
       "section": "Section 5: Safe Vehicle Operation",
       "analysis_zh-Hans": "手册指出，即使天气凉爽，车内温度也会迅速升高危及生命，违反者将面临罚款或监禁。",
       "analysis_zh-Hant": "手冊指出，即使天氣涼爽，車內溫度也會迅速升高危及生命，違反者將面臨罰款或監禁。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 6,
@@ -225,7 +230,8 @@
       "section": "Section 6: Traffic Controls",
       "analysis_zh-Hans": "手册规定，无论是在路口还是施工区，驾驶员必须始终优先遵守现场执法人员的手势。",
       "analysis_zh-Hant": "手冊規定，無論是在路口還是施工區，駕駛員必須始終優先遵守現場執法人員的手勢。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 7,
@@ -263,7 +269,8 @@
       "section": "Section 8: Safe Driving",
       "analysis_zh-Hans": "手册强调分心驾驶是重大事故隐患。18岁以下青少年在任何情况下均严禁使用手机。",
       "analysis_zh-Hant": "手冊強調分心駕駛是重大事故隱患。18歲以下青少年在任何情況下均嚴禁使用手機。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 8,
@@ -301,7 +308,8 @@
       "section": "Section 11: Vehicle Registration",
       "analysis_zh-Hans": "此法律旨在打击逃避收费道路、红灯相机和自动执法系统的欺诈行为。",
       "analysis_zh-Hant": "此法律旨在打擊逃避收費道路、紅燈相機和自動執法系統的欺詐行為。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 9,
@@ -339,7 +347,8 @@
       "section": "Section 8: Safe Driving Tips",
       "analysis_zh-Hans": "手册建议：如果有人尾随，请换道让行；若感觉受威胁，请开车前往警察局。",
       "analysis_zh-Hant": "手冊建議：如果有人尾隨，請換道讓行；若感覺受威脅，請開車前往警察局。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 10,
@@ -377,7 +386,8 @@
       "section": "Section 9: Alcohol and Drugs",
       "analysis_zh-Hans": "该修订版加重了对酒驾致人死亡案件的监管，手册将其作为重点刑事处罚列出。",
       "analysis_zh-Hant": "該修訂版加重了對酒駕致人死亡案件的監管，手冊將其作為重點刑事處罰列出。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 11,
@@ -415,7 +425,8 @@
       "section": "Section 9: Alcohol and Drugs",
       "analysis_zh-Hans": "手册解析：商業駕駛員限制為 0.04%，未成年人為 0.01%。酒精會影響判斷力和反應速度。",
       "analysis_zh-Hant": "手冊解析：商業駕駛員限制為 0.04%，未成年人為 0.01%。酒精會影響判斷力和反應速度。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 12,
@@ -453,7 +464,8 @@
       "section": "Section 7: Signals",
       "analysis_zh-Hans": "手册要求：在信号灯故障或阳光刺眼导致转向灯不清晰时，必须使用这些手势。",
       "analysis_zh-Hant": "手冊要求：在信號燈故障或陽光刺眼導致轉向燈不清晰時，必須使用這些手勢。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 13,
@@ -491,7 +503,8 @@
       "section": "Section 11: Additional Provisions",
       "analysis_zh-Hans": "手册指出该法律旨在保护未成年人免受二手烟危害，无论车辆是否正在行驶。",
       "analysis_zh-Hant": "手冊指出該法律旨在保護未成年人免受二手煙危害，無論車輛是否正在行駛。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 14,
@@ -529,7 +542,8 @@
       "section": "Section 10: Financial Responsibility",
       "analysis_zh-Hans": "即使不是你的错，或者发生在私有财产上，只要达到损失金额就必须报告。",
       "analysis_zh-Hant": "即使不是你的錯，或者發生在私有財產上，只要達到損失金額就必須報告。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 15,
@@ -567,7 +581,8 @@
       "section": "Section 11: Miscellaneous Rules",
       "analysis_zh-Hans": "手册解析：此规定结合了动物保护法与交通安全法。任何被遗弃的动物都可能惊吓驾驶员导致连环车祸。",
       "analysis_zh-Hant": "手冊解析：此規定結合了動物保護法與交通安全法。任何被遺棄的動物都可能驚嚇駕駛員導致連環車禍。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 16,
@@ -605,7 +620,8 @@
       "section": "Section 7: Sharing the Road",
       "analysis_zh-Hans": "手册强调“隐形斑馬線”概念：每个十字路口都被视为有行人通道，驾驶员必须时刻准备避让。",
       "analysis_zh-Hant": "手冊強調「隱形斑馬線」概念：每個十字路口都被視為有行人通道，駕駛員必須時刻準備避讓。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 17,
@@ -643,7 +659,8 @@
       "section": "Section 7: Turns",
       "analysis_zh-Hans": "手册定义：商业区包括办公楼、酒店、商場等建筑密集的区域。严禁跨越路缘调头。",
       "analysis_zh-Hant": "手冊定義：商業區包括辦公樓、酒店、商場等建築密集的區域。嚴禁跨越路緣調頭。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 18,
@@ -681,7 +698,8 @@
       "section": "Section 7: Parking",
       "analysis_zh-Hans": "手册口诀：上坡背（路缘），下坡向（路缘）。如果没有路缘，无论上下坡都应转向道路边缘。",
       "analysis_zh-Hant": "手冊口訣：上坡背（路緣），下坡向（路緣）。如果沒有路緣，無論上下坡都應轉向道路邊緣。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 19,
@@ -719,7 +737,8 @@
       "section": "Section 6: Lane Control",
       "analysis_zh-Hans": "手册警示：如果两组双实线相距 2 英尺或更多，则视为“障碍物”，严禁跨越。",
       "analysis_zh-Hant": "手冊警示：如果兩組雙實線相距 2 英呎或更多，則視為「障礙物」，嚴禁跨越。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 20,
@@ -757,7 +776,8 @@
       "section": "Section 3: License",
       "analysis_zh-Hans": "手册提醒：准确的地址确保您能收到执照更新提醒和法律文件，避免因执照过期不知情而违规。",
       "analysis_zh-Hant": "手冊提醒：準確的地址確保您能收到執照更新提醒和法律文件，避免因執照過期不知情而違規。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 21,
@@ -795,7 +815,8 @@
       "section": "Section 7: Sharing the Road",
       "analysis_zh-Hans": "手册规定，未能在校车红灯闪烁时停车将面临最高 $1,000 罚款并吊销驾驶执照一年。",
       "analysis_zh-Hant": "手冊規定，未能在校車紅燈閃爍時停車將面臨最高 $1,000 罰款並吊銷駕駛執照一年。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 22,
@@ -833,7 +854,8 @@
       "section": "Section 7: Signals",
       "analysis_zh-Hans": "手册建议在高速公路上变道前应至少提前 5 秒开启转向灯。",
       "analysis_zh-Hant": "手冊建議在高速公路上變道前應至少提前 5 秒開啟轉向燈。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 23,
@@ -871,7 +893,8 @@
       "section": "Section 8: Safe Driving",
       "analysis_zh-Hans": "手册指出，在雨天刚开始时的路面最滑，因为雨水会使油渍浮起。",
       "analysis_zh-Hant": "手冊指出，在雨天剛開始時的路面最滑，因為雨水會使油漬浮起。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 24,
@@ -909,7 +932,8 @@
       "section": "Section 6: Lane Lines",
       "analysis_zh-Hans": "手册强调只有在左转进入车道、或是根据指示避开障碍物时才可跨越。",
       "analysis_zh-Hant": "手冊強調只有在左轉進入車道、或是根據指示避開障礙物時才可跨越。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 25,
@@ -947,7 +971,8 @@
       "section": "Section 8: Dangerous Conditions",
       "analysis_zh-Hans": "手册警告：在雾中千万不要只开启停车灯，这会让其他车辆难以发现你。",
       "analysis_zh-Hant": "手冊警告：在霧中千萬不要只開啟停車燈，這會讓其他車輛難以發現你。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 26,
@@ -985,7 +1010,8 @@
       "section": "Section 3: Minors",
       "analysis_zh-Hans": "手册解析：此项规定旨在减少新手青少年驾驶员在夜间发生的事故风险。",
       "analysis_zh-Hant": "手冊解析：此項規定旨在減少新手青少年駕駛員在夜間發生的事故風險。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 27,
@@ -1023,7 +1049,8 @@
       "section": "Section 11: Rules of the Road",
       "analysis_zh-Hans": "2026年手册新增：对观赛者也有相应的罚款规定，旨在彻底清除街道赛车文化。",
       "analysis_zh-Hant": "2026年手冊新增：對觀賽者也有相應的罰款規定，旨在徹底清除街道賽車文化。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 28,
@@ -1061,7 +1088,8 @@
       "section": "Section 8: Scanning",
       "analysis_zh-Hans": "手册解析：即使车辆配有盲点监测雷达，驾驶员仍被要求进行物理过肩检查。",
       "analysis_zh-Hant": "手冊解析：即使車輛配有盲點監測雷達，駕駛員仍被要求進行物理過肩檢查。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 29,
@@ -1099,7 +1127,8 @@
       "section": "Section 7: Sharing the Road",
       "analysis_zh-Hans": "手册警告：绝对不要对盲人鸣喇叭，这会让他们受到惊吓并失去方向感。",
       "analysis_zh-Hant": "手冊警告：絕對不要對盲人鳴喇叭，這會讓他們受到驚嚇並失去方向感。"
-    }
+    },
+    "source": "basics"
   },
   {
     "id": 30,
@@ -1126,97 +1155,22 @@
         "zh-Hant": "$30,000"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
-      "en": "As of January 1, 2025, California law requires at least $15,000 for property damage coverage per accident.",
-      "zh-Hans": "自2025年1月1日起，加州法律要求每起事故至少赔付 15,000 美元的财产损失保险。",
-      "zh-Hant": "自2025年1月1日起，加州法律要求每起事故至少賠付 15,000 美元的財產損失保險。"
+      "en": "The law requires at least $5,000 for property damage coverage per accident.",
+      "zh-Hans": "加州法律要求每起事故至少赔付 5,000 美元的财产损失保险。",
+      "zh-Hant": "加州法律要求每起事故至少賠付 5,000 美元的財產損失保險。"
     },
     "dmv_ref": {
       "page": "101",
       "section": "Section 10: Financial Responsibility",
-      "analysis_zh-Hans": "2025年更新：手册完整要求已从15/30/5更新为30/60/15（单人伤亡 3 万/总伤亡 6 万/财损 1.5 万）。",
-      "analysis_zh-Hant": "2025年更新：手冊完整要求已從15/30/5更新為30/60/15（單人傷亡 3 萬/總傷亡 6 萬/財損 1.5 萬）。"
-    }
+      "analysis_zh-Hans": "手册完整要求：15/30/5（单人伤亡 1.5 万/总伤亡 3 万/财损 5 千）。",
+      "analysis_zh-Hant": "手冊完整要求：15/30/5（單人傷亡 1.5 萬/總傷亡 3 萬/財損 5 千）。"
+    },
+    "source": "basics"
   },
   {
     "id": 31,
-    "category": "Literacy",
-    "question": {
-      "en": "A green arrow showing at the same time as a red light means:",
-      "zh-Hans": "红灯亮起时显示的绿箭头意味着：",
-      "zh-Hant": "紅燈亮起時顯示的綠箭頭意味著："
-    },
-    "options": {
-      "A": {
-        "en": "You may turn in the direction of the arrow after yielding.",
-        "zh-Hans": "在避让后，您可以按箭头方向转弯。",
-        "zh-Hant": "在避讓後，您可以按箭頭方向轉彎。"
-      },
-      "B": {
-        "en": "You have a 'protected' turn in the direction of the arrow.",
-        "zh-Hans": "您在该箭头方向拥有“受保护”的转弯权。",
-        "zh-Hant": "您在該箭頭方向擁有「受保護」的轉彎權。"
-      },
-      "C": {
-        "en": "Stop and wait for the full green light.",
-        "zh-Hans": "停车并等待绿灯亮起。",
-        "zh-Hant": "停車並等待綠燈亮起。"
-      }
-    },
-    "answer": "B",
-    "explanation": {
-      "en": "A green arrow means oncoming traffic is stopped by a red light, allowing you to turn.",
-      "zh-Hans": "绿箭头表示对向来车已被红灯阻挡，您可以安全转弯。",
-      "zh-Hant": "綠箭頭表示對向來車已被紅燈阻擋，您可以安全轉彎。"
-    },
-    "dmv_ref": {
-      "page": "27",
-      "section": "Section 6: Traffic Signals",
-      "analysis_zh-Hans": "手册规定，即使拥有保护转弯权，仍需注意那些非法进入路口的行人和车辆。",
-      "analysis_zh-Hant": "手冊規定，即使擁有保護轉彎權，仍需注意那些非法進入路口的行人和車輛。"
-    }
-  },
-  {
-    "id": 32,
-    "category": "Literacy",
-    "question": {
-      "en": "When you see an emergency vehicle with flashing lights, you should:",
-      "zh-Hans": "当您看到闪烁警灯的紧急车辆时，您应该：",
-      "zh-Hant": "當您看到閃爍警燈的緊急車輛時，您應該："
-    },
-    "options": {
-      "A": {
-        "en": "Pull to the right edge of the road and stop.",
-        "zh-Hans": "靠右侧路缘停车。",
-        "zh-Hant": "靠右側路緣停車。"
-      },
-      "B": {
-        "en": "Slow down and keep driving in your lane.",
-        "zh-Hans": "减速并在车道内继续行驶。",
-        "zh-Hant": "減速並在車道內繼續行駛。"
-      },
-      "C": {
-        "en": "Speed up to get out of the way.",
-        "zh-Hans": "加速以避开其道路。",
-        "zh-Hant": "加速以避開其道路。"
-      }
-    },
-    "answer": "A",
-    "explanation": {
-      "en": "Move to the right to allow the vehicle to pass. Never stop in an intersection.",
-      "zh-Hans": "应立即靠右停车。如果正在路口内，应通过后再靠右。",
-      "zh-Hant": "應立即靠右停車。如果正在路口內，應通過後再靠右。"
-    },
-    "dmv_ref": {
-      "page": "53",
-      "section": "Section 7: Sharing the Road",
-      "analysis_zh-Hans": "手册警告：严禁在紧急车辆后方 300 英尺内跟随。",
-      "analysis_zh-Hant": "手冊警告：嚴禁在緊急車輛後方 300 英呎內跟隨。"
-    }
-  },
-  {
-    "id": 33,
     "category": "Literacy",
     "question": {
       "en": "If your car starts to hydroplane on water, you should:",
@@ -1251,10 +1205,11 @@
       "section": "Section 8: Dangerous Conditions",
       "analysis_zh-Hans": "手册指出，车速超过 50 英里时，“水上漂”现象极易发生。",
       "analysis_zh-Hant": "手冊指出，車速超過 50 英哩時，「水上漂」現象極易發生。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 34,
+    "id": 32,
     "category": "Literacy",
     "question": {
       "en": "Traffic in a roundabout moves in which direction?",
@@ -1289,10 +1244,11 @@
       "section": "Section 7: Intersections",
       "analysis_zh-Hans": "手册规定：进入环岛前必须避让已经在环岛内的车辆。",
       "analysis_zh-Hant": "手冊規定：進入環島前必須避讓已經在環島內的車輛。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 35,
+    "id": 33,
     "category": "Literacy",
     "question": {
       "en": "A DUI conviction remains on your DMV record for:",
@@ -1327,10 +1283,11 @@
       "section": "Section 9: Alcohol and Drugs",
       "analysis_zh-Hans": "手册解析：保留时间长是为了追踪累犯。2026年法规对酒驾导致的保费上涨也有提及。",
       "analysis_zh-Hant": "手冊解析：保留時間長是為了追踪累犯。2026年法規對酒駕導致的保費上漲也有提及。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 36,
+    "id": 34,
     "category": "Literacy",
     "question": {
       "en": "A solid yellow light means:",
@@ -1365,10 +1322,11 @@
       "section": "Section 6: Traffic Signals",
       "analysis_zh-Hans": "手册警告：在黄灯时猛踩油门冲过路口是极其危险的行为。",
       "analysis_zh-Hant": "手冊警告：在黃燈時猛踩油門衝過路口是極其危險的行為。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 37,
+    "id": 35,
     "category": "Literacy",
     "question": {
       "en": "You may never drive off the main-traveled portion of the road to pass:",
@@ -1403,10 +1361,11 @@
       "section": "Section 7: Lanes",
       "analysis_zh-Hans": "手册规定：超车必须在法律允许的车道内进行。",
       "analysis_zh-Hant": "手冊規定：超車必須在法律允許的車道內進行。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 38,
+    "id": 36,
     "category": "Literacy",
     "question": {
       "en": "A driver is considered 'Negligent' if they get how many points in 12 months?",
@@ -1441,10 +1400,11 @@
       "section": "Section 10: Points",
       "analysis_zh-Hans": "手册解析：大部分交通违规计 1 分，重大违规（如肇事逃逸）计 2 分。",
       "analysis_zh-Hant": "手冊解析：大部分交通違規計 1 分，重大違規（如肇事逃逸）計 2 分。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 39,
+    "id": 37,
     "category": "Literacy",
     "question": {
       "en": "Is it legal to park in front of a private driveway?",
@@ -1479,10 +1439,11 @@
       "section": "Section 7: Parking",
       "analysis_zh-Hans": "手册解析：红色路缘、人行横道和车库门口均严禁停车。",
       "analysis_zh-Hant": "手冊解析：紅色路緣、人行橫道和車庫門口均嚴禁停車。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 40,
+    "id": 38,
     "category": "Literacy",
     "question": {
       "en": "The best hand position on the steering wheel is:",
@@ -1517,10 +1478,11 @@
       "section": "Section 5: Controls",
       "analysis_zh-Hans": "手册解析：传统的 10 和 2 已被淘汰，新车型气囊力度大，手握太高会打断手臂。",
       "analysis_zh-Hant": "手冊解析：傳統的 10 和 2 已被淘汰，新車型氣囊力度大，手握太高會打斷手臂。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 41,
+    "id": 39,
     "category": "Literacy",
     "question": {
       "en": "At a blind intersection, the speed limit is:",
@@ -1555,10 +1517,11 @@
       "section": "Section 7: Speed Limits",
       "analysis_zh-Hans": "手册解析：盲区路口极其危险，低速行驶是为了随时应对突发车流。",
       "analysis_zh-Hant": "手冊解析：盲區路口極其危險，低速行駛是為了隨時應對突發車流。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 42,
+    "id": 40,
     "category": "Literacy",
     "question": {
       "en": "A white curb means:",
@@ -1593,10 +1556,11 @@
       "section": "Section 7: Parking",
       "analysis_zh-Hans": "手册口诀：白接送，绿时限，黄卸货，红禁停，蓝残疾。",
       "analysis_zh-Hant": "手冊口訣：白接送，綠時限，黃卸貨，紅禁停，藍殘疾。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 43,
+    "id": 41,
     "category": "Literacy",
     "question": {
       "en": "When should you return to the right lane after passing a vehicle?",
@@ -1631,10 +1595,11 @@
       "section": "Section 7: Lanes",
       "analysis_zh-Hans": "手册解析：过早切回会导致后车被迫急刹车，极易引发追尾。",
       "analysis_zh-Hant": "手冊解析：過早切回會導致後車被迫急剎車，極易引發追尾。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 44,
+    "id": 42,
     "category": "Literacy",
     "question": {
       "en": "If you are under 21, the zero-tolerance BAC limit is:",
@@ -1669,10 +1634,11 @@
       "section": "Section 9: Alcohol and Drugs",
       "analysis_zh-Hans": "手册解析：0.01% 相当于只要喝一口酒就可能超标，旨在完全禁止未成年饮酒后开车。",
       "analysis_zh-Hant": "手冊解析：0.01% 相當於只要喝一口酒就可能超標，旨在完全禁止未成年飲酒後開車。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 45,
+    "id": 43,
     "category": "Literacy",
     "question": {
       "en": "When parking next to a curb, you must be within:",
@@ -1707,10 +1673,11 @@
       "section": "Section 7: Parking",
       "analysis_zh-Hans": "手册解析：停得太远会占用行车道空间，增加被剐蹭的风险。",
       "analysis_zh-Hant": "手冊解析：停得太遠會佔用行車道空間，增加被刮蹭的風險。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 46,
+    "id": 44,
     "category": "Literacy",
     "question": {
       "en": "When can you drive in a bike lane?",
@@ -1745,10 +1712,11 @@
       "section": "Section 7: Lanes",
       "analysis_zh-Hans": "手册警示：在进入自行车道前必须检查盲点，确保没有骑行者在您的右侧。",
       "analysis_zh-Hant": "手冊警示：在進入自行車道前必須檢查盲點，確保沒有騎行者在您的右側。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 47,
+    "id": 45,
     "category": "Literacy",
     "question": {
       "en": "What does a flashing yellow traffic signal mean?",
@@ -1783,10 +1751,11 @@
       "section": "Section 6: Traffic Signals",
       "analysis_zh-Hans": "手册解析：对比闪烁红灯（视同停止信号），闪烁黄灯强调的是“警示”。",
       "analysis_zh-Hant": "手冊解析：對比閃爍紅燈（視同停止信號），閃爍黃燈強調的是「警示」。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 48,
+    "id": 46,
     "category": "Literacy",
     "question": {
       "en": "You may cross a single broken white line on the highway:",
@@ -1821,10 +1790,11 @@
       "section": "Section 6: Lane Lines",
       "analysis_zh-Hans": "手册解析：相比之下，实白线通常用于标记车道边缘或禁止非必要变道的区域。",
       "analysis_zh-Hant": "手冊解析：相比之下，實白線通常用於標記車道邊緣或禁止非必要變道的區域。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 49,
+    "id": 47,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: When passing a bicyclist, you must provide a minimum gap of:",
@@ -1859,10 +1829,11 @@
       "section": "Section 7: Sharing the Road",
       "analysis_zh-Hans": "2026年手册新增：如果无法保证 3 英尺距离，驾驶员必须换道超越或等待。",
       "analysis_zh-Hant": "2026年手冊新增：如果無法保證 3 英呎距離，駕駛員必須換道超越或等待。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 50,
+    "id": 48,
     "category": "Literacy",
     "question": {
       "en": "What is the speed limit in a residential area unless otherwise posted?",
@@ -1897,10 +1868,11 @@
       "section": "Section 7: Speed Limits",
       "analysis_zh-Hans": "手册解析：在学校区域且有儿童在场时，限速同样为 25 英里（除非另有标示）。",
       "analysis_zh-Hant": "手冊解析：在學校區域且有兒童在場時，限速同樣為 25 英哩（除非另有標示）。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 51,
+    "id": 49,
     "category": "Literacy",
     "question": {
       "en": "If you are involved in a collision, you must exchange which information?",
@@ -1935,10 +1907,11 @@
       "section": "Section 10: Financial Responsibility",
       "analysis_zh-Hans": "手册强调：即使对方没有索要，您在法律上也有义务主动出示这些文件。",
       "analysis_zh-Hant": "手冊強調：即使對方沒有索要，您在法律上有義務主動出示這些文件。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 52,
+    "id": 50,
     "category": "Literacy",
     "question": {
       "en": "A large truck is turning right onto a street with two lanes in each direction. The truck:",
@@ -1973,10 +1946,11 @@
       "section": "Section 8: Sharing the Road",
       "analysis_zh-Hans": "手册解析：这种现象被称为‘挤压冲突’。在大车右转时，保持车距至关重要。",
       "analysis_zh-Hant": "手冊解析：這種現象被稱為「擠壓衝突」。在大車右轉時，保持車距至關重要。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 53,
+    "id": 51,
     "category": "Literacy",
     "question": {
       "en": "When should you adjust your mirrors?",
@@ -2011,10 +1985,11 @@
       "section": "Section 5: Controls",
       "analysis_zh-Hans": "手册建议：调整后视镜直到您能看到车后部的一小部分，最大限度减少盲区。",
       "analysis_zh-Hant": "手冊建議：調整後視鏡直到您能看到車後部的一小部分，最大限度減少盲區。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 54,
+    "id": 52,
     "category": "Literacy",
     "question": {
       "en": "If you miss your exit on a freeway, you should:",
@@ -2049,10 +2024,11 @@
       "section": "Section 7: Highway Driving",
       "analysis_zh-Hans": "手册解析：高速公路车速极快，任何异常停顿都可能导致严重的追尾事故。",
       "analysis_zh-Hant": "手冊解析：高速公路車速極快，任何異常停頓都可能導致嚴重的追尾事故。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 55,
+    "id": 53,
     "category": "Literacy",
     "question": {
       "en": "2026 New Regulation: Drivers must yield to 'Public Transit Buses' when:",
@@ -2087,10 +2063,11 @@
       "section": "Section 7: Sharing the Road",
       "analysis_zh-Hans": "手册解析：这一举措是为了提高公共交通效率，减少城市拥堵。",
       "analysis_zh-Hant": "手冊解析：這一舉措是為了提高公共交通效率，減少城市擁堵。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 56,
+    "id": 54,
     "category": "Literacy",
     "question": {
       "en": "What does a yellow diamond-shaped sign mean?",
@@ -2125,10 +2102,11 @@
       "section": "Section 6: Road Signs",
       "analysis_zh-Hans": "手册解析：颜色和形状是识别标志的第一步。黄色永远代表‘警告’。",
       "analysis_zh-Hant": "手冊解析：顏色和形狀是識別標誌的第一步。黃色永遠代表『警告』。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 57,
+    "id": 55,
     "category": "Literacy",
     "question": {
       "en": "When driving at night, you should use your high beams:",
@@ -2163,10 +2141,11 @@
       "section": "Section 8: Night Driving",
       "analysis_zh-Hans": "手册规定：对向来车 500 英尺内或跟随前方车辆 300 英尺内必须关闭远光灯。",
       "analysis_zh-Hant": "手冊規定：對向來車 500 英呎內或跟隨前方車輛 300 英呎內必須關閉遠光燈。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 58,
+    "id": 56,
     "category": "Literacy",
     "question": {
       "en": "You are approaching a railway crossing with no warning devices. The speed limit is:",
@@ -2201,10 +2180,11 @@
       "section": "Section 7: Speed Limits",
       "analysis_zh-Hans": "手册警示：绝对不要试图与火车赛跑。如果看到火车，请停车等待。",
       "analysis_zh-Hant": "手冊警示：絕對不要試圖與火車賽跑。如果看到火車，請停車等待。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 59,
+    "id": 57,
     "category": "Literacy",
     "question": {
       "en": "What is the 'Three-Second Rule'?",
@@ -2239,10 +2219,11 @@
       "section": "Section 8: Space Cushions",
       "analysis_zh-Hans": "手册解析：在雨天或路滑时，应将此间距增加到 4 秒或更多。",
       "analysis_zh-Hant": "手冊解析：在雨天或路滑時，應將此間距增加到 4 秒或更多。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 60,
+    "id": 58,
     "category": "Literacy",
     "question": {
       "en": "When can you legally use a 'Turnout' area?",
@@ -2277,10 +2258,11 @@
       "section": "Section 7: Lanes",
       "analysis_zh-Hans": "手册解析：不按此规定让行可能会被警察开罚单，因为这会导致交通拥堵和危险超车。",
       "analysis_zh-Hant": "手冊解析：不按此規定讓行可能會被警察開罰單，因為這會導致交通擁堵和危險超車。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 61,
+    "id": 59,
     "category": "Literacy",
     "question": {
       "en": "A orange-colored triangular sign on a vehicle means:",
@@ -2315,10 +2297,11 @@
       "section": "Section 8: Sharing the Road",
       "analysis_zh-Hans": "手册解析：这种车辆通常是农用车或重型施工车，驾驶员需保持耐心。",
       "analysis_zh-Hant": "手冊解析：這種車輛通常是農用車或重型施工車，駕駛員需保持耐心。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 62,
+    "id": 60,
     "category": "Literacy",
     "question": {
       "en": "If you are under 21 and caught with alcohol in your vehicle:",
@@ -2353,10 +2336,11 @@
       "section": "Section 9: Alcohol and Drugs",
       "analysis_zh-Hans": "手册解析：酒精必须由父母陪同且密封存放在后备箱中，否则即为违法。",
       "analysis_zh-Hant": "手冊解析：酒精必須由父母陪同且密封存放在後備箱中，否則即為違法。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 63,
+    "id": 61,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: Is it legal for a passenger to drink alcohol or smoke cannabis in a vehicle?",
@@ -2391,10 +2375,11 @@
       "section": "Section 9: Alcohol and Drugs",
       "analysis_zh-Hans": "手册解析：酒精或大麻必须存放在后备箱等乘客够不到的地方（除非是符合特定规则的商用车乘客）。",
       "analysis_zh-Hant": "手冊解析：酒精或大麻必須存放在後備箱等乘客夠不到的地方（除非是符合特定規則的商用車乘客）。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 64,
+    "id": 62,
     "category": "Literacy",
     "question": {
       "en": "At a T-intersection without signs, who has the right-of-way?",
@@ -2429,10 +2414,11 @@
       "section": "Section 7: Intersections",
       "analysis_zh-Hans": "手册解析：这是一个常见的考点。记住：‘没路的人让有路的人’。",
       "analysis_zh-Hant": "手冊解析：這是一個常見的考點。記住：『沒路的人讓有路的人』。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 65,
+    "id": 63,
     "category": "Literacy",
     "question": {
       "en": "If your brakes fail while driving, you should:",
@@ -2467,10 +2453,11 @@
       "section": "Section 8: Vehicle Failures",
       "analysis_zh-Hans": "手册建议：如果以上方法无效，请寻找灌木丛或软泥地来减速，并开启双闪灯。",
       "analysis_zh-Hant": "手冊建議：如果以上方法無效，請尋找灌木叢或軟泥地來減速，並開啟雙閃燈。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 66,
+    "id": 64,
     "category": "Literacy",
     "question": {
       "en": "When is it legal to use a cell phone hands-free for a driver over 18?",
@@ -2505,10 +2492,11 @@
       "section": "Section 8: Distracted Driving",
       "analysis_zh-Hans": "手册解析：即使是免提通话也会分散注意力。最佳实践是使用语音控制。",
       "analysis_zh-Hant": "手冊解析：即使是免提通話也會分散注意力。最佳實踐是使用語音控制。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 67,
+    "id": 65,
     "category": "Literacy",
     "question": {
       "en": "What does a pentagon-shaped sign indicate?",
@@ -2543,10 +2531,11 @@
       "section": "Section 6: Signs",
       "analysis_zh-Hans": "手册解析：如果标志下方带有箭头，表示具体的过马路位置；若无箭头，则是指整个区域。",
       "analysis_zh-Hant": "手冊解析：如果標誌下方帶有箭頭，表示具體的過馬路位置；若無箭頭，則是指整個區域。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 68,
+    "id": 66,
     "category": "Literacy",
     "question": {
       "en": "You are driving on a one-way street. You may turn left onto another one-way street only if:",
@@ -2581,10 +2570,11 @@
       "section": "Section 7: Turns",
       "analysis_zh-Hans": "手册解析：必须先完全停车，避让行人和其他车辆后，确认安全方可左转。",
       "analysis_zh-Hant": "手冊解析：必須先完全停車，避讓行人和其他車輛後，確認安全方可左轉。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 69,
+    "id": 67,
     "category": "Literacy",
     "question": {
       "en": "If you hit a parked car and cannot find the owner, you must:",
@@ -2619,10 +2609,11 @@
       "section": "Section 10: Traffic Accidents",
       "analysis_zh-Hans": "手册解析：纸条应稳固地贴在受损车辆上，并在其后立即致电当地执法部门。",
       "analysis_zh-Hant": "手冊解析：紙條應穩固地貼在受損車輛上，並在其後立即致電當地執法部門。"
-    }
+    },
+    "source": "basics"
   },
   {
-    "id": 70,
+    "id": 68,
     "category": "Literacy",
     "question": {
       "en": "When is it most dangerous to drive on the road after it starts raining?",
@@ -2657,6 +2648,7 @@
       "section": "Section 8: Dangerous Conditions",
       "analysis_zh-Hans": "手册建议：在初雨时应显著降低车速，并增加跟车距离。",
       "analysis_zh-Hant": "手冊建議：在初雨時應顯著降低車速，並增加跟車距離。"
-    }
+    },
+    "source": "basics"
   }
 ]

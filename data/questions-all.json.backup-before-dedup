@@ -2730,7 +2730,7 @@
     "source": "basics"
   },
   {
-    "id": 71,
+    "id": 6001,
     "category": "DMV Official Sample",
     "question": {
       "en": "When is it legal to drive off the road to pass another vehicle?",
@@ -2769,7 +2769,7 @@
     "source": "deepdive"
   },
   {
-    "id": 72,
+    "id": 6002,
     "category": "DMV Official Sample",
     "question": {
       "en": "When a railroad crossing is not controlled, what is the speed limit when you are within 100 feet and cannot see for 400 feet in both directions?",
@@ -2808,7 +2808,7 @@
     "source": "deepdive"
   },
   {
-    "id": 73,
+    "id": 6003,
     "category": "DMV Official Sample",
     "question": {
       "en": "Which of the following is the proper procedure for parallel parking?",
@@ -2847,7 +2847,7 @@
     "source": "deepdive"
   },
   {
-    "id": 74,
+    "id": 6004,
     "category": "DMV Official Sample",
     "question": {
       "en": "What speed should you be driving when entering onto a highway?",
@@ -2886,7 +2886,7 @@
     "source": "deepdive"
   },
   {
-    "id": 75,
+    "id": 6005,
     "category": "DMV Official Sample",
     "question": {
       "en": "How many feet away should you switch from high beam to low beam headlights when approaching a vehicle coming towards you?",
@@ -2925,7 +2925,7 @@
     "source": "deepdive"
   },
   {
-    "id": 76,
+    "id": 6006,
     "category": "DMV Official Sample",
     "question": {
       "en": "Who can legally park next to curb painted blue?",
@@ -2964,7 +2964,7 @@
     "source": "deepdive"
   },
   {
-    "id": 77,
+    "id": 6007,
     "category": "DMV Official Sample",
     "question": {
       "en": "What should you do when there is a school bus ahead that starts flashing yellow warning lights?",
@@ -3003,7 +3003,7 @@
     "source": "deepdive"
   },
   {
-    "id": 78,
+    "id": 6008,
     "category": "DMV Official Sample",
     "question": {
       "en": "Which of the following is a requirement of California's Basic Speed Law?",
@@ -3042,7 +3042,7 @@
     "source": "deepdive"
   },
   {
-    "id": 79,
+    "id": 6009,
     "category": "DMV Official Sample",
     "question": {
       "en": "You must notify the DMV within 5 days, if you:",
@@ -3081,7 +3081,7 @@
     "source": "deepdive"
   },
   {
-    "id": 80,
+    "id": 6010,
     "category": "DMV Official Sample",
     "question": {
       "en": "Which of the following is an example of a safe driving practice?",
@@ -3120,7 +3120,7 @@
     "source": "deepdive"
   },
   {
-    "id": 81,
+    "id": 6011,
     "category": "DMV Official Sample",
     "question": {
       "en": "What should you do when reaching an intersection where a person operating a motorized wheelchair has entered the crosswalk?",
@@ -3159,7 +3159,7 @@
     "source": "deepdive"
   },
   {
-    "id": 82,
+    "id": 6012,
     "category": "DMV Official Sample",
     "question": {
       "en": "Which of the following is true about large trucks?",
@@ -3198,7 +3198,7 @@
     "source": "deepdive"
   },
   {
-    "id": 83,
+    "id": 6013,
     "category": "DMV Official Sample",
     "question": {
       "en": "What is one of the most common causes of traffic collisions?",
@@ -3237,7 +3237,7 @@
     "source": "deepdive"
   },
   {
-    "id": 84,
+    "id": 6014,
     "category": "DMV Official Sample",
     "question": {
       "en": "Any driver who willfully flees or attempts to evade law enforcement, during which a person is seriously injured, is subject to:",
@@ -3276,7 +3276,7 @@
     "source": "deepdive"
   },
   {
-    "id": 85,
+    "id": 6015,
     "category": "DMV Official Sample",
     "question": {
       "en": "What should a driver do who is stopped at an intersection and wants to make a left turn?",
@@ -3315,7 +3315,7 @@
     "source": "deepdive"
   },
   {
-    "id": 86,
+    "id": 6016,
     "category": "DMV Official Sample",
     "question": {
       "en": "In addition to setting your parking brake, what should you do when parking on a hill?",
@@ -3354,7 +3354,7 @@
     "source": "deepdive"
   },
   {
-    "id": 87,
+    "id": 6017,
     "category": "DMV Official Sample",
     "question": {
       "en": "You are under 18 years of age and have had your license for eight months. You may drive:",
@@ -3393,7 +3393,7 @@
     "source": "deepdive"
   },
   {
-    "id": 88,
+    "id": 6018,
     "category": "DMV Official Sample",
     "question": {
       "en": "Where should you begin a left turn from a one-way street onto a one-way street?",
@@ -3432,7 +3432,7 @@
     "source": "deepdive"
   },
   {
-    "id": 89,
+    "id": 6019,
     "category": "DMV Official Sample",
     "question": {
       "en": "You are required to notify DMV by filing a Report of Traffic Accident Occurring in California (SR-1) form if:",
@@ -3471,7 +3471,7 @@
     "source": "deepdive"
   },
   {
-    "id": 90,
+    "id": 6020,
     "category": "DMV Official Sample",
     "question": {
       "en": "At what point during a rainfall are roads slippery on a hot day?",
@@ -3510,7 +3510,7 @@
     "source": "deepdive"
   },
   {
-    "id": 91,
+    "id": 6021,
     "category": "DMV Official Sample",
     "question": {
       "en": "What color curb does not allow vehicles to stop or park?",
@@ -3549,7 +3549,46 @@
     "source": "deepdive"
   },
   {
-    "id": 92,
+    "id": 6022,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "You are required to notify DMV by filing a Report of Traffic Accident Occurring in California (SR-1) form if:",
+      "zh-Hans": "如果发生以下情况，你需要向DMV提交加州交通事故报告表(SR-1)：",
+      "zh-Hant": "如果發生以下情況，你需要向DMV提交加州交通事故報告表(SR-1)："
+    },
+    "options": {
+      "A": {
+        "en": "You change your insurance company.",
+        "zh-Hans": "你更换了保险公司。",
+        "zh-Hant": "你更換了保險公司。"
+      },
+      "B": {
+        "en": "You were involved in a collision with an injury.",
+        "zh-Hans": "你卷入了有人受伤的碰撞事故。",
+        "zh-Hant": "你捲入了有人受傷的碰撞事故。"
+      },
+      "C": {
+        "en": "Your vehicle fails a smog test.",
+        "zh-Hans": "你的车辆未通过尾气检测。",
+        "zh-Hant": "你的車輛未通過尾氣檢測。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "You must file an SR-1 form with DMV within 10 days if you're in a collision with any injury or death.",
+      "zh-Hans": "如果你卷入有人受伤或死亡的碰撞事故，必须在10天内向DMV提交SR-1表格。",
+      "zh-Hant": "如果你捲入有人受傷或死亡的碰撞事故，必須在10天內向DMV提交SR-1表格。"
+    },
+    "dmv_ref": {
+      "page": "78",
+      "section": "第10章：财务责任 - 事故报告",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第78页。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第78頁。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6023,
     "category": "DMV Official Sample",
     "question": {
       "en": "What is indicated by two sets of double yellow lines spaced 2 feet or more apart?",
@@ -3588,7 +3627,7 @@
     "source": "deepdive"
   },
   {
-    "id": 93,
+    "id": 6024,
     "category": "DMV Official Sample",
     "question": {
       "en": "What should you do to make a right turn at an upcoming intersection with a bicycle lane?",
@@ -3627,7 +3666,7 @@
     "source": "deepdive"
   },
   {
-    "id": 94,
+    "id": 6025,
     "category": "DMV Official Sample",
     "question": {
       "en": "A highway has a posted speed limit of 65 mph. What does this mean?",
@@ -3666,7 +3705,7 @@
     "source": "deepdive"
   },
   {
-    "id": 95,
+    "id": 6026,
     "category": "DMV Official Sample",
     "question": {
       "en": "When is parking in a crosshatched (diagonal lines) area allowed?",
@@ -3705,7 +3744,7 @@
     "source": "deepdive"
   },
   {
-    "id": 96,
+    "id": 6027,
     "category": "DMV Official Sample",
     "question": {
       "en": "What should you do if your cell phone rings and you do not have a hands-free device?",
@@ -3744,7 +3783,7 @@
     "source": "deepdive"
   },
   {
-    "id": 97,
+    "id": 6028,
     "category": "DMV Official Sample",
     "question": {
       "en": "If a traffic signal is green, but traffic is blocking the intersection, what should you do?",
@@ -3783,7 +3822,7 @@
     "source": "deepdive"
   },
   {
-    "id": 98,
+    "id": 6029,
     "category": "DMV Official Sample",
     "question": {
       "en": "In which lane should you end your turn when making a right turn?",
@@ -3822,7 +3861,7 @@
     "source": "deepdive"
   },
   {
-    "id": 99,
+    "id": 6030,
     "category": "DMV Official Sample",
     "question": {
       "en": "When is it required for you to obey directions from a crossing guard?",
@@ -3861,7 +3900,46 @@
     "source": "deepdive"
   },
   {
-    "id": 100,
+    "id": 6031,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "Which of the following is true about large trucks?",
+      "zh-Hans": "关于大型卡车，以下哪项是正确的？",
+      "zh-Hant": "關於大型卡車，以下哪項是正確的？"
+    },
+    "options": {
+      "A": {
+        "en": "They are made of many trailers, which make them more maneuverable than passenger vehicles.",
+        "zh-Hans": "它们由多个拖车组成，比乘用车更灵活。",
+        "zh-Hant": "它們由多個拖車組成，比乘用車更靈活。"
+      },
+      "B": {
+        "en": "They have large blind spots, which makes it difficult for the truck driver to see other vehicles.",
+        "zh-Hans": "它们有很大的盲区，卡车司机很难看到其他车辆。",
+        "zh-Hant": "它們有很大的盲區，卡車司機很難看到其他車輛。"
+      },
+      "C": {
+        "en": "They have large and powerful emergency brakes, which gives them the capability to stop quickly.",
+        "zh-Hans": "它们有大功率的紧急刹车，可以快速停车。",
+        "zh-Hant": "它們有大功率的緊急剎車，可以快速停車。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Large trucks have significant blind spots. Always stay visible to truck drivers by avoiding their No-Zones.",
+      "zh-Hans": "大型卡车有显著的盲区。始终通过避开它们的禁区来让卡车司机看到你。",
+      "zh-Hant": "大型卡車有顯著的盲區。始終通過避開它們的禁區來讓卡車司機看到你。"
+    },
+    "dmv_ref": {
+      "page": "65",
+      "section": "第8章：安全驾驶 - 与大型车辆共享道路",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第65页。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第65頁。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6032,
     "category": "DMV Official Sample",
     "question": {
       "en": "Which of the following is illegal while driving?",
@@ -3900,7 +3978,7 @@
     "source": "deepdive"
   },
   {
-    "id": 101,
+    "id": 6033,
     "category": "DMV Official Sample",
     "question": {
       "en": "What should you do when traffic is slow and heavy, and you must cross railroad tracks before reaching the upcoming intersection?",
@@ -3939,7 +4017,7 @@
     "source": "deepdive"
   },
   {
-    "id": 102,
+    "id": 6034,
     "category": "DMV Official Sample",
     "question": {
       "en": "Which of the following should you do if you are being followed by a tailgater?",
@@ -3978,7 +4056,7 @@
     "source": "deepdive"
   },
   {
-    "id": 103,
+    "id": 6035,
     "category": "DMV Official Sample",
     "question": {
       "en": "When you are driving the speed limit, you can be given a speeding ticket:",
@@ -4017,7 +4095,7 @@
     "source": "deepdive"
   },
   {
-    "id": 104,
+    "id": 6036,
     "category": "DMV Official Sample",
     "question": {
       "en": "Which lights should be used if a driver is having trouble seeing other vehicles because of dust or smoke blowing across the roadway?",
@@ -4056,7 +4134,46 @@
     "source": "deepdive"
   },
   {
-    "id": 105,
+    "id": 6037,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "What should you do to make a right turn at an upcoming intersection with a bicycle lane?",
+      "zh-Hans": "在有自行车道的路口右转时，你应该怎么做？",
+      "zh-Hant": "在有自行車道的路口右轉時，你應該怎麼做？"
+    },
+    "options": {
+      "A": {
+        "en": "Wait until the bicycle lane ends, then make the turn.",
+        "zh-Hans": "等自行车道结束后再转弯。",
+        "zh-Hant": "等自行車道結束後再轉彎。"
+      },
+      "B": {
+        "en": "Make the turn from your current lane and do not enter the bicycle lane.",
+        "zh-Hans": "从当前车道转弯，不进入自行车道。",
+        "zh-Hant": "從當前車道轉彎，不進入自行車道。"
+      },
+      "C": {
+        "en": "Merge into the bicycle lane before making the turn.",
+        "zh-Hans": "转弯前并入自行车道。",
+        "zh-Hant": "轉彎前併入自行車道。"
+      }
+    },
+    "answer": "C",
+    "explanation": {
+      "en": "Merge into the bicycle lane within 200 feet of the intersection when it is safe to do so, then make your right turn.",
+      "zh-Hans": "在安全的情况下，于距路口200英尺内并入自行车道，然后右转。",
+      "zh-Hant": "在安全的情況下，於距路口200英尺內併入自行車道，然後右轉。"
+    },
+    "dmv_ref": {
+      "page": "26",
+      "section": "第6章：道路导航 - 与自行车共享道路",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第26页。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第26頁。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 6038,
     "category": "DMV Official Sample",
     "question": {
       "en": "What does a flashing yellow traffic signal light direct a driver to do?",
@@ -4095,7 +4212,7 @@
     "source": "deepdive"
   },
   {
-    "id": 106,
+    "id": 6039,
     "category": "DMV Official Sample",
     "question": {
       "en": "What should you do if a pedestrian is still in the crosswalk after the DON'T WALK sign begins to flash and your light has turned green?",
@@ -4119,11 +4236,11 @@
         "zh-Hant": "等待行人完全過馬路後再前行。"
       }
     },
-    "answer": "C",
+    "answer": "A",
     "explanation": {
-      "en": "Wait until the pedestrian has completely crossed the street before proceeding, to ensure their safety.",
-      "zh-Hans": "等待行人完全过马路后再前行，以确保行人安全。",
-      "zh-Hant": "等待行人完全過馬路後再前行，以確保行人安全。"
+      "en": "Wait until the pedestrian is safely out of your path. You do not need to wait for them to completely cross if they are in other lanes.",
+      "zh-Hans": "等待行人安全离开你的路线。如果他们在其他车道，你不需要等他们完全过马路。",
+      "zh-Hant": "等待行人安全離開你的路線。如果他們在其他車道，你不需要等他們完全過馬路。"
     },
     "dmv_ref": {
       "page": "41",
@@ -4134,7 +4251,46 @@
     "source": "deepdive"
   },
   {
-    "id": 107,
+    "id": 6040,
+    "category": "DMV Official Sample",
+    "question": {
+      "en": "You must yield to a pedestrian using a white cane or guide dog:",
+      "zh-Hans": "你必须让路给使用白色手杖或导盲犬的行人：",
+      "zh-Hant": "你必須讓路給使用白色手杖或導盲犬的行人："
+    },
+    "options": {
+      "A": {
+        "en": "At all times.",
+        "zh-Hans": "任何时候。",
+        "zh-Hant": "任何時候。"
+      },
+      "B": {
+        "en": "Only at crosswalks.",
+        "zh-Hans": "仅在人行横道。",
+        "zh-Hant": "僅在人行橫道。"
+      },
+      "C": {
+        "en": "Only at traffic signals.",
+        "zh-Hans": "仅在交通信号灯处。",
+        "zh-Hant": "僅在交通信號燈處。"
+      }
+    },
+    "answer": "A",
+    "explanation": {
+      "en": "Always yield to pedestrians who are blind (using a white cane or guide dog), regardless of traffic signals.",
+      "zh-Hans": "无论交通信号如何，始终让路给盲人行人（使用白色手杖或导盲犬）。",
+      "zh-Hant": "無論交通信號如何，始終讓路給盲人行人（使用白色手杖或導盲犬）。"
+    },
+    "dmv_ref": {
+      "page": "42",
+      "section": "第7章：道路法规 - 特殊行人",
+      "analysis_zh-Hans": "参见2026年加州DMV手册第42页「盲人行人」。",
+      "analysis_zh-Hant": "參見2026年加州DMV手冊第42頁「盲人行人」。"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 1,
     "category": "Literacy",
     "question": {
       "en": "On a mountain road where two vehicles cannot pass, which vehicle has the right-of-way?",
@@ -4173,7 +4329,7 @@
     "source": "deepdive"
   },
   {
-    "id": 108,
+    "id": 2,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: When using a 'Level 2' driver assistance system (like Autopilot), the driver:",
@@ -4212,7 +4368,7 @@
     "source": "deepdive"
   },
   {
-    "id": 109,
+    "id": 3,
     "category": "Literacy",
     "question": {
       "en": "You are approaching a green light but traffic is blocking the intersection. You should:",
@@ -4251,7 +4407,7 @@
     "source": "deepdive"
   },
   {
-    "id": 110,
+    "id": 4,
     "category": "Literacy",
     "question": {
       "en": "When parking uphill on a two-way street with no curb, which way should your wheels face?",
@@ -4290,7 +4446,7 @@
     "source": "deepdive"
   },
   {
-    "id": 111,
+    "id": 5,
     "category": "Literacy",
     "question": {
       "en": "A diamond-shaped sign with a truck on a downward slope means:",
@@ -4329,7 +4485,7 @@
     "source": "deepdive"
   },
   {
-    "id": 112,
+    "id": 6,
     "category": "Literacy",
     "question": {
       "en": "At what age can a minor legally use a cell phone while driving?",
@@ -4368,7 +4524,7 @@
     "source": "deepdive"
   },
   {
-    "id": 113,
+    "id": 7,
     "category": "Literacy",
     "question": {
       "en": "If your accelerator pedal gets stuck, you should:",
@@ -4407,7 +4563,7 @@
     "source": "deepdive"
   },
   {
-    "id": 114,
+    "id": 8,
     "category": "Literacy",
     "question": {
       "en": "When can you pass on the right?",
@@ -4446,7 +4602,7 @@
     "source": "deepdive"
   },
   {
-    "id": 115,
+    "id": 9,
     "category": "Literacy",
     "question": {
       "en": "What does a blue curb mean?",
@@ -4485,7 +4641,7 @@
     "source": "deepdive"
   },
   {
-    "id": 116,
+    "id": 10,
     "category": "Literacy",
     "question": {
       "en": "A school bus is stopped on the other side of a 'multilane highway' (not divided). Do you stop?",
@@ -4524,7 +4680,7 @@
     "source": "deepdive"
   },
   {
-    "id": 117,
+    "id": 11,
     "category": "Literacy",
     "question": {
       "en": "How should you drive through a construction zone?",
@@ -4563,7 +4719,7 @@
     "source": "deepdive"
   },
   {
-    "id": 118,
+    "id": 12,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: When a 'Move Over' law is in effect, what must you do?",
@@ -4602,7 +4758,7 @@
     "source": "deepdive"
   },
   {
-    "id": 119,
+    "id": 13,
     "category": "Literacy",
     "question": {
       "en": "What does a round yellow sign indicate?",
@@ -4641,7 +4797,7 @@
     "source": "deepdive"
   },
   {
-    "id": 120,
+    "id": 14,
     "category": "Literacy",
     "question": {
       "en": "When can you turn right on a red light?",
@@ -4680,7 +4836,7 @@
     "source": "deepdive"
   },
   {
-    "id": 121,
+    "id": 15,
     "category": "Literacy",
     "question": {
       "en": "If you plan to pass another vehicle, you should:",
@@ -4719,7 +4875,7 @@
     "source": "deepdive"
   },
   {
-    "id": 122,
+    "id": 16,
     "category": "Literacy",
     "question": {
       "en": "What should you do if your car's engine overheats?",
@@ -4758,7 +4914,7 @@
     "source": "deepdive"
   },
   {
-    "id": 123,
+    "id": 17,
     "category": "Literacy",
     "question": {
       "en": "A person may legally ride in the back of a pickup truck when:",
@@ -4797,7 +4953,7 @@
     "source": "deepdive"
   },
   {
-    "id": 124,
+    "id": 18,
     "category": "Literacy",
     "question": {
       "en": "What is the primary reason for 'Scanning' the road 10-12 seconds ahead?",
@@ -4836,7 +4992,7 @@
     "source": "deepdive"
   },
   {
-    "id": 125,
+    "id": 19,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: When are you allowed to use 'High-Occupancy Vehicle' (HOV) lanes with a single occupant?",
@@ -4875,7 +5031,7 @@
     "source": "deepdive"
   },
   {
-    "id": 126,
+    "id": 20,
     "category": "Literacy",
     "question": {
       "en": "What does a 'Yield' sign mean?",
@@ -4914,7 +5070,7 @@
     "source": "deepdive"
   },
   {
-    "id": 127,
+    "id": 21,
     "category": "Literacy",
     "question": {
       "en": "If you are being tailgated, you should:",
@@ -4953,7 +5109,7 @@
     "source": "deepdive"
   },
   {
-    "id": 128,
+    "id": 22,
     "category": "Literacy",
     "question": {
       "en": "When is it legal to make a U-turn?",
@@ -4992,7 +5148,7 @@
     "source": "deepdive"
   },
   {
-    "id": 129,
+    "id": 23,
     "category": "Literacy",
     "question": {
       "en": "What is the legal blood alcohol concentration (BAC) limit for drivers 21 and older?",
@@ -5031,7 +5187,7 @@
     "source": "deepdive"
   },
   {
-    "id": 130,
+    "id": 24,
     "category": "Literacy",
     "question": {
       "en": "You should use your turn signal even when you don't see any cars around because:",
@@ -5070,7 +5226,7 @@
     "source": "deepdive"
   },
   {
-    "id": 131,
+    "id": 25,
     "category": "Literacy",
     "question": {
       "en": "A pedestrian starts to cross the street after the 'Don't Walk' signal flashes. You should:",
@@ -5109,7 +5265,7 @@
     "source": "deepdive"
   },
   {
-    "id": 132,
+    "id": 26,
     "category": "Literacy",
     "question": {
       "en": "What is the 'No Zone' around large trucks?",
@@ -5148,7 +5304,7 @@
     "source": "deepdive"
   },
   {
-    "id": 133,
+    "id": 27,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: In a 'Roundabout' (traffic circle), you should always enter to the:",
@@ -5187,7 +5343,7 @@
     "source": "deepdive"
   },
   {
-    "id": 134,
+    "id": 28,
     "category": "Literacy",
     "question": {
       "en": "When driving in heavy fog, you should use your:",
@@ -5224,7 +5380,7 @@
     "source": "deepdive"
   },
   {
-    "id": 135,
+    "id": 29,
     "category": "Literacy",
     "question": {
       "en": "If you are involved in a collision and the property damage is over $1,000, you must report it to the DMV within:",
@@ -5263,7 +5419,7 @@
     "source": "deepdive"
   },
   {
-    "id": 136,
+    "id": 30,
     "category": "Literacy",
     "question": {
       "en": "2026 New Law: When passing a stationary vehicle with hazard lights on the shoulder, you must:",
@@ -5302,7 +5458,7 @@
     "source": "deepdive"
   },
   {
-    "id": 137,
+    "id": 31,
     "category": "Literacy",
     "question": {
       "en": "What is the speed limit in a 'Blind Intersection'?",
@@ -5341,7 +5497,7 @@
     "source": "deepdive"
   },
   {
-    "id": 138,
+    "id": 32,
     "category": "Literacy",
     "question": {
       "en": "If your car starts to 'Hydroplane', you should:",
@@ -5380,7 +5536,7 @@
     "source": "deepdive"
   },
   {
-    "id": 139,
+    "id": 33,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: It is illegal to park within ___ feet of a sidewalk ramp for disabled persons.",
@@ -5419,7 +5575,7 @@
     "source": "deepdive"
   },
   {
-    "id": 140,
+    "id": 34,
     "category": "Literacy",
     "question": {
       "en": "What does a 'Double Solid White Line' mean?",
@@ -5458,7 +5614,7 @@
     "source": "deepdive"
   },
   {
-    "id": 141,
+    "id": 35,
     "category": "Literacy",
     "question": {
       "en": "If you see a 'Wrong Way' sign at night, you should:",
@@ -5497,7 +5653,7 @@
     "source": "deepdive"
   },
   {
-    "id": 142,
+    "id": 36,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: Drivers of Electric Vehicles (EVs) must pay which fee instead of gas tax?",
@@ -5536,7 +5692,7 @@
     "source": "deepdive"
   },
   {
-    "id": 143,
+    "id": 37,
     "category": "Literacy",
     "question": {
       "en": "You are driving on a freeway and a tire blows out. You should:",
@@ -5575,7 +5731,7 @@
     "source": "deepdive"
   },
   {
-    "id": 144,
+    "id": 38,
     "category": "Literacy",
     "question": {
       "en": "At an intersection, which direction should you scan first?",
@@ -5614,7 +5770,7 @@
     "source": "deepdive"
   },
   {
-    "id": 145,
+    "id": 39,
     "category": "Literacy",
     "question": {
       "en": "Abandoning an animal on a highway is a crime punishable by:",
@@ -5651,7 +5807,7 @@
     "source": "deepdive"
   },
   {
-    "id": 146,
+    "id": 40,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: A 'Littering' fine for throwing a lit cigarette from a vehicle can be up to:",
@@ -5688,7 +5844,7 @@
     "source": "deepdive"
   },
   {
-    "id": 147,
+    "id": 41,
     "category": "Literacy",
     "question": {
       "en": "When a 'Turn-out' lane is provided on a two-lane road, a slow driver must use it if followed by:",
@@ -5725,7 +5881,7 @@
     "source": "deepdive"
   },
   {
-    "id": 148,
+    "id": 42,
     "category": "Literacy",
     "question": {
       "en": "What does a 'Slanting T' sign (with a horizontal bar at an angle) mean?",
@@ -5762,7 +5918,7 @@
     "source": "deepdive"
   },
   {
-    "id": 149,
+    "id": 43,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: Can you use a digital Driver’s License (mDL) during a traffic stop?",
@@ -5799,7 +5955,7 @@
     "source": "deepdive"
   },
   {
-    "id": 150,
+    "id": 44,
     "category": "Literacy",
     "question": {
       "en": "When can you legally block an intersection?",
@@ -5836,7 +5992,7 @@
     "source": "deepdive"
   },
   {
-    "id": 151,
+    "id": 45,
     "category": "Literacy",
     "question": {
       "en": "Which of these is true about 'Blind Spots'?",
@@ -5873,7 +6029,7 @@
     "source": "deepdive"
   },
   {
-    "id": 152,
+    "id": 46,
     "category": "Literacy",
     "question": {
       "en": "If you are under 21, the zero-tolerance law means your BAC cannot be:",
@@ -5910,7 +6066,7 @@
     "source": "deepdive"
   },
   {
-    "id": 153,
+    "id": 47,
     "category": "Literacy",
     "question": {
       "en": "When driving in heavy rain at night, you should use:",
@@ -5947,7 +6103,7 @@
     "source": "deepdive"
   },
   {
-    "id": 154,
+    "id": 48,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: If you are at a red light and a cyclist is waiting in the 'Bike Box' in front of you:",
@@ -5984,7 +6140,7 @@
     "source": "deepdive"
   },
   {
-    "id": 155,
+    "id": 49,
     "category": "Literacy",
     "question": {
       "en": "To avoid 'Highway Hypnosis' on a long trip, you should:",
@@ -6021,7 +6177,7 @@
     "source": "deepdive"
   },
   {
-    "id": 156,
+    "id": 50,
     "category": "Literacy",
     "question": {
       "en": "In California, it is illegal to leave a child ___ years old or younger unattended in a motor vehicle.",
@@ -6058,7 +6214,7 @@
     "source": "deepdive"
   },
   {
-    "id": 157,
+    "id": 51,
     "category": "Literacy",
     "question": {
       "en": "When a 'Merge' sign is posted on the freeway, you should:",
@@ -6095,7 +6251,7 @@
     "source": "deepdive"
   },
   {
-    "id": 158,
+    "id": 52,
     "category": "Literacy",
     "question": {
       "en": "What does a 'Fluorescent Pink' sign indicate?",
@@ -6132,7 +6288,7 @@
     "source": "deepdive"
   },
   {
-    "id": 159,
+    "id": 53,
     "category": "Literacy",
     "question": {
       "en": "If your brakes fail while driving, you should first:",
@@ -6169,7 +6325,7 @@
     "source": "deepdive"
   },
   {
-    "id": 160,
+    "id": 54,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: California's 'Green-Tipped' parking curbs indicate:",
@@ -6206,7 +6362,7 @@
     "source": "deepdive"
   },
   {
-    "id": 161,
+    "id": 55,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: California's minimum liability insurance coverage for property damage has increased to:",
@@ -6243,7 +6399,7 @@
     "source": "deepdive"
   },
   {
-    "id": 162,
+    "id": 56,
     "category": "Literacy",
     "question": {
       "en": "When must you dim your high beams for an oncoming vehicle?",
@@ -6280,7 +6436,7 @@
     "source": "deepdive"
   },
   {
-    "id": 163,
+    "id": 57,
     "category": "Literacy",
     "question": {
       "en": "When an emergency vehicle with sirens and flashing lights is behind you, you should:",
@@ -6317,7 +6473,7 @@
     "source": "deepdive"
   },
   {
-    "id": 164,
+    "id": 58,
     "category": "Literacy",
     "question": {
       "en": "It is legal to use a cell phone 'hands-free' if you are:",
@@ -6354,7 +6510,7 @@
     "source": "deepdive"
   },
   {
-    "id": 165,
+    "id": 59,
     "category": "Literacy",
     "question": {
       "en": "A light rail vehicle (streetcar) is stopped. You may pass at no more than:",
@@ -6391,7 +6547,7 @@
     "source": "deepdive"
   },
   {
-    "id": 166,
+    "id": 60,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: If your vehicle is equipped with a 'Speed Limiter' (ISA), you:",
@@ -6428,7 +6584,7 @@
     "source": "deepdive"
   },
   {
-    "id": 167,
+    "id": 61,
     "category": "Literacy",
     "question": {
       "en": "When can you legally double-park?",
@@ -6465,7 +6621,7 @@
     "source": "deepdive"
   },
   {
-    "id": 168,
+    "id": 62,
     "category": "Literacy",
     "question": {
       "en": "To see cars in your blind spots, you should check:",
@@ -6502,7 +6658,7 @@
     "source": "deepdive"
   },
   {
-    "id": 169,
+    "id": 63,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: An 'Autonomous Vehicle' in testing mode on public roads can be identified by:",
@@ -6539,7 +6695,7 @@
     "source": "deepdive"
   },
   {
-    "id": 170,
+    "id": 64,
     "category": "Literacy",
     "question": {
       "en": "When a 'T-intersection' has no signs, who has the right-of-way?",
@@ -6576,7 +6732,7 @@
     "source": "deepdive"
   },
   {
-    "id": 171,
+    "id": 65,
     "category": "Literacy",
     "question": {
       "en": "What is the rule for 'Window Tinting' on front side windows in California?",
@@ -6613,7 +6769,7 @@
     "source": "deepdive"
   },
   {
-    "id": 172,
+    "id": 66,
     "category": "Literacy",
     "question": {
       "en": "You are exiting a parking lot into a public street. You must:",
@@ -6650,7 +6806,7 @@
     "source": "deepdive"
   },
   {
-    "id": 173,
+    "id": 67,
     "category": "Literacy",
     "question": {
       "en": "If you are driving and a wasp or bee enters your car, you should:",
@@ -6687,7 +6843,7 @@
     "source": "deepdive"
   },
   {
-    "id": 174,
+    "id": 68,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: California's 'Slow for the Cone Zone' law means fines are:",
@@ -6724,7 +6880,7 @@
     "source": "deepdive"
   },
   {
-    "id": 175,
+    "id": 69,
     "category": "Literacy",
     "question": {
       "en": "A 'Solid White Line' on the right edge of the road slanting toward the center means:",
@@ -6761,7 +6917,7 @@
     "source": "deepdive"
   },
   {
-    "id": 176,
+    "id": 70,
     "category": "Literacy",
     "question": {
       "en": "When can you use your high beam headlights in the city?",
@@ -6798,7 +6954,7 @@
     "source": "deepdive"
   },
   {
-    "id": 177,
+    "id": 71,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: Where is the legal placement for a GPS/Smartphone mount on the windshield?",
@@ -6835,7 +6991,7 @@
     "source": "deepdive"
   },
   {
-    "id": 178,
+    "id": 72,
     "category": "Literacy",
     "question": {
       "en": "When driving in snowy conditions, you should:",
@@ -6872,7 +7028,7 @@
     "source": "deepdive"
   },
   {
-    "id": 179,
+    "id": 73,
     "category": "Literacy",
     "question": {
       "en": "In which situation is 'Tailgating' most dangerous?",
@@ -6909,7 +7065,7 @@
     "source": "deepdive"
   },
   {
-    "id": 180,
+    "id": 74,
     "category": "Literacy",
     "question": {
       "en": "If an aggressive driver is following you and flashing their lights, you should:",
@@ -6946,7 +7102,7 @@
     "source": "deepdive"
   },
   {
-    "id": 181,
+    "id": 75,
     "category": "Literacy",
     "question": {
       "en": "A person may legally ride in the back of a pickup truck only if:",
@@ -6983,7 +7139,7 @@
     "source": "deepdive"
   },
   {
-    "id": 182,
+    "id": 76,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: When parking on a hill with a 'Manual' transmission, you should:",
@@ -7020,7 +7176,7 @@
     "source": "deepdive"
   },
   {
-    "id": 183,
+    "id": 77,
     "category": "Literacy",
     "question": {
       "en": "A 'Yield' sign is shaped like:",
@@ -7057,7 +7213,7 @@
     "source": "deepdive"
   },
   {
-    "id": 184,
+    "id": 78,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: If you are convicted of causing injury while driving under the influence of drugs or alcohol, the court may:",
@@ -7094,7 +7250,7 @@
     "source": "deepdive"
   },
   {
-    "id": 185,
+    "id": 79,
     "category": "Literacy",
     "question": {
       "en": "What must you do when approaching a stopped garbage truck with flashing amber lights?",
@@ -7131,7 +7287,7 @@
     "source": "deepdive"
   },
   {
-    "id": 186,
+    "id": 80,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: Participating in or spectating at an illegal 'street takeover' (sideshow) can result in:",
@@ -7168,7 +7324,7 @@
     "source": "deepdive"
   },
   {
-    "id": 187,
+    "id": 81,
     "category": "Literacy",
     "question": {
       "en": "You are driving on a road with only one lane in your direction and many vehicles are behind you. You should use a 'Turn-out' to let them pass when there are:",
@@ -7205,7 +7361,7 @@
     "source": "deepdive"
   },
   {
-    "id": 188,
+    "id": 82,
     "category": "Literacy",
     "question": {
       "en": "In California, you must NOT smoke in a vehicle if there is a minor present. The fine can be up to:",
@@ -7242,7 +7398,7 @@
     "source": "deepdive"
   },
   {
-    "id": 189,
+    "id": 83,
     "category": "Literacy",
     "question": {
       "en": "When can you legally drive across a 'Safety Zone' (marked by raised buttons or markers)?",
@@ -7279,7 +7435,7 @@
     "source": "deepdive"
   },
   {
-    "id": 190,
+    "id": 84,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: A 'Refusal' to take a chemical BAC test (blood or breath) after a DUI arrest results in:",
@@ -7316,7 +7472,7 @@
     "source": "deepdive"
   },
   {
-    "id": 191,
+    "id": 85,
     "category": "Literacy",
     "question": {
       "en": "When a large truck is turning right at an intersection, it may:",
@@ -7353,7 +7509,7 @@
     "source": "deepdive"
   },
   {
-    "id": 192,
+    "id": 86,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: Can a single-occupant Electric Vehicle (EV) still use the Carpool (HOV) lane with a Clean Air Decal?",
@@ -7390,7 +7546,7 @@
     "source": "deepdive"
   },
   {
-    "id": 193,
+    "id": 87,
     "category": "Literacy",
     "question": {
       "en": "You must notify the DMV within ___ days after selling or transferring a vehicle.",
@@ -7427,7 +7583,7 @@
     "source": "deepdive"
   },
   {
-    "id": 194,
+    "id": 88,
     "category": "Literacy",
     "question": {
       "en": "California law requires a child to ride in a rear-facing car seat until they are:",
@@ -7464,7 +7620,7 @@
     "source": "deepdive"
   },
   {
-    "id": 195,
+    "id": 89,
     "category": "Literacy",
     "question": {
       "en": "A child under 8 years old may ride in the front seat of a vehicle only if:",
@@ -7501,7 +7657,7 @@
     "source": "deepdive"
   },
   {
-    "id": 196,
+    "id": 90,
     "category": "Literacy",
     "question": {
       "en": "If you change your residence address, you must notify the DMV within:",
@@ -7538,7 +7694,7 @@
     "source": "deepdive"
   },
   {
-    "id": 197,
+    "id": 91,
     "category": "Literacy",
     "question": {
       "en": "When can you legally use a handheld cell phone while driving?",
@@ -7575,7 +7731,7 @@
     "source": "deepdive"
   },
   {
-    "id": 198,
+    "id": 92,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: If your vehicle's Automatic Emergency Braking (AEB) system fails and causes a collision, who is legally responsible?",
@@ -7612,7 +7768,7 @@
     "source": "deepdive"
   },
   {
-    "id": 199,
+    "id": 93,
     "category": "Literacy",
     "question": {
       "en": "If a load extends more than ___ feet from the rear bumper, you must display a 12-inch red or orange square flag.",
@@ -7649,7 +7805,7 @@
     "source": "deepdive"
   },
   {
-    "id": 200,
+    "id": 94,
     "category": "Literacy",
     "question": {
       "en": "What is the minimum legal tread depth for your tires?",
@@ -7686,7 +7842,7 @@
     "source": "deepdive"
   },
   {
-    "id": 201,
+    "id": 95,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: It is illegal to operate a vehicle that has been modified to produce a sound level over:",
@@ -7723,7 +7879,7 @@
     "source": "deepdive"
   },
   {
-    "id": 202,
+    "id": 96,
     "category": "Literacy",
     "question": {
       "en": "When parking next to a curb, your wheels must be within ___ inches of the curb.",
@@ -7760,7 +7916,44 @@
     "source": "deepdive"
   },
   {
-    "id": 203,
+    "id": 97,
+    "category": "Literacy",
+    "question": {
+      "en": "If you are involved in a collision, you must exchange which information?",
+      "zh-Hans": "如果您卷入车祸，必须交换哪些信息？",
+      "zh-Hant": "如果您捲入車禍，必須交換哪些信息？"
+    },
+    "options": {
+      "A": {
+        "en": "Driver's license and insurance only.",
+        "zh-Hans": "仅驾照和保险。",
+        "zh-Hant": "僅駕照和保險。"
+      },
+      "B": {
+        "en": "Driver's license, registration, and evidence of financial responsibility.",
+        "zh-Hans": "驾照、车辆登记证以及保险（财务责任证明）。",
+        "zh-Hant": "駕照、車輛登記證以及保險（財務責任證明）。"
+      },
+      "C": {
+        "en": "Address and phone number only.",
+        "zh-Hans": "仅地址和电话。",
+        "zh-Hant": "僅地址和電話。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "You must provide your license, vehicle registration, and insurance information to the other parties involved.",
+      "zh-Hans": "车祸后必须交换三样：驾照、Reg 卡（登记证）和保险卡。如果有人受伤，还必须通知警察。",
+      "zh-Hant": "車禍後必須交換三樣：駕照、Reg 卡（登記證）和保險卡。如果有人受傷，還必須通知警察。"
+    },
+    "dmv_ref": {
+      "page": "100",
+      "section": "Section 10: Reporting Accidents"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 98,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: Can you be cited for driving too slowly?",
@@ -7797,7 +7990,7 @@
     "source": "deepdive"
   },
   {
-    "id": 204,
+    "id": 99,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: When passing a bicyclist, you must leave at least ___ feet of space between your vehicle and the bicycle.",
@@ -7834,7 +8027,7 @@
     "source": "deepdive"
   },
   {
-    "id": 205,
+    "id": 100,
     "category": "Literacy",
     "question": {
       "en": "In heavy fog, you should use your:",
@@ -7871,7 +8064,7 @@
     "source": "deepdive"
   },
   {
-    "id": 206,
+    "id": 101,
     "category": "Literacy",
     "question": {
       "en": "When approaching a railroad crossing with no warning devices, the speed limit is:",
@@ -7908,7 +8101,7 @@
     "source": "deepdive"
   },
   {
-    "id": 207,
+    "id": 102,
     "category": "Literacy",
     "question": {
       "en": "You must stop for a school bus with flashing red lights and an extended stop arm, unless:",
@@ -7945,7 +8138,7 @@
     "source": "deepdive"
   },
   {
-    "id": 208,
+    "id": 103,
     "category": "Literacy",
     "question": {
       "en": "What is 'Hydroplaning'?",
@@ -7982,7 +8175,44 @@
     "source": "deepdive"
   },
   {
-    "id": 209,
+    "id": 104,
+    "category": "Literacy",
+    "question": {
+      "en": "2026 Update: If you are involved in a property damage collision over $1,000, you must report it to the DMV within:",
+      "zh-Hans": "2026年更新：如果您卷入损失超过 $1,000 的财产损失事故，必须在几天内向 DMV 报告？",
+      "zh-Hant": "2026年更新：如果您捲入損失超過 $1,000 的財產損失事故，必須在幾天內向 DMV 報告？"
+    },
+    "options": {
+      "A": {
+        "en": "5 days.",
+        "zh-Hans": "5 天。",
+        "zh-Hant": "5 天。"
+      },
+      "B": {
+        "en": "10 days.",
+        "zh-Hans": "10 天。",
+        "zh-Hant": "10 天。"
+      },
+      "C": {
+        "en": "24 hours.",
+        "zh-Hans": "24 小时。",
+        "zh-Hant": "24 小時。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "You must file an SR 1 report with the DMV if damage is over $1,000 or anyone is injured/killed.",
+      "zh-Hans": "无论谁对谁错，只要损失过千或有人受伤，10 天内必须提交 SR 1 表格给 DMV。",
+      "zh-Hant": "無論誰對誰錯，只要損失過千或有人受傷，10 天內必須提交 SR 1 表格給 DMV。"
+    },
+    "dmv_ref": {
+      "page": "100",
+      "section": "Section 10: Reporting Collisions"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 105,
     "category": "Literacy",
     "question": {
       "en": "The basic speed law in California says you should never drive faster than:",
@@ -8019,7 +8249,7 @@
     "source": "deepdive"
   },
   {
-    "id": 210,
+    "id": 106,
     "category": "Literacy",
     "question": {
       "en": "A 'White' painted curb means:",
@@ -8056,7 +8286,7 @@
     "source": "deepdive"
   },
   {
-    "id": 211,
+    "id": 107,
     "category": "Literacy",
     "question": {
       "en": "What should you do if your accelerator (gas pedal) gets stuck?",
@@ -8093,7 +8323,7 @@
     "source": "deepdive"
   },
   {
-    "id": 212,
+    "id": 108,
     "category": "Literacy",
     "question": {
       "en": "When a driver has their left arm extended straight out the window, it means:",
@@ -8130,7 +8360,7 @@
     "source": "deepdive"
   },
   {
-    "id": 213,
+    "id": 109,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: Can you be convicted of a DUI for using prescription drugs?",
@@ -8167,7 +8397,7 @@
     "source": "deepdive"
   },
   {
-    "id": 214,
+    "id": 110,
     "category": "Literacy",
     "question": {
       "en": "You are driving at night and must use your headlights 30 minutes after sunset until:",
@@ -8204,7 +8434,7 @@
     "source": "deepdive"
   },
   {
-    "id": 215,
+    "id": 111,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: When parking in a space with a 'Blue' curb, you must:",
@@ -8241,7 +8471,7 @@
     "source": "deepdive"
   },
   {
-    "id": 216,
+    "id": 112,
     "category": "Literacy",
     "question": {
       "en": "A pedestrian with a white cane with a red tip means they are:",
@@ -8278,7 +8508,7 @@
     "source": "deepdive"
   },
   {
-    "id": 217,
+    "id": 113,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: If you are involved in a collision and do not have insurance, your license will be suspended for:",
@@ -8315,7 +8545,7 @@
     "source": "deepdive"
   },
   {
-    "id": 218,
+    "id": 114,
     "category": "Literacy",
     "question": {
       "en": "At a blind intersection where you cannot see 100 feet in either direction, the speed limit is:",
@@ -8352,7 +8582,7 @@
     "source": "deepdive"
   },
   {
-    "id": 219,
+    "id": 115,
     "category": "Literacy",
     "question": {
       "en": "What does a flashing yellow light at an intersection mean?",
@@ -8389,7 +8619,7 @@
     "source": "deepdive"
   },
   {
-    "id": 220,
+    "id": 116,
     "category": "Literacy",
     "question": {
       "en": "You may drive off the paved roadway to pass another vehicle:",
@@ -8426,7 +8656,7 @@
     "source": "deepdive"
   },
   {
-    "id": 221,
+    "id": 117,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: If you see a 'Pedestrian Hybrid Beacon' (HAWK) with two flashing red lights:",
@@ -8463,7 +8693,7 @@
     "source": "deepdive"
   },
   {
-    "id": 222,
+    "id": 118,
     "category": "Literacy",
     "question": {
       "en": "When can you cross a double solid white line on the freeway?",
@@ -8500,7 +8730,44 @@
     "source": "deepdive"
   },
   {
-    "id": 223,
+    "id": 119,
+    "category": "Literacy",
+    "question": {
+      "en": "If you hit a parked vehicle and cannot find the owner, you must:",
+      "zh-Hans": "如果您撞到停着的车辆且找不到车主，您必须：",
+      "zh-Hant": "如果您撞到停著的車輛且找不到車主，您必須："
+    },
+    "options": {
+      "A": {
+        "en": "Drive away and report it later.",
+        "zh-Hans": "先开车离开，稍后再报告。",
+        "zh-Hant": "先開車離開，稍後再報告。"
+      },
+      "B": {
+        "en": "Leave a note and report the accident to the police/CHP.",
+        "zh-Hans": "留下一张纸条，并向警察或加州公路巡警（CHP）报告。",
+        "zh-Hant": "留下一張紙條，並向警察或加州公路巡警（CHP）報告。"
+      },
+      "C": {
+        "en": "Wait for 2 hours for the owner.",
+        "zh-Hans": "等候车主 2 小时。",
+        "zh-Hant": "等候車主 2 小時。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Leaving the scene without identifying yourself is a 'Hit and Run'.",
+      "zh-Hans": "必须留下姓名、电话和地址的纸条。如果不报告警察，即便留了纸条也可能被视为肇事逃逸。",
+      "zh-Hant": "必須留下姓名、電話和地址的紙條。如果不報告警察，即便留了紙條也可能被視為肇事逃逸。"
+    },
+    "dmv_ref": {
+      "page": "100",
+      "section": "Section 10: Accidents"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 120,
     "category": "Literacy",
     "question": {
       "en": "A yellow diamond-shaped sign with a picture of a truck on a hill means:",
@@ -8537,7 +8804,7 @@
     "source": "deepdive"
   },
   {
-    "id": 224,
+    "id": 121,
     "category": "Literacy",
     "question": {
       "en": "At what BAC (Blood Alcohol Content) level is it illegal for a person under 21 to drive?",
@@ -8574,7 +8841,44 @@
     "source": "deepdive"
   },
   {
-    "id": 225,
+    "id": 122,
+    "category": "Literacy",
+    "question": {
+      "en": "You are driving on a freeway and a tire blows out. You should:",
+      "zh-Hans": "在高速公路上行驶时轮胎爆裂，您应该：",
+      "zh-Hant": "在高速公路上行駛時輪胎爆裂，您應該："
+    },
+    "options": {
+      "A": {
+        "en": "Brake hard and pull over immediately.",
+        "zh-Hans": "猛踩刹车并立即靠边。",
+        "zh-Hant": "猛踩剎車並立即靠邊。"
+      },
+      "B": {
+        "en": "Hold the steering wheel firmly and ease off the gas.",
+        "zh-Hans": "紧握方向盘，慢慢松开油门。",
+        "zh-Hant": "緊握方向盤，慢慢鬆開油門。"
+      },
+      "C": {
+        "en": "Speed up to maintain control.",
+        "zh-Hans": "加速以保持控制。",
+        "zh-Hant": "加速以保持控制。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "Sudden braking during a blowout causes the car to spin. Gradual slowing is key.",
+      "zh-Hans": "爆胎时猛踩刹车会导致翻车。应保持直线行驶，自然减速后再轻踩刹车靠边。",
+      "zh-Hant": "爆胎時猛踩剎車會導致翻車。應保持直線行駛，自然減速後再輕踩剎車靠邊。"
+    },
+    "dmv_ref": {
+      "page": "91",
+      "section": "Section 8: Failures"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 123,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: Is it legal to sleep in your vehicle on a California public street?",
@@ -8611,7 +8915,7 @@
     "source": "deepdive"
   },
   {
-    "id": 226,
+    "id": 124,
     "category": "Literacy",
     "question": {
       "en": "A person under 18 may not work as a driver for hire (like Uber or delivery) if:",
@@ -8648,7 +8952,7 @@
     "source": "deepdive"
   },
   {
-    "id": 227,
+    "id": 125,
     "category": "Literacy",
     "question": {
       "en": "What is the very first thing you should do if you are involved in a collision?",
@@ -8685,7 +8989,7 @@
     "source": "deepdive"
   },
   {
-    "id": 228,
+    "id": 126,
     "category": "Literacy",
     "question": {
       "en": "A sign that says 'End Freeway' means:",
@@ -8722,7 +9026,7 @@
     "source": "deepdive"
   },
   {
-    "id": 229,
+    "id": 127,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: Can a driver be cited for 'Distracted Driving' while using a smartwatch?",
@@ -8759,7 +9063,44 @@
     "source": "deepdive"
   },
   {
-    "id": 230,
+    "id": 128,
+    "category": "Literacy",
+    "question": {
+      "en": "When can you drive in a bike lane?",
+      "zh-Hans": "什么时候可以驶入自行车道？",
+      "zh-Hant": "什麼時候可以駛入自行車道？"
+    },
+    "options": {
+      "A": {
+        "en": "To pass a slow car.",
+        "zh-Hans": "为了超越慢车。",
+        "zh-Hant": "為了超越慢車。"
+      },
+      "B": {
+        "en": "Within 200 feet of a right turn.",
+        "zh-Hans": "在右转前的 200 英尺内。",
+        "zh-Hant": "在右轉前的 200 英呎內。"
+      },
+      "C": {
+        "en": "Whenever no bicyclists are present.",
+        "zh-Hans": "只要没有骑行者在场。",
+        "zh-Hant": "只要沒有騎行者在場。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "You must enter the bike lane when making a right turn, but only within the final 200 feet.",
+      "zh-Hans": "右转前必须先进入自行车道，但不能进得太早，法定距离是 200 英尺以内。",
+      "zh-Hant": "右轉前必須先進入自行車道，但不能進得太早，法定距離是 200 英呎以內。"
+    },
+    "dmv_ref": {
+      "page": "49",
+      "section": "Section 7"
+    },
+    "source": "deepdive"
+  },
+  {
+    "id": 129,
     "category": "Literacy",
     "question": {
       "en": "If you are convicted of serious littering on the highway, the fine is:",
@@ -8796,7 +9137,7 @@
     "source": "deepdive"
   },
   {
-    "id": 231,
+    "id": 130,
     "category": "Literacy",
     "question": {
       "en": "At a 4-way stop, if two cars arrive at the same time, who goes first?",
@@ -8833,7 +9174,7 @@
     "source": "deepdive"
   },
   {
-    "id": 232,
+    "id": 131,
     "category": "Literacy",
     "question": {
       "en": "When approaching a person riding a horse or leading an animal on the road, you should:",
@@ -8870,7 +9211,7 @@
     "source": "deepdive"
   },
   {
-    "id": 233,
+    "id": 132,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: If your vehicle is equipped with a 'Dash Cam', where can it be legally mounted?",
@@ -8907,7 +9248,7 @@
     "source": "deepdive"
   },
   {
-    "id": 234,
+    "id": 133,
     "category": "Literacy",
     "question": {
       "en": "A person may legally ride in the bed of a pickup truck if:",
@@ -8944,7 +9285,7 @@
     "source": "deepdive"
   },
   {
-    "id": 235,
+    "id": 134,
     "category": "Literacy",
     "question": {
       "en": "What is the fine for 'abandoning' an animal on a highway?",
@@ -8981,7 +9322,7 @@
     "source": "deepdive"
   },
   {
-    "id": 236,
+    "id": 135,
     "category": "Literacy",
     "question": {
       "en": "2026 Update: If you receive a 'Toll Violation' notice for a road you didn't use, you must:",
@@ -9018,7 +9359,7 @@
     "source": "deepdive"
   },
   {
-    "id": 237,
+    "id": 136,
     "category": "Literacy",
     "question": {
       "en": "Which of these is legal for a driver to do while the vehicle is in motion?",
@@ -9055,7 +9396,7 @@
     "source": "deepdive"
   },
   {
-    "id": 238,
+    "id": 137,
     "category": "Literacy",
     "question": {
       "en": "If you are involved in a collision, how long do you have to report it to the DMV if the property damage is over $1,000?",
@@ -9092,7 +9433,7 @@
     "source": "deepdive"
   },
   {
-    "id": 239,
+    "id": 5001,
     "category": "Warning",
     "question": {
       "en": "What does this sign mean?",
@@ -9133,7 +9474,7 @@
     "source": "signs"
   },
   {
-    "id": 240,
+    "id": 5002,
     "category": "Warning",
     "question": {
       "en": "This sign indicates:",
@@ -9174,7 +9515,7 @@
     "source": "signs"
   },
   {
-    "id": 241,
+    "id": 5003,
     "category": "Warning",
     "question": {
       "en": "What is the meaning of this sign?",
@@ -9215,7 +9556,7 @@
     "source": "signs"
   },
   {
-    "id": 242,
+    "id": 5004,
     "category": "Regulatory",
     "question": {
       "en": "This regulatory sign means:",
@@ -9256,7 +9597,7 @@
     "source": "signs"
   },
   {
-    "id": 243,
+    "id": 5005,
     "category": "Regulatory",
     "question": {
       "en": "This sign means:",
@@ -9297,7 +9638,7 @@
     "source": "signs"
   },
   {
-    "id": 244,
+    "id": 4011,
     "category": "Traffic Signs",
     "question": {
       "en": "A red octagonal sign means:",
@@ -9336,7 +9677,7 @@
     "source": "signs"
   },
   {
-    "id": 245,
+    "id": 4012,
     "category": "Traffic Signs",
     "question": {
       "en": "A red triangle pointing down means:",
@@ -9375,7 +9716,7 @@
     "source": "signs"
   },
   {
-    "id": 246,
+    "id": 4013,
     "category": "Traffic Signs",
     "question": {
       "en": "Yellow diamond-shaped signs are:",
@@ -9414,7 +9755,7 @@
     "source": "signs"
   },
   {
-    "id": 247,
+    "id": 4014,
     "category": "Traffic Signs",
     "question": {
       "en": "Orange signs in work zones mean:",
@@ -9453,7 +9794,7 @@
     "source": "signs"
   },
   {
-    "id": 248,
+    "id": 4015,
     "category": "Traffic Signs",
     "question": {
       "en": "Green rectangular signs are typically:",
@@ -9492,7 +9833,7 @@
     "source": "signs"
   },
   {
-    "id": 249,
+    "id": 4016,
     "category": "Traffic Signs",
     "question": {
       "en": "A round sign with a crossbuck indicates:",
@@ -9531,7 +9872,7 @@
     "source": "signs"
   },
   {
-    "id": 250,
+    "id": 4017,
     "category": "Traffic Signs",
     "question": {
       "en": "A pennant-shaped sign (triangular pointing right) means:",
@@ -9570,7 +9911,7 @@
     "source": "signs"
   },
   {
-    "id": 251,
+    "id": 4018,
     "category": "Traffic Signs",
     "question": {
       "en": "A white rectangular sign is typically a:",
@@ -9609,7 +9950,7 @@
     "source": "signs"
   },
   {
-    "id": 252,
+    "id": 4019,
     "category": "Traffic Signs",
     "question": {
       "en": "A blue rectangular sign indicates:",
@@ -9648,7 +9989,7 @@
     "source": "signs"
   },
   {
-    "id": 253,
+    "id": 4020,
     "category": "Traffic Signs",
     "question": {
       "en": "A brown rectangular sign indicates:",
@@ -9687,7 +10028,7 @@
     "source": "signs"
   },
   {
-    "id": 254,
+    "id": 4021,
     "category": "Traffic Signs",
     "question": {
       "en": "A five-sided sign (pentagon) indicates:",
@@ -9726,7 +10067,7 @@
     "source": "signs"
   },
   {
-    "id": 255,
+    "id": 4022,
     "category": "Traffic Signs",
     "question": {
       "en": "A sign showing a truck on a hill means:",
@@ -9765,7 +10106,7 @@
     "source": "signs"
   },
   {
-    "id": 256,
+    "id": 4023,
     "category": "Traffic Signs",
     "question": {
       "en": "A sign with 'RUNAWAY TRUCK RAMP' indicates:",
@@ -9804,7 +10145,7 @@
     "source": "signs"
   },
   {
-    "id": 257,
+    "id": 4024,
     "category": "Traffic Signs",
     "question": {
       "en": "What does a 'LOW CLEARANCE' sign mean for truck drivers?",
@@ -9843,7 +10184,7 @@
     "source": "signs"
   },
   {
-    "id": 258,
+    "id": 4025,
     "category": "Traffic Signs",
     "question": {
       "en": "A 'WEIGH STATION' sign means:",
@@ -9882,7 +10223,7 @@
     "source": "signs"
   },
   {
-    "id": 259,
+    "id": 4026,
     "category": "Traffic Signs",
     "question": {
       "en": "A 'NO TRUCKS' sign means:",
@@ -9921,7 +10262,7 @@
     "source": "signs"
   },
   {
-    "id": 260,
+    "id": 4027,
     "category": "Traffic Signs",
     "question": {
       "en": "What does a sign showing 'TRUCKS USE RIGHT LANE' mean?",
@@ -9960,7 +10301,7 @@
     "source": "signs"
   },
   {
-    "id": 261,
+    "id": 4028,
     "category": "Traffic Signs",
     "question": {
       "en": "A sign with a curved arrow indicates:",
@@ -9999,7 +10340,7 @@
     "source": "signs"
   },
   {
-    "id": 262,
+    "id": 4029,
     "category": "Traffic Signs",
     "question": {
       "en": "A speed limit sign with 'TRUCKS' below the limit means:",
@@ -10038,7 +10379,7 @@
     "source": "signs"
   },
   {
-    "id": 263,
+    "id": 4030,
     "category": "Traffic Signs",
     "question": {
       "en": "A flashing yellow light means:",
@@ -10077,7 +10418,7 @@
     "source": "signs"
   },
   {
-    "id": 264,
+    "id": 4031,
     "category": "Traffic Signs",
     "question": {
       "en": "A flashing red light means:",
@@ -10116,7 +10457,7 @@
     "source": "signs"
   },
   {
-    "id": 265,
+    "id": 4032,
     "category": "Traffic Signs",
     "question": {
       "en": "A 'DIVIDED HIGHWAY' sign means:",
@@ -10155,7 +10496,7 @@
     "source": "signs"
   },
   {
-    "id": 266,
+    "id": 4033,
     "category": "Traffic Signs",
     "question": {
       "en": "A 'MERGE' sign means:",
@@ -10194,7 +10535,7 @@
     "source": "signs"
   },
   {
-    "id": 267,
+    "id": 4034,
     "category": "Traffic Signs",
     "question": {
       "en": "A 'SLIPPERY WHEN WET' sign means:",
@@ -10233,7 +10574,7 @@
     "source": "signs"
   },
   {
-    "id": 268,
+    "id": 4035,
     "category": "Traffic Signs",
     "question": {
       "en": "A 'BRIDGE ICES BEFORE ROAD' sign means:",
@@ -10272,7 +10613,7 @@
     "source": "signs"
   },
   {
-    "id": 269,
+    "id": 4036,
     "category": "Traffic Signs",
     "question": {
       "en": "A sign showing two arrows pointing in opposite directions means:",
@@ -10311,7 +10652,7 @@
     "source": "signs"
   },
   {
-    "id": 270,
+    "id": 4037,
     "category": "Traffic Signs",
     "question": {
       "en": "A 'LANE ENDS' sign means:",
@@ -10350,7 +10691,7 @@
     "source": "signs"
   },
   {
-    "id": 271,
+    "id": 4038,
     "category": "Traffic Signs",
     "question": {
       "en": "A 'DETOUR' sign means:",
@@ -10389,7 +10730,7 @@
     "source": "signs"
   },
   {
-    "id": 272,
+    "id": 4039,
     "category": "Traffic Signs",
     "question": {
       "en": "A 'DO NOT ENTER' sign means:",
@@ -10428,7 +10769,7 @@
     "source": "signs"
   },
   {
-    "id": 273,
+    "id": 4040,
     "category": "Traffic Signs",
     "question": {
       "en": "A 'WRONG WAY' sign means:",

@@ -1992,45 +1992,6 @@
     "id": 52,
     "category": "traffic_rules",
     "question": {
-      "en": "You are waiting *in* the intersection to turn left when the signal changes to a solid yellow arrow. You should:",
-      "zh-Hans": "当您在十字路口（已进入）等待左转时，信号灯变为恒亮的黄色箭头。您应该：",
-      "zh-Hant": "当您在十字路口（已进入）等待左转时，信号灯变为恒亮的黄色箭头。您应该："
-    },
-    "options": {
-      "A": {
-        "en": "Back up.",
-        "zh-Hans": "倒车。",
-        "zh-Hant": "倒车。"
-      },
-      "B": {
-        "en": "Complete your turn cautiously (if safe).",
-        "zh-Hans": "谨慎完成您的转弯（如果安全）。",
-        "zh-Hant": "谨慎完成您的转弯（如果安全）。"
-      },
-      "C": {
-        "en": "Speed up to beat the red light.",
-        "zh-Hans": "加速以抢在红灯前。",
-        "zh-Hant": "加速以抢在红灯前。"
-      }
-    },
-    "answer": "B",
-    "explanation": {
-      "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, if you are already in the intersection on a yellow arrow, finish the turn when safe.",
-      "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，已在路口内遇黄箭头时，应在安全情况下完成转弯并清空路口。",
-      "zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，已在路口内遇黄箭头时，应在安全情况下完成转弯并清空路口。"
-    },
-    "dmv_ref": {
-      "page": "Cali",
-      "section": "traffic_rules",
-      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，已在路口内遇黄箭头时，应在安全情况下完成转弯并清空路口。",
-      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，已在路口内遇黄箭头时，应在安全情况下完成转弯并清空路口。"
-    },
-    "source": "basics"
-  },
-  {
-    "id": 53,
-    "category": "traffic_rules",
-    "question": {
       "en": "What signal light typically follows a solid yellow arrow?",
       "zh-Hans": "一个恒亮的黄色箭头（Solid Yellow Arrow）之后通常会跟​​着什么信号灯？",
       "zh-Hant": "一个恒亮的黄色箭头（Solid Yellow Arrow）之后通常会跟​​着什么信号灯？"
@@ -2067,7 +2028,7 @@
     "source": "basics"
   },
   {
-    "id": 54,
+    "id": 53,
     "category": "traffic_rules",
     "question": {
       "en": "When turning left on a solid green arrow, do you need to yield to oncoming traffic?",
@@ -2106,7 +2067,7 @@
     "source": "basics"
   },
   {
-    "id": 55,
+    "id": 54,
     "category": "traffic_rules",
     "question": {
       "en": "When turning right on a solid green arrow, must you yield to pedestrians?",
@@ -2145,7 +2106,7 @@
     "source": "basics"
   },
   {
-    "id": 56,
+    "id": 55,
     "category": "traffic_rules",
     "question": {
       "en": "With a solid green arrow, what must you still do before turning?",
@@ -2184,7 +2145,7 @@
     "source": "basics"
   },
   {
-    "id": 57,
+    "id": 56,
     "category": "traffic_rules",
     "question": {
       "en": "At an intersection with a solid red arrow, if you want to turn (in the arrow's direction), you must:",
@@ -2223,7 +2184,7 @@
     "source": "basics"
   },
   {
-    "id": 58,
+    "id": 57,
     "category": "traffic_rules",
     "question": {
       "en": "With a flashing yellow arrow, you must yield to whom when turning (e.g., left)?",
@@ -2262,7 +2223,7 @@
     "source": "basics"
   },
   {
-    "id": 59,
+    "id": 58,
     "category": "traffic_rules",
     "question": {
       "en": "If a traffic signal (in a turn lane) is showing *both* a red arrow and a green arrow (pointing the same way), you should:",
@@ -2301,7 +2262,7 @@
     "source": "basics"
   },
   {
-    "id": 60,
+    "id": 59,
     "category": "traffic_rules",
     "question": {
       "en": "A solid yellow arrow indicates:",
@@ -2340,7 +2301,7 @@
     "source": "basics"
   },
   {
-    "id": 61,
+    "id": 60,
     "category": "traffic_rules",
     "question": {
       "en": "What does a flashing red traffic signal light mean?",
@@ -2379,7 +2340,7 @@
     "source": "basics"
   },
   {
-    "id": 62,
+    "id": 61,
     "category": "traffic_rules",
     "question": {
       "en": "What does a flashing yellow traffic signal light mean?",
@@ -2418,7 +2379,7 @@
     "source": "basics"
   },
   {
-    "id": 63,
+    "id": 62,
     "category": "traffic_rules",
     "question": {
       "en": "What is the main difference between a flashing red light and a flashing yellow light?",
@@ -2457,7 +2418,7 @@
     "source": "basics"
   },
   {
-    "id": 64,
+    "id": 63,
     "category": "traffic_rules",
     "question": {
       "en": "What does a flashing yellow arrow mean?",
@@ -2496,7 +2457,7 @@
     "source": "basics"
   },
   {
-    "id": 65,
+    "id": 64,
     "category": "traffic_rules",
     "question": {
       "en": "At a railroad crossing, what do flashing red warning lights mean?",
@@ -2535,7 +2496,7 @@
     "source": "basics"
   },
   {
-    "id": 66,
+    "id": 65,
     "category": "traffic_rules",
     "question": {
       "en": "What does it mean when a school bus is flashing its *red* lights?",
@@ -2574,7 +2535,7 @@
     "source": "basics"
   },
   {
-    "id": 67,
+    "id": 66,
     "category": "traffic_rules",
     "question": {
       "en": "What does a flashing 'DON'T WALK' or flashing 'raised hand' pedestrian signal mean?",
@@ -2613,7 +2574,7 @@
     "source": "basics"
   },
   {
-    "id": 68,
+    "id": 67,
     "category": "traffic_rules",
     "question": {
       "en": "If you have a flashing red light at an intersection, and the cross-traffic (from your left and right) has a solid red light, you should:",
@@ -2652,7 +2613,7 @@
     "source": "basics"
   },
   {
-    "id": 69,
+    "id": 68,
     "category": "traffic_rules",
     "question": {
       "en": "If you have a flashing yellow light at an intersection, and the cross-traffic (from your left and right) has a flashing red light, who has the right-of-way?",
@@ -2691,7 +2652,7 @@
     "source": "basics"
   },
   {
-    "id": 70,
+    "id": 69,
     "category": "traffic_rules",
     "question": {
       "en": "What is the key difference between a flashing yellow arrow and a solid green arrow?",
@@ -2730,7 +2691,7 @@
     "source": "basics"
   },
   {
-    "id": 71,
+    "id": 70,
     "category": "traffic_rules",
     "question": {
       "en": "At an intersection with a flashing red light, you must:",
@@ -2769,7 +2730,7 @@
     "source": "basics"
   },
   {
-    "id": 72,
+    "id": 71,
     "category": "traffic_rules",
     "question": {
       "en": "At an intersection with a flashing yellow light, you must:",
@@ -2808,46 +2769,7 @@
     "source": "basics"
   },
   {
-    "id": 73,
-    "category": "traffic_rules",
-    "question": {
-      "en": "What is the main difference between a flashing yellow arrow and a solid yellow arrow?",
-      "zh-Hans": "闪烁的黄色箭头（Flashing Yellow Arrow）和恒亮的黄色箭头（Solid Yellow Arrow）之间的主要区别是什么？",
-      "zh-Hant": "闪烁的黄色箭头（Flashing Yellow Arrow）和恒亮的黄色箭头（Solid Yellow Arrow）之间的主要区别是什么？"
-    },
-    "options": {
-      "A": {
-        "en": "No difference; they both mean 'Yield'.",
-        "zh-Hans": "没有区别，它们都意味着“让行”。",
-        "zh-Hant": "没有区别，它们都意味着“让行”。"
-      },
-      "B": {
-        "en": "Solid yellow means 'Protected turn is ending'; Flashing yellow means 'Turn is unprotected (must yield)'.",
-        "zh-Hans": "恒亮黄箭头表示“受保护的转弯即将结束”；闪烁黄箭头表示“转弯不受保护（必须让行）”。",
-        "zh-Hant": "恒亮黄箭头表示“受保护的转弯即将结束”；闪烁黄箭头表示“转弯不受保护（必须让行）”。"
-      },
-      "C": {
-        "en": "Solid yellow means 'Stop'; Flashing yellow means 'Slow down'.",
-        "zh-Hans": "恒亮黄箭头表示“停车”；闪烁黄箭头表示“减速”。",
-        "zh-Hant": "恒亮黄箭头表示“停车”；闪烁黄箭头表示“减速”。"
-      }
-    },
-    "answer": "B",
-    "explanation": {
-      "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a solid yellow arrow means a protected turn is ending; a flashing yellow arrow means an unprotected turn requiring a yield.",
-      "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，恒亮黄箭头表示受保护转弯即将结束；闪烁黄箭头表示不受保护需让行。",
-      "zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，恒亮黄箭头表示受保护转弯即将结束；闪烁黄箭头表示不受保护需让行。"
-    },
-    "dmv_ref": {
-      "page": "Cali",
-      "section": "traffic_rules",
-      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，恒亮黄箭头表示受保护转弯即将结束；闪烁黄箭头表示不受保护需让行。",
-      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，恒亮黄箭头表示受保护转弯即将结束；闪烁黄箭头表示不受保护需让行。"
-    },
-    "source": "basics"
-  },
-  {
-    "id": 74,
+    "id": 72,
     "category": "traffic_rules",
     "question": {
       "en": "When you face a flashing yellow left-turn arrow at an intersection, what signal does oncoming traffic have?",
@@ -2886,7 +2808,7 @@
     "source": "basics"
   },
   {
-    "id": 75,
+    "id": 73,
     "category": "traffic_rules",
     "question": {
       "en": "What does a single solid yellow line in the center of the road, on your side, mean?",
@@ -2925,7 +2847,7 @@
     "source": "basics"
   },
   {
-    "id": 76,
+    "id": 74,
     "category": "traffic_rules",
     "question": {
       "en": "What do double solid yellow lines in the center of the road mean?",
@@ -2964,7 +2886,7 @@
     "source": "basics"
   },
   {
-    "id": 77,
+    "id": 75,
     "category": "traffic_rules",
     "question": {
       "en": "When are you legally allowed to drive over double solid yellow lines?",
@@ -3003,7 +2925,7 @@
     "source": "basics"
   },
   {
-    "id": 78,
+    "id": 76,
     "category": "traffic_rules",
     "question": {
       "en": "What does a 'broken yellow line' as the center line on your left mean?",
@@ -3042,7 +2964,7 @@
     "source": "basics"
   },
   {
-    "id": 79,
+    "id": 77,
     "category": "traffic_rules",
     "question": {
       "en": "If you are on a two-way road and you have a solid yellow line on your left, with a broken yellow line next to it (on the oncoming side), you:",
@@ -3081,7 +3003,7 @@
     "source": "basics"
   },
   {
-    "id": 80,
+    "id": 78,
     "category": "traffic_rules",
     "question": {
       "en": "If you are on a two-way road and you have a broken yellow line on your left, with a solid yellow line next to it (on the oncoming side), you:",
@@ -3120,7 +3042,7 @@
     "source": "basics"
   },
   {
-    "id": 81,
+    "id": 79,
     "category": "traffic_rules",
     "question": {
       "en": "What is a 'barrier' as defined by road markings?",
@@ -3159,7 +3081,7 @@
     "source": "basics"
   },
   {
-    "id": 82,
+    "id": 80,
     "category": "traffic_rules",
     "question": {
       "en": "When can you make a left turn or U-turn across a 'barrier' (two sets of double yellow lines)?",
@@ -3198,7 +3120,7 @@
     "source": "basics"
   },
   {
-    "id": 83,
+    "id": 81,
     "category": "traffic_rules",
     "question": {
       "en": "What is the primary purpose of yellow lane markings?",
@@ -3237,7 +3159,7 @@
     "source": "basics"
   },
   {
-    "id": 84,
+    "id": 82,
     "category": "traffic_rules",
     "question": {
       "en": "When can you legally cross a single solid yellow line (on your side)?",
@@ -3276,7 +3198,7 @@
     "source": "basics"
   },
   {
-    "id": 85,
+    "id": 83,
     "category": "traffic_rules",
     "question": {
       "en": "You are on a two-way road with a solid yellow line on your left. Can you turn left into a private driveway?",
@@ -3315,7 +3237,7 @@
     "source": "basics"
   },
   {
-    "id": 86,
+    "id": 84,
     "category": "traffic_rules",
     "question": {
       "en": "You are on a two-way road with a solid yellow line on your left. May you pass?",
@@ -3354,7 +3276,7 @@
     "source": "basics"
   },
   {
-    "id": 87,
+    "id": 85,
     "category": "traffic_rules",
     "question": {
       "en": "What is the difference (according to the handbook) between 'Double Yellow Lines' and a 'Barrier'?",
@@ -3393,7 +3315,7 @@
     "source": "basics"
   },
   {
-    "id": 88,
+    "id": 86,
     "category": "traffic_rules",
     "question": {
       "en": "May you (if safe) make a U-turn over solid double yellow lines?",
@@ -3432,7 +3354,7 @@
     "source": "basics"
   },
   {
-    "id": 89,
+    "id": 87,
     "category": "traffic_rules",
     "question": {
       "en": "On a two-way road, the line on your left is a broken yellow line. The line for oncoming traffic is also a broken yellow line. This means:",
@@ -3471,7 +3393,7 @@
     "source": "basics"
   },
   {
-    "id": 90,
+    "id": 88,
     "category": "traffic_rules",
     "question": {
       "en": "On a two-way road, you see double solid yellow lines in the center. The vehicle in front of you is going very slowly (15 mph). You should:",
@@ -3510,7 +3432,7 @@
     "source": "basics"
   },
   {
-    "id": 91,
+    "id": 89,
     "category": "traffic_rules",
     "question": {
       "en": "You have a single solid yellow line on your left (on a two-way road). May you cross it to make a U-turn?",
@@ -3549,7 +3471,7 @@
     "source": "basics"
   },
   {
-    "id": 92,
+    "id": 90,
     "category": "traffic_rules",
     "question": {
       "en": "What do yellow curbs have in common with yellow center lines?",
@@ -3588,7 +3510,7 @@
     "source": "basics"
   },
   {
-    "id": 93,
+    "id": 91,
     "category": "traffic_rules",
     "question": {
       "en": "Near an exit ramp on a freeway, you often see double solid white lines. This means:",
@@ -3627,7 +3549,7 @@
     "source": "basics"
   },
   {
-    "id": 94,
+    "id": 92,
     "category": "traffic_rules",
     "question": {
       "en": "What is the primary purpose of white lane markings?",
@@ -3666,7 +3588,7 @@
     "source": "basics"
   },
   {
-    "id": 95,
+    "id": 93,
     "category": "traffic_rules",
     "question": {
       "en": "A single solid white line is on the right side of the road. This line marks:",
@@ -3705,7 +3627,7 @@
     "source": "basics"
   },
   {
-    "id": 96,
+    "id": 94,
     "category": "traffic_rules",
     "question": {
       "en": "A single solid white line is between two lanes of traffic moving in the same direction. This means:",
@@ -3744,7 +3666,7 @@
     "source": "basics"
   },
   {
-    "id": 97,
+    "id": 95,
     "category": "traffic_rules",
     "question": {
       "en": "What is the purpose of broken white lines?",
@@ -3783,7 +3705,7 @@
     "source": "basics"
   },
   {
-    "id": 98,
+    "id": 96,
     "category": "traffic_rules",
     "question": {
       "en": "What are the solid white triangles painted on the road, pointing toward your vehicle (often at an intersection or ramp)?",
@@ -3822,7 +3744,7 @@
     "source": "basics"
   },
   {
-    "id": 99,
+    "id": 97,
     "category": "traffic_rules",
     "question": {
       "en": "On a freeway, you see large (thick), broken white lines appearing on the right (or left) side of your lane. What does this usually mean?",
@@ -3861,7 +3783,7 @@
     "source": "basics"
   },
   {
-    "id": 100,
+    "id": 98,
     "category": "traffic_rules",
     "question": {
       "en": "On a freeway entrance ramp, you see a solid white line. This line:",
@@ -3900,7 +3822,7 @@
     "source": "basics"
   },
   {
-    "id": 101,
+    "id": 99,
     "category": "traffic_rules",
     "question": {
       "en": "You see a wide, solid white line across your lane before an intersection. What is this?",
@@ -3939,7 +3861,7 @@
     "source": "basics"
   },
   {
-    "id": 102,
+    "id": 100,
     "category": "traffic_rules",
     "question": {
       "en": "What typically marks a 'Crosswalk'?",
@@ -3978,7 +3900,7 @@
     "source": "basics"
   },
   {
-    "id": 103,
+    "id": 101,
     "category": "traffic_rules",
     "question": {
       "en": "On a freeway, if an HOV lane has a buffer zone separating it from regular lanes, what is this buffer typically marked with?",
@@ -4017,7 +3939,7 @@
     "source": "basics"
   },
   {
-    "id": 104,
+    "id": 102,
     "category": "traffic_rules",
     "question": {
       "en": "On a freeway exit ramp, you see a single solid white line on your right (marking the shoulder). This line:",
@@ -4056,7 +3978,7 @@
     "source": "basics"
   },
   {
-    "id": 105,
+    "id": 103,
     "category": "traffic_rules",
     "question": {
       "en": "On a freeway, if an HOV lane is separated from the regular lanes by a *broken white line*, this means:",
@@ -4095,7 +4017,7 @@
     "source": "basics"
   },
   {
-    "id": 106,
+    "id": 104,
     "category": "traffic_rules",
     "question": {
       "en": "At an intersection, if you stop at the limit line (at a STOP sign) but your view is blocked, you should:",
@@ -4134,7 +4056,7 @@
     "source": "basics"
   },
   {
-    "id": 107,
+    "id": 105,
     "category": "traffic_rules",
     "question": {
       "en": "On a freeway exit ramp, you should NOT:",
@@ -4173,7 +4095,7 @@
     "source": "basics"
   },
   {
-    "id": 108,
+    "id": 106,
     "category": "traffic_rules",
     "question": {
       "en": "On a one-way street, you will see:",
@@ -4212,7 +4134,7 @@
     "source": "basics"
   },
   {
-    "id": 109,
+    "id": 107,
     "category": "traffic_rules",
     "question": {
       "en": "What is the speed limit in a business district, unless otherwise posted?",
@@ -4251,7 +4173,7 @@
     "source": "basics"
   },
   {
-    "id": 110,
+    "id": 108,
     "category": "traffic_rules",
     "question": {
       "en": "What does the 'Basic Speed Law' mean?",
@@ -4290,7 +4212,7 @@
     "source": "basics"
   },
   {
-    "id": 111,
+    "id": 109,
     "category": "traffic_rules",
     "question": {
       "en": "When children are present, what is the speed limit in a school zone (unless otherwise posted)?",
@@ -4329,7 +4251,7 @@
     "source": "basics"
   },
   {
-    "id": 112,
+    "id": 110,
     "category": "traffic_rules",
     "question": {
       "en": "What is the speed limit in an alley?",
@@ -4368,7 +4290,7 @@
     "source": "basics"
   },
   {
-    "id": 113,
+    "id": 111,
     "category": "traffic_rules",
     "question": {
       "en": "How should you adjust your speed when driving in heavy rain?",
@@ -4407,7 +4329,7 @@
     "source": "basics"
   },
   {
-    "id": 114,
+    "id": 112,
     "category": "traffic_rules",
     "question": {
       "en": "In a residential area, if a school zone is posted at 15 mph, you should:",
@@ -4446,7 +4368,7 @@
     "source": "basics"
   },
   {
-    "id": 115,
+    "id": 113,
     "category": "traffic_rules",
     "question": {
       "en": "What is the speed limit at a 'blind' intersection (e.g., in a residential area) with no signs?",
@@ -4485,7 +4407,7 @@
     "source": "basics"
   },
   {
-    "id": 116,
+    "id": 114,
     "category": "traffic_rules",
     "question": {
       "en": "When are you *not* required to drive 25 mph in a school zone?",
@@ -4524,7 +4446,7 @@
     "source": "basics"
   },
   {
-    "id": 117,
+    "id": 115,
     "category": "traffic_rules",
     "question": {
       "en": "What is the speed limit in a residential district, unless otherwise posted?",
@@ -4563,7 +4485,7 @@
     "source": "basics"
   },
   {
-    "id": 118,
+    "id": 116,
     "category": "traffic_rules",
     "question": {
       "en": "If you see an 'END SCHOOL ZONE' sign in a school zone, you may:",
@@ -4602,7 +4524,7 @@
     "source": "basics"
   },
   {
-    "id": 119,
+    "id": 117,
     "category": "traffic_rules",
     "question": {
       "en": "On a residential street posted at 25 mph, if traffic is heavily congested, you should:",
@@ -4641,7 +4563,7 @@
     "source": "basics"
   },
   {
-    "id": 120,
+    "id": 118,
     "category": "traffic_rules",
     "question": {
       "en": "When does the speed limit (e.g., 25 mph) in a school zone apply?",
@@ -4680,7 +4602,7 @@
     "source": "basics"
   },
   {
-    "id": 121,
+    "id": 119,
     "category": "traffic_rules",
     "question": {
       "en": "In a business district, what should you expect that requires a 25 mph limit (or slower)?",
@@ -4719,7 +4641,7 @@
     "source": "basics"
   },
   {
-    "id": 122,
+    "id": 120,
     "category": "traffic_rules",
     "question": {
       "en": "If you are driving in a residential zone (25 mph limit), but your view is blocked by a curve (within 100 feet), you should:",
@@ -4758,7 +4680,7 @@
     "source": "basics"
   },
   {
-    "id": 123,
+    "id": 121,
     "category": "traffic_rules",
     "question": {
       "en": "In a school zone, if the speed limit is posted as 15 mph, this means:",
@@ -4797,7 +4719,7 @@
     "source": "basics"
   },
   {
-    "id": 124,
+    "id": 122,
     "category": "traffic_rules",
     "question": {
       "en": "How should you adjust your speed when driving in high winds?",
@@ -4836,7 +4758,7 @@
     "source": "basics"
   },
   {
-    "id": 125,
+    "id": 123,
     "category": "traffic_rules",
     "question": {
       "en": "When driving at night, how should you use your speed to ensure safety?",
@@ -4875,7 +4797,7 @@
     "source": "basics"
   },
   {
-    "id": 126,
+    "id": 124,
     "category": "traffic_rules",
     "question": {
       "en": "When driving in fog, you should:",
@@ -4914,7 +4836,7 @@
     "source": "basics"
   },
   {
-    "id": 127,
+    "id": 125,
     "category": "traffic_rules",
     "question": {
       "en": "In very low visibility (e.g., dense fog or blizzard), if you cannot see 100 feet ahead of you, you should not be driving faster than:",
@@ -4953,7 +4875,7 @@
     "source": "basics"
   },
   {
-    "id": 128,
+    "id": 126,
     "category": "traffic_rules",
     "question": {
       "en": "How should you adjust your speed when driving at night?",
@@ -4992,7 +4914,7 @@
     "source": "basics"
   },
   {
-    "id": 129,
+    "id": 127,
     "category": "traffic_rules",
     "question": {
       "en": "When is the road most slippery during a rainstorm?",
@@ -5031,46 +4953,44 @@
     "source": "basics"
   },
   {
-    "id": 130,
-    "category": "traffic_rules",
+    "id": 128,
+    "category": "Literacy",
     "question": {
-      "en": "What is 'hydroplaning'?",
-      "zh-Hans": "“水滑”（Hydroplaning）是指什么？",
-      "zh-Hant": "“水滑”（Hydroplaning）是指什么？"
+      "en": "What is 'Hydroplaning'?",
+      "zh-Hans": "什么是“水漂现象（Hydroplaning）”？",
+      "zh-Hant": "什麼是「水漂現象（Hydroplaning）」？"
     },
     "options": {
       "A": {
-        "en": "When your engine floods with water.",
-        "zh-Hans": "您的发动机被水淹没。",
-        "zh-Hant": "您的发动机被水淹没。"
+        "en": "When tires lose contact with the road and slide on a layer of water.",
+        "zh-Hans": "当轮胎失去与路面的接触，在水层上滑动。",
+        "zh-Hant": "當輪胎失去與路面的接觸，在水層上滑動。"
       },
       "B": {
-        "en": "When your vehicle rides on top of the water because the tires lose contact with the road.",
-        "zh-Hans": "您的车辆在水上滑行，因为轮胎失去了与道路的接触。",
-        "zh-Hant": "您的车辆在水上滑行，因为轮胎失去了与道路的接触。"
+        "en": "When the engine stalls in deep water.",
+        "zh-Hans": "当引擎在深水中熄火。",
+        "zh-Hant": "當引擎在深水中熄火。"
       },
       "C": {
-        "en": "The legal term for driving in the rain.",
-        "zh-Hans": "在雨中驾驶的法律术语。",
-        "zh-Hant": "在雨中驾驶的法律术语。"
+        "en": "When your brakes get wet and fail.",
+        "zh-Hans": "当刹车受潮失灵。",
+        "zh-Hant": "當剎車受潮失靈。"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
-      "en": "According to the handbook, Chapter 8: Safe Driving - Night and Adverse Weather, hydroplaning is when tires lose contact with the road and the vehicle rides on water.",
-      "zh-Hans": "根据手册第8章《安全驾驶》《夜间与恶劣天气驾驶》的规定，水滑是指轮胎失去与路面的接触，车辆在水膜上滑行。",
-      "zh-Hant": "根据手册第8章《安全驾驶》《夜间与恶劣天气驾驶》的规定，水滑是指轮胎失去与路面的接触，车辆在水膜上滑行。"
+      "en": "In heavy rain at higher speeds, tires can lose all traction. Slow down to avoid this.",
+      "zh-Hans": "车速过快时，轮胎花纹来不及排水，车会像滑冰一样失控。此时千万不要踩死刹车。",
+      "zh-Hant": "車速過快時，輪胎花紋來不及排水，車會像滑冰一樣失控。此時千萬不要踩死剎車。"
     },
     "dmv_ref": {
-      "page": "Cali",
-      "section": "traffic_rules",
-      "analysis_zh-Hans": "根据手册第8章《安全驾驶》《夜间与恶劣天气驾驶》的规定，水滑是指轮胎失去与路面的接触，车辆在水膜上滑行。",
-      "analysis_zh-Hant": "根据手册第8章《安全驾驶》《夜间与恶劣天气驾驶》的规定，水滑是指轮胎失去与路面的接触，车辆在水膜上滑行。"
+      "page": "83",
+      "section": "Section 8: Driving Hazards"
     },
     "source": "basics"
   },
   {
-    "id": 131,
+    "id": 129,
     "category": "traffic_rules",
     "question": {
       "en": "What should you do to avoid hydroplaning?",
@@ -5109,7 +5029,7 @@
     "source": "basics"
   },
   {
-    "id": 132,
+    "id": 130,
     "category": "traffic_rules",
     "question": {
       "en": "If you feel your vehicle start to hydroplane (especially in rain), you should:",
@@ -5148,7 +5068,7 @@
     "source": "basics"
   },
   {
-    "id": 133,
+    "id": 131,
     "category": "traffic_rules",
     "question": {
       "en": "When driving in high winds, you should:",
@@ -5187,7 +5107,7 @@
     "source": "basics"
   },
   {
-    "id": 134,
+    "id": 132,
     "category": "traffic_rules",
     "question": {
       "en": "What feature should you *avoid* using when driving in high winds?",
@@ -5226,7 +5146,7 @@
     "source": "basics"
   },
   {
-    "id": 135,
+    "id": 133,
     "category": "traffic_rules",
     "question": {
       "en": "What is the maximum speed limit on *most* California freeways (unless otherwise posted)?",
@@ -5265,7 +5185,7 @@
     "source": "basics"
   },
   {
-    "id": 136,
+    "id": 134,
     "category": "traffic_rules",
     "question": {
       "en": "What is the speed limit on a two-lane, undivided highway?",
@@ -5304,7 +5224,7 @@
     "source": "basics"
   },
   {
-    "id": 137,
+    "id": 135,
     "category": "traffic_rules",
     "question": {
       "en": "When you are towing a trailer on a freeway, what is your maximum speed limit?",
@@ -5343,7 +5263,7 @@
     "source": "basics"
   },
   {
-    "id": 138,
+    "id": 136,
     "category": "traffic_rules",
     "question": {
       "en": "On a freeway, how should you adjust your speed when merging?",
@@ -5382,7 +5302,7 @@
     "source": "basics"
   },
   {
-    "id": 139,
+    "id": 137,
     "category": "traffic_rules",
     "question": {
       "en": "When driving on the freeway, if you are in the far-left ('fast') lane and are driving slower than other traffic, you should:",
@@ -5421,7 +5341,7 @@
     "source": "basics"
   },
   {
-    "id": 140,
+    "id": 138,
     "category": "traffic_rules",
     "question": {
       "en": "On a freeway, what can happen if you drive significantly slower than the flow of traffic (when there is no congestion)?",
@@ -5460,7 +5380,7 @@
     "source": "basics"
   },
   {
-    "id": 141,
+    "id": 139,
     "category": "traffic_rules",
     "question": {
       "en": "On a freeway, 'Lane 1' refers to:",
@@ -5499,7 +5419,7 @@
     "source": "basics"
   },
   {
-    "id": 142,
+    "id": 140,
     "category": "traffic_rules",
     "question": {
       "en": "On a freeway, what does the sign 'Slower Traffic Keep Right' mean?",
@@ -5538,7 +5458,7 @@
     "source": "basics"
   },
   {
-    "id": 143,
+    "id": 141,
     "category": "traffic_rules",
     "question": {
       "en": "How should you 'scan' when driving on the freeway?",
@@ -5577,7 +5497,7 @@
     "source": "basics"
   },
   {
-    "id": 144,
+    "id": 142,
     "category": "traffic_rules",
     "question": {
       "en": "On a freeway, if you must slow down to 30 mph due to heavy traffic, you should:",
@@ -5616,7 +5536,7 @@
     "source": "basics"
   },
   {
-    "id": 145,
+    "id": 143,
     "category": "traffic_rules",
     "question": {
       "en": "On a freeway posted at 65 mph, if weather conditions are very bad (e.g., heavy rain or fog), you should:",
@@ -5655,7 +5575,7 @@
     "source": "basics"
   },
   {
-    "id": 146,
+    "id": 144,
     "category": "traffic_rules",
     "question": {
       "en": "On a freeway, which vehicles always have a maximum speed limit of 55 mph?",
@@ -5694,7 +5614,7 @@
     "source": "basics"
   },
   {
-    "id": 147,
+    "id": 145,
     "category": "traffic_rules",
     "question": {
       "en": "If you are driving 55 mph on a freeway (in the right lane) because that is your legal limit (e.g., towing), and other traffic is passing you at 65 mph, you should:",
@@ -5733,7 +5653,7 @@
     "source": "basics"
   },
   {
-    "id": 148,
+    "id": 146,
     "category": "traffic_rules",
     "question": {
       "en": "When driving on the freeway, what should you avoid doing in a 'traffic break'?",
@@ -5772,7 +5692,7 @@
     "source": "basics"
   },
   {
-    "id": 149,
+    "id": 147,
     "category": "traffic_rules",
     "question": {
       "en": "On a freeway, if you drive faster *or* slower (in non-congested traffic) than the speed limit, you may:",
@@ -5811,7 +5731,7 @@
     "source": "basics"
   },
   {
-    "id": 150,
+    "id": 148,
     "category": "traffic_rules",
     "question": {
       "en": "On a freeway, which lane is typically intended for the fastest-moving traffic and passing?",
@@ -5846,6 +5766,84 @@
       "section": "traffic_rules",
       "analysis_zh-Hans": "根据手册第6章《导览道路》《车道与并线》的规定，最左侧车道用于超车和较快车流行驶。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《车道与并线》的规定，最左侧车道用于超车和较快车流行驶。"
+    },
+    "source": "basics"
+  },
+  {
+    "id": 149,
+    "category": "traffic_rules",
+    "question": {
+      "en": "When exiting a freeway, when should you start to slow down?",
+      "zh-Hans": "在高速公路上驶离（Exiting）时，您应该何时开始减速？",
+      "zh-Hant": "在高速公路上驶离（Exiting）时，您应该何时开始减速？"
+    },
+    "options": {
+      "A": {
+        "en": "100 feet before the exit, while still on the freeway (main lanes).",
+        "zh-Hans": "在您仍在高速公路（主干道）上时，在出口前 100 呎。",
+        "zh-Hant": "在您仍在高速公路（主干道）上时，在出口前 100 呎。"
+      },
+      "B": {
+        "en": "After you have completely entered the exit ramp.",
+        "zh-Hans": "在您完全进入出口匝道（Ramp）之后。",
+        "zh-Hant": "在您完全进入出口匝道（Ramp）之后。"
+      },
+      "C": {
+        "en": "As soon as you see the exit sign.",
+        "zh-Hans": "在您看到出口标志时。",
+        "zh-Hant": "在您看到出口标志时。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "According to the handbook, Chapter 6: Navigating the Road - Lanes and Merging, begin slowing after you enter the exit ramp/deceleration lane.",
+      "zh-Hans": "根据手册第6章《导览道路》《车道与并线》的规定，驶出高速应在进入出口匝道或减速道后再开始减速。",
+      "zh-Hant": "根据手册第6章《导览道路》《车道与并线》的规定，驶出高速应在进入出口匝道或减速道后再开始减速。"
+    },
+    "dmv_ref": {
+      "page": "Cali",
+      "section": "traffic_rules",
+      "analysis_zh-Hans": "根据手册第6章《导览道路》《车道与并线》的规定，驶出高速应在进入出口匝道或减速道后再开始减速。",
+      "analysis_zh-Hant": "根据手册第6章《导览道路》《车道与并线》的规定，驶出高速应在进入出口匝道或减速道后再开始减速。"
+    },
+    "source": "basics"
+  },
+  {
+    "id": 150,
+    "category": "traffic_rules",
+    "question": {
+      "en": "If the posted speed limit is 65 mph, but traffic is flowing at 70 mph, you should:",
+      "zh-Hans": "如果标示的限速是 65 英里，但车流正以 70 英里的时速行驶，您应该：",
+      "zh-Hant": "如果标示的限速是 65 英里，但车流正以 70 英里的时速行驶，您应该："
+    },
+    "options": {
+      "A": {
+        "en": "Drive 70 mph to keep up with the flow of traffic.",
+        "zh-Hans": "以时速 70 英里行驶以跟上车流。",
+        "zh-Hant": "以时速 70 英里行驶以跟上车流。"
+      },
+      "B": {
+        "en": "Drive no faster than 65 mph (the posted limit).",
+        "zh-Hans": "驾驶速度不超过时速 65 英里（标示的限速）。",
+        "zh-Hant": "驾驶速度不超过时速 65 英里（标示的限速）。"
+      },
+      "C": {
+        "en": "Pull over and stop.",
+        "zh-Hans": "在路肩上停车。",
+        "zh-Hant": "在路肩上停车。"
+      }
+    },
+    "answer": "B",
+    "explanation": {
+      "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Road Rules, the posted speed limit is the legal maximum even if traffic is faster.",
+      "zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，标示限速是法定最高速度，即使车流更快也不得超速。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，标示限速是法定最高速度，即使车流更快也不得超速。"
+    },
+    "dmv_ref": {
+      "page": "Cali",
+      "section": "traffic_rules",
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，标示限速是法定最高速度，即使车流更快也不得超速。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，标示限速是法定最高速度，即使车流更快也不得超速。"
     },
     "source": "basics"
   }
