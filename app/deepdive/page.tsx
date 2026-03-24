@@ -52,14 +52,16 @@ export default function DeepDivePage() {
   useEffect(() => {
     setMounted(true)
     setLoading(true)
-    fetch('/data/questions-deepdive.json')
+    fetch('/data/questions-all.json')
       .then(res => {
         if (!res.ok) {
           throw new Error(`HTTP error! status: ${res.status}`)
         }
         return res.json()
       })
-      .then(data => {
+      .then((allData: any[]) => {
+        // Filter to only deepdive questions, keeping consistent IDs with questions-all.json
+        const data = allData.filter(q => q.source === 'deepdive')
         setQuestions(data)
         // Restore saved progress after questions are loaded
         const savedProgress = getProgress('deepdive')

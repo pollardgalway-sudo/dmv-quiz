@@ -55,54 +55,48 @@ export default function WrongQuestionsPage() {
             return
         }
 
-        // Group by source for efficient loading
-        const bySource: Record<string, WrongQuestion[]> = {}
-        wrongQuestions.forEach(wq => {
-            if (!bySource[wq.source]) bySource[wq.source] = []
-            bySource[wq.source].push(wq)
-        })
+        try {
+            // All practice pages now use IDs from questions-all.json,
+            // so we only need this one file to look up wrong questions.
+            const res = await fetch('/data/questions-all.json')
+            if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`)
+            const allQuestions: (BaseQuestion & { source?: string })[] = await res.json()
 
-        const loadedQuestions: LoadedQuestion[] = []
+            // Build a map keyed by source-id
+            const questionsMap = new Map<string, LoadedQuestion>()
+            allQuestions.forEach(q => {
+                const source = (q.source || 'basics') as 'basics' | 'deepdive' | 'signs'
+                const key = `${source}-${q.id}`
+                questionsMap.set(key, { ...q, source })
+            })
 
-        // Load questions from each source
-        for (const [source, wqs] of Object.entries(bySource)) {
-            let dataUrl = ''
-            // 使用 questions-all.json 来加载 basics，确保模拟考试的题目都能找到
-            if (source === 'basics') dataUrl = '/data/questions-all.json'
-            else if (source === 'deepdive') dataUrl = '/data/questions-deepdive.json'
-            else if (source === 'signs') dataUrl = '/data/questions-signs.json'
+            // Match wrong questions to loaded questions
+            const loadedQuestions: LoadedQuestion[] = []
+            wrongQuestions.forEach(wq => {
+                const key = `${wq.source}-${wq.questionId}`
+                const question = questionsMap.get(key)
+                if (question) {
+                    loadedQuestions.push(question)
+                }
+            })
 
-            if (!dataUrl) continue
+            // Sort by timestamp (newest first) based on wrong questions order
+            const orderMap = new Map(wrongQuestions.map((wq, idx) => [`${wq.source}-${wq.questionId}`, idx]))
+            loadedQuestions.sort((a, b) => {
+                const orderA = orderMap.get(`${a.source}-${a.id}`) ?? 999
+                const orderB = orderMap.get(`${b.source}-${b.id}`) ?? 999
+                return orderB - orderA // Newest first
+            })
 
-            try {
-                const res = await fetch(dataUrl)
-                if (!res.ok) continue
-                const allQuestions: BaseQuestion[] = await res.json()
-
-                const questionIds = new Set(wqs.map(wq => wq.questionId))
-                const filtered = allQuestions
-                    .filter(q => questionIds.has(q.id))
-                    .map(q => ({ ...q, source: source as 'basics' | 'deepdive' | 'signs' }))
-
-                loadedQuestions.push(...filtered)
-            } catch (err) {
-                console.error(`Failed to load ${source} questions:`, err)
-            }
+            setQuestions(loadedQuestions)
+            setCurrentIndex(0)
+            setSelectedAnswer('')
+            setShowExplanation(false)
+        } catch (err) {
+            console.error('Failed to load questions:', err)
+        } finally {
+            setLoading(false)
         }
-
-        // Sort by timestamp (newest first) based on wrong questions order
-        const orderMap = new Map(wrongQuestions.map((wq, idx) => [`${wq.source}-${wq.questionId}`, idx]))
-        loadedQuestions.sort((a, b) => {
-            const orderA = orderMap.get(`${a.source}-${a.id}`) ?? 999
-            const orderB = orderMap.get(`${b.source}-${b.id}`) ?? 999
-            return orderB - orderA // Newest first
-        })
-
-        setQuestions(loadedQuestions)
-        setCurrentIndex(0)
-        setSelectedAnswer('')
-        setShowExplanation(false)
-        setLoading(false)
     }, [])
 
     useEffect(() => {

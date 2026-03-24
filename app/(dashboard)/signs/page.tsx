@@ -47,9 +47,11 @@ export default function SignsPage() {
   // Load questions and restore progress
   useEffect(() => {
     setMounted(true)
-    fetch('/data/questions-signs.json')
+    fetch('/data/questions-all.json')
       .then(res => res.json())
-      .then(data => {
+      .then((allData: any[]) => {
+        // Filter to only signs questions, keeping consistent IDs with questions-all.json
+        const data = allData.filter(q => q.source === 'signs')
         setQuestions(data)
         // Restore saved progress after questions are loaded
         const savedProgress = getProgress('signs')

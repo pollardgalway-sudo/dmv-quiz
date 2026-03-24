@@ -49,9 +49,11 @@ export default function BasicsPage() {
   // Load questions and restore progress
   useEffect(() => {
     setMounted(true)
-    fetch('/data/questions-basics.json')
+    fetch('/data/questions-all.json')
       .then(res => res.json())
-      .then(data => {
+      .then((allData: any[]) => {
+        // Filter to only basics questions, keeping consistent IDs with questions-all.json
+        const data = allData.filter(q => q.source === 'basics')
         setQuestions(data)
         // Restore saved progress after questions are loaded
         const savedProgress = getProgress('basics')
