@@ -2,6 +2,7 @@
 
 import { useState, useEffect } from 'react'
 import Link from 'next/link'
+import Image from 'next/image'
 import { Button } from '@/components/ui/button'
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Label } from '@/components/ui/label'
@@ -27,6 +28,8 @@ interface Question {
     'zh-Hans': string
     'zh-Hant': string
   }
+  hasImage?: boolean
+  imageUrl?: string | null
   dmv_ref: {
     page: string
     section: string
@@ -266,6 +269,23 @@ export default function DeepDivePage() {
             <div className="h-1 bg-gradient-to-r from-blue-400 via-indigo-500 to-purple-500" />
 
             <CardHeader className="p-4 sm:p-6">
+              {/* Display image if available */}
+              {currentQuestion.hasImage && currentQuestion.imageUrl && (
+                <div className="flex justify-center mb-4">
+                  <div className="relative w-48 h-48 sm:w-56 sm:h-56 overflow-hidden">
+                    <Image
+                      src={currentQuestion.imageUrl}
+                      alt="Traffic Sign"
+                      fill
+                      className="object-contain p-2"
+                      onError={(e) => {
+                        const target = e.target as HTMLImageElement;
+                        target.style.display = 'none';
+                      }}
+                    />
+                  </div>
+                </div>
+              )}
               <div className="flex items-start gap-3">
                 <span className="flex-shrink-0 w-8 h-8 rounded-full bg-gradient-to-br from-blue-400 to-indigo-500 flex items-center justify-center text-white font-bold text-sm">
                   {currentIndex + 1}

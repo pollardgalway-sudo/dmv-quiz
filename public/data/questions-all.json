@@ -16927,9 +16927,9 @@
     "id": 435,
     "category": "traffic_rules",
     "question": {
-      "en": "At many railroad crossings, you will see a blue and white sign. What is the purpose of this sign?",
-      "zh-Hans": "在许多铁路交叉口，您会看到一个蓝白相间的标志。这个标志的用途是什么？",
-      "zh-Hant": "在许多铁路交叉口，您会看到一个蓝白相间的标志。这个标志的用途是什么？"
+      "en": "At many railroad crossings, you will see a blue and white \"Emergency Notification System\" sign. What is the purpose of this sign?",
+      "zh-Hans": "在许多铁路交叉口，您会看到一个蓝白相间的\"紧急通知系统\"标志。这个标志的用途是什么？",
+      "zh-Hant": "在許多鐵路交叉口，您會看到一個藍白相間的「緊急通知系統」標誌。這個標誌的用途是什麼？"
     },
     "options": {
       "A": {
@@ -24526,15 +24526,17 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，STOP 标志要求在限制线前完全停车后再通行。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，STOP 标志要求在限制线前完全停车后再通行。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/stop.jpg"
   },
   {
     "id": 630,
     "category": "traffic_rules",
     "question": {
-      "en": "At a 4-way stop with this sign, how do you proceed?",
-      "zh-Hans": "在四向停车路口看到这个标志时，通行顺序如何？",
-      "zh-Hant": "在四向停车路口看到这个标志时，通行顺序如何？"
+      "en": "At a four-way stop intersection (marked with a \"4-WAY\" plaque under the STOP sign), how do you determine the right-of-way?",
+      "zh-Hans": "在四向停车路口（STOP 标志下方带有\"4-WAY\"牌），通行顺序如何确定？",
+      "zh-Hant": "在四向停車路口（STOP 標誌下方帶有「4-WAY」牌），通行順序如何確定？"
     },
     "options": {
       "A": {
@@ -24682,7 +24684,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，WRONG WAY 表示逆行，应立即安全驶离。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，WRONG WAY 表示逆行，应立即安全驶离。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/wrong_way.jpg"
   },
   {
     "id": 634,
@@ -24727,9 +24731,9 @@
     "id": 635,
     "category": "traffic_rules",
     "question": {
-      "en": "What does this sign instruct at narrow bridges or alternating flow sections?",
-      "zh-Hans": "这个标志告诉你在窄桥或临时通行时应当做什么？",
-      "zh-Hant": "这个标志告诉你在窄桥或临时通行时应当做什么？"
+      "en": "What does a \"YIELD TO ONCOMING TRAFFIC\" sign instruct at narrow bridges or alternating flow sections?",
+      "zh-Hans": "\"YIELD TO ONCOMING TRAFFIC\"（让行对向车流）标志在窄桥或临时通行路段时要求你做什么？",
+      "zh-Hant": "「YIELD TO ONCOMING TRAFFIC」（讓行對向車流）標誌在窄橋或臨時通行路段時要求你做什麼？"
     },
     "options": {
       "A": {
@@ -24799,7 +24803,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，分隔公路标志提示前方有中央隔离带。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，分隔公路标志提示前方有中央隔离带。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/divided traffic sign.jpg"
   },
   {
     "id": 637,
@@ -24838,15 +24844,17 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，NO PARKING 表示禁止停车，但可短暂停靠上下客。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，NO PARKING 表示禁止停车，但可短暂停靠上下客。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/no parking.webp"
   },
   {
     "id": 638,
     "category": "traffic_rules",
     "question": {
-      "en": "What does this sign say about left turns on red?",
-      "zh-Hans": "这个标志说明在红灯时如何左转？",
-      "zh-Hant": "这个标志说明在红灯时如何左转？"
+      "en": "What does a \"NO LEFT TURN ON RED\" sign mean?",
+      "zh-Hans": "\"NO LEFT TURN ON RED\"（红灯禁止左转）标志说明什么？",
+      "zh-Hant": "「NO LEFT TURN ON RED」（紅燈禁止左轉）標誌說明什麼？"
     },
     "options": {
       "A": {
@@ -24916,7 +24924,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，斜杠左箭头表示禁止左转。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，斜杠左箭头表示禁止左转。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/no left turn.jpg"
   },
   {
     "id": 640,
@@ -24955,7 +24965,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，斜杠自行车表示禁止自行车通行。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，斜杠自行车表示禁止自行车通行。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/bicycle.jpg"
   },
   {
     "id": 641,
@@ -24994,7 +25006,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，绿灯左转仍需让行对向直行和行人。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，绿灯左转仍需让行对向直行和行人。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/Left Turn Yield On Green.webp"
   },
   {
     "id": 642,
@@ -25033,15 +25047,17 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，KEEP RIGHT 表示需从障碍物右侧通过。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，KEEP RIGHT 表示需从障碍物右侧通过。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/keep_right.webp"
   },
   {
     "id": 643,
     "category": "traffic_rules",
     "question": {
-      "en": "What does this sign require regarding passing?",
-      "zh-Hans": "这个标志对超车的要求是什么？",
-      "zh-Hant": "这个标志对超车的要求是什么？"
+      "en": "What does a \"PASS WITH CARE\" sign require regarding passing?",
+      "zh-Hans": "\"PASS WITH CARE\"（谨慎超车）标志对超车的要求是什么？",
+      "zh-Hant": "「PASS WITH CARE」（謹慎超車）標誌對超車的要求是什麼？"
     },
     "options": {
       "A": {
@@ -25111,7 +25127,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，DO NOT PASS 表示禁止跨线超车。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，DO NOT PASS 表示禁止跨线超车。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/D0NOTPASS.jpg"
   },
   {
     "id": 645,
@@ -25156,9 +25174,9 @@
     "id": 646,
     "category": "traffic_rules",
     "question": {
-      "en": "What does this sign mean for pedestrians?",
-      "zh-Hans": "这个标志对行人意味着什么？",
-      "zh-Hant": "这个标志对行人意味着什么？"
+      "en": "What does a \"NO PEDESTRIANS\" sign mean for pedestrians?",
+      "zh-Hans": "\"NO PEDESTRIANS\"（禁止行人通行）标志对行人意味着什么？",
+      "zh-Hant": "「NO PEDESTRIANS」（禁止行人通行）標誌對行人意味著什麼？"
     },
     "options": {
       "A": {
@@ -25228,15 +25246,17 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，斜杠右箭头表示禁止右转。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，斜杠右箭头表示禁止右转。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/RIGHTTURNONLY.jpg"
   },
   {
     "id": 648,
     "category": "traffic_rules",
     "question": {
-      "en": "What does this sign mean for truck drivers?",
-      "zh-Hans": "这个标志对卡车驾驶员意味着什么？",
-      "zh-Hant": "这个标志对卡车驾驶员意味着什么？"
+      "en": "What does a \"NO TRUCKS\" sign mean for truck drivers?",
+      "zh-Hans": "\"NO TRUCKS\"（禁止卡车通行）标志对卡车驾驶员意味着什么？",
+      "zh-Hant": "「NO TRUCKS」（禁止卡車通行）標誌對卡車駕駛員意味著什麼？"
     },
     "options": {
       "A": {
@@ -25306,15 +25326,17 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，NO TURN ON RED 表示红灯禁止任何转弯。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，NO TURN ON RED 表示红灯禁止任何转弯。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/No Turn On Red.webp"
   },
   {
     "id": 650,
     "category": "traffic_rules",
     "question": {
-      "en": "What does this sign restrict about right turns on red?",
-      "zh-Hans": "这个标志对红灯右转的限制是？",
-      "zh-Hant": "这个标志对红灯右转的限制是？"
+      "en": "What does a \"NO RIGHT TURN ON RED\" sign restrict?",
+      "zh-Hans": "\"NO RIGHT TURN ON RED\"（红灯禁止右转）标志的限制是什么？",
+      "zh-Hant": "「NO RIGHT TURN ON RED」（紅燈禁止右轉）標誌的限制是什麼？"
     },
     "options": {
       "A": {
@@ -25384,7 +25406,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，斜杠 U 箭头表示禁止掉头。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，斜杠 U 箭头表示禁止掉头。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/NO U-TURN.png"
   },
   {
     "id": 652,
@@ -25431,9 +25455,9 @@
     "id": 653,
     "category": "traffic_rules",
     "question": {
-      "en": "What should you expect when turning left with this sign present?",
-      "zh-Hans": "看到这个标志在左转时应注意什么？",
-      "zh-Hant": "看到这个标志在左转时应注意什么？"
+      "en": "When you see an \"ONCOMING TRAFFIC HAS EXTENDED GREEN\" sign while turning left, what should you watch for?",
+      "zh-Hans": "看到\"ONCOMING TRAFFIC HAS EXTENDED GREEN\"（对向车流延长绿灯）标志时左转应注意什么？",
+      "zh-Hant": "看到「ONCOMING TRAFFIC HAS EXTENDED GREEN」（對向車流延長綠燈）標誌時左轉應注意什麼？"
     },
     "options": {
       "A": {
@@ -25470,9 +25494,9 @@
     "id": 654,
     "category": "traffic_rules",
     "question": {
-      "en": "What does this split arrow sign indicate?",
-      "zh-Hans": "这个上分支箭头标志表示什么？",
-      "zh-Hant": "这个上分支箭头标志表示什么？"
+      "en": "What does a split arrow (left turn and straight) lane control sign indicate?",
+      "zh-Hans": "左转和直行组合箭头的车道控制标志表示什么？",
+      "zh-Hant": "左轉和直行組合箭頭的車道控制標誌表示什麼？"
     },
     "options": {
       "A": {
@@ -25626,9 +25650,9 @@
     "id": 658,
     "category": "traffic_rules",
     "question": {
-      "en": "What does this sign say about turning right on red?",
-      "zh-Hans": "这个标志说明红灯时允许什么？",
-      "zh-Hant": "这个标志说明红灯时允许什么？"
+      "en": "What does a \"RIGHT TURN SIGNAL\" sign indicate about turning at an intersection?",
+      "zh-Hans": "\"RIGHT TURN SIGNAL\"（右转信号灯）标志说明什么？",
+      "zh-Hant": "「RIGHT TURN SIGNAL」（右轉信號燈）標誌說明什麼？"
     },
     "options": {
       "A": {
@@ -25698,7 +25722,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，中间车道仅供双向车辆左转使用。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，中间车道仅供双向车辆左转使用。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/TWO WAY LEFTTUAN.webp"
   },
   {
     "id": 660,
@@ -25737,7 +25763,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，残障专用车位仅限持有效许可车辆停放。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，残障专用车位仅限持有效许可车辆停放。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/disabled.png"
   },
   {
     "id": 661,
@@ -25776,7 +25804,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，闸门降下且灯闪烁时必须停车等待。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，闸门降下且灯闪烁时必须停车等待。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/rail road crossroad.webp"
   },
   {
     "id": 662,
@@ -25932,7 +25962,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，EMERGENCY STOPPING ONLY 表示仅紧急情况可停车。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，EMERGENCY STOPPING ONLY 表示仅紧急情况可停车。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/EMERGENCYPARKINGONLY.jpg"
   },
   {
     "id": 666,
@@ -25971,7 +26003,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，NO TURNS 表示禁止任何转弯，只能直行。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，NO TURNS 表示禁止任何转弯，只能直行。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/NOTURNS.jpg"
   },
   {
     "id": 667,
@@ -26127,7 +26161,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，慢车靠右标志要求车速较慢车辆靠右行驶。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，慢车靠右标志要求车速较慢车辆靠右行驶。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/SLOWERTRAFFICKEEPRIGHT.jpg"
   },
   {
     "id": 671,
@@ -27570,7 +27606,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，新增车道标志表示旁侧车流形成新车道，不需立即并线。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，新增车道标志表示旁侧车流形成新车道，不需立即并线。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/added lane.webp"
   },
   {
     "id": 708,
@@ -27615,9 +27653,9 @@
     "id": 709,
     "category": "traffic_rules",
     "question": {
-      "en": "What does this sign with opposing arrows and a median mean?",
-      "zh-Hans": "这个上下箭头加隔离岛的标志提示什么？",
-      "zh-Hant": "这个上下箭头加隔离岛的标志提示什么？"
+      "en": "What does a sign showing opposing arrows separated by a median island indicate?",
+      "zh-Hans": "上下箭头加隔离岛的标志（分隔公路结束）提示什么？",
+      "zh-Hant": "上下箭頭加隔離島的標誌（分隔公路結束）提示什麼？"
     },
     "options": {
       "A": {
@@ -28824,9 +28862,9 @@
     "id": 740,
     "category": "traffic_rules",
     "question": {
-      "en": "When you see this yellow diamond warning sign, what does it indicate about the road conditions ahead?",
-      "zh-Hans": "看到这个黄色菱形警告标志时，它提示驾驶者前方道路状况如何？",
-      "zh-Hant": "看到这个黄色菱形警告标志时，它提示驾驶者前方道路状况如何？"
+      "en": "When you see a yellow diamond \"WEAVE AREA\" warning sign, what road condition does it indicate ahead?",
+      "zh-Hans": "看到黄色菱形\"WEAVE AREA\"（交织区域）警告标志时，前方道路状况如何？",
+      "zh-Hant": "看到黃色菱形「WEAVE AREA」（交織區域）警告標誌時，前方道路狀況如何？"
     },
     "options": {
       "A": {
@@ -28974,7 +29012,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，下坡警告提示前方陡坡，应提前减速并用低速挡控制车速。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，下坡警告提示前方陡坡，应提前减速并用低速挡控制车速。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/hill.jpg"
   },
   {
     "id": 744,
