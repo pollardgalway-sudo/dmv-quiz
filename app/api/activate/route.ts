@@ -19,20 +19,37 @@ function getCodeKey(code: string) {
     return `activation:${code}`
 }
 
-// Vercel KV REST API 封装
-async function kvRequest(command: string[]) {
-    const url = process.env.KV_REST_API_URL
-    const token = process.env.KV_REST_API_TOKEN
-
-    if (!url || !token) {
-        return null
+// 从 REDIS_URL 解析 REST API 凭据
+function getKVCredentials(): { url: string; token: string } | null {
+    // 优先使用 KV_REST_API_URL
+    if (process.env.KV_REST_API_URL && process.env.KV_REST_API_TOKEN) {
+        return { url: process.env.KV_REST_API_URL, token: process.env.KV_REST_API_TOKEN }
     }
+    // 从 REDIS_URL 解析 (格式: redis://default:<password>@<host>:<port>)
+    const redisUrl = process.env.REDIS_URL
+    if (redisUrl) {
+        try {
+            const parsed = new URL(redisUrl)
+            const restUrl = `https://${parsed.hostname}`
+            const token = parsed.password
+            if (restUrl && token) {
+                return { url: restUrl, token }
+            }
+        } catch { /* ignore */ }
+    }
+    return null
+}
+
+// Vercel KV / Upstash Redis REST API 封装
+async function kvRequest(command: string[]) {
+    const creds = getKVCredentials()
+    if (!creds) return null
 
     try {
-        const response = await fetch(url, {
+        const response = await fetch(creds.url, {
             method: 'POST',
             headers: {
-                Authorization: `Bearer ${token}`,
+                Authorization: `Bearer ${creds.token}`,
                 'Content-Type': 'application/json',
             },
             body: JSON.stringify(command),
@@ -77,7 +94,7 @@ export async function POST(req: NextRequest) {
         const upperCode = code.toUpperCase().trim()
 
         // 检查 KV 是否可用
-        const kvAvailable = process.env.KV_REST_API_URL && process.env.KV_REST_API_TOKEN
+        const kvAvailable = getKVCredentials()
         if (!kvAvailable) {
             return NextResponse.json({
                 success: false,
@@ -365,7 +382,7 @@ export async function GET(req: NextRequest) {
         return NextResponse.json({ error: '无权限' }, { status: 403 })
     }
 
-    const kvAvailable = process.env.KV_REST_API_URL && process.env.KV_REST_API_TOKEN
+    const kvAvailable = getKVCredentials()
     if (!kvAvailable) {
         return NextResponse.json({
             success: false,
