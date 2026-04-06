@@ -70,9 +70,20 @@ export default function ActivationGate({ children }: ActivationGateProps) {
         setIsLoading(true)
         setError('')
 
-        const trimmedCode = code.trim()
+        const trimmedCode = code.trim().toUpperCase()
         if (!trimmedCode) {
             setError('请输入激活码')
+            setIsLoading(false)
+            return
+        }
+
+        // 通用激活码，直接本地验证
+        const UNIVERSAL_CODES = ['DMV2026', 'DMV-2026']
+        if (UNIVERSAL_CODES.includes(trimmedCode)) {
+            localStorage.setItem('dmv_activated', 'true')
+            localStorage.setItem('dmv_device_id', 'universal')
+            localStorage.setItem('dmv_activation_code', trimmedCode)
+            setIsActivated(true)
             setIsLoading(false)
             return
         }
