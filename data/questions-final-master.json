@@ -28608,45 +28608,6 @@
     "source": "deepdive"
   },
   {
-    "id": 19,
-    "category": "Literacy",
-    "question": {
-      "en": "2026 Update: When are you allowed to use 'High-Occupancy Vehicle' (HOV) lanes with a single occupant?",
-      "zh-Hans": "2026年更新：什么时候允许单人驾驶使用“高容量车道”（HOV/拼车道）？",
-      "zh-Hant": "2026年更新：什麼時候允許單人駕駛使用「高容量車道」（HOV/拼車道）？"
-    },
-    "options": {
-      "A": {
-        "en": "If you are driving a zero-emission vehicle with a valid decal.",
-        "zh-Hans": "如果您驾驶的是贴有合法标志的零排放车辆（绿卡）。",
-        "zh-Hant": "如果您駕駛的是貼有合法標誌的零排放車輛（綠卡）。"
-      },
-      "B": {
-        "en": "If you are in a hurry.",
-        "zh-Hans": "如果您赶时间。",
-        "zh-Hant": "如果您趕時間。"
-      },
-      "C": {
-        "en": "Only on weekends.",
-        "zh-Hans": "仅在周末。",
-        "zh-Hant": "僅在週末。"
-      }
-    },
-    "answer": "A",
-    "explanation": {
-      "en": "Certain low-emission vehicles with DMV decals can use HOV lanes regardless of passenger count.",
-      "zh-Hans": "持有加州特种标志（Clean Air Decal）的环保车可以单人行驶 HOV 车道。",
-      "zh-Hant": "持有加州特種標誌（Clean Air Decal）的環保車可以單人行駛 HOV 車道。"
-    },
-    "dmv_ref": {
-      "page": "42",
-      "section": "Section 7: Lanes",
-      "analysis_zh-Hans": "2026年手册新增：注意标志的到期时间，部分旧款混合动力车已不再享受此权利。",
-      "analysis_zh-Hant": "2026年手冊新增：注意標誌的到期時間，部分舊款混合動力車已不再享受此權利。"
-    },
-    "source": "deepdive"
-  },
-  {
     "id": 20,
     "category": "Literacy",
     "question": {
