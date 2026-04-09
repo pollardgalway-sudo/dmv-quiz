@@ -8,7 +8,7 @@ import { getWrongQuestionsCount } from '@/lib/wrong-questions'
 
 const translations = {
   en: {
-    mainTitle: "2026 California DMV Written Test v2",
+    mainTitle: "2026 California DMV Written Test",
     subtitle: "California Driver License Practice",
     questionCount: "Question Bank: 743 Questions | Choose Your Learning Mode",
     modes: {
@@ -65,7 +65,7 @@ const translations = {
     viewAll: "View All Mistakes"
   },
   'zh-CN': {
-    mainTitle: "2026加州驾照笔试题目 v2",
+    mainTitle: "2026加州驾照笔试题目",
     subtitle: "California DMV Written Test Practice",
     questionCount: "题库共 743 题 | 选择您的学习模式",
     modes: {
@@ -122,7 +122,7 @@ const translations = {
     viewAll: "清空错题本"
   },
   'zh-TW': {
-    mainTitle: "2026加州駕照筆試題目 v2",
+    mainTitle: "2026加州駕照筆試題目",
     subtitle: "California DMV Written Test Practice",
     questionCount: "題庫共 743 題 | 選擇您的學習模式",
     modes: {
