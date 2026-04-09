@@ -8,51 +8,21 @@ export interface WrongQuestion {
 }
 
 const STORAGE_KEY = 'dmv_wrong_questions'
-const MIGRATION_KEY = 'dmv_wrong_questions_migrated_v2'
+const MIGRATION_KEY = 'dmv_wrong_questions_migrated_v3'
 
-// Old ID → New ID mapping (from questions-deepdive.json to public/data/questions-all.json)
-// Only deepdive has mismatched IDs; basics and signs IDs already match.
-const OLD_TO_NEW_IDS: Record<string, Record<number, number>> = {
-    deepdive: {6001:814,6002:815,6003:816,6004:817,6005:818,6006:819,6007:820,6008:821,6009:822,6010:823,6011:824,6012:825,6013:826,6014:827,6015:828,6016:829,6017:830,6018:831,6019:832,6020:833,6021:834,6022:832,6023:835,6024:836,6025:837,6026:838,6027:839,6028:840,6029:841,6030:842,6031:825,6032:843,6033:844,6034:845,6035:846,6036:847,6037:836,6038:848,6039:849,1:850,2:851,3:852,4:853,5:854,6:855,7:856,8:857,9:858,10:859,11:860,12:861,13:862,14:863,15:864,16:865,17:866,18:867,20:869,21:870,22:871,23:872,24:873,25:874,26:875,27:876,29:877,30:878,31:879,33:880,34:881,35:882,36:883,38:885,39:886,40:887,41:888,42:889,43:890,44:891,45:892,46:893,47:894,48:895,49:896,50:897,51:898,52:899,54:900,55:901,56:902,57:903,58:904,59:905,60:906,61:907,62:908,63:909,64:910,65:911,66:912,67:913,68:914,69:915,70:916,71:917,72:918,73:919,74:920,75:921,76:922,77:923,78:924,79:925,80:926,81:927,82:928,83:929,84:930,85:931,86:932,87:933,88:934,89:935,90:936,91:937,92:938,93:939,94:940,95:941,96:942,97:795,98:943,99:944,100:945,101:946,102:947,104:948,105:949,106:950,107:951,108:952,109:953,110:954,111:955,112:956,113:957,114:958,115:959,116:960,117:961,118:962,119:963,120:964,121:965,122:884,123:966,124:967,125:968,126:969,127:970,128:791,129:971,130:972,131:973,132:974,133:975,134:976,135:977,136:978,137:979},
-}
-
-// One-time migration: convert old IDs to new unified IDs
+// v3: All question IDs were reassigned during data rebuild.
+// Old wrong-question records reference stale IDs, so we clear them.
 function migrateOldIds(): void {
     if (typeof window === 'undefined') return
     if (localStorage.getItem(MIGRATION_KEY)) return // Already migrated
 
     try {
+        // Clear any old wrong questions since IDs no longer match
         const stored = localStorage.getItem(STORAGE_KEY)
-        if (!stored) {
-            localStorage.setItem(MIGRATION_KEY, '1')
-            return
+        if (stored) {
+            console.log('[错题本] Clearing old wrong questions (IDs reassigned in v3)')
+            localStorage.removeItem(STORAGE_KEY)
         }
-
-        const questions: WrongQuestion[] = JSON.parse(stored)
-        let changed = false
-
-        const migrated = questions.map(q => {
-            const map = OLD_TO_NEW_IDS[q.source]
-            if (map && map[q.questionId] !== undefined) {
-                changed = true
-                return { ...q, questionId: map[q.questionId] }
-            }
-            return q
-        })
-
-        // Deduplicate (in case old and new IDs both existed)
-        if (changed) {
-            const seen = new Set<string>()
-            const deduped = migrated.filter(q => {
-                const key = `${q.source}-${q.questionId}`
-                if (seen.has(key)) return false
-                seen.add(key)
-                return true
-            })
-            localStorage.setItem(STORAGE_KEY, JSON.stringify(deduped))
-            console.log(`[错题本] Migrated ${questions.length} → ${deduped.length} wrong questions to new IDs`)
-        }
-
         localStorage.setItem(MIGRATION_KEY, '1')
     } catch (e) {
         console.error('[错题本] Migration failed:', e)
