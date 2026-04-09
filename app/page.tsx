@@ -10,19 +10,19 @@ const translations = {
   en: {
     mainTitle: "2026 California DMV Written Test v2",
     subtitle: "California Driver License Practice",
-    questionCount: "Question Bank: 1026 Questions | Choose Your Learning Mode",
+    questionCount: "Question Bank: 743 Questions | Choose Your Learning Mode",
     modes: {
       basics: {
         title: "The Basics",
         subtitle: "扫盲模式",
-        count: "70 Questions",
+        count: "200 Questions",
         tags: "Basic Signs + Core Numbers",
         desc: "Perfect for beginners. Build confidence and master the most fundamental traffic knowledge."
       },
       deepDive: {
         title: "Deep Dive",
         subtitle: "专项突破",
-        count: "876 Questions",
+        count: "500 Questions",
         tags: "Rules + Safety + Laws",
         desc: "Master detailed traffic rules, safety knowledge, and California driving laws."
       },
@@ -50,7 +50,7 @@ const translations = {
       trafficSigns: {
         title: "Traffic Signs",
         subtitle: "交通标志",
-        count: "98 Signs",
+        count: "43 Signs",
         tags: "Visual Recognition",
         desc: "Master all California traffic signs, essential for passing the exam"
       }
@@ -67,19 +67,19 @@ const translations = {
   'zh-CN': {
     mainTitle: "2026加州驾照笔试题目 v2",
     subtitle: "California DMV Written Test Practice",
-    questionCount: "题库共 1026 题 | 选择您的学习模式",
+    questionCount: "题库共 743 题 | 选择您的学习模式",
     modes: {
       basics: {
         title: "扫盲模式",
         subtitle: "The Basics",
-        count: "150题",
+        count: "200题",
         tags: "基础标志 + 核心数字",
         desc: "适合零基础学员，建立信心，掌握最基本的交通知识"
       },
       deepDive: {
         title: "专项突破",
         subtitle: "Deep Dive",
-        count: "876题",
+        count: "500题",
         tags: "规则 + 安全 + 法规",
         desc: "深入学习交通规则、安全知识和加州驾驶法规"
       },
@@ -107,7 +107,7 @@ const translations = {
       trafficSigns: {
         title: "交通标志",
         subtitle: "Traffic Signs",
-        count: "98个标志",
+        count: "43个标志",
         tags: "图像识别",
         desc: "掌握加州所有交通标志，考试必考内容"
       }
@@ -124,19 +124,19 @@ const translations = {
   'zh-TW': {
     mainTitle: "2026加州駕照筆試題目 v2",
     subtitle: "California DMV Written Test Practice",
-    questionCount: "題庫共 1026 題 | 選擇您的學習模式",
+    questionCount: "題庫共 743 題 | 選擇您的學習模式",
     modes: {
       basics: {
         title: "掃盲模式",
         subtitle: "The Basics",
-        count: "150題",
+        count: "200題",
         tags: "基礎標誌 + 核心數字",
         desc: "適合零基礎學員，建立信心，掌握最基本的交通知識"
       },
       deepDive: {
         title: "專項突破",
         subtitle: "Deep Dive",
-        count: "876題",
+        count: "500題",
         tags: "規則 + 安全 + 法規",
         desc: "深入學習交通規則、安全知識和加州駕駛法規"
       },
@@ -164,7 +164,7 @@ const translations = {
       trafficSigns: {
         title: "交通標誌",
         subtitle: "Traffic Signs",
-        count: "98個標誌",
+        count: "43個標誌",
         tags: "圖像識別",
         desc: "掌握加州所有交通標誌，考試必考內容"
       }
