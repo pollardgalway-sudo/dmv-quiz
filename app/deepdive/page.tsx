@@ -8,6 +8,7 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card'
 import { Label } from '@/components/ui/label'
 import { addWrongQuestion } from '@/lib/wrong-questions'
 import { getProgress, saveProgress, clearProgress } from '@/lib/progress'
+import { t, Lang } from '@/lib/i18n'
 
 interface Question {
   id: number
@@ -44,7 +45,7 @@ export default function DeepDivePage() {
   const [selectedAnswer, setSelectedAnswer] = useState<string>('')
   const [showExplanation, setShowExplanation] = useState(false)
   const [score, setScore] = useState({ correct: 0, total: 0 })
-  const [lang, setLang] = useState<'en' | 'zh-Hans' | 'zh-Hant'>('zh-Hans')
+  const [lang, setLang] = useState<Lang>('zh-Hans')
   const [loading, setLoading] = useState(true)
   const [error, setError] = useState<string | null>(null)
   const [mounted, setMounted] = useState(false)
@@ -97,7 +98,7 @@ export default function DeepDivePage() {
             <div className="absolute inset-0 rounded-full border-4 border-indigo-200 dark:border-indigo-900"></div>
             <div className="absolute inset-0 rounded-full border-4 border-indigo-500 border-t-transparent animate-spin"></div>
           </div>
-          <p className="text-muted-foreground">加载中...</p>
+          <p className="text-muted-foreground">{t('loading', lang)}</p>
         </div>
       </div>
     )
@@ -196,7 +197,7 @@ export default function DeepDivePage() {
         <div className="container mx-auto px-4 py-3 flex items-center justify-between">
           <Link href="/" className="flex items-center gap-2 hover:opacity-80 transition-opacity touch-target">
             <span className="text-xl">←</span>
-            <span className="font-medium text-sm hidden sm:inline">返回首页</span>
+            <span className="font-medium text-sm hidden sm:inline">{t('backToHome', lang)}</span>
           </Link>
 
           <div className="flex items-center gap-2 sm:gap-4">
@@ -210,7 +211,7 @@ export default function DeepDivePage() {
             {/* Language Switcher */}
             <select
               value={lang}
-              onChange={(e) => setLang(e.target.value as 'en' | 'zh-Hans' | 'zh-Hant')}
+              onChange={(e) => setLang(e.target.value as Lang)}
               className="glass rounded-xl px-3 py-2 text-sm focus:outline-none focus:ring-2 focus:ring-indigo-500 transition-all touch-target"
             >
               <option value="zh-Hans">简体中文</option>
@@ -229,9 +230,9 @@ export default function DeepDivePage() {
             <div className="h-1 bg-gradient-to-r from-blue-400 via-indigo-500 to-purple-500" />
             <CardContent className="p-6 sm:p-8 text-center">
               <div className="text-6xl mb-4">🎉</div>
-              <h2 className="text-2xl sm:text-3xl font-bold mb-4">恭喜完成！</h2>
+              <h2 className="text-2xl sm:text-3xl font-bold mb-4">{t('congrats', lang)}</h2>
               <p className="text-lg text-muted-foreground mb-6">
-                您已完成所有 {questions.length} 道题目
+                {t('completedAll', lang)} {questions.length} {t('questions', lang)}
               </p>
 
               <div className="glass rounded-2xl p-6 mb-6 inline-block">
@@ -239,7 +240,7 @@ export default function DeepDivePage() {
                   {score.correct} / {score.total}
                 </div>
                 <p className="text-muted-foreground">
-                  正确率: {score.total > 0 ? Math.round((score.correct / score.total) * 100) : 0}%
+                  {t('accuracy', lang)}: {score.total > 0 ? Math.round((score.correct / score.total) * 100) : 0}%
                 </p>
               </div>
 
@@ -249,14 +250,14 @@ export default function DeepDivePage() {
                   className="h-12 px-8 text-base font-medium"
                   style={{ background: 'linear-gradient(135deg, #6366F1, #8B5CF6)' }}
                 >
-                  🔄 重新开始
+                  {t('restart', lang)}
                 </Button>
                 <Link href="/">
                   <Button
                     variant="outline"
                     className="w-full sm:w-auto h-12 px-8 text-base font-medium glass border-2"
                   >
-                    ← 返回首页
+                    {t('backToHomeArrow', lang)}
                   </Button>
                 </Link>
               </div>
@@ -365,7 +366,7 @@ export default function DeepDivePage() {
                   <div className="flex items-center gap-2 mb-3">
                     <span className="text-2xl">{isCorrect ? '🎉' : '💪'}</span>
                     <p className="font-bold text-base sm:text-lg">
-                      {isCorrect ? '回答正确！' : `正确答案是 ${currentQuestion.answer}`}
+                      {isCorrect ? t('correct', lang) : `${t('correctAnswerIs', lang)} ${currentQuestion.answer}`}
                     </p>
                   </div>
                   <p className="text-sm sm:text-base mb-4 leading-relaxed text-muted-foreground">
@@ -374,8 +375,8 @@ export default function DeepDivePage() {
                   <div className="glass rounded-lg p-3 space-y-2">
                     <p className="text-sm flex items-center gap-2">
                       <span>📖</span>
-                      <span className="font-medium">参考:</span>
-                      <span className="text-muted-foreground">{currentQuestion.dmv_ref.section}, 第 {currentQuestion.dmv_ref.page} 页</span>
+                      <span className="font-medium">{t('reference', lang)}:</span>
+                      <span className="text-muted-foreground">{currentQuestion.dmv_ref.section}, {t('section', lang)} {currentQuestion.dmv_ref.page} {t('page', lang)}</span>
                     </p>
                     <p className="text-sm italic text-muted-foreground leading-relaxed">
                       {currentQuestion.dmv_ref[`analysis_${lang}` as keyof typeof currentQuestion.dmv_ref]}
@@ -392,7 +393,7 @@ export default function DeepDivePage() {
                   variant="outline"
                   className="w-full sm:w-auto sm:flex-1 h-12 sm:h-11 text-base font-medium glass border-2 hover:bg-accent/50 touch-target"
                 >
-                  ← 上一题
+                  {t('prevQuestion', lang)}
                 </Button>
                 <Button
                   onClick={handleNext}
@@ -400,7 +401,7 @@ export default function DeepDivePage() {
                   className="w-full sm:w-auto sm:flex-1 h-12 sm:h-11 text-base font-medium touch-target"
                   style={{ background: 'linear-gradient(135deg, #3B82F6, #8B5CF6)' }}
                 >
-                  {currentIndex === questions.length - 1 ? '完成 ✓' : '下一题 →'}
+                  {currentIndex === questions.length - 1 ? t('finish', lang) : t('nextQuestion', lang)}
                 </Button>
               </div>
             </CardContent>
