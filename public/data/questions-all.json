@@ -556,8 +556,8 @@
     "options": {
       "A": {
         "en": "Stop at least 15 feet from the nearest rail and wait (until the lights stop flashing).",
-        "zh-Hans": "在距离最近的铁轨至少 15 呎以外之处停车，并等待（直到灯停止闪烁）。",
-        "zh-Hant": "在距离最近的铁轨至少 15 呎以外之处停车，并等待（直到灯停止闪烁）。"
+        "zh-Hans": "在距离最近的铁轨至少 15 英尺以外之处停车，并等待（直到灯停止闪烁）。",
+        "zh-Hant": "在距离最近的铁轨至少 15 英尺以外之处停车，并等待（直到灯停止闪烁）。"
       },
       "B": {
         "en": "Slow down and proceed with caution (if no train is visible).",
@@ -2472,8 +2472,8 @@
       },
       "B": {
         "en": "Stop at least 15 feet from the tracks and *WAIT* (until the lights stop flashing).",
-        "zh-Hans": "在距离铁轨至少 15 呎处停车，并*等待*（直到灯停止闪烁）。",
-        "zh-Hant": "在距离铁轨至少 15 呎处停车，并*等待*（直到灯停止闪烁）。"
+        "zh-Hans": "在距离铁轨至少 15 英尺处停车，并*等待*（直到灯停止闪烁）。",
+        "zh-Hant": "在距离铁轨至少 15 英尺处停车，并*等待*（直到灯停止闪烁）。"
       },
       "C": {
         "en": "It is an advisory warning only.",
@@ -3057,8 +3057,8 @@
       },
       "B": {
         "en": "Two sets of solid double yellow lines spaced two or more feet apart.",
-        "zh-Hans": "两组中间有至少两呎宽距离的双黄​​色实线。",
-        "zh-Hant": "两组中间有至少两呎宽距离的双黄​​色实线。"
+        "zh-Hans": "两组中间有至少两英尺宽距离的双黄​​色实线。",
+        "zh-Hant": "两组中间有至少两英尺宽距离的双黄​​色实线。"
       },
       "C": {
         "en": "A single solid white line.",
@@ -3291,8 +3291,8 @@
       },
       "B": {
         "en": "A 'Barrier' is two sets of double yellow lines, spaced apart (by 2+ feet).",
-        "zh-Hans": "“障碍区”是两组中间有（至少 2 呎）空间隔开的双黄线。",
-        "zh-Hant": "“障碍区”是两组中间有（至少 2 呎）空间隔开的双黄线。"
+        "zh-Hans": "“障碍区”是两组中间有（至少 2 英尺）空间隔开的双黄线。",
+        "zh-Hant": "“障碍区”是两组中间有（至少 2 英尺）空间隔开的双黄线。"
       },
       "C": {
         "en": "A 'Barrier' is broken.",
@@ -4645,8 +4645,8 @@
     "category": "traffic_rules",
     "question": {
       "en": "If you are driving in a residential zone (25 mph limit), but your view is blocked by a curve (within 100 feet), you should:",
-      "zh-Hans": "如果您在住宅区（限速 25 英里）行驶，但前方（在 100 呎内）的视野因弯道而受阻，您应该：",
-      "zh-Hant": "如果您在住宅区（限速 25 英里）行驶，但前方（在 100 呎内）的视野因弯道而受阻，您应该："
+      "zh-Hans": "如果您在住宅区（限速 25 英里）行驶，但前方（在 100 英尺内）的视野因弯道而受阻，您应该：",
+      "zh-Hant": "如果您在住宅区（限速 25 英里）行驶，但前方（在 100 英尺内）的视野因弯道而受阻，您应该："
     },
     "options": {
       "A": {
@@ -5780,8 +5780,8 @@
     "options": {
       "A": {
         "en": "100 feet before the exit, while still on the freeway (main lanes).",
-        "zh-Hans": "在您仍在高速公路（主干道）上时，在出口前 100 呎。",
-        "zh-Hant": "在您仍在高速公路（主干道）上时，在出口前 100 呎。"
+        "zh-Hans": "在您仍在高速公路（主干道）上时，在出口前 100 英尺。",
+        "zh-Hant": "在您仍在高速公路（主干道）上时，在出口前 100 英尺。"
       },
       "B": {
         "en": "After you have completely entered the exit ramp.",
@@ -5969,8 +5969,8 @@
     "category": "traffic_rules",
     "question": {
       "en": "What is the speed limit within 100 feet of a railroad crossing where your view is blocked for 400 feet in either direction?",
-      "zh-Hans": "在距离铁路交叉口（Railroad Crossing）不超过 100 呎，且轨道两侧来往方向的视野不足 400 呎时，限速是多少？",
-      "zh-Hant": "在距离铁路交叉口（Railroad Crossing）不超过 100 呎，且轨道两侧来往方向的视野不足 400 呎时，限速是多少？"
+      "zh-Hans": "在距离铁路交叉口（Railroad Crossing）不超过 100 英尺，且轨道两侧来往方向的视野不足 400 英尺时，限速是多少？",
+      "zh-Hant": "在距离铁路交叉口（Railroad Crossing）不超过 100 英尺，且轨道两侧来往方向的视野不足 400 英尺时，限速是多少？"
     },
     "options": {
       "A": {
@@ -7077,8 +7077,8 @@
       },
       "C": {
         "en": "If you are 500 feet behind the truck.",
-        "zh-Hans": "如果您在卡车后方 500 呎处。",
-        "zh-Hant": "如果您在卡车后方 500 呎处。"
+        "zh-Hans": "如果您在卡车后方 500 英尺处。",
+        "zh-Hant": "如果您在卡车后方 500 英尺处。"
       }
     },
     "answer": "B",
@@ -7841,8 +7841,8 @@
     "category": "traffic_rules",
     "question": {
       "en": "When turning on a mountain road (e.g., a narrow curve) where your view is blocked within 200 feet, you should:",
-      "zh-Hans": "在山路上转弯时（例如，在狭窄的山路上），如果您的前方视野不足 200 呎，您应该：",
-      "zh-Hant": "在山路上转弯时（例如，在狭窄的山路上），如果您的前方视野不足 200 呎，您应该："
+      "zh-Hans": "在山路上转弯时（例如，在狭窄的山路上），如果您的前方视野不足 200 英尺，您应该：",
+      "zh-Hant": "在山路上转弯时（例如，在狭窄的山路上），如果您的前方视野不足 200 英尺，您应该："
     },
     "options": {
       "A": {
@@ -7864,14 +7864,14 @@
     "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Road Rules, on a narrow mountain road with less than 200 feet of visibility you should slow down and honk.",
-      "zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，山路视距不足 200 呎时应减速并鸣喇叭。",
-      "zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，山路视距不足 200 呎时应减速并鸣喇叭。"
+      "zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，山路视距不足 200 英尺时应减速并鸣喇叭。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，山路视距不足 200 英尺时应减速并鸣喇叭。"
     },
     "dmv_ref": {
       "page": "Cali",
       "section": "traffic_rules",
-      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，山路视距不足 200 呎时应减速并鸣喇叭。",
-      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，山路视距不足 200 呎时应减速并鸣喇叭。"
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，山路视距不足 200 英尺时应减速并鸣喇叭。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，山路视距不足 200 英尺时应减速并鸣喇叭。"
     },
     "source": "deepdive"
   },
@@ -8442,8 +8442,8 @@
       },
       "C": {
         "en": "When you are 10 feet past them.",
-        "zh-Hans": "当您与他们相隔 10 呎时。",
-        "zh-Hant": "当您与他们相隔 10 呎时。"
+        "zh-Hans": "当您与他们相隔 10 英尺时。",
+        "zh-Hant": "当您与他们相隔 10 英尺时。"
       }
     },
     "answer": "B",
@@ -8744,13 +8744,13 @@
     "options": {
       "A": {
         "en": "500 feet",
-        "zh-Hans": "500 呎",
-        "zh-Hant": "500 呎"
+        "zh-Hans": "500 英尺",
+        "zh-Hant": "500 英尺"
       },
       "B": {
         "en": "One-third of a mile (approx. 1,760 feet)",
-        "zh-Hans": "三分之一英里（约 1,760 呎）",
-        "zh-Hant": "三分之一英里（约 1,760 呎）"
+        "zh-Hans": "三分之一英里（约 1,760 英尺）",
+        "zh-Hant": "三分之一英里（约 1,760 英尺）"
       },
       "C": {
         "en": "One mile",
@@ -9563,18 +9563,18 @@
     "options": {
       "A": {
         "en": "500 feet",
-        "zh-Hans": "500 呎",
-        "zh-Hant": "500 呎"
+        "zh-Hans": "500 英尺",
+        "zh-Hant": "500 英尺"
       },
       "B": {
         "en": "1,000 feet",
-        "zh-Hans": "1,000 呎",
-        "zh-Hant": "1,000 呎"
+        "zh-Hans": "1,000 英尺",
+        "zh-Hant": "1,000 英尺"
       },
       "C": {
         "en": "100 feet",
-        "zh-Hans": "100 呎",
-        "zh-Hant": "100 呎"
+        "zh-Hans": "100 英尺",
+        "zh-Hant": "100 英尺"
       }
     },
     "answer": "A",
@@ -9602,18 +9602,18 @@
     "options": {
       "A": {
         "en": "100 feet",
-        "zh-Hans": "100 呎",
-        "zh-Hant": "100 呎"
+        "zh-Hans": "100 英尺",
+        "zh-Hant": "100 英尺"
       },
       "B": {
         "en": "200 feet",
-        "zh-Hans": "200 呎",
-        "zh-Hant": "200 呎"
+        "zh-Hans": "200 英尺",
+        "zh-Hant": "200 英尺"
       },
       "C": {
         "en": "300 feet",
-        "zh-Hans": "300 呎",
-        "zh-Hant": "300 呎"
+        "zh-Hans": "300 英尺",
+        "zh-Hant": "300 英尺"
       }
     },
     "answer": "C",
@@ -9875,8 +9875,8 @@
     "options": {
       "A": {
         "en": "Within 500 feet.",
-        "zh-Hans": "在 500 呎内。",
-        "zh-Hant": "在 500 呎内。"
+        "zh-Hans": "在 500 英尺内。",
+        "zh-Hant": "在 500 英尺内。"
       },
       "B": {
         "en": "Within the distance illuminated by your headlights.",
@@ -10220,8 +10220,8 @@
     "category": "traffic_rules",
     "question": {
       "en": "During the day, if visibility is less than 1,000 feet, how should you use your headlights?",
-      "zh-Hans": "白天在能见度不足 1000 呎时，您应如何使用车灯？",
-      "zh-Hant": "白天在能见度不足 1000 呎时，您应如何使用车灯？"
+      "zh-Hans": "白天在能见度不足 1000 英尺时，您应如何使用车灯？",
+      "zh-Hant": "白天在能见度不足 1000 英尺时，您应如何使用车灯？"
     },
     "options": {
       "A": {
@@ -10259,19 +10259,19 @@
     "category": "traffic_rules",
     "question": {
       "en": "At night, when following another vehicle, within what distance must you use low beams?",
-      "zh-Hans": "夜间跟随前车行驶时，距离前车多少呎内必须使用近光灯？",
-      "zh-Hant": "夜间跟随前车行驶时，距离前车多少呎内必须使用近光灯？"
+      "zh-Hans": "夜间跟随前车行驶时，距离前车多少英尺内必须使用近光灯？",
+      "zh-Hant": "夜间跟随前车行驶时，距离前车多少英尺内必须使用近光灯？"
     },
     "options": {
       "A": {
         "en": "Within 300 feet.",
-        "zh-Hans": "300 呎内。",
-        "zh-Hant": "300 呎内。"
+        "zh-Hans": "300 英尺内。",
+        "zh-Hant": "300 英尺内。"
       },
       "B": {
         "en": "Within 1,000 feet.",
-        "zh-Hans": "1,000 呎内。",
-        "zh-Hant": "1,000 呎内。"
+        "zh-Hans": "1,000 英尺内。",
+        "zh-Hant": "1,000 英尺内。"
       },
       "C": {
         "en": "There is no distance requirement.",
@@ -10509,8 +10509,8 @@
       },
       "C": {
         "en": "When visibility is less than 1,000 feet.",
-        "zh-Hans": "当能见度低于 1,000 呎时。",
-        "zh-Hant": "当能见度低于 1,000 呎时。"
+        "zh-Hans": "当能见度低于 1,000 英尺时。",
+        "zh-Hant": "当能见度低于 1,000 英尺时。"
       }
     },
     "answer": "A",
@@ -10571,8 +10571,8 @@
     "category": "traffic_rules",
     "question": {
       "en": "At night, when an oncoming vehicle is within 500 feet, which lights should you use?",
-      "zh-Hans": "夜间遇到迎面车辆 500 呎内时应使用什么灯？",
-      "zh-Hant": "夜间遇到迎面车辆 500 呎内时应使用什么灯？"
+      "zh-Hans": "夜间遇到迎面车辆 500 英尺内时应使用什么灯？",
+      "zh-Hant": "夜间遇到迎面车辆 500 英尺内时应使用什么灯？"
     },
     "options": {
       "A": {
@@ -10610,8 +10610,8 @@
     "category": "traffic_rules",
     "question": {
       "en": "If you cannot see 1,000 feet ahead clearly, you must:",
-      "zh-Hans": "如果您看不清 1,000 呎以外的距离，您必须：",
-      "zh-Hant": "如果您看不清 1,000 呎以外的距离，您必须："
+      "zh-Hans": "如果您看不清 1,000 英尺以外的距离，您必须：",
+      "zh-Hant": "如果您看不清 1,000 英尺以外的距离，您必须："
     },
     "options": {
       "A": {
@@ -10811,18 +10811,18 @@
     "options": {
       "A": {
         "en": "100 feet.",
-        "zh-Hans": "100 呎。",
-        "zh-Hant": "100 呎。"
+        "zh-Hans": "100 英尺。",
+        "zh-Hant": "100 英尺。"
       },
       "B": {
         "en": "300 feet.",
-        "zh-Hans": "300 呎。",
-        "zh-Hant": "300 呎。"
+        "zh-Hans": "300 英尺。",
+        "zh-Hant": "300 英尺。"
       },
       "C": {
         "en": "1,000 feet.",
-        "zh-Hans": "1,000 呎。",
-        "zh-Hant": "1,000 呎。"
+        "zh-Hans": "1,000 英尺。",
+        "zh-Hant": "1,000 英尺。"
       }
     },
     "answer": "C",
@@ -11546,37 +11546,37 @@
     "category": "traffic_rules",
     "question": {
       "en": "It is illegal to park within how many feet of a fire hydrant?",
-      "zh-Hans": "在距离消防栓（Fire Hydrant）多少呎的范围内泊车（Parking）是违法的？",
-      "zh-Hant": "在距离消防栓（Fire Hydrant）多少呎的范围内泊车（Parking）是违法的？"
+      "zh-Hans": "在距离消防栓（Fire Hydrant）多少英尺的范围内泊车（Parking）是违法的？",
+      "zh-Hant": "在距离消防栓（Fire Hydrant）多少英尺的范围内泊车（Parking）是违法的？"
     },
     "options": {
       "A": {
         "en": "5 feet",
-        "zh-Hans": "5 呎",
-        "zh-Hant": "5 呎"
+        "zh-Hans": "5 英尺",
+        "zh-Hant": "5 英尺"
       },
       "B": {
         "en": "15 feet",
-        "zh-Hans": "15 呎",
-        "zh-Hant": "15 呎"
+        "zh-Hans": "15 英尺",
+        "zh-Hant": "15 英尺"
       },
       "C": {
         "en": "20 feet",
-        "zh-Hans": "20 呎",
-        "zh-Hant": "20 呎"
+        "zh-Hans": "20 英尺",
+        "zh-Hant": "20 英尺"
       }
     },
     "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Parking Rules, you may not park within 15 feet of a fire hydrant.",
-      "zh-Hans": "根据手册第7章《道路法律及规定》《停车规定》的规定，不得在消防栓 15 呎内停车。",
-      "zh-Hant": "根据手册第7章《道路法律及规定》《停车规定》的规定，不得在消防栓 15 呎内停车。"
+      "zh-Hans": "根据手册第7章《道路法律及规定》《停车规定》的规定，不得在消防栓 15 英尺内停车。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《停车规定》的规定，不得在消防栓 15 英尺内停车。"
     },
     "dmv_ref": {
       "page": "Cali",
       "section": "traffic_rules",
-      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《停车规定》的规定，不得在消防栓 15 呎内停车。",
-      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《停车规定》的规定，不得在消防栓 15 呎内停车。"
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《停车规定》的规定，不得在消防栓 15 英尺内停车。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《停车规定》的规定，不得在消防栓 15 英尺内停车。"
     },
     "source": "deepdive"
   },
@@ -11585,24 +11585,24 @@
     "category": "traffic_rules",
     "question": {
       "en": "It is illegal to park within how many feet of a marked or unmarked crosswalk at an intersection?",
-      "zh-Hans": "在距离一个没有标记或带标记的人行横道（Crosswalk）多少呎的范围内泊车是违法的？",
-      "zh-Hant": "在距离一个没有标记或带标记的人行横道（Crosswalk）多少呎的范围内泊车是违法的？"
+      "zh-Hans": "在距离一个没有标记或带标记的人行横道（Crosswalk）多少英尺的范围内泊车是违法的？",
+      "zh-Hant": "在距离一个没有标记或带标记的人行横道（Crosswalk）多少英尺的范围内泊车是违法的？"
     },
     "options": {
       "A": {
         "en": "15 feet",
-        "zh-Hans": "15 呎",
-        "zh-Hant": "15 呎"
+        "zh-Hans": "15 英尺",
+        "zh-Hant": "15 英尺"
       },
       "B": {
         "en": "20 feet",
-        "zh-Hans": "20 呎",
-        "zh-Hant": "20 呎"
+        "zh-Hans": "20 英尺",
+        "zh-Hant": "20 英尺"
       },
       "C": {
         "en": "30 feet",
-        "zh-Hans": "30 呎",
-        "zh-Hant": "30 呎"
+        "zh-Hans": "30 英尺",
+        "zh-Hant": "30 英尺"
       }
     },
     "answer": "B",
@@ -11702,24 +11702,24 @@
     "category": "traffic_rules",
     "question": {
       "en": "It is illegal to park within how many feet of a fire station driveway?",
-      "zh-Hans": "在距离消防站门前行车线（Fire Station Driveway）多少呎的范围内泊车是违法的？",
-      "zh-Hant": "在距离消防站门前行车线（Fire Station Driveway）多少呎的范围内泊车是违法的？"
+      "zh-Hans": "在距离消防站门前行车线（Fire Station Driveway）多少英尺的范围内泊车是违法的？",
+      "zh-Hant": "在距离消防站门前行车线（Fire Station Driveway）多少英尺的范围内泊车是违法的？"
     },
     "options": {
       "A": {
         "en": "15 feet",
-        "zh-Hans": "15 呎",
-        "zh-Hant": "15 呎"
+        "zh-Hans": "15 英尺",
+        "zh-Hant": "15 英尺"
       },
       "B": {
         "en": "20 feet",
-        "zh-Hans": "20 呎",
-        "zh-Hant": "20 呎"
+        "zh-Hans": "20 英尺",
+        "zh-Hant": "20 英尺"
       },
       "C": {
         "en": "25 feet",
-        "zh-Hans": "25 呎",
-        "zh-Hant": "25 呎"
+        "zh-Hans": "25 英尺",
+        "zh-Hant": "25 英尺"
       }
     },
     "answer": "A",
@@ -11741,24 +11741,24 @@
     "category": "traffic_rules",
     "question": {
       "en": "It is illegal to park within how many feet of a curb ramp for disabled persons?",
-      "zh-Hans": "在距离残障人士士专用的行人道坡道（Curb Ramp for disabled persons）多少呎的范围内泊车是违法的？",
-      "zh-Hant": "在距离残障人士士专用的行人道坡道（Curb Ramp for disabled persons）多少呎的范围内泊车是违法的？"
+      "zh-Hans": "在距离残障人士士专用的行人道坡道（Curb Ramp for disabled persons）多少英尺的范围内泊车是违法的？",
+      "zh-Hant": "在距离残障人士士专用的行人道坡道（Curb Ramp for disabled persons）多少英尺的范围内泊车是违法的？"
     },
     "options": {
       "A": {
         "en": "3 feet",
-        "zh-Hans": "3 呎",
-        "zh-Hant": "3 呎"
+        "zh-Hans": "3 英尺",
+        "zh-Hant": "3 英尺"
       },
       "B": {
         "en": "5 feet",
-        "zh-Hans": "5 呎",
-        "zh-Hant": "5 呎"
+        "zh-Hans": "5 英尺",
+        "zh-Hant": "5 英尺"
       },
       "C": {
         "en": "15 feet",
-        "zh-Hans": "15 呎",
-        "zh-Hant": "15 呎"
+        "zh-Hans": "15 英尺",
+        "zh-Hant": "15 英尺"
       }
     },
     "answer": "A",
@@ -12014,24 +12014,24 @@
     "category": "traffic_rules",
     "question": {
       "en": "It is illegal to park within how many feet of a crosswalk that has a curb extension?",
-      "zh-Hans": "在距离有路缘延伸部分（Curb Extension）的人行横道多少呎的范围内泊车是违法的？",
-      "zh-Hant": "在距离有路缘延伸部分（Curb Extension）的人行横道多少呎的范围内泊车是违法的？"
+      "zh-Hans": "在距离有路缘延伸部分（Curb Extension）的人行横道多少英尺的范围内泊车是违法的？",
+      "zh-Hant": "在距离有路缘延伸部分（Curb Extension）的人行横道多少英尺的范围内泊车是违法的？"
     },
     "options": {
       "A": {
         "en": "5 feet",
-        "zh-Hans": "5 呎",
-        "zh-Hant": "5 呎"
+        "zh-Hans": "5 英尺",
+        "zh-Hant": "5 英尺"
       },
       "B": {
         "en": "15 feet",
-        "zh-Hans": "15 呎",
-        "zh-Hant": "15 呎"
+        "zh-Hans": "15 英尺",
+        "zh-Hant": "15 英尺"
       },
       "C": {
         "en": "20 feet",
-        "zh-Hans": "20 呎",
-        "zh-Hant": "20 呎"
+        "zh-Hans": "20 英尺",
+        "zh-Hant": "20 英尺"
       }
     },
     "answer": "B",
@@ -12176,31 +12176,31 @@
     "options": {
       "A": {
         "en": "Within 7.5 feet of a railroad track.",
-        "zh-Hans": "在距离铁轨 7.5 呎以内。",
-        "zh-Hant": "在距离铁轨 7.5 呎以内。"
+        "zh-Hans": "在距离铁轨 7.5 英尺以内。",
+        "zh-Hant": "在距离铁轨 7.5 英尺以内。"
       },
       "B": {
         "en": "Within 25 feet of a railroad track.",
-        "zh-Hans": "在距离铁轨 25 呎以内。",
-        "zh-Hant": "在距离铁轨 25 呎以内。"
+        "zh-Hans": "在距离铁轨 25 英尺以内。",
+        "zh-Hant": "在距离铁轨 25 英尺以内。"
       },
       "C": {
         "en": "Within 50 feet of a railroad track.",
-        "zh-Hans": "在距离铁轨 50 呎以内。",
-        "zh-Hant": "在距离铁轨 50 呎以内。"
+        "zh-Hans": "在距离铁轨 50 英尺以内。",
+        "zh-Hant": "在距离铁轨 50 英尺以内。"
       }
     },
     "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Parking Rules, you may not park within 7.5 feet of railroad tracks.",
-      "zh-Hans": "根据手册第7章《道路法律及规定》《停车规定》的规定，不得在距离铁轨 7.5 呎以内停车。",
-      "zh-Hant": "根据手册第7章《道路法律及规定》《停车规定》的规定，不得在距离铁轨 7.5 呎以内停车。"
+      "zh-Hans": "根据手册第7章《道路法律及规定》《停车规定》的规定，不得在距离铁轨 7.5 英尺以内停车。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《停车规定》的规定，不得在距离铁轨 7.5 英尺以内停车。"
     },
     "dmv_ref": {
       "page": "Cali",
       "section": "traffic_rules",
-      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《停车规定》的规定，不得在距离铁轨 7.5 呎以内停车。",
-      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《停车规定》的规定，不得在距离铁轨 7.5 呎以内停车。"
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《停车规定》的规定，不得在距离铁轨 7.5 英尺以内停车。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《停车规定》的规定，不得在距离铁轨 7.5 英尺以内停车。"
     },
     "source": "deepdive"
   },
@@ -13268,13 +13268,13 @@
     "options": {
       "A": {
         "en": "About 2 feet",
-        "zh-Hans": "大约 2 呎",
-        "zh-Hant": "大约 2 呎"
+        "zh-Hans": "大约 2 英尺",
+        "zh-Hant": "大约 2 英尺"
       },
       "B": {
         "en": "About 5 feet (a door's width)",
-        "zh-Hans": "大约 5 呎（一个车门宽度）",
-        "zh-Hant": "大约 5 呎（一个车门宽度）"
+        "zh-Hans": "大约 5 英尺（一个车门宽度）",
+        "zh-Hant": "大约 5 英尺（一个车门宽度）"
       },
       "C": {
         "en": "As close as possible.",
@@ -13285,14 +13285,14 @@
     "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 5: Driving Basics - Driving Basics, pull up alongside the front vehicle leaving about 2 feet of space.",
-      "zh-Hans": "根据手册第5章《驾驶简介》《驾驶基础》的规定，并排靠近前车时应保持约 2 呎间距。",
-      "zh-Hant": "根据手册第5章《驾驶简介》《驾驶基础》的规定，并排靠近前车时应保持约 2 呎间距。"
+      "zh-Hans": "根据手册第5章《驾驶简介》《驾驶基础》的规定，并排靠近前车时应保持约 2 英尺间距。",
+      "zh-Hant": "根据手册第5章《驾驶简介》《驾驶基础》的规定，并排靠近前车时应保持约 2 英尺间距。"
     },
     "dmv_ref": {
       "page": "Cali",
       "section": "traffic_rules",
-      "analysis_zh-Hans": "根据手册第5章《驾驶简介》《驾驶基础》的规定，并排靠近前车时应保持约 2 呎间距。",
-      "analysis_zh-Hant": "根据手册第5章《驾驶简介》《驾驶基础》的规定，并排靠近前车时应保持约 2 呎间距。"
+      "analysis_zh-Hans": "根据手册第5章《驾驶简介》《驾驶基础》的规定，并排靠近前车时应保持约 2 英尺间距。",
+      "analysis_zh-Hant": "根据手册第5章《驾驶简介》《驾驶基础》的规定，并排靠近前车时应保持约 2 英尺间距。"
     },
     "source": "deepdive"
   },
@@ -13463,31 +13463,31 @@
     "options": {
       "A": {
         "en": "1 foot",
-        "zh-Hans": "1 呎",
-        "zh-Hant": "1 呎"
+        "zh-Hans": "1 英尺",
+        "zh-Hant": "1 英尺"
       },
       "B": {
         "en": "3 feet",
-        "zh-Hans": "3 呎",
-        "zh-Hant": "3 呎"
+        "zh-Hans": "3 英尺",
+        "zh-Hant": "3 英尺"
       },
       "C": {
         "en": "6 feet",
-        "zh-Hans": "6 呎",
-        "zh-Hant": "6 呎"
+        "zh-Hans": "6 英尺",
+        "zh-Hant": "6 英尺"
       }
     },
     "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 5: Driving Basics - Driving Basics, look for a space at least 3 feet longer than your vehicle.",
-      "zh-Hans": "根据手册第5章《驾驶简介》《驾驶基础》的规定，应寻找至少比车辆长 3 呎的空位。",
-      "zh-Hant": "根据手册第5章《驾驶简介》《驾驶基础》的规定，应寻找至少比车辆长 3 呎的空位。"
+      "zh-Hans": "根据手册第5章《驾驶简介》《驾驶基础》的规定，应寻找至少比车辆长 3 英尺的空位。",
+      "zh-Hant": "根据手册第5章《驾驶简介》《驾驶基础》的规定，应寻找至少比车辆长 3 英尺的空位。"
     },
     "dmv_ref": {
       "page": "Cali",
       "section": "traffic_rules",
-      "analysis_zh-Hans": "根据手册第5章《驾驶简介》《驾驶基础》的规定，应寻找至少比车辆长 3 呎的空位。",
-      "analysis_zh-Hant": "根据手册第5章《驾驶简介》《驾驶基础》的规定，应寻找至少比车辆长 3 呎的空位。"
+      "analysis_zh-Hans": "根据手册第5章《驾驶简介》《驾驶基础》的规定，应寻找至少比车辆长 3 英尺的空位。",
+      "analysis_zh-Hant": "根据手册第5章《驾驶简介》《驾驶基础》的规定，应寻找至少比车辆长 3 英尺的空位。"
     },
     "source": "deepdive"
   },
@@ -14716,26 +14716,26 @@
       },
       "B": {
         "en": "No earlier than 200 feet before the turn.",
-        "zh-Hans": "转弯前不早于 200 呎。",
-        "zh-Hant": "转弯前不早于 200 呎。"
+        "zh-Hans": "转弯前不早于 200 英尺。",
+        "zh-Hant": "转弯前不早于 200 英尺。"
       },
       "C": {
         "en": "50 feet before the turn.",
-        "zh-Hans": "转弯前 50 呎。",
-        "zh-Hant": "转弯前 50 呎。"
+        "zh-Hans": "转弯前 50 英尺。",
+        "zh-Hant": "转弯前 50 英尺。"
       }
     },
     "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Turns, when preparing a right turn across a bike lane, merge into the bike lane no more than 200 feet before the turn.",
-      "zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，右转需并入自行车道时，应在转弯前不早于 200 呎并入。",
-      "zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，右转需并入自行车道时，应在转弯前不早于 200 呎并入。"
+      "zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，右转需并入自行车道时，应在转弯前不早于 200 英尺并入。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，右转需并入自行车道时，应在转弯前不早于 200 英尺并入。"
     },
     "dmv_ref": {
       "page": "Cali",
       "section": "traffic_rules",
-      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，右转需并入自行车道时，应在转弯前不早于 200 呎并入。",
-      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，右转需并入自行车道时，应在转弯前不早于 200 呎并入。"
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，右转需并入自行车道时，应在转弯前不早于 200 英尺并入。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，右转需并入自行车道时，应在转弯前不早于 200 英尺并入。"
     },
     "source": "deepdive"
   },
@@ -14750,31 +14750,31 @@
     "options": {
       "A": {
         "en": "3 feet",
-        "zh-Hans": "3 呎",
-        "zh-Hant": "3 呎"
+        "zh-Hans": "3 英尺",
+        "zh-Hant": "3 英尺"
       },
       "B": {
         "en": "5 feet",
-        "zh-Hans": "5 呎",
-        "zh-Hant": "5 呎"
+        "zh-Hans": "5 英尺",
+        "zh-Hant": "5 英尺"
       },
       "C": {
         "en": "6 feet",
-        "zh-Hans": "6 呎",
-        "zh-Hant": "6 呎"
+        "zh-Hans": "6 英尺",
+        "zh-Hant": "6 英尺"
       }
     },
     "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Road Rules, you must leave at least 3 feet when passing a bicyclist.",
-      "zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，超越自行车时必须与其保持至少 3 呎距离。",
-      "zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，超越自行车时必须与其保持至少 3 呎距离。"
+      "zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，超越自行车时必须与其保持至少 3 英尺距离。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，超越自行车时必须与其保持至少 3 英尺距离。"
     },
     "dmv_ref": {
       "page": "Cali",
       "section": "traffic_rules",
-      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，超越自行车时必须与其保持至少 3 呎距离。",
-      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，超越自行车时必须与其保持至少 3 呎距离。"
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，超越自行车时必须与其保持至少 3 英尺距离。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，超越自行车时必须与其保持至少 3 英尺距离。"
     },
     "source": "deepdive"
   },
@@ -14906,31 +14906,31 @@
     "options": {
       "A": {
         "en": "3 feet",
-        "zh-Hans": "3 呎",
-        "zh-Hant": "3 呎"
+        "zh-Hans": "3 英尺",
+        "zh-Hant": "3 英尺"
       },
       "B": {
         "en": "5 feet",
-        "zh-Hans": "5 呎",
-        "zh-Hant": "5 呎"
+        "zh-Hans": "5 英尺",
+        "zh-Hant": "5 英尺"
       },
       "C": {
         "en": "6 feet",
-        "zh-Hans": "6 呎",
-        "zh-Hant": "6 呎"
+        "zh-Hans": "6 英尺",
+        "zh-Hant": "6 英尺"
       }
     },
     "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Road Rules, if you cannot change lanes you still must allow 3 feet; otherwise do not pass.",
-      "zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，无法变道超车时仍须保持至少 3 呎间距，否则不得超越。",
-      "zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，无法变道超车时仍须保持至少 3 呎间距，否则不得超越。"
+      "zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，无法变道超车时仍须保持至少 3 英尺间距，否则不得超越。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，无法变道超车时仍须保持至少 3 英尺间距，否则不得超越。"
     },
     "dmv_ref": {
       "page": "Cali",
       "section": "traffic_rules",
-      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，无法变道超车时仍须保持至少 3 呎间距，否则不得超越。",
-      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，无法变道超车时仍须保持至少 3 呎间距，否则不得超越。"
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，无法变道超车时仍须保持至少 3 英尺间距，否则不得超越。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，无法变道超车时仍须保持至少 3 英尺间距，否则不得超越。"
     },
     "source": "deepdive"
   },
@@ -14950,8 +14950,8 @@
       },
       "B": {
         "en": "When you are preparing to make a right turn, within 200 feet of the intersection.",
-        "zh-Hans": "当您在交叉路口 200 呎距离内准备右转时。",
-        "zh-Hant": "当您在交叉路口 200 呎距离内准备右转时。"
+        "zh-Hans": "当您在交叉路口 200 英尺距离内准备右转时。",
+        "zh-Hant": "当您在交叉路口 200 英尺距离内准备右转时。"
       },
       "C": {
         "en": "It is never allowed.",
@@ -14962,14 +14962,14 @@
     "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Road Rules, you may drive in a bike lane within 200 feet of an intersection to prepare for a right turn.",
-      "zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，准备右转时可在交叉路口前 200 呎内驶入自行车道。",
-      "zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，准备右转时可在交叉路口前 200 呎内驶入自行车道。"
+      "zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，准备右转时可在交叉路口前 200 英尺内驶入自行车道。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，准备右转时可在交叉路口前 200 英尺内驶入自行车道。"
     },
     "dmv_ref": {
       "page": "Cali",
       "section": "traffic_rules",
-      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，准备右转时可在交叉路口前 200 呎内驶入自行车道。",
-      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，准备右转时可在交叉路口前 200 呎内驶入自行车道。"
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，准备右转时可在交叉路口前 200 英尺内驶入自行车道。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，准备右转时可在交叉路口前 200 英尺内驶入自行车道。"
     },
     "source": "deepdive"
   },
@@ -15134,8 +15134,8 @@
     "category": "traffic_rules",
     "question": {
       "en": "If you are passing a bicyclist and cannot provide the 3-foot minimum of space, you should:",
-      "zh-Hans": "如果您在无法预留 3 呎空间的情况下超越自行车，您应该：",
-      "zh-Hant": "如果您在无法预留 3 呎空间的情况下超越自行车，您应该："
+      "zh-Hans": "如果您在无法预留 3 英尺空间的情况下超越自行车，您应该：",
+      "zh-Hant": "如果您在无法预留 3 英尺空间的情况下超越自行车，您应该："
     },
     "options": {
       "A": {
@@ -15157,14 +15157,14 @@
     "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Road Rules, if you cannot provide 3 feet you must slow down and follow behind until you can pass safely.",
-      "zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，无法提供 3 呎间距时应减速并在自行车后方等待。",
-      "zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，无法提供 3 呎间距时应减速并在自行车后方等待。"
+      "zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，无法提供 3 英尺间距时应减速并在自行车后方等待。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，无法提供 3 英尺间距时应减速并在自行车后方等待。"
     },
     "dmv_ref": {
       "page": "Cali",
       "section": "traffic_rules",
-      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，无法提供 3 呎间距时应减速并在自行车后方等待。",
-      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，无法提供 3 呎间距时应减速并在自行车后方等待。"
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，无法提供 3 英尺间距时应减速并在自行车后方等待。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，无法提供 3 英尺间距时应减速并在自行车后方等待。"
     },
     "source": "deepdive"
   },
@@ -15196,14 +15196,14 @@
     "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Road Rules, within 500 feet of a school when children are present the speed limit is 25 mph unless posted otherwise.",
-      "zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，学校附近有学童时（通常 500 呎内）限速为 25 英里/小时，除非另有标示。",
-      "zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，学校附近有学童时（通常 500 呎内）限速为 25 英里/小时，除非另有标示。"
+      "zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，学校附近有学童时（通常 500 英尺内）限速为 25 英里/小时，除非另有标示。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，学校附近有学童时（通常 500 英尺内）限速为 25 英里/小时，除非另有标示。"
     },
     "dmv_ref": {
       "page": "Cali",
       "section": "traffic_rules",
-      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，学校附近有学童时（通常 500 呎内）限速为 25 英里/小时，除非另有标示。",
-      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，学校附近有学童时（通常 500 呎内）限速为 25 英里/小时，除非另有标示。"
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，学校附近有学童时（通常 500 英尺内）限速为 25 英里/小时，除非另有标示。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，学校附近有学童时（通常 500 英尺内）限速为 25 英里/小时，除非另有标示。"
     },
     "source": "deepdive"
   },
@@ -15602,8 +15602,8 @@
     "category": "traffic_rules",
     "question": {
       "en": "Within 500 feet of an unfenced playground, what is the speed limit when children are present?",
-      "zh-Hans": "无围栏操场附近 500 呎内，儿童在场时限速应为多少？",
-      "zh-Hant": "无围栏操场附近 500 呎内，儿童在场时限速应为多少？"
+      "zh-Hans": "无围栏操场附近 500 英尺内，儿童在场时限速应为多少？",
+      "zh-Hant": "无围栏操场附近 500 英尺内，儿童在场时限速应为多少？"
     },
     "options": {
       "A": {
@@ -15625,14 +15625,14 @@
     "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Road Rules, within 500 feet of an unfenced playground the limit is 25 mph when children are present, or the posted lower speed.",
-      "zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，无围栏操场 500 呎内有儿童时限速为 25 英里/小时（或更低标志）。",
-      "zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，无围栏操场 500 呎内有儿童时限速为 25 英里/小时（或更低标志）。"
+      "zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，无围栏操场 500 英尺内有儿童时限速为 25 英里/小时（或更低标志）。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，无围栏操场 500 英尺内有儿童时限速为 25 英里/小时（或更低标志）。"
     },
     "dmv_ref": {
       "page": "Cali",
       "section": "traffic_rules",
-      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，无围栏操场 500 呎内有儿童时限速为 25 英里/小时（或更低标志）。",
-      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，无围栏操场 500 呎内有儿童时限速为 25 英里/小时（或更低标志）。"
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，无围栏操场 500 英尺内有儿童时限速为 25 英里/小时（或更低标志）。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，无围栏操场 500 英尺内有儿童时限速为 25 英里/小时（或更低标志）。"
     },
     "source": "deepdive"
   },
@@ -16661,13 +16661,13 @@
     "options": {
       "A": {
         "en": "At least 15 feet away from the nearest rail.",
-        "zh-Hans": "在距离最近的铁轨至少 15 呎以外之处。",
-        "zh-Hant": "在距离最近的铁轨至少 15 呎以外之处。"
+        "zh-Hans": "在距离最近的铁轨至少 15 英尺以外之处。",
+        "zh-Hant": "在距离最近的铁轨至少 15 英尺以外之处。"
       },
       "B": {
         "en": "Within 5 feet of the nearest rail.",
-        "zh-Hans": "在距离最近的铁轨 5 呎以内。",
-        "zh-Hant": "在距离最近的铁轨 5 呎以内。"
+        "zh-Hans": "在距离最近的铁轨 5 英尺以内。",
+        "zh-Hant": "在距离最近的铁轨 5 英尺以内。"
       },
       "C": {
         "en": "On the tracks, if the gate isn't all the way down yet.",
@@ -16678,14 +16678,14 @@
     "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Road Rules, when lights flash or gates lower you must stop at least 15 feet from the nearest rail.",
-      "zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，红灯闪烁或栏杆下降时必须在离最近铁轨至少 15 呎处停车。",
-      "zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，红灯闪烁或栏杆下降时必须在离最近铁轨至少 15 呎处停车。"
+      "zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，红灯闪烁或栏杆下降时必须在离最近铁轨至少 15 英尺处停车。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，红灯闪烁或栏杆下降时必须在离最近铁轨至少 15 英尺处停车。"
     },
     "dmv_ref": {
       "page": "Cali",
       "section": "traffic_rules",
-      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，红灯闪烁或栏杆下降时必须在离最近铁轨至少 15 呎处停车。",
-      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，红灯闪烁或栏杆下降时必须在离最近铁轨至少 15 呎处停车。"
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，红灯闪烁或栏杆下降时必须在离最近铁轨至少 15 英尺处停车。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，红灯闪烁或栏杆下降时必须在离最近铁轨至少 15 英尺处停车。"
     },
     "source": "deepdive"
   },
@@ -16733,8 +16733,8 @@
     "category": "traffic_rules",
     "question": {
       "en": "What is the speed limit when you are approaching a railroad crossing (within 100 feet) and your view is blocked for 400 feet in either direction?",
-      "zh-Hans": "如果您在接近铁路交叉口时（距离 100 呎内），您两侧 400 呎内的视野受阻，限速是多少？",
-      "zh-Hant": "如果您在接近铁路交叉口时（距离 100 呎内），您两侧 400 呎内的视野受阻，限速是多少？"
+      "zh-Hans": "如果您在接近铁路交叉口时（距离 100 英尺内），您两侧 400 英尺内的视野受阻，限速是多少？",
+      "zh-Hant": "如果您在接近铁路交叉口时（距离 100 英尺内），您两侧 400 英尺内的视野受阻，限速是多少？"
     },
     "options": {
       "A": {
@@ -17214,8 +17214,8 @@
       },
       "B": {
         "en": "Slow down, stay at least 3 feet behind them, and wait until you can pass safely.",
-        "zh-Hans": "减速，并在他们后方保持至少 3 呎的距离，直到您可以安全超车。",
-        "zh-Hant": "减速，并在他们后方保持至少 3 呎的距离，直到您可以安全超车。"
+        "zh-Hans": "减速，并在他们后方保持至少 3 英尺的距离，直到您可以安全超车。",
+        "zh-Hant": "减速，并在他们后方保持至少 3 英尺的距离，直到您可以安全超车。"
       },
       "C": {
         "en": "It is illegal to pass on a bridge.",
@@ -17226,14 +17226,14 @@
     "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Road Rules, slow down and keep at least 3 feet behind a bicyclist until you can pass safely.",
-      "zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，应减速并在自行车后方保持至少 3 呎距离，待安全时再超车。",
-      "zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，应减速并在自行车后方保持至少 3 呎距离，待安全时再超车。"
+      "zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，应减速并在自行车后方保持至少 3 英尺距离，待安全时再超车。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，应减速并在自行车后方保持至少 3 英尺距离，待安全时再超车。"
     },
     "dmv_ref": {
       "page": "Cali",
       "section": "traffic_rules",
-      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，应减速并在自行车后方保持至少 3 呎距离，待安全时再超车。",
-      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，应减速并在自行车后方保持至少 3 呎距离，待安全时再超车。"
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，应减速并在自行车后方保持至少 3 英尺距离，待安全时再超车。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，应减速并在自行车后方保持至少 3 英尺距离，待安全时再超车。"
     },
     "source": "deepdive"
   },
@@ -19933,8 +19933,8 @@
     "category": "traffic_rules",
     "question": {
       "en": "Following an emergency vehicle (within 300 feet) or stopping near a fire, collision, or other disaster scene to watch is:",
-      "zh-Hans": "在发生火灾、碰撞或其他灾难的现场，跟随紧急车辆（在 300 呎内）或在其附近停车围观是：",
-      "zh-Hant": "在发生火灾、碰撞或其他灾难的现场，跟随紧急车辆（在 300 呎内）或在其附近停车围观是："
+      "zh-Hans": "在发生火灾、碰撞或其他灾难的现场，跟随紧急车辆（在 300 英尺内）或在其附近停车围观是：",
+      "zh-Hant": "在发生火灾、碰撞或其他灾难的现场，跟随紧急车辆（在 300 英尺内）或在其附近停车围观是："
     },
     "options": {
       "A": {
@@ -19956,14 +19956,14 @@
     "answer": "B",
     "explanation": {
       "en": "Explanation: Explanation: According to the handbook, Chapter 7 | Road Laws and Regulations | Road Rules, The handbook explicitly prohibits two things: 1. Following within 300 feet of an emergency vehicle. 2. Driving to the scene of a disaster to 'rubberneck' (watch). Both actions interfere with emergency personnel and are illegal. Onlookers ('rubberneckers') can be arrested.",
-      "zh-Hans": "根据手册第7章《道路法律及规定》《紧急车辆》的规定，紧急车辆后方 300 呎内尾随或在灾难现场围观都是违法的。",
-      "zh-Hant": "根据手册第7章《道路法律及规定》《紧急车辆》的规定，紧急车辆后方 300 呎内尾随或在灾难现场围观都是违法的。"
+      "zh-Hans": "根据手册第7章《道路法律及规定》《紧急车辆》的规定，紧急车辆后方 300 英尺内尾随或在灾难现场围观都是违法的。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《紧急车辆》的规定，紧急车辆后方 300 英尺内尾随或在灾难现场围观都是违法的。"
     },
     "dmv_ref": {
       "page": "Cali",
       "section": "traffic_rules",
-      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《紧急车辆》的规定，紧急车辆后方 300 呎内尾随或在灾难现场围观都是违法的。",
-      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《紧急车辆》的规定，紧急车辆后方 300 呎内尾随或在灾难现场围观都是违法的。"
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《紧急车辆》的规定，紧急车辆后方 300 英尺内尾随或在灾难现场围观都是违法的。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《紧急车辆》的规定，紧急车辆后方 300 英尺内尾随或在灾难现场围观都是违法的。"
     },
     "source": "deepdive"
   },
@@ -20373,8 +20373,8 @@
       },
       "B": {
         "en": "Follow 300 feet behind them before merging.",
-        "zh-Hans": "在汇入车流前，在后方跟随 300 呎。",
-        "zh-Hant": "在汇入车流前，在后方跟随 300 呎。"
+        "zh-Hans": "在汇入车流前，在后方跟随 300 英尺。",
+        "zh-Hant": "在汇入车流前，在后方跟随 300 英尺。"
       },
       "C": {
         "en": "Signal, check your blind spots, and carefully merge back into traffic when it is safe.",
@@ -21967,13 +21967,13 @@
     "options": {
       "A": {
         "en": "50 feet",
-        "zh-Hans": "50 呎",
-        "zh-Hant": "50 呎"
+        "zh-Hans": "50 英尺",
+        "zh-Hant": "50 英尺"
       },
       "B": {
         "en": "100 feet",
-        "zh-Hans": "100 呎",
-        "zh-Hant": "100 呎"
+        "zh-Hans": "100 英尺",
+        "zh-Hant": "100 英尺"
       },
       "C": {
         "en": "5 seconds",
@@ -21984,14 +21984,14 @@
     "answer": "B",
     "explanation": {
       "en": "Explanation: Explanation: According to the handbook, Chapter 7 | Road Laws and Regulations | Traffic Signals, According to the handbook, you should signal at least 100 feet before a turn. This gives other drivers, pedestrians, and bicyclists adequate time to notice your intention and react.",
-      "zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，转弯前至少 100 呎打信号，便于其他道路使用者及时反应。",
-      "zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，转弯前至少 100 呎打信号，便于其他道路使用者及时反应。"
+      "zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，转弯前至少 100 英尺打信号，便于其他道路使用者及时反应。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，转弯前至少 100 英尺打信号，便于其他道路使用者及时反应。"
     },
     "dmv_ref": {
       "page": "Cali",
       "section": "traffic_rules",
-      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，转弯前至少 100 呎打信号，便于其他道路使用者及时反应。",
-      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，转弯前至少 100 呎打信号，便于其他道路使用者及时反应。"
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，转弯前至少 100 英尺打信号，便于其他道路使用者及时反应。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，转弯前至少 100 英尺打信号，便于其他道路使用者及时反应。"
     },
     "source": "deepdive"
   },
@@ -22123,8 +22123,8 @@
     "options": {
       "A": {
         "en": "You may drive in this lane for up to 200 feet.",
-        "zh-Hans": "您可以在此行车线内行驶最多 200 呎。",
-        "zh-Hant": "您可以在此行车线内行驶最多 200 呎。"
+        "zh-Hans": "您可以在此行车线内行驶最多 200 英尺。",
+        "zh-Hant": "您可以在此行车线内行驶最多 200 英尺。"
       },
       "B": {
         "en": "You may use it as a regular passing lane.",
@@ -22133,21 +22133,21 @@
       },
       "C": {
         "en": "You may enter this lane 100 feet before your turn.",
-        "zh-Hans": "您可以在转弯前 100 呎进入此行车线。",
-        "zh-Hant": "您可以在转弯前 100 呎进入此行车线。"
+        "zh-Hans": "您可以在转弯前 100 英尺进入此行车线。",
+        "zh-Hant": "您可以在转弯前 100 英尺进入此行车线。"
       }
     },
     "answer": "A",
     "explanation": {
       "en": "Explanation: Explanation: Per Chapter 7 | Road Laws and Regulations | Turns of the handbook, The handbook states that the center left-turn lane is only for preparing to turn left or make a U-turn. You may not drive more than 200 feet in this lane.",
-      "zh-Hans": "参照手册第7章《道路法律及规定》《转弯规则》的原则，中间左转行车线仅用于准备左转或掉头。您在此行车线内行驶的距离不得超过 200 呎。",
-      "zh-Hant": "参照手册第7章《道路法律及规定》《转弯规则》的原则，中间左转行车线仅用于准备左转或掉头。您在此行车线内行驶的距离不得超过 200 呎。"
+      "zh-Hans": "参照手册第7章《道路法律及规定》《转弯规则》的原则，中间左转行车线仅用于准备左转或掉头。您在此行车线内行驶的距离不得超过 200 英尺。",
+      "zh-Hant": "参照手册第7章《道路法律及规定》《转弯规则》的原则，中间左转行车线仅用于准备左转或掉头。您在此行车线内行驶的距离不得超过 200 英尺。"
     },
     "dmv_ref": {
       "page": "Cali",
       "section": "traffic_rules",
-      "analysis_zh-Hans": "参照手册第7章《道路法律及规定》《转弯规则》的原则，中间左转行车线仅用于准备左转或掉头。您在此行车线内行驶的距离不得超过 200 呎。",
-      "analysis_zh-Hant": "参照手册第7章《道路法律及规定》《转弯规则》的原则，中间左转行车线仅用于准备左转或掉头。您在此行车线内行驶的距离不得超过 200 呎。"
+      "analysis_zh-Hans": "参照手册第7章《道路法律及规定》《转弯规则》的原则，中间左转行车线仅用于准备左转或掉头。您在此行车线内行驶的距离不得超过 200 英尺。",
+      "analysis_zh-Hant": "参照手册第7章《道路法律及规定》《转弯规则》的原则，中间左转行车线仅用于准备左转或掉头。您在此行车线内行驶的距离不得超过 200 英尺。"
     },
     "source": "deepdive"
   },
@@ -22240,13 +22240,13 @@
     "options": {
       "A": {
         "en": "At least 100 feet",
-        "zh-Hans": "至少 100 呎",
-        "zh-Hant": "至少 100 呎"
+        "zh-Hans": "至少 100 英尺",
+        "zh-Hant": "至少 100 英尺"
       },
       "B": {
         "en": "At least 200 feet",
-        "zh-Hans": "至少 200 呎",
-        "zh-Hant": "至少 200 呎"
+        "zh-Hans": "至少 200 英尺",
+        "zh-Hant": "至少 200 英尺"
       },
       "C": {
         "en": "At least 5 seconds",
@@ -22257,14 +22257,14 @@
     "answer": "C",
     "explanation": {
       "en": "Explanation: Explanation: Per Chapter 7 | Road Laws and Regulations | Road Rules of the handbook, The handbook has a specific rule for freeways: before changing lanes on a freeway (e. g., to prepare for a turn or exit), you should signal at least five seconds in advance. This differs from the 100 feet rule for regular streets because at high speeds, distance is harder to judge, and time (5 seconds) is a more reliable safety standard.",
-      "zh-Hans": "参照手册第7章《道路法律及规定》《道路通行规则》的原则，手册中有一条针对高速公路的特定规则：在高速公路上变换行车线（例如为转弯或驶离做准备）之前，应至少提前五秒钟发出信号。这与普通街道上的100呎规则不同，因为高速行驶时，距离更难判断，而时间（5秒）是更可靠的安全标准。",
-      "zh-Hant": "参照手册第7章《道路法律及规定》《道路通行规则》的原则，手册中有一条针对高速公路的特定规则：在高速公路上变换行车线（例如为转弯或驶离做准备）之前，应至少提前五秒钟发出信号。这与普通街道上的100呎规则不同，因为高速行驶时，距离更难判断，而时间（5秒）是更可靠的安全标准。"
+      "zh-Hans": "参照手册第7章《道路法律及规定》《道路通行规则》的原则，手册中有一条针对高速公路的特定规则：在高速公路上变换行车线（例如为转弯或驶离做准备）之前，应至少提前五秒钟发出信号。这与普通街道上的100英尺规则不同，因为高速行驶时，距离更难判断，而时间（5秒）是更可靠的安全标准。",
+      "zh-Hant": "参照手册第7章《道路法律及规定》《道路通行规则》的原则，手册中有一条针对高速公路的特定规则：在高速公路上变换行车线（例如为转弯或驶离做准备）之前，应至少提前五秒钟发出信号。这与普通街道上的100英尺规则不同，因为高速行驶时，距离更难判断，而时间（5秒）是更可靠的安全标准。"
     },
     "dmv_ref": {
       "page": "Cali",
       "section": "traffic_rules",
-      "analysis_zh-Hans": "参照手册第7章《道路法律及规定》《道路通行规则》的原则，手册中有一条针对高速公路的特定规则：在高速公路上变换行车线（例如为转弯或驶离做准备）之前，应至少提前五秒钟发出信号。这与普通街道上的100呎规则不同，因为高速行驶时，距离更难判断，而时间（5秒）是更可靠的安全标准。",
-      "analysis_zh-Hant": "参照手册第7章《道路法律及规定》《道路通行规则》的原则，手册中有一条针对高速公路的特定规则：在高速公路上变换行车线（例如为转弯或驶离做准备）之前，应至少提前五秒钟发出信号。这与普通街道上的100呎规则不同，因为高速行驶时，距离更难判断，而时间（5秒）是更可靠的安全标准。"
+      "analysis_zh-Hans": "参照手册第7章《道路法律及规定》《道路通行规则》的原则，手册中有一条针对高速公路的特定规则：在高速公路上变换行车线（例如为转弯或驶离做准备）之前，应至少提前五秒钟发出信号。这与普通街道上的100英尺规则不同，因为高速行驶时，距离更难判断，而时间（5秒）是更可靠的安全标准。",
+      "analysis_zh-Hant": "参照手册第7章《道路法律及规定》《道路通行规则》的原则，手册中有一条针对高速公路的特定规则：在高速公路上变换行车线（例如为转弯或驶离做准备）之前，应至少提前五秒钟发出信号。这与普通街道上的100英尺规则不同，因为高速行驶时，距离更难判断，而时间（5秒）是更可靠的安全标准。"
     },
     "source": "deepdive"
   },
@@ -23025,8 +23025,8 @@
       },
       "B": {
         "en": "Signal, check blind spots, and merge into the bicycle lane no more than 200 feet before the turn.",
-        "zh-Hans": "在转弯前不早于 200 呎处，打信号、查看盲点，然后并入自行车行车线。",
-        "zh-Hant": "在转弯前不早于 200 呎处，打信号、查看盲点，然后并入自行车行车线。"
+        "zh-Hans": "在转弯前不早于 200 英尺处，打信号、查看盲点，然后并入自行车行车线。",
+        "zh-Hant": "在转弯前不早于 200 英尺处，打信号、查看盲点，然后并入自行车行车线。"
       },
       "C": {
         "en": "Honk to make the bicyclist yield, then turn right.",
@@ -23037,14 +23037,14 @@
     "answer": "B",
     "explanation": {
       "en": "Explanation: Explanation: Per Chapter 8 | Safe Driving | Defensive Driving and Risk Management of the handbook, The handbook specifies that when preparing for a right turn and there is a bike lane, you should first check for bicyclists, signal, then merge into the bike lane (but not more than 200 feet before the turn). This prevents right-hook collisions where you would cut off bicyclists. Complete your turn from the bike lane, then merge back into traffic.",
-      "zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，右转前可在不早于 200 呎处并入自行车行车线，打信号并检查盲点后再转弯。",
-      "zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，右转前可在不早于 200 呎处并入自行车行车线，打信号并检查盲点后再转弯。"
+      "zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，右转前可在不早于 200 英尺处并入自行车行车线，打信号并检查盲点后再转弯。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，右转前可在不早于 200 英尺处并入自行车行车线，打信号并检查盲点后再转弯。"
     },
     "dmv_ref": {
       "page": "Cali",
       "section": "traffic_rules",
-      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，右转前可在不早于 200 呎处并入自行车行车线，打信号并检查盲点后再转弯。",
-      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，右转前可在不早于 200 呎处并入自行车行车线，打信号并检查盲点后再转弯。"
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，右转前可在不早于 200 英尺处并入自行车行车线，打信号并检查盲点后再转弯。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，右转前可在不早于 200 英尺处并入自行车行车线，打信号并检查盲点后再转弯。"
     },
     "source": "deepdive"
   },
@@ -23064,26 +23064,26 @@
       },
       "B": {
         "en": "25 feet.",
-        "zh-Hans": "25 呎。",
-        "zh-Hant": "25 呎。"
+        "zh-Hans": "25 英尺。",
+        "zh-Hant": "25 英尺。"
       },
       "C": {
         "en": "100 feet.",
-        "zh-Hans": "100 呎。",
-        "zh-Hant": "100 呎。"
+        "zh-Hans": "100 英尺。",
+        "zh-Hant": "100 英尺。"
       }
     },
     "answer": "C",
     "explanation": {
       "en": "Explanation: According to the handbook, Chapter 7 | Road Laws and Regulations | Turns, you must signal at least 100 feet before turning on regular streets.",
-      "zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，转弯前至少 100 呎打信号，以便其他道路使用者做出反应。",
-      "zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，转弯前至少 100 呎打信号，以便其他道路使用者做出反应。"
+      "zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，转弯前至少 100 英尺打信号，以便其他道路使用者做出反应。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，转弯前至少 100 英尺打信号，以便其他道路使用者做出反应。"
     },
     "dmv_ref": {
       "page": "Cali",
       "section": "traffic_rules",
-      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，转弯前至少 100 呎打信号，以便其他道路使用者做出反应。",
-      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，转弯前至少 100 呎打信号，以便其他道路使用者做出反应。"
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，转弯前至少 100 英尺打信号，以便其他道路使用者做出反应。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，转弯前至少 100 英尺打信号，以便其他道路使用者做出反应。"
     },
     "source": "deepdive"
   },
@@ -23103,8 +23103,8 @@
       },
       "B": {
         "en": "It violates the '100 feet' signal rule.",
-        "zh-Hans": "这违反了“100呎”信号规则。",
-        "zh-Hant": "这违反了“100呎”信号规则。"
+        "zh-Hans": "这违反了“100英尺”信号规则。",
+        "zh-Hant": "这违反了“100英尺”信号规则。"
       },
       "C": {
         "en": "It confuses oncoming traffic.",
@@ -23176,8 +23176,8 @@
     "options": {
       "A": {
         "en": "Legal, as long as you are turning within 200 feet.",
-        "zh-Hans": "合法的，只要您在 200 呎内转弯。",
-        "zh-Hant": "合法的，只要您在 200 呎内转弯。"
+        "zh-Hans": "合法的，只要您在 200 英尺内转弯。",
+        "zh-Hant": "合法的，只要您在 200 英尺内转弯。"
       },
       "B": {
         "en": "Illegal, but you may cross it when preparing to make a right turn.",
@@ -23527,13 +23527,13 @@
     "options": {
       "A": {
         "en": "100 feet before the turn.",
-        "zh-Hans": "转弯前 100 呎。",
-        "zh-Hant": "转弯前 100 呎。"
+        "zh-Hans": "转弯前 100 英尺。",
+        "zh-Hant": "转弯前 100 英尺。"
       },
       "B": {
         "en": "No earlier than 200 feet before the turn.",
-        "zh-Hans": "转弯前不早于 200 呎。",
-        "zh-Hant": "转弯前不早于 200 呎。"
+        "zh-Hans": "转弯前不早于 200 英尺。",
+        "zh-Hant": "转弯前不早于 200 英尺。"
       },
       "C": {
         "en": "In the intersection.",
@@ -23544,14 +23544,14 @@
     "answer": "B",
     "explanation": {
       "en": "Explanation: Explanation: Per Chapter 7 | Road Laws and Regulations | Turns of the handbook, The handbook provides specific guidance: you should check your mirrors and blind spot for bicyclists, signal, and then merge into the bike lane no more than 200 feet before your turn. This prevents right-hook collisions. You must yield to any bicyclists already in the bike lane. Complete your turn from the bike lane, then return to the regular traffic lane after the turn.",
-      "zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，右转前可在不早于 200 呎处并入自行车行车线，并注意检查盲点。",
-      "zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，右转前可在不早于 200 呎处并入自行车行车线，并注意检查盲点。"
+      "zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，右转前可在不早于 200 英尺处并入自行车行车线，并注意检查盲点。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，右转前可在不早于 200 英尺处并入自行车行车线，并注意检查盲点。"
     },
     "dmv_ref": {
       "page": "Cali",
       "section": "traffic_rules",
-      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，右转前可在不早于 200 呎处并入自行车行车线，并注意检查盲点。",
-      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，右转前可在不早于 200 呎处并入自行车行车线，并注意检查盲点。"
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，右转前可在不早于 200 英尺处并入自行车行车线，并注意检查盲点。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，右转前可在不早于 200 英尺处并入自行车行车线，并注意检查盲点。"
     },
     "source": "deepdive"
   },
@@ -23766,8 +23766,8 @@
       },
       "B": {
         "en": "When no vehicles are approaching you within 200 feet in either direction.",
-        "zh-Hans": "当没有车辆在您任一方向的 200 呎以内靠近您时。",
-        "zh-Hant": "当没有车辆在您任一方向的 200 呎以内靠近您时。"
+        "zh-Hans": "当没有车辆在您任一方向的 200 英尺以内靠近您时。",
+        "zh-Hant": "当没有车辆在您任一方向的 200 英尺以内靠近您时。"
       },
       "C": {
         "en": "It is never allowed.",
@@ -23778,14 +23778,14 @@
     "answer": "B",
     "explanation": {
       "en": "Explanation: Explanation: Based on Chapter 7 | Road Laws and Regulations | Turns in the handbook, The handbook permits U-turns in residential areas if there are no vehicles approaching within 200 feet in either direction. You must have a clear, unobstructed view for 200 feet to ensure no approaching traffic will be endangered. U-turns are illegal in business districts unless at an intersection with a green light/arrow or where specifically permitted. The 200-foot rule applies specifically to residential areas.",
-      "zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，住宅区掉头需确保任一方向 200 呎内无车辆靠近。",
-      "zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，住宅区掉头需确保任一方向 200 呎内无车辆靠近。"
+      "zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，住宅区掉头需确保任一方向 200 英尺内无车辆靠近。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，住宅区掉头需确保任一方向 200 英尺内无车辆靠近。"
     },
     "dmv_ref": {
       "page": "Cali",
       "section": "traffic_rules",
-      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，住宅区掉头需确保任一方向 200 呎内无车辆靠近。",
-      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，住宅区掉头需确保任一方向 200 呎内无车辆靠近。"
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，住宅区掉头需确保任一方向 200 英尺内无车辆靠近。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，住宅区掉头需确保任一方向 200 英尺内无车辆靠近。"
     },
     "source": "deepdive"
   },
@@ -23995,8 +23995,8 @@
     "options": {
       "A": {
         "en": "When you cannot see 200 feet in both directions.",
-        "zh-Hans": "双向 200 呎内看不清楚时。",
-        "zh-Hant": "双向 200 呎内看不清楚时。"
+        "zh-Hans": "双向 200 英尺内看不清楚时。",
+        "zh-Hant": "双向 200 英尺内看不清楚时。"
       },
       "B": {
         "en": "When the weather is clear.",
@@ -24012,14 +24012,14 @@
     "answer": "A",
     "explanation": {
       "en": "Explanation: According to the handbook, Chapter 7 | Road Laws and Regulations | Turns, you must not make a U-turn when you cannot see 200 feet in both directions.",
-      "zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，若两方向 200 呎内视线不清，禁止掉头。",
-      "zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，若两方向 200 呎内视线不清，禁止掉头。"
+      "zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，若两方向 200 英尺内视线不清，禁止掉头。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，若两方向 200 英尺内视线不清，禁止掉头。"
     },
     "dmv_ref": {
       "page": "Cali",
       "section": "traffic_rules",
-      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，若两方向 200 呎内视线不清，禁止掉头。",
-      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，若两方向 200 呎内视线不清，禁止掉头。"
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，若两方向 200 英尺内视线不清，禁止掉头。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，若两方向 200 英尺内视线不清，禁止掉头。"
     },
     "source": "deepdive"
   },
@@ -24051,14 +24051,14 @@
     "answer": "A",
     "explanation": {
       "en": "Explanation: Explanation: According to the handbook, Chapter 7 | Road Laws and Regulations | Turns, The handbook specifies that center left-turn lanes (marked with yellow lines and arrows pointing left in both directions) may be used to prepare for left turns or legal U-turns. You may not use this lane for passing, merging, or parking. You may drive in this lane for no more than 200 feet while preparing for your turn or U-turn.",
-      "zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，中间左转行车线仅用于准备左转或掉头，行驶距离不得超过 200 呎。",
-      "zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，中间左转行车线仅用于准备左转或掉头，行驶距离不得超过 200 呎。"
+      "zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，中间左转行车线仅用于准备左转或掉头，行驶距离不得超过 200 英尺。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，中间左转行车线仅用于准备左转或掉头，行驶距离不得超过 200 英尺。"
     },
     "dmv_ref": {
       "page": "Cali",
       "section": "traffic_rules",
-      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，中间左转行车线仅用于准备左转或掉头，行驶距离不得超过 200 呎。",
-      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，中间左转行车线仅用于准备左转或掉头，行驶距离不得超过 200 呎。"
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，中间左转行车线仅用于准备左转或掉头，行驶距离不得超过 200 英尺。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，中间左转行车线仅用于准备左转或掉头，行驶距离不得超过 200 英尺。"
     },
     "source": "deepdive"
   },
@@ -24145,8 +24145,8 @@
     "category": "traffic_rules",
     "question": {
       "en": "Crossing two sets of double solid yellow lines with at least two feet of separation (buffer zone) to make a U-turn is:",
-      "zh-Hans": "穿越两组中间有至少两呎宽距离的双黄实线（障碍区）进行掉头是：",
-      "zh-Hant": "穿越两组中间有至少两呎宽距离的双黄实线（障碍区）进行掉头是："
+      "zh-Hans": "穿越两组中间有至少两英尺宽距离的双黄实线（障碍区）进行掉头是：",
+      "zh-Hant": "穿越两组中间有至少两英尺宽距离的双黄实线（障碍区）进行掉头是："
     },
     "options": {
       "A": {
@@ -24184,37 +24184,37 @@
     "category": "traffic_rules",
     "question": {
       "en": "When making a U-turn in a residential area, you must ensure clear visibility for how many feet in either direction?",
-      "zh-Hans": "在住宅区掉头时，您必须确保在任一方向有多少呎的清晰视野？",
-      "zh-Hant": "在住宅区掉头时，您必须确保在任一方向有多少呎的清晰视野？"
+      "zh-Hans": "在住宅区掉头时，您必须确保在任一方向有多少英尺的清晰视野？",
+      "zh-Hant": "在住宅区掉头时，您必须确保在任一方向有多少英尺的清晰视野？"
     },
     "options": {
       "A": {
         "en": "50 feet",
-        "zh-Hans": "50 呎",
-        "zh-Hant": "50 呎"
+        "zh-Hans": "50 英尺",
+        "zh-Hant": "50 英尺"
       },
       "B": {
         "en": "200 feet",
-        "zh-Hans": "200 呎",
-        "zh-Hant": "200 呎"
+        "zh-Hans": "200 英尺",
+        "zh-Hant": "200 英尺"
       },
       "C": {
         "en": "500 feet",
-        "zh-Hans": "500 呎",
-        "zh-Hant": "500 呎"
+        "zh-Hans": "500 英尺",
+        "zh-Hant": "500 英尺"
       }
     },
     "answer": "B",
     "explanation": {
       "en": "Explanation: Explanation: According to the handbook, Chapter 7 | Road Laws and Regulations | Turns, The handbook specifically requires that when making a U-turn in a residential district, you must be able to see clearly for 200 feet in both directions. This ensures that no vehicles approaching from either direction within 200 feet would be endangered by your U-turn. If trees, parked cars, hills, or curves limit your visibility to less than 200 feet, you cannot legally make a U-turn at that location.",
-      "zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，住宅区掉头前需确保任一方向 200 呎内无车辆靠近。",
-      "zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，住宅区掉头前需确保任一方向 200 呎内无车辆靠近。"
+      "zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，住宅区掉头前需确保任一方向 200 英尺内无车辆靠近。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，住宅区掉头前需确保任一方向 200 英尺内无车辆靠近。"
     },
     "dmv_ref": {
       "page": "Cali",
       "section": "traffic_rules",
-      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，住宅区掉头前需确保任一方向 200 呎内无车辆靠近。",
-      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，住宅区掉头前需确保任一方向 200 呎内无车辆靠近。"
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，住宅区掉头前需确保任一方向 200 英尺内无车辆靠近。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，住宅区掉头前需确保任一方向 200 英尺内无车辆靠近。"
     },
     "source": "deepdive"
   },
@@ -24468,8 +24468,8 @@
       },
       "B": {
         "en": "At least 100 feet before the turn.",
-        "zh-Hans": "转弯前至少 100 呎。",
-        "zh-Hant": "转弯前至少 100 呎。"
+        "zh-Hans": "转弯前至少 100 英尺。",
+        "zh-Hant": "转弯前至少 100 英尺。"
       },
       "C": {
         "en": "Signaling is not required for a U-turn.",
@@ -24480,14 +24480,14 @@
     "answer": "B",
     "explanation": {
       "en": "Explanation: Explanation: According to the handbook, Chapter 7 | Road Laws and Regulations | Traffic Signals, The handbook requires that you signal for at least 100 feet before making a turn, including U-turns. This gives other drivers, bicyclists, and pedestrians adequate warning of your intention to make this maneuver. U-turns require other road users to slow down or stop, so early signaling is crucial for safety. Signal continuously during the entire maneuver until you have completed the U-turn.",
-      "zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，掉头与左转使用相同的转向信号，转弯前至少 100 呎打灯，提醒其他道路使用者。",
-      "zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，掉头与左转使用相同的转向信号，转弯前至少 100 呎打灯，提醒其他道路使用者。"
+      "zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，掉头与左转使用相同的转向信号，转弯前至少 100 英尺打灯，提醒其他道路使用者。",
+      "zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，掉头与左转使用相同的转向信号，转弯前至少 100 英尺打灯，提醒其他道路使用者。"
     },
     "dmv_ref": {
       "page": "Cali",
       "section": "traffic_rules",
-      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，掉头与左转使用相同的转向信号，转弯前至少 100 呎打灯，提醒其他道路使用者。",
-      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，掉头与左转使用相同的转向信号，转弯前至少 100 呎打灯，提醒其他道路使用者。"
+      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，掉头与左转使用相同的转向信号，转弯前至少 100 英尺打灯，提醒其他道路使用者。",
+      "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《转弯规则》的规定，掉头与左转使用相同的转向信号，转弯前至少 100 英尺打灯，提醒其他道路使用者。"
     },
     "source": "deepdive"
   },
@@ -29237,7 +29237,7 @@
       "A": {
         "en": "When you cannot see 1,000 feet ahead.",
         "zh-Hans": "当您看不清前方 1,000 英尺时。",
-        "zh-Hant": "當您看不清前方 1,000 英呎時。"
+        "zh-Hant": "當您看不清前方 1,000 英尺時。"
       },
       "B": {
         "en": "Only at night.",
@@ -29254,7 +29254,7 @@
     "explanation": {
       "en": "Headlights must be used when visibility is less than 1,000 feet or when wipers are on.",
       "zh-Hans": "如果因天气或光线无法看清 1,000 英尺外，或需要使用雨刷时，必须开大灯。",
-      "zh-Hant": "如果因天氣或光線無法看清 1,000 英呎外，或需要使用雨刷時，必須開大燈。"
+      "zh-Hant": "如果因天氣或光線無法看清 1,000 英尺外，或需要使用雨刷時，必須開大燈。"
     },
     "dmv_ref": {
       "page": "22",
@@ -29884,7 +29884,7 @@
       "page": "31",
       "section": "Section 6: Lane Control",
       "analysis_zh-Hans": "手册警示：如果两组双实线相距 2 英尺或更多，则视为“障碍物”，严禁跨越。",
-      "analysis_zh-Hant": "手冊警示：如果兩組雙實線相距 2 英呎或更多，則視為「障礙物」，嚴禁跨越。"
+      "analysis_zh-Hant": "手冊警示：如果兩組雙實線相距 2 英尺或更多，則視為「障礙物」，嚴禁跨越。"
     },
     "source": "deepdive"
   },
@@ -29972,30 +29972,30 @@
     "question": {
       "en": "How many feet before a turn should you signal?",
       "zh-Hans": "转弯前多少英尺应开启转向灯？",
-      "zh-Hant": "轉彎前多少英呎應開啟轉向燈？"
+      "zh-Hant": "轉彎前多少英尺應開啟轉向燈？"
     },
     "options": {
       "A": {
         "en": "At least 50 feet.",
         "zh-Hans": "至少 50 英尺。",
-        "zh-Hant": "至少 50 英呎。"
+        "zh-Hant": "至少 50 英尺。"
       },
       "B": {
         "en": "At least 100 feet.",
         "zh-Hans": "至少 100 英尺。",
-        "zh-Hant": "至少 100 英呎。"
+        "zh-Hant": "至少 100 英尺。"
       },
       "C": {
         "en": "At least 200 feet.",
         "zh-Hans": "至少 200 英尺。",
-        "zh-Hant": "至少 200 英呎。"
+        "zh-Hant": "至少 200 英尺。"
       }
     },
     "answer": "B",
     "explanation": {
       "en": "Continuous signaling for 100 feet allows other drivers to see your intentions clearly.",
       "zh-Hans": "持续信号 100 英尺可以让其他驾驶员有足够时间理解您的意图。",
-      "zh-Hant": "持續信號 100 英呎可以讓其他駕駛員有足夠時間理解您的意圖。"
+      "zh-Hant": "持續信號 100 英尺可以讓其他駕駛員有足夠時間理解您的意圖。"
     },
     "dmv_ref": {
       "page": "56",
@@ -30251,7 +30251,7 @@
       "A": {
         "en": "Yield the right-of-way and stop within 5 feet.",
         "zh-Hans": "让出优先权并在 5 英尺内停车。",
-        "zh-Hant": "讓出優先權並在 5 英呎內停車。"
+        "zh-Hant": "讓出優先權並在 5 英尺內停車。"
       },
       "B": {
         "en": "Honk to let them know you are there.",
@@ -30391,7 +30391,7 @@
       "page": "53",
       "section": "Section 7: Sharing the Road",
       "analysis_zh-Hans": "手册警告：严禁在紧急车辆后方 300 英尺内跟随。",
-      "analysis_zh-Hant": "手冊警告：嚴禁在緊急車輛後方 300 英呎內跟隨。"
+      "analysis_zh-Hant": "手冊警告：嚴禁在緊急車輛後方 300 英尺內跟隨。"
     },
     "source": "deepdive"
   },
@@ -30736,7 +30736,7 @@
     "explanation": {
       "en": "If you cannot see 100 feet in both directions, the limit is 15 mph.",
       "zh-Hans": "如果您在最后 100 英尺内看不清两侧道路，限速降至 15 英里。",
-      "zh-Hant": "如果您在最後 100 英呎內看不清兩側道路，限速降至 15 英哩。"
+      "zh-Hant": "如果您在最後 100 英尺內看不清兩側道路，限速降至 15 英哩。"
     },
     "dmv_ref": {
       "page": "40",
@@ -30807,7 +30807,7 @@
       "C": {
         "en": "When you are 50 feet ahead of them.",
         "zh-Hans": "当您领先对方 50 英尺时。",
-        "zh-Hant": "當您領先對方 50 英呎時。"
+        "zh-Hant": "當您領先對方 50 英尺時。"
       }
     },
     "answer": "A",
@@ -30919,7 +30919,7 @@
       "B": {
         "en": "Within 200 feet of a right turn.",
         "zh-Hans": "在右转前的 200 英尺内。",
-        "zh-Hant": "在右轉前的 200 英呎內。"
+        "zh-Hant": "在右轉前的 200 英尺內。"
       },
       "C": {
         "en": "Whenever no bicyclists are present.",
@@ -30931,7 +30931,7 @@
     "explanation": {
       "en": "You must enter the bike lane when making a right turn, but only within the final 200 feet.",
       "zh-Hans": "右转前必须先进入自行车道，但不能进得太早，法定距离是 200 英尺以内。",
-      "zh-Hant": "右轉前必須先進入自行車道，但不能進得太早，法定距離是 200 英呎以內。"
+      "zh-Hant": "右轉前必須先進入自行車道，但不能進得太早，法定距離是 200 英尺以內。"
     },
     "dmv_ref": {
       "page": "49",
@@ -30990,30 +30990,30 @@
       "A": {
         "en": "2 feet.",
         "zh-Hans": "2 英尺。",
-        "zh-Hant": "2 英呎。"
+        "zh-Hant": "2 英尺。"
       },
       "B": {
         "en": "3 feet.",
         "zh-Hans": "3 英尺。",
-        "zh-Hant": "3 英呎。"
+        "zh-Hant": "3 英尺。"
       },
       "C": {
         "en": "5 feet.",
         "zh-Hans": "5 英尺。",
-        "zh-Hant": "5 英呎。"
+        "zh-Hant": "5 英尺。"
       }
     },
     "answer": "B",
     "explanation": {
       "en": "California's 'Three Feet for Safety Act' requires at least 3 feet of space when passing cyclists.",
       "zh-Hans": "加州法律规定，超越自行车时必须保持 3 英尺以上的侧向距离。",
-      "zh-Hant": "加州法律規定，超越自行車時必須保持 3 英呎以上的側向距離。"
+      "zh-Hant": "加州法律規定，超越自行車時必須保持 3 英尺以上的側向距離。"
     },
     "dmv_ref": {
       "page": "55",
       "section": "Section 7: Sharing the Road",
       "analysis_zh-Hans": "2026年手册新增：如果无法保证 3 英尺距离，驾驶员必须换道超越或等待。",
-      "analysis_zh-Hant": "2026年手冊新增：如果無法保證 3 英呎距離，駕駛員必須換道超越或等待。"
+      "analysis_zh-Hant": "2026年手冊新增：如果無法保證 3 英尺距離，駕駛員必須換道超越或等待。"
     },
     "source": "deepdive"
   },
@@ -31323,7 +31323,7 @@
       "page": "84",
       "section": "Section 8: Night Driving",
       "analysis_zh-Hans": "手册规定：对向来车 500 英尺内或跟随前方车辆 300 英尺内必须关闭远光灯。",
-      "analysis_zh-Hant": "手冊規定：對向來車 500 英呎內或跟隨前方車輛 300 英呎內必須關閉遠光燈。"
+      "analysis_zh-Hant": "手冊規定：對向來車 500 英尺內或跟隨前方車輛 300 英尺內必須關閉遠光燈。"
     },
     "source": "deepdive"
   },
@@ -31356,7 +31356,7 @@
     "explanation": {
       "en": "At a blind railroad crossing where you cannot see 400 feet in both directions, the limit is 15 mph.",
       "zh-Hans": "在看不清两侧 400 英尺范围的铁路道口，法定限速为 15 英里。",
-      "zh-Hant": "在看不清兩側 400 英呎範圍的鐵路道口，法定限速為 15 英哩。"
+      "zh-Hant": "在看不清兩側 400 英尺範圍的鐵路道口，法定限速為 15 英哩。"
     },
     "dmv_ref": {
       "page": "40",
@@ -33991,7 +33991,7 @@
       "A": {
         "en": "In a residential district if there are no vehicles within 200 feet.",
         "zh-Hans": "在住宅区内，且 200 英尺内无驶近车辆时。",
-        "zh-Hant": "在住宅區內，且 200 英呎內無駛近車輛時。"
+        "zh-Hant": "在住宅區內，且 200 英尺內無駛近車輛時。"
       },
       "B": {
         "en": "Across a double solid yellow line.",
@@ -34001,14 +34001,14 @@
       "C": {
         "en": "On a curve or hill where visibility is less than 500 feet.",
         "zh-Hans": "在能见度低于 500 英尺的弯道或山坡上。",
-        "zh-Hant": "在能見度低於 500 英呎的彎道或山坡上。"
+        "zh-Hant": "在能見度低於 500 英尺的彎道或山坡上。"
       }
     },
     "answer": "A",
     "explanation": {
       "en": "U-turns are legal in residential areas if they are safe and meet visibility requirements.",
       "zh-Hans": "在居民区掉头是合法的，只要确保周围 200 英尺没有危险车辆。",
-      "zh-Hant": "在居民區掉頭是合法的，只要確保周圍 200 英呎沒有危險車輛。"
+      "zh-Hant": "在居民區掉頭是合法的，只要確保周圍 200 英尺沒有危險車輛。"
     },
     "dmv_ref": {
       "page": "49",
@@ -34320,7 +34320,7 @@
     "explanation": {
       "en": "The speed limit is 15 mph if you cannot see 100 feet in both directions before entering an intersection without stop signs.",
       "zh-Hans": "在没有停止标志的路口，如果您无法看清两端 100 英尺内的情况，限速为 15 英里。",
-      "zh-Hant": "在沒有停止標誌的路口，如果您無法看清兩端 100 英呎內的情況，限速為 15 英哩。"
+      "zh-Hant": "在沒有停止標誌的路口，如果您無法看清兩端 100 英尺內的情況，限速為 15 英哩。"
     },
     "dmv_ref": {
       "page": "40",
@@ -34336,18 +34336,18 @@
     "question": {
       "en": "2026 Update: It is illegal to park within ___ feet of a sidewalk ramp for disabled persons.",
       "zh-Hans": "2026年更新：在残疾人路缘坡道多少英尺内停车是违法的？",
-      "zh-Hant": "2026年更新：在殘疾人路緣坡道多少英呎內停車是違法的？"
+      "zh-Hant": "2026年更新：在殘疾人路緣坡道多少英尺內停車是違法的？"
     },
     "options": {
       "A": {
         "en": "3 feet.",
         "zh-Hans": "3 英尺。",
-        "zh-Hant": "3 英呎。"
+        "zh-Hant": "3 英尺。"
       },
       "B": {
         "en": "5 feet.",
         "zh-Hans": "5 英尺。",
-        "zh-Hant": "5 英呎。"
+        "zh-Hant": "5 英尺。"
       },
       "C": {
         "en": "Any distance that blocks it.",
@@ -35160,30 +35160,30 @@
     "question": {
       "en": "When must you dim your high beams for an oncoming vehicle?",
       "zh-Hans": "在距离迎面驶来的车辆多少英尺时，您必须切換回近光灯？",
-      "zh-Hant": "在距離迎面駛來的車輛多少英呎時，您必須切換回近光燈？"
+      "zh-Hant": "在距離迎面駛來的車輛多少英尺時，您必須切換回近光燈？"
     },
     "options": {
       "A": {
         "en": "300 feet.",
         "zh-Hans": "300 英尺。",
-        "zh-Hant": "300 英呎。"
+        "zh-Hant": "300 英尺。"
       },
       "B": {
         "en": "500 feet.",
         "zh-Hans": "500 英尺。",
-        "zh-Hant": "500 英呎。"
+        "zh-Hant": "500 英尺。"
       },
       "C": {
         "en": "1,000 feet.",
         "zh-Hans": "1,000 英尺。",
-        "zh-Hant": "1,000 英呎。"
+        "zh-Hant": "1,000 英尺。"
       }
     },
     "answer": "B",
     "explanation": {
       "en": "You must dim high beams within 500 feet of an oncoming vehicle and 300 feet of a vehicle you are following.",
       "zh-Hans": "面对对向来车 500 英尺内，或跟隨前车 300 英尺内，必须切換回近光灯以防眩目。",
-      "zh-Hant": "面對對向來車 500 英呎內，或跟隨前車 300 英呎內，必須切換回近光燈以防眩目。"
+      "zh-Hant": "面對對向來車 500 英尺內，或跟隨前車 300 英尺內，必須切換回近光燈以防眩目。"
     },
     "dmv_ref": {
       "page": "57",
@@ -35701,7 +35701,7 @@
     "explanation": {
       "en": "High beams should only be used where it is very dark and they won't blind other drivers.",
       "zh-Hans": "市区通常有路灯，不应频繁使用远光。只有在極度昏暗且确保 500 英尺内无来车时才可使用。",
-      "zh-Hant": "市區通常有路燈，不應頻繁使用遠光。只有在極度昏暗且確保 500 英呎內無來車時才可使用。"
+      "zh-Hant": "市區通常有路燈，不應頻繁使用遠光。只有在極度昏暗且確保 500 英尺內無來車時才可使用。"
     },
     "dmv_ref": {
       "page": "57",
@@ -36529,30 +36529,30 @@
     "question": {
       "en": "If a load extends more than ___ feet from the rear bumper, you must display a 12-inch red or orange square flag.",
       "zh-Hans": "如果货物从后保险杠向外延伸超过多少英尺，必须悬挂 12 英寸的红色或橙色方旗？",
-      "zh-Hant": "如果貨物從後保險槓向外延伸超過多少英呎，必須懸掛 12 英吋的紅色或橙色方旗？"
+      "zh-Hant": "如果貨物從後保險槓向外延伸超過多少英尺，必須懸掛 12 英吋的紅色或橙色方旗？"
     },
     "options": {
       "A": {
         "en": "2 feet.",
         "zh-Hans": "2 英尺。",
-        "zh-Hant": "2 英呎。"
+        "zh-Hant": "2 英尺。"
       },
       "B": {
         "en": "4 feet.",
         "zh-Hans": "4 英尺。",
-        "zh-Hant": "4 英呎。"
+        "zh-Hant": "4 英尺。"
       },
       "C": {
         "en": "6 feet.",
         "zh-Hans": "6 英尺。",
-        "zh-Hant": "6 英呎。"
+        "zh-Hant": "6 英尺。"
       }
     },
     "answer": "B",
     "explanation": {
       "en": "Loads extending more than 4 feet require a flag during the day and red lights at night.",
       "zh-Hans": "货物超出车尾 4 英尺（约 1.2 米）即为超长，白天须挂旗，夜间须加装两盏红灯。",
-      "zh-Hant": "貨物超出車尾 4 英呎（約 1.2 公尺）即為超長，白天須掛旗，夜間須加裝兩盞紅燈。"
+      "zh-Hant": "貨物超出車尾 4 英尺（約 1.2 公尺）即為超長，白天須掛旗，夜間須加裝兩盞紅燈。"
     },
     "dmv_ref": {
       "page": "103",
@@ -36714,30 +36714,30 @@
     "question": {
       "en": "2026 Update: When passing a bicyclist, you must leave at least ___ feet of space between your vehicle and the bicycle.",
       "zh-Hans": "2026年更新：在超越骑行者时，您的车辆与自行车之间必须保持至少多少英尺的距离？",
-      "zh-Hant": "2026年更新：在超越騎行者時，您的車輛與自行車之間必須保持至少多少英呎的距離？"
+      "zh-Hant": "2026年更新：在超越騎行者時，您的車輛與自行車之間必須保持至少多少英尺的距離？"
     },
     "options": {
       "A": {
         "en": "2 feet.",
         "zh-Hans": "2 英尺。",
-        "zh-Hant": "2 英呎。"
+        "zh-Hant": "2 英尺。"
       },
       "B": {
         "en": "3 feet.",
         "zh-Hans": "3 英尺。",
-        "zh-Hant": "3 英呎。"
+        "zh-Hant": "3 英尺。"
       },
       "C": {
         "en": "5 feet.",
         "zh-Hans": "5 英尺。",
-        "zh-Hant": "5 英呎。"
+        "zh-Hant": "5 英尺。"
       }
     },
     "answer": "B",
     "explanation": {
       "en": "California's 'Three Feet for Safety Act' requires drivers to keep 3 feet of space. 2026 rules suggest changing lanes if possible.",
       "zh-Hans": "加州法律（VC 21760）规定必须保持至少 3 英尺。如果空间不足，您必须减速直到可以安全超越。",
-      "zh-Hant": "加州法律（VC 21760）規定必須保持至少 3 英呎。如果空間不足，您必須減速直到可以安全超越。"
+      "zh-Hant": "加州法律（VC 21760）規定必須保持至少 3 英尺。如果空間不足，您必須減速直到可以安全超越。"
     },
     "dmv_ref": {
       "page": "55",
@@ -36811,7 +36811,7 @@
     "explanation": {
       "en": "At a 'blind' railroad crossing where you cannot see 400 feet in both directions, the limit is 15 mph.",
       "zh-Hans": "如果您在最后 100 英尺内看不到铁轨两端各 400 英尺的情况，该处即为盲区，限速 15 英里。",
-      "zh-Hant": "如果您在最後 100 英呎內看不到鐵軌兩端各 400 英呎的情況，該處即為盲區，限速 15 英哩。"
+      "zh-Hant": "如果您在最後 100 英尺內看不到鐵軌兩端各 400 英尺的情況，該處即為盲區，限速 15 英哩。"
     },
     "dmv_ref": {
       "page": "39",
@@ -37232,7 +37232,7 @@
     "question": {
       "en": "At a blind intersection where you cannot see 100 feet in either direction, the speed limit is:",
       "zh-Hans": "在一个无法看清左右各 100 英尺的盲端路口，限速是：",
-      "zh-Hant": "在一個無法看清左右各 100 英呎的盲端路口，限速是："
+      "zh-Hant": "在一個無法看清左右各 100 英尺的盲端路口，限速是："
     },
     "options": {
       "A": {
@@ -37255,7 +37255,7 @@
     "explanation": {
       "en": "The speed limit is 15 mph at intersections where you cannot see for 100 feet in any direction.",
       "zh-Hans": "如果视线受阻（如被建筑挡住）看不到横向 100 英尺，您必须减速到 15 英里以确保安全。",
-      "zh-Hant": "如果視線受阻（如被建築擋住）看不到橫向 100 英呎，您必須減速到 15 英哩以確保安全。"
+      "zh-Hant": "如果視線受阻（如被建築擋住）看不到橫向 100 英尺，您必須減速到 15 英哩以確保安全。"
     },
     "dmv_ref": {
       "page": "39",

@@ -89,7 +89,7 @@
       "A": {
         "en": "When you cannot see 1,000 feet ahead.",
         "zh-Hans": "当您看不清前方 1,000 英尺时。",
-        "zh-Hant": "當您看不清前方 1,000 英呎時。"
+        "zh-Hant": "當您看不清前方 1,000 英尺時。"
       },
       "B": {
         "en": "Only at night.",
@@ -106,7 +106,7 @@
     "explanation": {
       "en": "Headlights must be used when visibility is less than 1,000 feet or when wipers are on.",
       "zh-Hans": "如果因天气或光线无法看清 1,000 英尺外，或需要使用雨刷时，必须开大灯。",
-      "zh-Hant": "如果因天氣或光線無法看清 1,000 英呎外，或需要使用雨刷時，必須開大燈。"
+      "zh-Hant": "如果因天氣或光線無法看清 1,000 英尺外，或需要使用雨刷時，必須開大燈。"
     },
     "dmv_ref": {
       "page": "22",
@@ -736,7 +736,7 @@
       "page": "31",
       "section": "Section 6: Lane Control",
       "analysis_zh-Hans": "手册警示：如果两组双实线相距 2 英尺或更多，则视为“障碍物”，严禁跨越。",
-      "analysis_zh-Hant": "手冊警示：如果兩組雙實線相距 2 英呎或更多，則視為「障礙物」，嚴禁跨越。"
+      "analysis_zh-Hant": "手冊警示：如果兩組雙實線相距 2 英尺或更多，則視為「障礙物」，嚴禁跨越。"
     },
     "source": "basics"
   },
@@ -824,30 +824,30 @@
     "question": {
       "en": "How many feet before a turn should you signal?",
       "zh-Hans": "转弯前多少英尺应开启转向灯？",
-      "zh-Hant": "轉彎前多少英呎應開啟轉向燈？"
+      "zh-Hant": "轉彎前多少英尺應開啟轉向燈？"
     },
     "options": {
       "A": {
         "en": "At least 50 feet.",
         "zh-Hans": "至少 50 英尺。",
-        "zh-Hant": "至少 50 英呎。"
+        "zh-Hant": "至少 50 英尺。"
       },
       "B": {
         "en": "At least 100 feet.",
         "zh-Hans": "至少 100 英尺。",
-        "zh-Hant": "至少 100 英呎。"
+        "zh-Hant": "至少 100 英尺。"
       },
       "C": {
         "en": "At least 200 feet.",
         "zh-Hans": "至少 200 英尺。",
-        "zh-Hant": "至少 200 英呎。"
+        "zh-Hant": "至少 200 英尺。"
       }
     },
     "answer": "B",
     "explanation": {
       "en": "Continuous signaling for 100 feet allows other drivers to see your intentions clearly.",
       "zh-Hans": "持续信号 100 英尺可以让其他驾驶员有足够时间理解您的意图。",
-      "zh-Hant": "持續信號 100 英呎可以讓其他駕駛員有足夠時間理解您的意圖。"
+      "zh-Hant": "持續信號 100 英尺可以讓其他駕駛員有足夠時間理解您的意圖。"
     },
     "dmv_ref": {
       "page": "56",
@@ -1103,7 +1103,7 @@
       "A": {
         "en": "Yield the right-of-way and stop within 5 feet.",
         "zh-Hans": "让出优先权并在 5 英尺内停车。",
-        "zh-Hant": "讓出優先權並在 5 英呎內停車。"
+        "zh-Hant": "讓出優先權並在 5 英尺內停車。"
       },
       "B": {
         "en": "Honk to let them know you are there.",
@@ -1510,7 +1510,7 @@
     "explanation": {
       "en": "If you cannot see 100 feet in both directions, the limit is 15 mph.",
       "zh-Hans": "如果您在最后 100 英尺内看不清两侧道路，限速降至 15 英里。",
-      "zh-Hant": "如果您在最後 100 英呎內看不清兩側道路，限速降至 15 英哩。"
+      "zh-Hant": "如果您在最後 100 英尺內看不清兩側道路，限速降至 15 英哩。"
     },
     "dmv_ref": {
       "page": "40",
@@ -1581,7 +1581,7 @@
       "C": {
         "en": "When you are 50 feet ahead of them.",
         "zh-Hans": "当您领先对方 50 英尺时。",
-        "zh-Hant": "當您領先對方 50 英呎時。"
+        "zh-Hant": "當您領先對方 50 英尺時。"
       }
     },
     "answer": "A",
@@ -1698,14 +1698,14 @@
       "C": {
         "en": "Within 200 feet of a right turn.",
         "zh-Hans": "在右转前的 200 英尺内。",
-        "zh-Hant": "在右轉前的 200 英呎內。"
+        "zh-Hant": "在右轉前的 200 英尺內。"
       }
     },
     "answer": "C",
     "explanation": {
       "en": "You may enter a bike lane only when making a right turn (within 200 feet) or entering/leaving a driveway.",
       "zh-Hans": "只有在准备右转（提前 200 英尺内）或进出私人车道时，才可进入自行车道。",
-      "zh-Hant": "只有在準備右轉（提前 200 英呎內）或進出私人車道時，才可進入自行車道。"
+      "zh-Hant": "只有在準備右轉（提前 200 英尺內）或進出私人車道時，才可進入自行車道。"
     },
     "dmv_ref": {
       "page": "43",
@@ -1805,30 +1805,30 @@
       "A": {
         "en": "2 feet.",
         "zh-Hans": "2 英尺。",
-        "zh-Hant": "2 英呎。"
+        "zh-Hant": "2 英尺。"
       },
       "B": {
         "en": "3 feet.",
         "zh-Hans": "3 英尺。",
-        "zh-Hant": "3 英呎。"
+        "zh-Hant": "3 英尺。"
       },
       "C": {
         "en": "5 feet.",
         "zh-Hans": "5 英尺。",
-        "zh-Hant": "5 英呎。"
+        "zh-Hant": "5 英尺。"
       }
     },
     "answer": "B",
     "explanation": {
       "en": "California's 'Three Feet for Safety Act' requires at least 3 feet of space when passing cyclists.",
       "zh-Hans": "加州法律规定，超越自行车时必须保持 3 英尺以上的侧向距离。",
-      "zh-Hant": "加州法律規定，超越自行車時必須保持 3 英呎以上的側向距離。"
+      "zh-Hant": "加州法律規定，超越自行車時必須保持 3 英尺以上的側向距離。"
     },
     "dmv_ref": {
       "page": "55",
       "section": "Section 7: Sharing the Road",
       "analysis_zh-Hans": "2026年手册新增：如果无法保证 3 英尺距离，驾驶员必须换道超越或等待。",
-      "analysis_zh-Hant": "2026年手冊新增：如果無法保證 3 英呎距離，駕駛員必須換道超越或等待。"
+      "analysis_zh-Hant": "2026年手冊新增：如果無法保證 3 英尺距離，駕駛員必須換道超越或等待。"
     },
     "source": "basics"
   },
@@ -2140,7 +2140,7 @@
       "page": "84",
       "section": "Section 8: Night Driving",
       "analysis_zh-Hans": "手册规定：对向来车 500 英尺内或跟随前方车辆 300 英尺内必须关闭远光灯。",
-      "analysis_zh-Hant": "手冊規定：對向來車 500 英呎內或跟隨前方車輛 300 英呎內必須關閉遠光燈。"
+      "analysis_zh-Hant": "手冊規定：對向來車 500 英尺內或跟隨前方車輛 300 英尺內必須關閉遠光燈。"
     },
     "source": "basics"
   },
@@ -2173,7 +2173,7 @@
     "explanation": {
       "en": "At a blind railroad crossing where you cannot see 400 feet in both directions, the limit is 15 mph.",
       "zh-Hans": "在看不清两侧 400 英尺范围的铁路道口，法定限速为 15 英里。",
-      "zh-Hant": "在看不清兩側 400 英呎範圍的鐵路道口，法定限速為 15 英哩。"
+      "zh-Hant": "在看不清兩側 400 英尺範圍的鐵路道口，法定限速為 15 英哩。"
     },
     "dmv_ref": {
       "page": "40",

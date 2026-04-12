@@ -2195,7 +2195,7 @@
       "A": {
         "en": "In a residential district if there are no vehicles within 200 feet.",
         "zh-Hans": "在住宅区内，且 200 英尺内无驶近车辆时。",
-        "zh-Hant": "在住宅區內，且 200 英呎內無駛近車輛時。"
+        "zh-Hant": "在住宅區內，且 200 英尺內無駛近車輛時。"
       },
       "B": {
         "en": "Across a double solid yellow line.",
@@ -2205,14 +2205,14 @@
       "C": {
         "en": "On a curve or hill where visibility is less than 500 feet.",
         "zh-Hans": "在能见度低于 500 英尺的弯道或山坡上。",
-        "zh-Hant": "在能見度低於 500 英呎的彎道或山坡上。"
+        "zh-Hant": "在能見度低於 500 英尺的彎道或山坡上。"
       }
     },
     "answer": "A",
     "explanation": {
       "en": "U-turns are legal in residential areas if they are safe and meet visibility requirements.",
       "zh-Hans": "在居民区掉头是合法的，只要确保周围 200 英尺没有危险车辆。",
-      "zh-Hant": "在居民區掉頭是合法的，只要確保周圍 200 英呎沒有危險車輛。"
+      "zh-Hant": "在居民區掉頭是合法的，只要確保周圍 200 英尺沒有危險車輛。"
     },
     "dmv_ref": {
       "page": "49",
@@ -2538,18 +2538,18 @@
     "question": {
       "en": "2026 Update: It is illegal to park within ___ feet of a sidewalk ramp for disabled persons.",
       "zh-Hans": "2026年更新：在残疾人路缘坡道多少英尺内停车是违法的？",
-      "zh-Hant": "2026年更新：在殘疾人路緣坡道多少英呎內停車是違法的？"
+      "zh-Hant": "2026年更新：在殘疾人路緣坡道多少英尺內停車是違法的？"
     },
     "options": {
       "A": {
         "en": "3 feet.",
         "zh-Hans": "3 英尺。",
-        "zh-Hant": "3 英呎。"
+        "zh-Hant": "3 英尺。"
       },
       "B": {
         "en": "5 feet.",
         "zh-Hans": "5 英尺。",
-        "zh-Hant": "5 英呎。"
+        "zh-Hant": "5 英尺。"
       },
       "C": {
         "en": "Any distance that blocks it.",
@@ -2723,7 +2723,7 @@
       "page": "91",
       "section": "Section 8: Emergencies",
       "analysis_zh-Hans": "手册解析：安全停稳后，应在车后 200 英尺处放置三角警示牌。",
-      "analysis_zh-Hant": "手冊解析：安全停穩後，應在車後 200 英呎處放置三角警示牌。"
+      "analysis_zh-Hant": "手冊解析：安全停穩後，應在車後 200 英尺處放置三角警示牌。"
     },
     "source": "deepdive"
   },
@@ -3401,30 +3401,30 @@
     "question": {
       "en": "When must you dim your high beams for an oncoming vehicle?",
       "zh-Hans": "在距离迎面驶来的车辆多少英尺时，您必须切換回近光灯？",
-      "zh-Hant": "在距離迎面駛來的車輛多少英呎時，您必須切換回近光燈？"
+      "zh-Hant": "在距離迎面駛來的車輛多少英尺時，您必須切換回近光燈？"
     },
     "options": {
       "A": {
         "en": "300 feet.",
         "zh-Hans": "300 英尺。",
-        "zh-Hant": "300 英呎。"
+        "zh-Hant": "300 英尺。"
       },
       "B": {
         "en": "500 feet.",
         "zh-Hans": "500 英尺。",
-        "zh-Hant": "500 英呎。"
+        "zh-Hant": "500 英尺。"
       },
       "C": {
         "en": "1,000 feet.",
         "zh-Hans": "1,000 英尺。",
-        "zh-Hant": "1,000 英呎。"
+        "zh-Hant": "1,000 英尺。"
       }
     },
     "answer": "B",
     "explanation": {
       "en": "You must dim high beams within 500 feet of an oncoming vehicle and 300 feet of a vehicle you are following.",
       "zh-Hans": "面对对向来车 500 英尺内，或跟隨前车 300 英尺内，必须切換回近光灯以防眩目。",
-      "zh-Hant": "面對對向來車 500 英呎內，或跟隨前車 300 英呎內，必須切換回近光燈以防眩目。"
+      "zh-Hant": "面對對向來車 500 英尺內，或跟隨前車 300 英尺內，必須切換回近光燈以防眩目。"
     },
     "dmv_ref": {
       "page": "57",
@@ -3942,7 +3942,7 @@
     "explanation": {
       "en": "High beams should only be used where it is very dark and they won't blind other drivers.",
       "zh-Hans": "市区通常有路灯，不应频繁使用远光。只有在極度昏暗且确保 500 英尺内无来车时才可使用。",
-      "zh-Hant": "市區通常有路燈，不應頻繁使用遠光。只有在極度昏暗且確保 500 英呎內無來車時才可使用。"
+      "zh-Hant": "市區通常有路燈，不應頻繁使用遠光。只有在極度昏暗且確保 500 英尺內無來車時才可使用。"
     },
     "dmv_ref": {
       "page": "57",
@@ -4733,30 +4733,30 @@
     "question": {
       "en": "If a load extends more than ___ feet from the rear bumper, you must display a 12-inch red or orange square flag.",
       "zh-Hans": "如果货物从后保险杠向外延伸超过多少英尺，必须悬挂 12 英寸的红色或橙色方旗？",
-      "zh-Hant": "如果貨物從後保險槓向外延伸超過多少英呎，必須懸掛 12 英吋的紅色或橙色方旗？"
+      "zh-Hant": "如果貨物從後保險槓向外延伸超過多少英尺，必須懸掛 12 英吋的紅色或橙色方旗？"
     },
     "options": {
       "A": {
         "en": "2 feet.",
         "zh-Hans": "2 英尺。",
-        "zh-Hant": "2 英呎。"
+        "zh-Hant": "2 英尺。"
       },
       "B": {
         "en": "4 feet.",
         "zh-Hans": "4 英尺。",
-        "zh-Hant": "4 英呎。"
+        "zh-Hant": "4 英尺。"
       },
       "C": {
         "en": "6 feet.",
         "zh-Hans": "6 英尺。",
-        "zh-Hant": "6 英呎。"
+        "zh-Hant": "6 英尺。"
       }
     },
     "answer": "B",
     "explanation": {
       "en": "Loads extending more than 4 feet require a flag during the day and red lights at night.",
       "zh-Hans": "货物超出车尾 4 英尺（约 1.2 米）即为超长，白天须挂旗，夜间须加装两盏红灯。",
-      "zh-Hant": "貨物超出車尾 4 英呎（約 1.2 公尺）即為超長，白天須掛旗，夜間須加裝兩盞紅燈。"
+      "zh-Hant": "貨物超出車尾 4 英尺（約 1.2 公尺）即為超長，白天須掛旗，夜間須加裝兩盞紅燈。"
     },
     "dmv_ref": {
       "page": "103",
@@ -4918,30 +4918,30 @@
     "question": {
       "en": "2026 Update: When passing a bicyclist, you must leave at least ___ feet of space between your vehicle and the bicycle.",
       "zh-Hans": "2026年更新：在超越骑行者时，您的车辆与自行车之间必须保持至少多少英尺的距离？",
-      "zh-Hant": "2026年更新：在超越騎行者時，您的車輛與自行車之間必須保持至少多少英呎的距離？"
+      "zh-Hant": "2026年更新：在超越騎行者時，您的車輛與自行車之間必須保持至少多少英尺的距離？"
     },
     "options": {
       "A": {
         "en": "2 feet.",
         "zh-Hans": "2 英尺。",
-        "zh-Hant": "2 英呎。"
+        "zh-Hant": "2 英尺。"
       },
       "B": {
         "en": "3 feet.",
         "zh-Hans": "3 英尺。",
-        "zh-Hant": "3 英呎。"
+        "zh-Hant": "3 英尺。"
       },
       "C": {
         "en": "5 feet.",
         "zh-Hans": "5 英尺。",
-        "zh-Hant": "5 英呎。"
+        "zh-Hant": "5 英尺。"
       }
     },
     "answer": "B",
     "explanation": {
       "en": "California's 'Three Feet for Safety Act' requires drivers to keep 3 feet of space. 2026 rules suggest changing lanes if possible.",
       "zh-Hans": "加州法律（VC 21760）规定必须保持至少 3 英尺。如果空间不足，您必须减速直到可以安全超越。",
-      "zh-Hant": "加州法律（VC 21760）規定必須保持至少 3 英呎。如果空間不足，您必須減速直到可以安全超越。"
+      "zh-Hant": "加州法律（VC 21760）規定必須保持至少 3 英尺。如果空間不足，您必須減速直到可以安全超越。"
     },
     "dmv_ref": {
       "page": "55",
@@ -5015,7 +5015,7 @@
     "explanation": {
       "en": "At a 'blind' railroad crossing where you cannot see 400 feet in both directions, the limit is 15 mph.",
       "zh-Hans": "如果您在最后 100 英尺内看不到铁轨两端各 400 英尺的情况，该处即为盲区，限速 15 英里。",
-      "zh-Hant": "如果您在最後 100 英呎內看不到鐵軌兩端各 400 英呎的情況，該處即為盲區，限速 15 英哩。"
+      "zh-Hant": "如果您在最後 100 英尺內看不到鐵軌兩端各 400 英尺的情況，該處即為盲區，限速 15 英哩。"
     },
     "dmv_ref": {
       "page": "39",
@@ -5436,7 +5436,7 @@
     "question": {
       "en": "At a blind intersection where you cannot see 100 feet in either direction, the speed limit is:",
       "zh-Hans": "在一个无法看清左右各 100 英尺的盲端路口，限速是：",
-      "zh-Hant": "在一個無法看清左右各 100 英呎的盲端路口，限速是："
+      "zh-Hant": "在一個無法看清左右各 100 英尺的盲端路口，限速是："
     },
     "options": {
       "A": {
@@ -5459,7 +5459,7 @@
     "explanation": {
       "en": "The speed limit is 15 mph at intersections where you cannot see for 100 feet in any direction.",
       "zh-Hans": "如果视线受阻（如被建筑挡住）看不到横向 100 英尺，您必须减速到 15 英里以确保安全。",
-      "zh-Hant": "如果視線受阻（如被建築擋住）看不到橫向 100 英呎，您必須減速到 15 英哩以確保安全。"
+      "zh-Hant": "如果視線受阻（如被建築擋住）看不到橫向 100 英尺，您必須減速到 15 英哩以確保安全。"
     },
     "dmv_ref": {
       "page": "39",

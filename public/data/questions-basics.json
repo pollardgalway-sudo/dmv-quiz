@@ -556,8 +556,8 @@
     "options": {
       "A": {
         "en": "Stop at least 15 feet from the nearest rail and wait (until the lights stop flashing).",
-        "zh-Hans": "在距离最近的铁轨至少 15 呎以外之处停车，并等待（直到灯停止闪烁）。",
-        "zh-Hant": "在距离最近的铁轨至少 15 呎以外之处停车，并等待（直到灯停止闪烁）。"
+        "zh-Hans": "在距离最近的铁轨至少 15 英尺以外之处停车，并等待（直到灯停止闪烁）。",
+        "zh-Hant": "在距离最近的铁轨至少 15 英尺以外之处停车，并等待（直到灯停止闪烁）。"
       },
       "B": {
         "en": "Slow down and proceed with caution (if no train is visible).",
@@ -2472,8 +2472,8 @@
       },
       "B": {
         "en": "Stop at least 15 feet from the tracks and *WAIT* (until the lights stop flashing).",
-        "zh-Hans": "在距离铁轨至少 15 呎处停车，并*等待*（直到灯停止闪烁）。",
-        "zh-Hant": "在距离铁轨至少 15 呎处停车，并*等待*（直到灯停止闪烁）。"
+        "zh-Hans": "在距离铁轨至少 15 英尺处停车，并*等待*（直到灯停止闪烁）。",
+        "zh-Hant": "在距离铁轨至少 15 英尺处停车，并*等待*（直到灯停止闪烁）。"
       },
       "C": {
         "en": "It is an advisory warning only.",
@@ -3057,8 +3057,8 @@
       },
       "B": {
         "en": "Two sets of solid double yellow lines spaced two or more feet apart.",
-        "zh-Hans": "两组中间有至少两呎宽距离的双黄​​色实线。",
-        "zh-Hant": "两组中间有至少两呎宽距离的双黄​​色实线。"
+        "zh-Hans": "两组中间有至少两英尺宽距离的双黄​​色实线。",
+        "zh-Hant": "两组中间有至少两英尺宽距离的双黄​​色实线。"
       },
       "C": {
         "en": "A single solid white line.",
@@ -3291,8 +3291,8 @@
       },
       "B": {
         "en": "A 'Barrier' is two sets of double yellow lines, spaced apart (by 2+ feet).",
-        "zh-Hans": "“障碍区”是两组中间有（至少 2 呎）空间隔开的双黄线。",
-        "zh-Hant": "“障碍区”是两组中间有（至少 2 呎）空间隔开的双黄线。"
+        "zh-Hans": "“障碍区”是两组中间有（至少 2 英尺）空间隔开的双黄线。",
+        "zh-Hant": "“障碍区”是两组中间有（至少 2 英尺）空间隔开的双黄线。"
       },
       "C": {
         "en": "A 'Barrier' is broken.",
@@ -4645,8 +4645,8 @@
     "category": "traffic_rules",
     "question": {
       "en": "If you are driving in a residential zone (25 mph limit), but your view is blocked by a curve (within 100 feet), you should:",
-      "zh-Hans": "如果您在住宅区（限速 25 英里）行驶，但前方（在 100 呎内）的视野因弯道而受阻，您应该：",
-      "zh-Hant": "如果您在住宅区（限速 25 英里）行驶，但前方（在 100 呎内）的视野因弯道而受阻，您应该："
+      "zh-Hans": "如果您在住宅区（限速 25 英里）行驶，但前方（在 100 英尺内）的视野因弯道而受阻，您应该：",
+      "zh-Hant": "如果您在住宅区（限速 25 英里）行驶，但前方（在 100 英尺内）的视野因弯道而受阻，您应该："
     },
     "options": {
       "A": {
@@ -5780,8 +5780,8 @@
     "options": {
       "A": {
         "en": "100 feet before the exit, while still on the freeway (main lanes).",
-        "zh-Hans": "在您仍在高速公路（主干道）上时，在出口前 100 呎。",
-        "zh-Hant": "在您仍在高速公路（主干道）上时，在出口前 100 呎。"
+        "zh-Hans": "在您仍在高速公路（主干道）上时，在出口前 100 英尺。",
+        "zh-Hant": "在您仍在高速公路（主干道）上时，在出口前 100 英尺。"
       },
       "B": {
         "en": "After you have completely entered the exit ramp.",
