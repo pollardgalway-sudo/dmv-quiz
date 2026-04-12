@@ -16960,7 +16960,9 @@
       "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，蓝白标志为紧急通知系统，提供铁路交叉口编号和紧急联系电话。",
       "analysis_zh-Hant": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，蓝白标志为紧急通知系统，提供铁路交叉口编号和紧急联系电话。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/rail-road-crossroad.webp"
   },
   {
     "id": 436,
@@ -24565,7 +24567,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，四向停牌需全部车辆先停，按先来先行并让行右侧车辆与行人。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，四向停牌需全部车辆先停，按先来先行并让行右侧车辆与行人。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/stop.jpg"
   },
   {
     "id": 631,
@@ -24604,7 +24608,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，红灯时仅允许右转，但必须先停车并让行。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，红灯时仅允许右转，但必须先停车并让行。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/No-Turn-On-Red.webp"
   },
   {
     "id": 632,
@@ -24760,7 +24766,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，该标志表示对向来车优先，应让行或停车等待。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，该标志表示对向来车优先，应让行或停车等待。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/YIELDTOUPHILLTRAFFIC.jpg"
   },
   {
     "id": 636,
@@ -24799,7 +24807,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，分隔公路标志提示前方有中央隔离带。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，分隔公路标志提示前方有中央隔离带。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/divided-road-2-miles-ahead.png"
   },
   {
     "id": 637,
@@ -24838,7 +24848,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，NO PARKING 表示禁止停车，但可短暂停靠上下客。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，NO PARKING 表示禁止停车，但可短暂停靠上下客。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/no-parking.webp"
   },
   {
     "id": 638,
@@ -24877,7 +24889,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，NO LEFT ON RED 表示红灯禁止左转。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，NO LEFT ON RED 表示红灯禁止左转。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/no-left-turn.jpg"
   },
   {
     "id": 639,
@@ -24916,7 +24930,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，斜杠左箭头表示禁止左转。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，斜杠左箭头表示禁止左转。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/no-left-turn.jpg"
   },
   {
     "id": 640,
@@ -24955,7 +24971,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，斜杠自行车表示禁止自行车通行。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，斜杠自行车表示禁止自行车通行。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/bicycle.jpg"
   },
   {
     "id": 641,
@@ -24994,7 +25012,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，绿灯左转仍需让行对向直行和行人。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，绿灯左转仍需让行对向直行和行人。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/Left-Turn-Yield-On-Green.webp"
   },
   {
     "id": 642,
@@ -25033,7 +25053,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，KEEP RIGHT 表示需从障碍物右侧通过。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，KEEP RIGHT 表示需从障碍物右侧通过。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/keep_right.webp"
   },
   {
     "id": 643,
@@ -25072,7 +25094,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，PASS WITH CARE 表示可超车但必须确保安全。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，PASS WITH CARE 表示可超车但必须确保安全。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/D0NOTPASS.jpg"
   },
   {
     "id": 644,
@@ -25111,7 +25135,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，DO NOT PASS 表示禁止跨线超车。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，DO NOT PASS 表示禁止跨线超车。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/no-passing-zone.webp"
   },
   {
     "id": 645,
@@ -25189,7 +25215,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，斜杠行人图示表示行人禁止通行。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，斜杠行人图示表示行人禁止通行。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/pedestrian-crossing.webp"
   },
   {
     "id": 647,
@@ -25228,7 +25256,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，斜杠右箭头表示禁止右转。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，斜杠右箭头表示禁止右转。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/NOTURNS.jpg"
   },
   {
     "id": 648,
@@ -25267,7 +25297,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，斜杠卡车表示禁止卡车通行。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，斜杠卡车表示禁止卡车通行。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/truck-rollover-reduce-speed.jpg"
   },
   {
     "id": 649,
@@ -25306,7 +25338,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，NO TURN ON RED 表示红灯禁止任何转弯。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，NO TURN ON RED 表示红灯禁止任何转弯。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/No-Turn-On-Red.webp"
   },
   {
     "id": 650,
@@ -25345,7 +25379,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，NO RIGHT ON RED 表示红灯禁止右转。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，NO RIGHT ON RED 表示红灯禁止右转。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/No-Turn-On-Red.webp"
   },
   {
     "id": 651,
@@ -25384,7 +25420,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，斜杠 U 箭头表示禁止掉头。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，斜杠 U 箭头表示禁止掉头。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/NO-U-TURN.png"
   },
   {
     "id": 652,
@@ -25423,7 +25461,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，对向车流可能延长绿灯，左转需让行。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，对向车流可能延长绿灯，左转需让行。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/Left-Turn-Yield-On-Green.webp"
   },
   {
     "id": 653,
@@ -25462,7 +25502,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，该标志表示车道可直行或左转。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，该标志表示车道可直行或左转。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/Left-and-U-Turn-Lanes-sign.jpg"
   },
   {
     "id": 654,
@@ -25501,7 +25543,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，LEFT TURN ONLY 表示该车道仅可左转。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，LEFT TURN ONLY 表示该车道仅可左转。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/Left-and-U-Turn-Lanes-sign.jpg"
   },
   {
     "id": 655,
@@ -25540,7 +25584,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，该车道允许直行或右转。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，该车道允许直行或右转。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/Right-Lane-Must-Turn-Right.jpg"
   },
   {
     "id": 656,
@@ -25579,7 +25625,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，该标志表示左车道仅左转，右车道可直行或右转。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，该标志表示左车道仅左转，右车道可直行或右转。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/Right-Lane-Must-Turn-Right.jpg"
   },
   {
     "id": 657,
@@ -25618,7 +25666,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，RIGHT TURN SIGNAL 表示右转需按专用信号指示通行。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，RIGHT TURN SIGNAL 表示右转需按专用信号指示通行。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/Right-Lane-Must-Turn-Right.jpg"
   },
   {
     "id": 658,
@@ -25657,7 +25707,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，中间车道仅供双向车辆左转使用。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，中间车道仅供双向车辆左转使用。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/TWO-WAY-LEFTTUAN.webp"
   },
   {
     "id": 659,
@@ -25696,7 +25748,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，残障专用车位仅限持有效许可车辆停放。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，残障专用车位仅限持有效许可车辆停放。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/disabled.png"
   },
   {
     "id": 660,
@@ -25774,7 +25828,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，铁路交叉牌表示道口在前，必须让行火车并必要时停车。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，铁路交叉牌表示道口在前，必须让行火车并必要时停车。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/rail-road-crossroad.webp"
   },
   {
     "id": 662,
@@ -25813,7 +25869,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，RIGHT TURN ONLY 表示该车道仅可右转。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，RIGHT TURN ONLY 表示该车道仅可右转。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/RIGHTTURNONLY.jpg"
   },
   {
     "id": 663,
@@ -25852,7 +25910,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，菱形标志提示前方受限车道（如 HOV）需符合条件。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，菱形标志提示前方受限车道（如 HOV）需符合条件。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/bus-caprool-lane-ahead.png"
   },
   {
     "id": 664,
@@ -25891,7 +25951,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，EMERGENCY STOPPING ONLY 表示仅紧急情况可停车。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，EMERGENCY STOPPING ONLY 表示仅紧急情况可停车。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/EMERGENCYPARKINGONLY.jpg"
   },
   {
     "id": 665,
@@ -25969,7 +26031,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，最低限速 40 mph，除非安全原因不得低于。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，最低限速 40 mph，除非安全原因不得低于。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/SPEED-LIMIT-50.jpg"
   },
   {
     "id": 667,
@@ -26008,7 +26072,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，该牌设定最高 55 mph、最低 45 mph 的速度区间。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，该牌设定最高 55 mph、最低 45 mph 的速度区间。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/SPEED-LIMIT-50.jpg"
   },
   {
     "id": 668,
@@ -26086,7 +26152,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，慢车靠右标志要求车速较慢车辆靠右行驶。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，慢车靠右标志要求车速较慢车辆靠右行驶。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/SLOWERTRAFFICKEEPRIGHT.jpg"
   },
   {
     "id": 670,
@@ -26125,7 +26193,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，WHEN CHILDREN ARE PRESENT 表示有儿童时按校区限速行驶。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，WHEN CHILDREN ARE PRESENT 表示有儿童时按校区限速行驶。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/shool-bus-stop.png"
   },
   {
     "id": 671,
@@ -26359,7 +26429,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，SCHOOL 附牌表示相关警告适用于学校区域。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，SCHOOL 附牌表示相关警告适用于学校区域。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/shool-bus-stop.png"
   },
   {
     "id": 677,
@@ -26398,7 +26470,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，前方有旗手指挥，应减速并服从指示。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，前方有旗手指挥，应减速并服从指示。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/Flagger-Ahead.jpg"
   },
   {
     "id": 678,
@@ -26554,7 +26628,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，工人作业标志提示前方施工人员，应减速谨慎通过。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，工人作业标志提示前方施工人员，应减速谨慎通过。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/wokers.png"
   },
   {
     "id": 682,
@@ -26593,7 +26669,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，校区限速预告提示即将进入学校限速区域，应提前减速。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，校区限速预告提示即将进入学校限速区域，应提前减速。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/shool-bus-stop.png"
   },
   {
     "id": 683,
@@ -26632,7 +26710,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，校车装卸学生区域提示前方可能停车上下学生，应减速并准备停车。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，校车装卸学生区域提示前方可能停车上下学生，应减速并准备停车。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/shool-bus-stop.png"
   },
   {
     "id": 684,
@@ -26866,7 +26946,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，SLOW 标志要求在施工区减速行驶。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，SLOW 标志要求在施工区减速行驶。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/SLOW-MOVING-VEHICLE.webp"
   },
   {
     "id": 690,
@@ -27490,7 +27572,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，并线标志提示侧向车道并入，应留出空间并注意来车。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，并线标志提示侧向车道并入，应留出空间并注意来车。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/merging-traffic.jpg"
   },
   {
     "id": 706,
@@ -27529,7 +27613,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，新增车道标志表示旁侧车流形成新车道，不需立即并线。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，新增车道标志表示旁侧车流形成新车道，不需立即并线。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/added-lane.webp"
   },
   {
     "id": 707,
@@ -27568,7 +27654,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，分流箭头表示前方分为直行与右转，应提前选道。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，分流箭头表示前方分为直行与右转，应提前选道。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/divided-traffic-sign.jpg"
   },
   {
     "id": 708,
@@ -27607,7 +27695,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，分隔公路结束提示前方为无隔离双向交通。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，分隔公路结束提示前方为无隔离双向交通。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/Two-Way-Traffic-Ahead.png"
   },
   {
     "id": 709,
@@ -27646,7 +27736,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，右弯警告提示前方右向弯道，应减速通过。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，右弯警告提示前方右向弯道，应减速通过。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/right-turn.webp"
   },
   {
     "id": 710,
@@ -27724,7 +27816,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，前方有信号灯路口，应提前减速并准备停车。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，前方有信号灯路口，应提前减速并准备停车。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/traffic-signal-ahead.jpg"
   },
   {
     "id": 712,
@@ -27841,7 +27935,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，右侧车道变窄，需提前调整车距并准备并线。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，右侧车道变窄，需提前调整车距并准备并线。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/rode-narrows.webp"
   },
   {
     "id": 715,
@@ -27880,7 +27976,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，双向通行标志提示前方为对向车流，应注意会车。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，双向通行标志提示前方为对向车流，应注意会车。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/tow-way-traffic.jpg"
   },
   {
     "id": 716,
@@ -27919,7 +28017,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，中央障碍标志提示前方有安全岛，应按箭头绕行。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，中央障碍标志提示前方有安全岛，应按箭头绕行。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/KEEP-LEFT.png"
   },
   {
     "id": 717,
@@ -27958,7 +28058,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，急左弯提示前方 90 度转弯，应明显减速。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，急左弯提示前方 90 度转弯，应明显减速。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/right-turn.webp"
   },
   {
     "id": 718,
@@ -27997,7 +28099,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，急右弯提示前方 90 度转弯，应明显减速。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，急右弯提示前方 90 度转弯，应明显减速。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/right-turn.webp"
   },
   {
     "id": 719,
@@ -28036,7 +28140,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，反向连续弯道提示先左后右，应提前减速。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，反向连续弯道提示先左后右，应提前减速。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/winding-road-sign.webp"
   },
   {
     "id": 720,
@@ -28075,7 +28181,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，反向连续弯道提示先右后左，应提前减速。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，反向连续弯道提示先右后左，应提前减速。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/winding-road-sign.webp"
   },
   {
     "id": 721,
@@ -28114,7 +28222,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，黄色方向箭头提示前方必须按箭头方向行驶或绕行。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，黄色方向箭头提示前方必须按箭头方向行驶或绕行。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/Direction-Arrow.webp"
   },
   {
     "id": 722,
@@ -28153,7 +28263,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，T 字路口提示前方道路到头，必须左转或右转。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，T 字路口提示前方道路到头，必须左转或右转。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/t_intersection.webp"
   },
   {
     "id": 723,
@@ -28192,7 +28304,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，右侧支路标志提示右侧有道路汇入，应注意来车。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，右侧支路标志提示右侧有道路汇入，应注意来车。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/cross_road.png"
   },
   {
     "id": 724,
@@ -28231,7 +28345,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，十字路口警告提示前方交叉交通，应减速观察。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，十字路口警告提示前方交叉交通，应减速观察。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/cross_road.png"
   },
   {
     "id": 725,
@@ -28387,7 +28503,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，卡车侧翻警告提示前方急弯/坡度，重车需显著降速。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，卡车侧翻警告提示前方急弯/坡度，重车需显著降速。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/truck-rollover-reduce-speed.jpg"
   },
   {
     "id": 729,
@@ -28426,7 +28544,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，Y 形路口提示前方分叉，应提前选道并减速。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，Y 形路口提示前方分叉，应提前选道并减速。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/Cross-Traffic-Ahead.gif"
   },
   {
     "id": 730,
@@ -28465,7 +28585,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，环岛警告提示前方环岛，应减速并让行环岛内车辆。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，环岛警告提示前方环岛，应减速并让行环岛内车辆。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/Cross-Traffic-Ahead.gif"
   },
   {
     "id": 731,
@@ -28504,7 +28626,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，双向箭头表示前方不得直行，只能左转或右转。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，双向箭头表示前方不得直行，只能左转或右转。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/lane_ends.png"
   },
   {
     "id": 732,
@@ -28543,7 +28667,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，前方桥面或道路变窄，应减速并谨慎会车。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，前方桥面或道路变窄，应减速并谨慎会车。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/Narrow-Bridge.webp"
   },
   {
     "id": 733,
@@ -28621,7 +28747,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，野生动物警告标志提示前方可能有鹿横穿，应减速警惕。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，野生动物警告标志提示前方可能有鹿横穿，应减速警惕。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/slide-area.gif"
   },
   {
     "id": 735,
@@ -28699,7 +28827,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，自行车警告标志提示前方可能有自行车通行或横穿，应减速留意。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，自行车警告标志提示前方可能有自行车通行或横穿，应减速留意。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/bicycle.jpg"
   },
   {
     "id": 737,
@@ -28855,7 +28985,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，双下箭头表示前方中央障碍/安全岛，车辆可从两侧绕行。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，双下箭头表示前方中央障碍/安全岛，车辆可从两侧绕行。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/lane_ends.png"
   },
   {
     "id": 741,
@@ -28894,7 +29026,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，低/软路肩提示路肩承载差，应避免突然驶入或急回正。",
       "analysis_zh-Hant": "根据手册第6章《导览道路》《交通标志》的规定，低/软路肩提示路肩承载差，应避免突然驶入或急回正。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/Soft-Shoulder.webp"
   },
   {
     "id": 742,
@@ -39154,7 +39288,7 @@
       "analysis_zh-Hant": "根據手册第6章《導覽道路》《交通標志》的規定，紅燈時僅允許右轉，但必須先停車並讓行。"
     },
     "hasImage": true,
-    "imageUrl": "/images/signs/right-turn.webp",
+    "imageUrl": "/images/signs/No-Turn-On-Red.webp",
     "id": 702,
     "source": "signs"
   },
@@ -39523,7 +39657,7 @@
       "analysis_zh-Hant": "根據手册第6章《導覽道路》《交通標志》的規定，斜杠右箭頭表示禁止右轉。"
     },
     "hasImage": true,
-    "imageUrl": "/images/signs/right-turn.webp",
+    "imageUrl": "/images/signs/NOTURNS.jpg",
     "id": 711,
     "source": "signs"
   },
@@ -39646,7 +39780,7 @@
       "analysis_zh-Hant": "根據手册第6章《導覽道路》《交通標志》的規定，RIGHT TURN SIGNAL 表示右轉需按專用信號指示通行。"
     },
     "hasImage": true,
-    "imageUrl": "/images/signs/right-turn.webp",
+    "imageUrl": "/images/signs/Right-Lane-Must-Turn-Right.jpg",
     "id": 714,
     "source": "signs"
   },
@@ -39933,7 +40067,7 @@
       "analysis_zh-Hant": "根據手册第6章《導覽道路》《交通標志》的規定，校車停靠点提示校車可能停車上下學生，應隨時准備停車。"
     },
     "hasImage": true,
-    "imageUrl": "/images/signs/STOP-AHEAD.jpg",
+    "imageUrl": "/images/signs/shool-bus-stop.png",
     "id": 721,
     "source": "signs"
   },
@@ -40261,7 +40395,7 @@
       "analysis_zh-Hant": "根據手册第6章《導覽道路》《交通標志》的規定，並線標志提示側向車道並入，應留出空間並注意來車。"
     },
     "hasImage": true,
-    "imageUrl": "/images/signs/Lane-Ends-Merge-Left.webp",
+    "imageUrl": "/images/signs/merging-traffic.jpg",
     "id": 729,
     "source": "signs"
   },
@@ -40343,7 +40477,7 @@
       "analysis_zh-Hant": "根據手册第6章《導覽道路》《交通標志》的規定，前方有信號燈路口，應提前減速並准備停車。"
     },
     "hasImage": true,
-    "imageUrl": "/images/signs/signal-ahead.jpg",
+    "imageUrl": "/images/signs/traffic-signal-ahead.jpg",
     "id": 731,
     "source": "signs"
   },

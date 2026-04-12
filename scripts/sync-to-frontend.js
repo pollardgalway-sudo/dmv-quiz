@@ -96,6 +96,14 @@ async function sync() {
         console.log(`   - 全真模拟总库: ${questionsAll.length} 题 (已更新)`);
         console.log(`\n💡 模拟测试现在会从全部 ${allQuestions.length} 道新题中抽取了！`);
 
+        // Apply deepdive image mappings
+        console.log('\n🖼️  应用 deepdive 图片映射...');
+        try {
+            require('./fix-all-images.js');
+        } catch (e) {
+            console.log('⚠️  图片映射脚本未找到或执行失败，跳过:', e.message);
+        }
+
     } catch (err) {
         console.error('❌ 同步失败:', err.message);
     }

@@ -285,3 +285,11 @@ console.log('\n--- 抽查 ---');
   console.log(`ID ${q.id} [${q.source}]: ${q.question.en.substring(0, 70)}`);
   console.log(`  答案: ${q.answer} | 图片: ${q.hasImage ? q.imageUrl : '无'}`);
 });
+
+// Apply deepdive image mappings (for questions that say "this sign" but came without images)
+console.log('\n🖼️  应用 deepdive 图片映射...');
+try {
+  require('./fix-all-images.js');
+} catch (e) {
+  console.log('⚠️  图片映射脚本未找到或执行失败，跳过:', e.message);
+}

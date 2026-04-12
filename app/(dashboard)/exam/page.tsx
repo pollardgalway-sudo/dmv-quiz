@@ -359,6 +359,23 @@ export default function ExamPage() {
               >
                 <div className={`h-1 ${result.isCorrect ? 'bg-emerald-500' : 'bg-red-500'}`} />
                 <CardContent className="p-4">
+                  {/* Image for sign questions */}
+                  {result.question.imageUrl && (
+                    <div className="flex justify-center mb-3">
+                      <div className="relative w-32 h-32 sm:w-40 sm:h-40 overflow-hidden">
+                        <Image
+                          src={result.question.imageUrl}
+                          alt="Traffic Sign"
+                          fill
+                          className="object-contain p-1"
+                          onError={(e) => {
+                            const target = e.target as HTMLImageElement;
+                            target.style.display = 'none';
+                          }}
+                        />
+                      </div>
+                    </div>
+                  )}
                   {/* Question Header */}
                   <div className="flex items-start gap-3 mb-3">
                     <span className={`flex-shrink-0 w-7 h-7 rounded-full flex items-center justify-center text-white font-bold text-sm ${result.isCorrect ? 'bg-emerald-500' : 'bg-red-500'
