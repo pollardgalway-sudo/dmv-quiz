@@ -25182,38 +25182,38 @@
     "id": 646,
     "category": "traffic_rules",
     "question": {
-      "en": "What does this sign mean for pedestrians?",
-      "zh-Hans": "这个标志对行人意味着什么？",
-      "zh-Hant": "這個標誌對行人意味著什麼？"
+      "en": "What does this yellow diamond sign with a pedestrian figure mean?",
+      "zh-Hans": "这个带有行人图案的黄色菱形标志是什么意思？",
+      "zh-Hant": "這個帶有行人圖案的黃色菱形標誌是什麼意思？"
     },
     "options": {
       "A": {
-        "en": "No pedestrians may enter or cross here",
-        "zh-Hans": "禁止行人进入或穿越此区域",
-        "zh-Hant": "禁止行人進入或穿越此區域"
+        "en": "It warns drivers that pedestrians may be crossing ahead; slow down and be prepared to stop",
+        "zh-Hans": "警告驾驶员前方有行人穿越区域，应减速并随时准备停车",
+        "zh-Hant": "警告駕駛員前方有行人穿越區域，應減速並隨時準備停車"
       },
       "B": {
-        "en": "Pedestrians prohibited only at night",
-        "zh-Hans": "仅夜间禁止行人",
-        "zh-Hant": "僅夜間禁止行人"
+        "en": "Pedestrians are prohibited from crossing here",
+        "zh-Hans": "禁止行人在此穿越",
+        "zh-Hant": "禁止行人在此穿越"
       },
       "C": {
-        "en": "Pedestrians may use the sidewalk",
-        "zh-Hans": "可在人行道通行",
-        "zh-Hant": "可在人行道通行"
+        "en": "Only pedestrians may use this road",
+        "zh-Hans": "仅限行人使用此道路",
+        "zh-Hant": "僅限行人使用此道路"
       }
     },
     "answer": "A",
     "explanation": {
-      "en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, the crossed-out pedestrian means no pedestrian traffic.",
-      "zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，斜杠行人图示表示行人禁止通行。",
-      "zh-Hant": "根據手冊第6章《導覽道路》《交通標誌》的規定，斜槓行人圖示表示行人禁止通行。"
+      "en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, this yellow diamond-shaped pedestrian crossing sign (W11-2) warns drivers that pedestrians may be crossing the road ahead. Drivers should slow down and watch for pedestrians.",
+      "zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，这个黄色菱形行人穿越警告标志 (W11-2) 提醒驾驶员前方可能有行人穿越道路，驾驶员应减速并注意行人。",
+      "zh-Hant": "根據手冊第6章《導覽道路》《交通標誌》的規定，這個黃色菱形行人穿越警告標誌 (W11-2) 提醒駕駛員前方可能有行人穿越道路，駕駛員應減速並注意行人。"
     },
     "dmv_ref": {
       "page": "Cali",
       "section": "traffic_rules",
-      "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，斜杠行人图示表示行人禁止通行。",
-      "analysis_zh-Hant": "根據手冊第6章《導覽道路》《交通標誌》的規定，斜槓行人圖示表示行人禁止通行。"
+      "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，这个黄色菱形行人穿越警告标志 (W11-2) 提醒驾驶员前方可能有行人穿越道路，驾驶员应减速并注意行人。",
+      "analysis_zh-Hant": "根據手冊第6章《導覽道路》《交通標誌》的規定，這個黃色菱形行人穿越警告標誌 (W11-2) 提醒駕駛員前方可能有行人穿越道路，駕駛員應減速並注意行人。"
     },
     "source": "deepdive",
     "hasImage": true,
