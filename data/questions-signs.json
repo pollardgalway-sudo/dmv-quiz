@@ -9,9 +9,9 @@
     },
     "options": {
       "A": {
-        "en": "Yield",
-        "zh-Hans": "让行",
-        "zh-Hant": "讓行"
+        "en": "No Parking",
+        "zh-Hans": "禁止停车",
+        "zh-Hant": "禁止停車"
       },
       "B": {
         "en": "Stop",
@@ -19,9 +19,9 @@
         "zh-Hant": "停車"
       },
       "C": {
-        "en": "No Parking",
-        "zh-Hans": "禁止停车",
-        "zh-Hant": "禁止停車"
+        "en": "Yield",
+        "zh-Hans": "让行",
+        "zh-Hant": "讓行"
       }
     },
     "answer": "B",
@@ -47,9 +47,9 @@
     },
     "options": {
       "A": {
-        "en": "Stop",
-        "zh-Hans": "停车",
-        "zh-Hant": "停車"
+        "en": "Speed Limit",
+        "zh-Hans": "限速",
+        "zh-Hant": "限速"
       },
       "B": {
         "en": "Yield",
@@ -57,9 +57,9 @@
         "zh-Hant": "讓行"
       },
       "C": {
-        "en": "Speed Limit",
-        "zh-Hans": "限速",
-        "zh-Hant": "限速"
+        "en": "Stop",
+        "zh-Hans": "停车",
+        "zh-Hant": "停車"
       }
     },
     "answer": "B",
@@ -85,22 +85,22 @@
     },
     "options": {
       "A": {
+        "en": "Guide signs",
+        "zh-Hans": "指路标志",
+        "zh-Hant": "指路標誌"
+      },
+      "B": {
         "en": "Regulatory signs",
         "zh-Hans": "规则标志",
         "zh-Hant": "規則標誌"
       },
-      "B": {
+      "C": {
         "en": "Warning signs",
         "zh-Hans": "警告标志",
         "zh-Hant": "警告標誌"
-      },
-      "C": {
-        "en": "Guide signs",
-        "zh-Hans": "指路标志",
-        "zh-Hant": "指路標誌"
       }
     },
-    "answer": "B",
+    "answer": "C",
     "explanation": {
       "en": "Yellow diamond-shaped signs are warning signs that alert you to hazards ahead.",
       "zh-Hans": "黄色菱形标志是警告标志，提醒你前方有危险。",
@@ -123,9 +123,9 @@
     },
     "options": {
       "A": {
-        "en": "Speed up to pass through",
-        "zh-Hans": "加速通过",
-        "zh-Hant": "加速通過"
+        "en": "School zone",
+        "zh-Hans": "学校区域",
+        "zh-Hant": "學校區域"
       },
       "B": {
         "en": "Construction or road work ahead",
@@ -133,9 +133,9 @@
         "zh-Hant": "前方有施工或道路作業"
       },
       "C": {
-        "en": "School zone",
-        "zh-Hans": "学校区域",
-        "zh-Hant": "學校區域"
+        "en": "Speed up to pass through",
+        "zh-Hans": "加速通过",
+        "zh-Hant": "加速通過"
       }
     },
     "answer": "B",
@@ -199,22 +199,22 @@
     },
     "options": {
       "A": {
+        "en": "No U-turn",
+        "zh-Hans": "禁止掉头",
+        "zh-Hant": "禁止掉頭"
+      },
+      "B": {
         "en": "Railroad crossing ahead",
         "zh-Hans": "前方铁路道口",
         "zh-Hant": "前方鐵路道口"
       },
-      "B": {
+      "C": {
         "en": "School zone",
         "zh-Hans": "学校区域",
         "zh-Hant": "學校區域"
-      },
-      "C": {
-        "en": "No U-turn",
-        "zh-Hans": "禁止掉头",
-        "zh-Hant": "禁止掉頭"
       }
     },
-    "answer": "A",
+    "answer": "B",
     "explanation": {
       "en": "The round yellow sign with RR and crossbuck warns of a railroad crossing ahead.",
       "zh-Hans": "带有RR和交叉标志的圆形黄色标志警告前方有铁路道口。",
@@ -237,22 +237,22 @@
     },
     "options": {
       "A": {
-        "en": "School zone",
-        "zh-Hans": "学校区域",
-        "zh-Hant": "學校區域"
-      },
-      "B": {
         "en": "No passing zone",
         "zh-Hans": "禁止超车区",
         "zh-Hant": "禁止超車區"
       },
-      "C": {
+      "B": {
         "en": "Merge ahead",
         "zh-Hans": "前方合流",
         "zh-Hant": "前方合流"
+      },
+      "C": {
+        "en": "School zone",
+        "zh-Hans": "学校区域",
+        "zh-Hant": "學校區域"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "The pennant-shaped sign marks the beginning of a no-passing zone.",
       "zh-Hans": "三角旗形标志标志着禁止超车区的开始。",
@@ -280,17 +280,17 @@
         "zh-Hant": "警告標誌"
       },
       "B": {
-        "en": "Regulatory sign (speed limit, etc.)",
-        "zh-Hans": "规则标志（限速等）",
-        "zh-Hant": "規則標誌（限速等）"
-      },
-      "C": {
         "en": "Guide sign",
         "zh-Hans": "指路标志",
         "zh-Hant": "指路標誌"
+      },
+      "C": {
+        "en": "Regulatory sign (speed limit, etc.)",
+        "zh-Hans": "规则标志（限速等）",
+        "zh-Hant": "規則標誌（限速等）"
       }
     },
-    "answer": "B",
+    "answer": "C",
     "explanation": {
       "en": "White rectangular signs are regulatory signs like speed limits, lane use, and other rules.",
       "zh-Hans": "白色矩形标志是规则标志，如限速、车道使用和其他规定。",
@@ -313,14 +313,14 @@
     },
     "options": {
       "A": {
-        "en": "Warning",
-        "zh-Hans": "警告",
-        "zh-Hant": "警告"
-      },
-      "B": {
         "en": "Services (gas, food, lodging)",
         "zh-Hans": "服务设施（加油、餐饮、住宿）",
         "zh-Hant": "服務設施（加油、餐飲、住宿）"
+      },
+      "B": {
+        "en": "Warning",
+        "zh-Hans": "警告",
+        "zh-Hant": "警告"
       },
       "C": {
         "en": "Stop ahead",
@@ -328,7 +328,7 @@
         "zh-Hant": "前方停車"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "Blue signs indicate motorist services like gas, food, lodging, and hospitals.",
       "zh-Hans": "蓝色标志表示驾驶员服务设施，如加油站、餐厅、住宿和医院。",
@@ -351,22 +351,22 @@
     },
     "options": {
       "A": {
-        "en": "Regulatory information",
-        "zh-Hans": "规则信息",
-        "zh-Hant": "規則信息"
-      },
-      "B": {
         "en": "Recreational areas and parks",
         "zh-Hans": "休闲区和公园",
         "zh-Hant": "休閒區和公園"
       },
-      "C": {
+      "B": {
         "en": "Construction zone",
         "zh-Hans": "施工区",
         "zh-Hant": "施工區"
+      },
+      "C": {
+        "en": "Regulatory information",
+        "zh-Hans": "规则信息",
+        "zh-Hant": "規則信息"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "Brown signs indicate recreational areas, parks, and points of interest.",
       "zh-Hans": "棕色标志表示休闲区、公园和景点。",
@@ -389,22 +389,22 @@
     },
     "options": {
       "A": {
+        "en": "Hospital ahead",
+        "zh-Hans": "前方医院",
+        "zh-Hant": "前方醫院"
+      },
+      "B": {
         "en": "Railroad crossing",
         "zh-Hans": "铁路道口",
         "zh-Hant": "鐵路道口"
       },
-      "B": {
+      "C": {
         "en": "School zone or school crossing",
         "zh-Hans": "学校区域或学校人行横道",
         "zh-Hant": "學校區域或學校人行橫道"
-      },
-      "C": {
-        "en": "Hospital ahead",
-        "zh-Hans": "前方医院",
-        "zh-Hant": "前方醫院"
       }
     },
-    "answer": "B",
+    "answer": "C",
     "explanation": {
       "en": "Pentagon-shaped signs indicate school zones or school crossings. Reduce speed and watch for children.",
       "zh-Hans": "五边形标志表示学校区域或学校人行横道。减速并注意儿童。",
@@ -465,22 +465,22 @@
     },
     "options": {
       "A": {
-        "en": "Truck rest area",
-        "zh-Hans": "卡车休息区",
-        "zh-Hant": "卡車休息區"
-      },
-      "B": {
         "en": "An escape ramp for trucks with brake failure",
         "zh-Hans": "刹车失灵卡车的逃生坡道",
         "zh-Hant": "剎車失靈卡車的逃生坡道"
       },
-      "C": {
+      "B": {
         "en": "Weigh station",
         "zh-Hans": "称重站",
         "zh-Hant": "稱重站"
+      },
+      "C": {
+        "en": "Truck rest area",
+        "zh-Hans": "卡车休息区",
+        "zh-Hant": "卡車休息區"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "Runaway truck ramps provide a safe exit for trucks that have lost their brakes on steep downgrades.",
       "zh-Hans": "失控卡车坡道为在陡下坡失去刹车的卡车提供安全出口。",
@@ -508,17 +508,17 @@
         "zh-Hant": "前方油價低"
       },
       "B": {
-        "en": "The overhead clearance is limited - check your vehicle height",
-        "zh-Hans": "上方净空有限 - 检查你的车辆高度",
-        "zh-Hant": "上方淨空有限 - 檢查你的車輛高度"
-      },
-      "C": {
         "en": "Low visibility area",
         "zh-Hans": "低能见度区域",
         "zh-Hant": "低能見度區域"
+      },
+      "C": {
+        "en": "The overhead clearance is limited - check your vehicle height",
+        "zh-Hans": "上方净空有限 - 检查你的车辆高度",
+        "zh-Hant": "上方淨空有限 - 檢查你的車輛高度"
       }
     },
-    "answer": "B",
+    "answer": "C",
     "explanation": {
       "en": "Low clearance signs warn of overhead obstacles. Know your vehicle height and compare to posted clearance.",
       "zh-Hans": "低净空标志警告上方有障碍物。了解你的车辆高度并与公示的净空比较。",
@@ -541,22 +541,22 @@
     },
     "options": {
       "A": {
-        "en": "All vehicles must stop",
-        "zh-Hans": "所有车辆必须停车",
-        "zh-Hant": "所有車輛必須停車"
-      },
-      "B": {
         "en": "Commercial vehicles must enter when station is open",
         "zh-Hans": "称重站开放时商用车辆必须进入",
         "zh-Hant": "稱重站開放時商用車輛必須進入"
       },
-      "C": {
+      "B": {
         "en": "Trucks can bypass if in a hurry",
         "zh-Hans": "赶时间的卡车可以绕行",
         "zh-Hant": "趕時間的卡車可以繞行"
+      },
+      "C": {
+        "en": "All vehicles must stop",
+        "zh-Hans": "所有车辆必须停车",
+        "zh-Hant": "所有車輛必須停車"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "When weigh stations are open, commercial vehicles must enter to be checked for weight compliance.",
       "zh-Hans": "当称重站开放时，商用车辆必须进入接受重量检查。",
@@ -579,22 +579,22 @@
     },
     "options": {
       "A": {
-        "en": "Trucks have priority",
-        "zh-Hans": "卡车优先",
-        "zh-Hant": "卡車優先"
-      },
-      "B": {
         "en": "Trucks are prohibited on this road",
         "zh-Hans": "禁止卡车在此道路上行驶",
         "zh-Hant": "禁止卡車在此道路上行駛"
       },
-      "C": {
+      "B": {
         "en": "Truck parking available",
         "zh-Hans": "有卡车停车位",
         "zh-Hant": "有卡車停車位"
+      },
+      "C": {
+        "en": "Trucks have priority",
+        "zh-Hans": "卡车优先",
+        "zh-Hant": "卡車優先"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "This sign prohibits trucks from using the road or lane. Find an alternate route.",
       "zh-Hans": "此标志禁止卡车使用该道路或车道。寻找替代路线。",
@@ -617,22 +617,22 @@
     },
     "options": {
       "A": {
-        "en": "Right lane is for trucks only",
-        "zh-Hans": "右车道仅供卡车使用",
-        "zh-Hant": "右車道僅供卡車使用"
-      },
-      "B": {
         "en": "Trucks should stay in the right lane",
         "zh-Hans": "卡车应该保持在右车道",
         "zh-Hant": "卡車應該保持在右車道"
       },
-      "C": {
+      "B": {
         "en": "Right turn for trucks",
         "zh-Hans": "卡车右转",
         "zh-Hant": "卡車右轉"
+      },
+      "C": {
+        "en": "Right lane is for trucks only",
+        "zh-Hans": "右车道仅供卡车使用",
+        "zh-Hant": "右車道僅供卡車使用"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "This sign directs trucks to travel in the right lane, usually on steep grades or highways.",
       "zh-Hans": "此标志指示卡车在右车道行驶，通常在陡坡或高速公路上。",
@@ -660,14 +660,14 @@
         "zh-Hant": "前方彎道 - 減速"
       },
       "B": {
-        "en": "Speed up",
-        "zh-Hans": "加速",
-        "zh-Hant": "加速"
-      },
-      "C": {
         "en": "No turns allowed",
         "zh-Hans": "禁止转弯",
         "zh-Hant": "禁止轉彎"
+      },
+      "C": {
+        "en": "Speed up",
+        "zh-Hans": "加速",
+        "zh-Hant": "加速"
       }
     },
     "answer": "A",
@@ -736,17 +736,17 @@
         "zh-Hant": "停車等待"
       },
       "B": {
-        "en": "Slow down and proceed with caution",
-        "zh-Hans": "减速并谨慎通过",
-        "zh-Hant": "減速並謹慎通過"
-      },
-      "C": {
         "en": "Speed up before light changes",
         "zh-Hans": "在灯变之前加速",
         "zh-Hant": "在燈變之前加速"
+      },
+      "C": {
+        "en": "Slow down and proceed with caution",
+        "zh-Hans": "减速并谨慎通过",
+        "zh-Hant": "減速並謹慎通過"
       }
     },
-    "answer": "B",
+    "answer": "C",
     "explanation": {
       "en": "A flashing yellow light means slow down and proceed with caution. Look carefully before crossing.",
       "zh-Hans": "闪烁的黄灯表示减速并谨慎通过。过交叉口前仔细观察。",
@@ -769,9 +769,9 @@
     },
     "options": {
       "A": {
-        "en": "Slow down and proceed",
-        "zh-Hans": "减速通过",
-        "zh-Hant": "減速通過"
+        "en": "Speed up",
+        "zh-Hans": "加速",
+        "zh-Hant": "加速"
       },
       "B": {
         "en": "Stop, yield, then proceed when safe",
@@ -779,9 +779,9 @@
         "zh-Hant": "停車，讓行，安全時通過"
       },
       "C": {
-        "en": "Speed up",
-        "zh-Hans": "加速",
-        "zh-Hant": "加速"
+        "en": "Slow down and proceed",
+        "zh-Hans": "减速通过",
+        "zh-Hant": "減速通過"
       }
     },
     "answer": "B",
@@ -812,17 +812,17 @@
         "zh-Hant": "公路結束"
       },
       "B": {
-        "en": "A divided highway begins ahead",
-        "zh-Hans": "前方开始分隔公路",
-        "zh-Hant": "前方開始分隔公路"
-      },
-      "C": {
         "en": "Two-way traffic",
         "zh-Hans": "双向交通",
         "zh-Hant": "雙向交通"
+      },
+      "C": {
+        "en": "A divided highway begins ahead",
+        "zh-Hans": "前方开始分隔公路",
+        "zh-Hant": "前方開始分隔公路"
       }
     },
-    "answer": "B",
+    "answer": "C",
     "explanation": {
       "en": "This sign warns that you are entering a divided highway with a median between traffic directions.",
       "zh-Hans": "此标志警告你正在进入一条中央分隔的分隔公路。",
@@ -845,9 +845,9 @@
     },
     "options": {
       "A": {
-        "en": "Your lane is ending, merge into traffic",
-        "zh-Hans": "你的车道即将结束，合流进入车流",
-        "zh-Hant": "你的車道即將結束，合流進入車流"
+        "en": "Stop and wait",
+        "zh-Hans": "停车等待",
+        "zh-Hant": "停車等待"
       },
       "B": {
         "en": "Two roads are separating",
@@ -855,12 +855,12 @@
         "zh-Hant": "兩條道路正在分離"
       },
       "C": {
-        "en": "Stop and wait",
-        "zh-Hans": "停车等待",
-        "zh-Hant": "停車等待"
+        "en": "Your lane is ending, merge into traffic",
+        "zh-Hans": "你的车道即将结束，合流进入车流",
+        "zh-Hant": "你的車道即將結束，合流進入車流"
       }
     },
-    "answer": "A",
+    "answer": "C",
     "explanation": {
       "en": "A Merge sign warns that two lanes of traffic are coming together. Adjust your speed and position.",
       "zh-Hans": "合流标志警告两条车道正在汇合。调整你的速度和位置。",
@@ -883,9 +883,9 @@
     },
     "options": {
       "A": {
-        "en": "The road is always slippery",
-        "zh-Hans": "道路一直很滑",
-        "zh-Hant": "道路一直很滑"
+        "en": "No ice on the road",
+        "zh-Hans": "道路上没有冰",
+        "zh-Hant": "道路上沒有冰"
       },
       "B": {
         "en": "The road may be slippery in wet conditions",
@@ -893,9 +893,9 @@
         "zh-Hant": "道路在潮濕條件下可能會很滑"
       },
       "C": {
-        "en": "No ice on the road",
-        "zh-Hans": "道路上没有冰",
-        "zh-Hant": "道路上沒有冰"
+        "en": "The road is always slippery",
+        "zh-Hans": "道路一直很滑",
+        "zh-Hant": "道路一直很滑"
       }
     },
     "answer": "B",
@@ -1035,22 +1035,22 @@
     },
     "options": {
       "A": {
+        "en": "Speed limit increase",
+        "zh-Hans": "限速提高",
+        "zh-Hant": "限速提高"
+      },
+      "B": {
         "en": "The main road is closed, follow the detour route",
         "zh-Hans": "主路关闭，按绕行路线行驶",
         "zh-Hant": "主路關閉，按繞行路線行駛"
       },
-      "B": {
+      "C": {
         "en": "Shortcut available",
         "zh-Hans": "有捷径",
         "zh-Hant": "有捷徑"
-      },
-      "C": {
-        "en": "Speed limit increase",
-        "zh-Hans": "限速提高",
-        "zh-Hant": "限速提高"
       }
     },
-    "answer": "A",
+    "answer": "B",
     "explanation": {
       "en": "A Detour sign indicates the main road is temporarily closed. Follow the marked detour route.",
       "zh-Hans": "绕行标志表示主路暂时关闭。按标记的绕行路线行驶。",
@@ -1073,14 +1073,14 @@
     },
     "options": {
       "A": {
-        "en": "Slow down",
-        "zh-Hans": "减速",
-        "zh-Hant": "減速"
-      },
-      "B": {
         "en": "You are going the wrong way - do not enter",
         "zh-Hans": "你走错路了 - 禁止进入",
         "zh-Hant": "你走錯路了 - 禁止進入"
+      },
+      "B": {
+        "en": "Slow down",
+        "zh-Hans": "减速",
+        "zh-Hant": "減速"
       },
       "C": {
         "en": "Road under construction",
@@ -1088,7 +1088,7 @@
         "zh-Hant": "道路正在施工"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "Do Not Enter signs are placed at exits of one-way streets. You are going the wrong way.",
       "zh-Hans": "禁止进入标志放置在单行道出口。你走错方向了。",
@@ -1111,14 +1111,14 @@
     },
     "options": {
       "A": {
-        "en": "Turn around immediately - you are going the wrong direction",
-        "zh-Hans": "立即掉头 - 你走错方向了",
-        "zh-Hant": "立即掉頭 - 你走錯方向了"
-      },
-      "B": {
         "en": "Construction ahead",
         "zh-Hans": "前方施工",
         "zh-Hant": "前方施工"
+      },
+      "B": {
+        "en": "Turn around immediately - you are going the wrong direction",
+        "zh-Hans": "立即掉头 - 你走错方向了",
+        "zh-Hant": "立即掉頭 - 你走錯方向了"
       },
       "C": {
         "en": "Sharp turn ahead",
@@ -1126,7 +1126,7 @@
         "zh-Hant": "前方急轉彎"
       }
     },
-    "answer": "A",
+    "answer": "B",
     "explanation": {
       "en": "If you see a Wrong Way sign, you are entering a highway or ramp in the wrong direction.",
       "zh-Hans": "如果你看到逆行标志，你正在逆向进入公路或匝道。",

@@ -10881,45 +10881,6 @@
     "source": "deepdive"
   },
   {
-    "id": 430,
-    "category": "traffic_rules",
-    "question": {
-      "en": "What is the speed limit when you are approaching a railroad crossing (within 100 feet) and your view is blocked for 400 feet in either direction?",
-      "zh-Hans": "如果您在接近铁路交叉口时（距离 100 英尺内），您两侧 400 英尺内的视野受阻，限速是多少？",
-      "zh-Hant": "如果您在接近鐵路交叉口時（距離 100 英尺內），您兩側 400 英尺內的視野受阻，限速是多少？"
-    },
-    "options": {
-      "A": {
-        "en": "15 mph",
-        "zh-Hans": "时速 15 英里",
-        "zh-Hant": "時速 15 英里"
-      },
-      "B": {
-        "en": "25 mph",
-        "zh-Hans": "时速 25 英里",
-        "zh-Hant": "時速 25 英里"
-      },
-      "C": {
-        "en": "There is no special speed limit.",
-        "zh-Hans": "没有特殊限速。",
-        "zh-Hant": "沒有特殊限速。"
-      }
-    },
-    "answer": "A",
-    "explanation": {
-      "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Road Rules, the speed limit is 15 mph within 100 feet when you cannot see 400 feet in either direction.",
-      "zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，接近铁路道口且视野受阻时限速为 15 英里/小时。",
-      "zh-Hant": "根據手冊第7章《道路法律及規定》《道路通行規則》的規定，接近鐵路道口且視野受阻時限速為 15 英里/小時。"
-    },
-    "dmv_ref": {
-      "page": "Cali",
-      "section": "traffic_rules",
-      "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，接近铁路道口且视野受阻时限速为 15 英里/小时。",
-      "analysis_zh-Hant": "根據手冊第7章《道路法律及規定》《道路通行規則》的規定，接近鐵路道口且視野受阻時限速為 15 英里/小時。"
-    },
-    "source": "deepdive"
-  },
-  {
     "id": 431,
     "category": "traffic_rules",
     "question": {
@@ -11112,7 +11073,9 @@
       "analysis_zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，蓝白标志为紧急通知系统，提供铁路交叉口编号和紧急联系电话。",
       "analysis_zh-Hant": "根據手冊第7章《道路法律及規定》《道路通行規則》的規定，藍白標誌為緊急通知系統，提供鐵路交叉口編號和緊急聯絡電話。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/rail-road-crossroad.webp"
   },
   {
     "id": 436,
@@ -12905,45 +12868,6 @@
       "section": "traffic_rules",
       "analysis_zh-Hans": "根据手册第10章《财务责任、保险要求及碰撞》《交通事故与保险》的规定，驾驶分心是常见的碰撞原因之一。",
       "analysis_zh-Hant": "根據手冊第10章《財務責任、保險要求及碰撞》《交通事故與保險》的規定，駕駛分心是常見的碰撞原因之一。"
-    },
-    "source": "deepdive"
-  },
-  {
-    "id": 482,
-    "category": "traffic_rules",
-    "question": {
-      "en": "If you see a collision or hazard ahead, which method is appropriate to warn drivers behind you?",
-      "zh-Hans": "前方出现碰撞或危险时，哪种方式最合适提醒后车？",
-      "zh-Hant": "前方出現碰撞或危險時，哪種方式最合適提醒後車？"
-    },
-    "options": {
-      "A": {
-        "en": "Tap your brake pedal three or four times.",
-        "zh-Hans": "轻踩刹车踏板三到四次。",
-        "zh-Hant": "輕踩剎車踏板三到四次。"
-      },
-      "B": {
-        "en": "Slam the brakes and stop in the lane.",
-        "zh-Hans": "急踩刹车并停在车道中。",
-        "zh-Hant": "急踩剎車並停在車道中。"
-      },
-      "C": {
-        "en": "Hold the horn continuously.",
-        "zh-Hans": "持续鸣喇叭不松。",
-        "zh-Hant": "持續鳴喇叭不松。"
-      }
-    },
-    "answer": "A",
-    "explanation": {
-      "en": "According to the handbook, Chapter 8: Safe Driving - Defensive Driving and Risk Management, tap your brake pedal a few times to warn drivers behind you.",
-      "zh-Hans": "根据手册第8章《安全驾驶》《防御性驾驶与风险管理》的规定，发现前方危险时应轻踩刹车数次提醒后车。",
-      "zh-Hant": "根據手冊第8章《安全駕駛》《防禦性駕駛與風險管理》的規定，發現前方危險時應輕踩剎車數次提醒後車。"
-    },
-    "dmv_ref": {
-      "page": "Cali",
-      "section": "traffic_rules",
-      "analysis_zh-Hans": "根据手册第8章《安全驾驶》《防御性驾驶与风险管理》的规定，发现前方危险时应轻踩刹车数次提醒后车。",
-      "analysis_zh-Hant": "根據手冊第8章《安全駕駛》《防禦性駕駛與風險管理》的規定，發現前方危險時應輕踩剎車數次提醒後車。"
     },
     "source": "deepdive"
   },
@@ -18678,7 +18602,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，四向停牌需全部车辆先停，按先来先行并让行右侧车辆与行人。",
       "analysis_zh-Hant": "根據手冊第6章《導覽道路》《交通標誌》的規定，四向停牌需全部車輛先停，按先來先行並讓行右側車輛與行人。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/stop.jpg"
   },
   {
     "id": 631,
@@ -18717,7 +18643,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，红灯时仅允许右转，但必须先停车并让行。",
       "analysis_zh-Hant": "根據手冊第6章《導覽道路》《交通標誌》的規定，紅燈時僅允許右轉，但必須先停車並讓行。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/Right-Turn-Arrow-ONLY.png"
   },
   {
     "id": 632,
@@ -18795,7 +18723,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，该标志表示对向来车优先，应让行或停车等待。",
       "analysis_zh-Hant": "根據手冊第6章《導覽道路》《交通標誌》的規定，該標誌表示對向來車優先，應讓行或停車等待。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/Narrow-Bridge.webp"
   },
   {
     "id": 636,
@@ -18834,7 +18764,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，分隔公路标志提示前方有中央隔离带。",
       "analysis_zh-Hant": "根據手冊第6章《導覽道路》《交通標誌》的規定，分隔公路標誌提示前方有中央隔離帶。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/divided-traffic-sign.jpg"
   },
   {
     "id": 638,
@@ -18873,31 +18805,33 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，NO LEFT ON RED 表示红灯禁止左转。",
       "analysis_zh-Hant": "根據手冊第6章《導覽道路》《交通標誌》的規定，NO LEFT ON RED 表示紅燈禁止左轉。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/No-Turn-On-Red.webp"
   },
   {
     "id": 640,
     "category": "traffic_rules",
     "question": {
-      "en": "What does this sign mean for bicycles?",
-      "zh-Hans": "这个标志对自行车意味着什么？",
-      "zh-Hant": "這個標誌對腳踏車意味著什麼？"
+      "en": "What does this bicycle warning sign indicate?",
+      "zh-Hans": "这个自行车警告标志表示什么？",
+      "zh-Hant": "這個自行車警告標誌表示什麼？"
     },
     "options": {
       "A": {
-        "en": "Bicycles are not allowed",
-        "zh-Hans": "禁止自行车通行",
-        "zh-Hant": "禁止腳踏車通行"
+        "en": "Bicycles may be crossing or traveling on the road ahead; watch for them",
+        "zh-Hans": "前方可能有自行车穿越或行驶；注意观察",
+        "zh-Hant": "前方可能有自行車穿越或行駛；注意觀察"
       },
       "B": {
-        "en": "Bicycles prohibited only at night",
-        "zh-Hans": "仅夜间禁止自行车",
-        "zh-Hant": "僅夜間禁止腳踏車"
+        "en": "Bicycle lane ahead; cars must stay out",
+        "zh-Hans": "前方有自行车道；汽车禁入",
+        "zh-Hant": "前方有自行車道；汽車禁入"
       },
       "C": {
-        "en": "Cyclists must dismount and walk",
-        "zh-Hans": "要求下车推行",
-        "zh-Hant": "要求下車推行"
+        "en": "Bicycles are not allowed on this road",
+        "zh-Hans": "这条路禁止自行车通行",
+        "zh-Hant": "這條路禁止自行車通行"
       }
     },
     "answer": "A",
@@ -18912,31 +18846,33 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，斜杠自行车表示禁止自行车通行。",
       "analysis_zh-Hant": "根據手冊第6章《導覽道路》《交通標誌》的規定，斜槓腳踏車表示禁止腳踏車通行。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/bicycle.jpg"
   },
   {
     "id": 643,
     "category": "traffic_rules",
     "question": {
-      "en": "What does this sign require regarding passing?",
-      "zh-Hans": "这个标志对超车的要求是什么？",
-      "zh-Hant": "這個標誌對超車的要求是什麼？"
+      "en": "What does this DO NOT PASS sign require?",
+      "zh-Hans": "这个 DO NOT PASS 标志要求什么？",
+      "zh-Hant": "這個 DO NOT PASS 標誌要求什麼？"
     },
     "options": {
       "A": {
-        "en": "Passing is permitted but only with caution when safe",
-        "zh-Hans": "允许超车，但必须小心并确保安全",
-        "zh-Hant": "允許超車，但必須小心並確保安全"
+        "en": "Do not pass other vehicles in this zone",
+        "zh-Hans": "在此区域内不得超车",
+        "zh-Hant": "在此區域內不得超車"
       },
       "B": {
-        "en": "No passing allowed",
-        "zh-Hans": "禁止任何超车",
-        "zh-Hant": "禁止任何超車"
+        "en": "Passing is permitted but only with caution when safe",
+        "zh-Hans": "允许超车，但仅在安全时谨慎超车",
+        "zh-Hant": "允許超車，但僅在安全時謹慎超車"
       },
       "C": {
-        "en": "Only trucks may pass",
-        "zh-Hans": "仅卡车可超车",
-        "zh-Hant": "僅卡車可超車"
+        "en": "Only trucks may not pass",
+        "zh-Hans": "仅卡车不得超车",
+        "zh-Hant": "僅卡車不得超車"
       }
     },
     "answer": "A",
@@ -18951,7 +18887,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，PASS WITH CARE 表示可超车但必须确保安全。",
       "analysis_zh-Hant": "根據手冊第6章《導覽道路》《交通標誌》的規定，PASS WITH CARE 表示可超車但必須確保安全。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/D0NOTPASS.jpg"
   },
   {
     "id": 644,
@@ -18990,7 +18928,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，DO NOT PASS 表示禁止跨线超车。",
       "analysis_zh-Hant": "根據手冊第6章《導覽道路》《交通標誌》的規定，DO NOT PASS 表示禁止跨線超車。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/D0NOTPASS.jpg"
   },
   {
     "id": 646,
@@ -19068,31 +19008,33 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，斜杠右箭头表示禁止右转。",
       "analysis_zh-Hant": "根據手冊第6章《導覽道路》《交通標誌》的規定，斜槓右箭頭表示禁止右轉。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/NOTURNS.jpg"
   },
   {
     "id": 648,
     "category": "traffic_rules",
     "question": {
-      "en": "What does this sign mean for truck drivers?",
-      "zh-Hans": "这个标志对卡车驾驶员意味着什么？",
-      "zh-Hant": "這個標誌對卡車駕駛員意味著什麼？"
+      "en": "What does this NO TURNS sign prohibit?",
+      "zh-Hans": "这个 NO TURNS 标志禁止什么？",
+      "zh-Hant": "這個 NO TURNS 標誌禁止什麼？"
     },
     "options": {
       "A": {
-        "en": "Trucks are prohibited",
-        "zh-Hans": "禁止卡车通行",
-        "zh-Hant": "禁止卡車通行"
+        "en": "No left turns, right turns, or U-turns allowed",
+        "zh-Hans": "不允许左转、右转或掉头",
+        "zh-Hant": "不允許左轉、右轉或掉頭"
       },
       "B": {
-        "en": "Trucks limited to 25 mph",
-        "zh-Hans": "卡车限速 25 mph",
-        "zh-Hant": "卡車限速 25 mph"
+        "en": "No U-turns only",
+        "zh-Hans": "仅禁止掉头",
+        "zh-Hant": "僅禁止掉頭"
       },
       "C": {
-        "en": "Only trucks may travel here",
-        "zh-Hans": "仅允许卡车通行",
-        "zh-Hant": "僅允許卡車通行"
+        "en": "No left turns only",
+        "zh-Hans": "仅禁止左转",
+        "zh-Hant": "僅禁止左轉"
       }
     },
     "answer": "A",
@@ -19107,7 +19049,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，斜杠卡车表示禁止卡车通行。",
       "analysis_zh-Hant": "根據手冊第6章《導覽道路》《交通標誌》的規定，斜槓卡車表示禁止卡車通行。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/NOTURNS.jpg"
   },
   {
     "id": 650,
@@ -19146,7 +19090,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，NO RIGHT ON RED 表示红灯禁止右转。",
       "analysis_zh-Hant": "根據手冊第6章《導覽道路》《交通標誌》的規定，NO RIGHT ON RED 表示紅燈禁止右轉。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/No-Turn-On-Red.webp"
   },
   {
     "id": 652,
@@ -19185,7 +19131,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，对向车流可能延长绿灯，左转需让行。",
       "analysis_zh-Hant": "根據手冊第6章《導覽道路》《交通標誌》的規定，對向車流可能延長綠燈，左轉需讓行。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/yield.webp"
   },
   {
     "id": 653,
@@ -19380,7 +19328,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，RIGHT TURN SIGNAL 表示右转需按专用信号指示通行。",
       "analysis_zh-Hant": "根據手冊第6章《導覽道路》《交通標誌》的規定，RIGHT TURN SIGNAL 表示右轉需按專用訊號指示通行。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": false,
+    "imageUrl": null
   },
   {
     "id": 658,
@@ -19419,7 +19369,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，中间车道仅供双向车辆左转使用。",
       "analysis_zh-Hant": "根據手冊第6章《導覽道路》《交通標誌》的規定，中間車道僅供雙向車輛左轉使用。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/TWO-WAY-LEFTTUAN.webp"
   },
   {
     "id": 659,
@@ -19458,7 +19410,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，残障专用车位仅限持有效许可车辆停放。",
       "analysis_zh-Hant": "根據手冊第6章《導覽道路》《交通標誌》的規定，殘障專用車位僅限持有效許可車輛停放。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/disabled.png"
   },
   {
     "id": 660,
@@ -19497,7 +19451,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，闸门降下且灯闪烁时必须停车等待。",
       "analysis_zh-Hant": "根據手冊第6章《導覽道路》《交通標誌》的規定，閘門降下且燈閃爍時必須停車等待。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/rail-road-crossroad.webp"
   },
   {
     "id": 661,
@@ -19614,7 +19570,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，EMERGENCY STOPPING ONLY 表示仅紧急情况可停车。",
       "analysis_zh-Hant": "根據手冊第6章《導覽道路》《交通標誌》的規定，EMERGENCY STOPPING ONLY 表示僅緊急情況可停車。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": false,
+    "imageUrl": null
   },
   {
     "id": 666,
@@ -19731,7 +19689,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，WHEN CHILDREN ARE PRESENT 表示有儿童时按校区限速行驶。",
       "analysis_zh-Hant": "根據手冊第6章《導覽道路》《交通標誌》的規定，WHEN CHILDREN ARE PRESENT 表示有兒童時按校區限速行駛。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": false,
+    "imageUrl": null
   },
   {
     "id": 671,
@@ -19965,7 +19925,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，SCHOOL 附牌表示相关警告适用于学校区域。",
       "analysis_zh-Hant": "根據手冊第6章《導覽道路》《交通標誌》的規定，SCHOOL 附牌表示相關警告適用於學校區域。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/shool-bus-stop.png"
   },
   {
     "id": 678,
@@ -20004,7 +19966,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，进入施工区需打开车灯以提高可见度。",
       "analysis_zh-Hant": "根據手冊第6章《導覽道路》《交通標誌》的規定，進入施工區需開啟車燈以提高可見度。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/wokers.png"
   },
   {
     "id": 679,
@@ -20790,25 +20754,25 @@
     "id": 708,
     "category": "traffic_rules",
     "question": {
-      "en": "What does this sign with opposing arrows and a median mean?",
-      "zh-Hans": "这个上下箭头加隔离岛的标志提示什么？",
-      "zh-Hant": "這個上下箭頭加隔離島的標誌提示什麼？"
+      "en": "What does this TWO WAY TRAFFIC AHEAD sign warn?",
+      "zh-Hans": "这个 TWO WAY TRAFFIC AHEAD 标志警告什么？",
+      "zh-Hant": "這個 TWO WAY TRAFFIC AHEAD 標誌警告什麼？"
     },
     "options": {
       "A": {
-        "en": "Median ends; two-way traffic without separation ahead",
-        "zh-Hans": "中央分隔即将结束，前方无隔离的双向交通",
-        "zh-Hant": "中央分隔即將結束，前方無隔離的雙向交通"
+        "en": "Two-way traffic ahead; be prepared for oncoming vehicles",
+        "zh-Hans": "前方为双向交通；准备迎面来车",
+        "zh-Hant": "前方為雙向交通；準備迎面來車"
       },
       "B": {
         "en": "Start of divided highway",
-        "zh-Hans": "开始分隔公路",
-        "zh-Hant": "開始分隔公路"
+        "zh-Hans": "分隔公路起点",
+        "zh-Hant": "分隔公路起點"
       },
       "C": {
         "en": "Road closed ahead",
-        "zh-Hans": "道路封闭",
-        "zh-Hant": "道路封閉"
+        "zh-Hans": "前方道路关闭",
+        "zh-Hant": "前方道路關閉"
       }
     },
     "answer": "A",
@@ -20823,7 +20787,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，分隔公路结束提示前方为无隔离双向交通。",
       "analysis_zh-Hant": "根據手冊第6章《導覽道路》《交通標誌》的規定，分隔公路結束提示前方為無隔離雙向交通。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/Two-Way-Traffic-Ahead.png"
   },
   {
     "id": 709,
@@ -21297,25 +21263,25 @@
     "id": 729,
     "category": "traffic_rules",
     "question": {
-      "en": "What does this Y-intersection sign indicate?",
-      "zh-Hans": "这个 Y 形交叉标志表示？",
-      "zh-Hant": "這個 Y 形交叉標誌表示？"
+      "en": "What does this T-intersection sign indicate?",
+      "zh-Hans": "这个T字路口标志表示什么？",
+      "zh-Hant": "這個T字路口標誌表示什麼？"
     },
     "options": {
       "A": {
-        "en": "Road splits into two branches ahead; slow and choose your path",
-        "zh-Hans": "前方道路分叉成两支，需提前选道减速",
-        "zh-Hant": "前方道路分叉成兩支，需提前選道減速"
+        "en": "The road ahead ends; you must turn left or right",
+        "zh-Hans": "前方道路到头；必须左转或右转",
+        "zh-Hant": "前方道路到頭；必須左轉或右轉"
       },
       "B": {
         "en": "Right turn only",
-        "zh-Hans": "必须右转",
-        "zh-Hant": "必須右轉"
+        "zh-Hans": "仅限右转",
+        "zh-Hant": "僅限右轉"
       },
       "C": {
         "en": "Roundabout ahead",
-        "zh-Hans": "环岛在前",
-        "zh-Hant": "環島在前"
+        "zh-Hans": "前方环形交叉路口",
+        "zh-Hant": "前方環形交叉路口"
       }
     },
     "answer": "A",
@@ -21330,7 +21296,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，Y 形路口提示前方分叉，应提前选道并减速。",
       "analysis_zh-Hant": "根據手冊第6章《導覽道路》《交通標誌》的規定，Y 形路口提示前方分叉，應提前選道並減速。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/t_intersection.webp"
   },
   {
     "id": 730,
@@ -21570,28 +21538,28 @@
     "id": 739,
     "category": "traffic_rules",
     "question": {
-      "en": "When you see this yellow diamond warning sign, what does it indicate about the road conditions ahead?",
-      "zh-Hans": "看到这个黄色菱形警告标志时，它提示驾驶者前方道路状况如何？",
-      "zh-Hant": "看到這個黃色菱形警告標誌時，它提示駕駛者前方道路狀況如何？"
+      "en": "What does this ROAD NARROWS sign warn?",
+      "zh-Hans": "这个 ROAD NARROWS 标志警告什么？",
+      "zh-Hant": "這個 ROAD NARROWS 標誌警告什麼？"
     },
     "options": {
       "A": {
-        "en": "Vehicles are merging onto the main road from the right lane ahead; yield as necessary.",
-        "zh-Hans": "前方有车辆从右侧车道汇入主路，注意避让。 ",
-        "zh-Hant": "前方有車輛從右側車道匯入主路，注意避讓。 "
+        "en": "The road ahead becomes narrower; reduce speed and drive carefully",
+        "zh-Hans": "前方道路变窄；减速小心驾驶",
+        "zh-Hant": "前方道路變窄；減速小心駕駛"
       },
       "B": {
-        "en": "The road ahead splits into two separate directions (straight and right).",
-        "zh-Hans": "前方道路分岔，车流将分为两个不同的方向（直行和向右）。 ",
-        "zh-Hant": "前方道路分岔，車流將分為兩個不同的方向（直行和向右）。 "
+        "en": "The road ahead splits into two separate directions",
+        "zh-Hans": "前方道路分为两个方向",
+        "zh-Hant": "前方道路分為兩個方向"
       },
       "C": {
-        "en": "A series of consecutive curves (left then right) lies ahead; reduce speed.",
-        "zh-Hans": "前方是一个连续弯道（先左后右），需要减速行驶。",
-        "zh-Hant": "前方是一個連續彎道（先左後右），需要減速行駛。"
+        "en": "A series of consecutive curves lies ahead",
+        "zh-Hans": "前方有连续弯道",
+        "zh-Hant": "前方有連續彎道"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, this sign indicates a road split ahead; choose your path early and slow down.",
       "zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，该标志表示前方道路分叉或分流，应提前选道减速。",
@@ -21603,7 +21571,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，该标志表示前方道路分叉或分流，应提前选道减速。",
       "analysis_zh-Hant": "根據手冊第6章《導覽道路》《交通標誌》的規定，該標誌表示前方道路分叉或分流，應提前選道減速。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/rode-narrows.webp"
   },
   {
     "id": 740,
@@ -21720,7 +21690,9 @@
       "analysis_zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，下坡警告提示前方陡坡，应提前减速并用低速挡控制车速。",
       "analysis_zh-Hant": "根據手冊第6章《導覽道路》《交通標誌》的規定，下坡警告提示前方陡坡，應提前減速並用低速擋控制車速。"
     },
-    "source": "deepdive"
+    "source": "deepdive",
+    "hasImage": true,
+    "imageUrl": "/images/signs/hill.jpg"
   },
   {
     "id": 743,
@@ -22499,45 +22471,6 @@
       "section": "Section 6: Lane Control",
       "analysis_zh-Hans": "手册警示：如果两组双实线相距 2 英尺或更多，则视为“障碍物”，严禁跨越。",
       "analysis_zh-Hant": "手冊警示：如果兩組雙實線相距 2 英尺或更多，則視為“障礙物”，嚴禁跨越。"
-    },
-    "source": "deepdive"
-  },
-  {
-    "id": 764,
-    "category": "Literacy",
-    "question": {
-      "en": "Within how many days must you notify the DMV if you change your address?",
-      "zh-Hans": "如果您更改地址，必须在几天内通知 DMV？",
-      "zh-Hant": "如果您更改地址，必須在幾天內通知 DMV？"
-    },
-    "options": {
-      "A": {
-        "en": "10 days.",
-        "zh-Hans": "10 天。",
-        "zh-Hant": "10 天。"
-      },
-      "B": {
-        "en": "30 days.",
-        "zh-Hans": "30 天。",
-        "zh-Hant": "30 天。"
-      },
-      "C": {
-        "en": "15 days.",
-        "zh-Hans": "15 天。",
-        "zh-Hant": "15 天。"
-      }
-    },
-    "answer": "A",
-    "explanation": {
-      "en": "California law requires address updates within 10 days of moving.",
-      "zh-Hans": "加州法律要求在搬家后的 10 天内通过邮寄或官微更新您的地址。",
-      "zh-Hant": "加州法律要求在搬家後的 10 天內透過郵寄或官微更新您的地址。"
-    },
-    "dmv_ref": {
-      "page": "7",
-      "section": "Section 3: License",
-      "analysis_zh-Hans": "手册提醒：准确的地址确保您能收到执照更新提醒和法律文件，避免因执照过期不知情而违规。",
-      "analysis_zh-Hant": "手冊提醒：準確的地址確保您能收到執照更新提醒和法律檔案，避免因執照過期不知情而違規。"
     },
     "source": "deepdive"
   },
@@ -23628,45 +23561,6 @@
       "section": "Section 7: Sharing the Road",
       "analysis_zh-Hans": "2026年手册新增：如果无法保证 3 英尺距离，驾驶员必须换道超越或等待。",
       "analysis_zh-Hant": "2026年手冊新增：如果無法保證 3 英尺距離，駕駛員必須換道超越或等待。"
-    },
-    "source": "deepdive"
-  },
-  {
-    "id": 793,
-    "category": "Literacy",
-    "question": {
-      "en": "What is the speed limit in a residential area unless otherwise posted?",
-      "zh-Hans": "除非另有标示，住宅区的限速是多少？",
-      "zh-Hant": "除非另有標示，住宅區的限速是多少？"
-    },
-    "options": {
-      "A": {
-        "en": "15 mph.",
-        "zh-Hans": "15 英里。",
-        "zh-Hant": "15 英里。"
-      },
-      "B": {
-        "en": "25 mph.",
-        "zh-Hans": "25 英里。",
-        "zh-Hant": "25 英里。"
-      },
-      "C": {
-        "en": "30 mph.",
-        "zh-Hans": "30 英里。",
-        "zh-Hant": "30 英里。"
-      }
-    },
-    "answer": "B",
-    "explanation": {
-      "en": "The default speed limit for residential and business districts is 25 mph.",
-      "zh-Hans": "住宅区和商业区的默认法定限速通常是 25 英里。",
-      "zh-Hant": "住宅區和商業區的預設法定限速通常是 25 英里。"
-    },
-    "dmv_ref": {
-      "page": "39",
-      "section": "Section 7: Speed Limits",
-      "analysis_zh-Hans": "手册解析：在学校区域且有儿童在场时，限速同样为 25 英里（除非另有标示）。",
-      "analysis_zh-Hant": "手冊解析：在學校區域且有兒童在場時，限速同樣為 25 英里（除非另有標示）。"
     },
     "source": "deepdive"
   },
@@ -26048,45 +25942,6 @@
     "source": "deepdive"
   },
   {
-    "id": 855,
-    "category": "Literacy",
-    "question": {
-      "en": "If your accelerator pedal gets stuck, you should:",
-      "zh-Hans": "如果您的油门踏板卡住了，您应该：",
-      "zh-Hant": "如果您的油門踏板卡住了，您應該："
-    },
-    "options": {
-      "A": {
-        "en": "Turn off the ignition immediately.",
-        "zh-Hans": "立即关闭点火开关。",
-        "zh-Hant": "立即關閉點火開關。"
-      },
-      "B": {
-        "en": "Shift to neutral and apply the brakes.",
-        "zh-Hans": "换入空档并踩刹车。",
-        "zh-Hant": "換入空檔並踩剎車。"
-      },
-      "C": {
-        "en": "Pull the emergency brake.",
-        "zh-Hans": "拉动紧急制动器。",
-        "zh-Hant": "拉動緊急制動器。"
-      }
-    },
-    "answer": "B",
-    "explanation": {
-      "en": "Shifting to neutral cuts power to the wheels. Do not turn off the engine as it may lock the steering.",
-      "zh-Hans": "换空档可以切断动力输出。不要熄火，因为熄火会导致转向助力消失或方向盘锁死。",
-      "zh-Hant": "換空檔可以切斷動力輸出。不要熄火，因為熄火會導致轉向助力消失或方向盤鎖死。"
-    },
-    "dmv_ref": {
-      "page": "91",
-      "section": "Section 8: Vehicle Failures",
-      "analysis_zh-Hans": "手册解析：安全停稳后，再关闭引擎并寻求救援。",
-      "analysis_zh-Hant": "手冊解析：安全停穩後，再關閉引擎並尋求救援。"
-    },
-    "source": "deepdive"
-  },
-  {
     "id": 856,
     "category": "Literacy",
     "question": {
@@ -26122,45 +25977,6 @@
       "section": "Section 7: Lanes",
       "analysis_zh-Hans": "手册警示：绝不可以驶离路面（如进入土路或路肩）去右侧超车。",
       "analysis_zh-Hant": "手冊警示：絕不可以駛離路面（如進入土路或路肩）去右側超車。"
-    },
-    "source": "deepdive"
-  },
-  {
-    "id": 857,
-    "category": "Literacy",
-    "question": {
-      "en": "What does a blue curb mean?",
-      "zh-Hans": "蓝色路缘表示：",
-      "zh-Hant": "藍色路緣表示："
-    },
-    "options": {
-      "A": {
-        "en": "Loading and unloading only.",
-        "zh-Hans": "仅供装卸货物。",
-        "zh-Hant": "僅供裝卸貨物。"
-      },
-      "B": {
-        "en": "Parking for disabled persons with a placard only.",
-        "zh-Hans": "仅供持有残疾人证件的人员停车。",
-        "zh-Hant": "僅供持有殘疾人證件的人員停車。"
-      },
-      "C": {
-        "en": "Limited time parking.",
-        "zh-Hans": "限时停车。",
-        "zh-Hant": "限時停車。"
-      }
-    },
-    "answer": "B",
-    "explanation": {
-      "en": "Blue curbs are reserved for individuals with disabilities and specific placards/plates.",
-      "zh-Hans": "蓝色区域是为残疾人预留的。滥用残疾人停车位最高可罚款 $1,000 或入狱。",
-      "zh-Hant": "藍色區域是為殘疾人預留的。濫用殘疾人停車位最高可罰款 $1,000 或入獄。"
-    },
-    "dmv_ref": {
-      "page": "51",
-      "section": "Section 7: Parking",
-      "analysis_zh-Hans": "手册解析：2026年法规对伪造残疾人车证的处罚进一步加重。",
-      "analysis_zh-Hant": "手冊解析：2026年法規對偽造殘疾人車證的處罰進一步加重。"
     },
     "source": "deepdive"
   },
@@ -29027,43 +28843,6 @@
     "source": "deepdive"
   },
   {
-    "id": 934,
-    "category": "Literacy",
-    "question": {
-      "en": "If you change your residence address, you must notify the DMV within:",
-      "zh-Hans": "如果您更改了居住地址，必须在几天内通知 DMV？",
-      "zh-Hant": "如果您更改了居住地址，必須在幾天內通知 DMV？"
-    },
-    "options": {
-      "A": {
-        "en": "5 days.",
-        "zh-Hans": "5 天。",
-        "zh-Hant": "5 天。"
-      },
-      "B": {
-        "en": "10 days.",
-        "zh-Hans": "10 天。",
-        "zh-Hant": "10 天。"
-      },
-      "C": {
-        "en": "30 days.",
-        "zh-Hans": "30 天。",
-        "zh-Hant": "30 天。"
-      }
-    },
-    "answer": "B",
-    "explanation": {
-      "en": "California law requires you to report an address change for your DL or vehicle registration within 10 days.",
-      "zh-Hans": "搬家后的 10 天内必须通知 DMV 更改驾照和车辆登记地址。",
-      "zh-Hant": "搬家後的 10 天內必須通知 DMV 更改駕照和車輛登記地址。"
-    },
-    "dmv_ref": {
-      "page": "10",
-      "section": "Section 2: DL Information"
-    },
-    "source": "deepdive"
-  },
-  {
     "id": 935,
     "category": "Literacy",
     "question": {
@@ -29471,43 +29250,6 @@
     "source": "deepdive"
   },
   {
-    "id": 946,
-    "category": "Literacy",
-    "question": {
-      "en": "2026 Update: If you are involved in a property damage collision over $1,000, you must report it to the DMV within:",
-      "zh-Hans": "2026年更新：如果您卷入损失超过 $1,000 的财产损失事故，必须在几天内向 DMV 报告？",
-      "zh-Hant": "2026年更新：如果您捲入損失超過 $1,000 的財產損失事故，必須在幾天內向 DMV 報告？"
-    },
-    "options": {
-      "A": {
-        "en": "5 days.",
-        "zh-Hans": "5 天。",
-        "zh-Hant": "5 天。"
-      },
-      "B": {
-        "en": "10 days.",
-        "zh-Hans": "10 天。",
-        "zh-Hant": "10 天。"
-      },
-      "C": {
-        "en": "24 hours.",
-        "zh-Hans": "24 小时。",
-        "zh-Hant": "24 小時。"
-      }
-    },
-    "answer": "B",
-    "explanation": {
-      "en": "You must file an SR 1 report with the DMV if damage is over $1,000 or anyone is injured/killed.",
-      "zh-Hans": "无论谁对谁错，只要损失过千或有人受伤，10 天内必须提交 SR 1 表格给 DMV。",
-      "zh-Hant": "無論誰對誰錯，只要損失過千或有人受傷，10 天內必須提交 SR 1 表格給 DMV。"
-    },
-    "dmv_ref": {
-      "page": "100",
-      "section": "Section 10: Reporting Collisions"
-    },
-    "source": "deepdive"
-  },
-  {
     "id": 947,
     "category": "Literacy",
     "question": {
@@ -29541,80 +29283,6 @@
     "dmv_ref": {
       "page": "38",
       "section": "Section 7: Speed Limits"
-    },
-    "source": "deepdive"
-  },
-  {
-    "id": 948,
-    "category": "Literacy",
-    "question": {
-      "en": "A 'White' painted curb means:",
-      "zh-Hans": "“白色”路缘表示：",
-      "zh-Hant": "“白色”路緣表示："
-    },
-    "options": {
-      "A": {
-        "en": "Stop only long enough to pick up or drop off passengers.",
-        "zh-Hans": "仅限临时停车上下客。",
-        "zh-Hant": "僅限臨時停車上下客。"
-      },
-      "B": {
-        "en": "Stop only to load or unload mail or passengers.",
-        "zh-Hans": "仅限临时停车以装卸郵件或上下客。",
-        "zh-Hant": "僅限臨時停車以裝卸郵件或上下客。"
-      },
-      "C": {
-        "en": "No parking at any time.",
-        "zh-Hans": "任何时候都不准停车。",
-        "zh-Hant": "任何時候都不準停車。"
-      }
-    },
-    "answer": "B",
-    "explanation": {
-      "en": "White curbs are for passenger loading or mail. Yellow is for freight/commercial loading.",
-      "zh-Hans": "白色路缘通常出現在机场或郵局门口，仅供快速接送。黄色则是供商業装卸货物。",
-      "zh-Hant": "白色路緣通常出現在機場或郵局門口，僅供快速接送。黃色則是供商業裝卸貨物。"
-    },
-    "dmv_ref": {
-      "page": "51",
-      "section": "Section 7: Parking"
-    },
-    "source": "deepdive"
-  },
-  {
-    "id": 949,
-    "category": "Literacy",
-    "question": {
-      "en": "What should you do if your accelerator (gas pedal) gets stuck?",
-      "zh-Hans": "如果您的油门踏板卡住了，该怎么办？",
-      "zh-Hant": "如果您的油門踏板卡住了，該怎麼辦？"
-    },
-    "options": {
-      "A": {
-        "en": "Turn off the engine immediately.",
-        "zh-Hans": "立即关闭引擎。",
-        "zh-Hant": "立即關閉引擎。"
-      },
-      "B": {
-        "en": "Shift to neutral and apply the brakes.",
-        "zh-Hans": "换到空挡（N）并踩刹车。",
-        "zh-Hant": "換到空擋（N）並踩剎車。"
-      },
-      "C": {
-        "en": "Pull the parking brake hard.",
-        "zh-Hans": "用力拉起手刹。",
-        "zh-Hant": "用力拉起手剎。"
-      }
-    },
-    "answer": "B",
-    "explanation": {
-      "en": "Shifting to neutral cuts power to the wheels. Do not turn off the engine while moving as it disables power steering.",
-      "zh-Hans": "切換到空挡可以切斷动力鏈。不要直接关火，否则方向盘会鎖死或失去助理，非常危险。",
-      "zh-Hant": "切換到空擋可以切斷動力鏈。不要直接關火，否則方向盤會鎖死或失去助理，非常危險。"
-    },
-    "dmv_ref": {
-      "page": "92",
-      "section": "Section 8: Vehicle Failures"
     },
     "source": "deepdive"
   },
@@ -30026,43 +29694,6 @@
     "source": "deepdive"
   },
   {
-    "id": 961,
-    "category": "Literacy",
-    "question": {
-      "en": "If you hit a parked vehicle and cannot find the owner, you must:",
-      "zh-Hans": "如果您撞到停着的车辆且找不到车主，您必须：",
-      "zh-Hant": "如果您撞到停著的車輛且找不到車主，您必須："
-    },
-    "options": {
-      "A": {
-        "en": "Drive away and report it later.",
-        "zh-Hans": "先开车离开，稍后再报告。",
-        "zh-Hant": "先開車離開，稍後再報告。"
-      },
-      "B": {
-        "en": "Leave a note and report the accident to the police/CHP.",
-        "zh-Hans": "留下一张纸条，并向警察或加州公路巡警（CHP）报告。",
-        "zh-Hant": "留下一張紙條，並向警察或加州公路巡警（CHP）報告。"
-      },
-      "C": {
-        "en": "Wait for 2 hours for the owner.",
-        "zh-Hans": "等候车主 2 小时。",
-        "zh-Hant": "等候車主 2 小時。"
-      }
-    },
-    "answer": "B",
-    "explanation": {
-      "en": "Leaving the scene without identifying yourself is a 'Hit and Run'.",
-      "zh-Hans": "必须留下姓名、电话和地址的纸条。如果不报告警察，即便留了纸条也可能被视为肇事逃逸。",
-      "zh-Hant": "必須留下姓名、電話和地址的紙條。如果不報告警察，即便留了紙條也可能被視為肇事逃逸。"
-    },
-    "dmv_ref": {
-      "page": "100",
-      "section": "Section 10: Accidents"
-    },
-    "source": "deepdive"
-  },
-  {
     "id": 962,
     "category": "Literacy",
     "question": {
@@ -30207,43 +29838,6 @@
     "dmv_ref": {
       "page": "16",
       "section": "Section 3"
-    },
-    "source": "deepdive"
-  },
-  {
-    "id": 966,
-    "category": "Literacy",
-    "question": {
-      "en": "What is the very first thing you should do if you are involved in a collision?",
-      "zh-Hans": "如果您卷入车祸，第一件事应该做什么？",
-      "zh-Hant": "如果您捲入車禍，第一件事應該做什麼？"
-    },
-    "options": {
-      "A": {
-        "en": "Stop your vehicle and check for injuries.",
-        "zh-Hans": "停车并检查是否有人受伤。",
-        "zh-Hant": "停車並檢查是否有人受傷。"
-      },
-      "B": {
-        "en": "Call your insurance company.",
-        "zh-Hans": "打电话给保险公司。",
-        "zh-Hant": "打電話給保險公司。"
-      },
-      "C": {
-        "en": "Move the cars to the side of the road immediately.",
-        "zh-Hans": "立即将车移到路边。",
-        "zh-Hant": "立即將車移到路邊。"
-      }
-    },
-    "answer": "A",
-    "explanation": {
-      "en": "Stopping is legally required. Failure to stop is 'Hit and Run'.",
-      "zh-Hans": "即便事故非常轻微，第一步也必须是停车。然后才是根据情况移动车辆或救人。",
-      "zh-Hant": "即便事故非常輕微，第一步也必須是停車。然後才是根據情況移動車輛或救人。"
-    },
-    "dmv_ref": {
-      "page": "100",
-      "section": "Section 10"
     },
     "source": "deepdive"
   },
@@ -30470,43 +30064,6 @@
     "source": "deepdive"
   },
   {
-    "id": 973,
-    "category": "Literacy",
-    "question": {
-      "en": "A person may legally ride in the bed of a pickup truck if:",
-      "zh-Hans": "一个人在什么情况下可以合法地坐在皮卡车的货箱里？",
-      "zh-Hant": "一個人在什麼情況下可以合法地坐在皮卡車的貨箱裡？"
-    },
-    "options": {
-      "A": {
-        "en": "The truck is equipped with a camper shell.",
-        "zh-Hans": "皮卡车装有后车厢外壳。",
-        "zh-Hant": "皮卡車裝有後車廂外殼。"
-      },
-      "B": {
-        "en": "They are secured in a seat with a government-approved restraint system.",
-        "zh-Hans": "他们被固定在带有政府批准的约束系统（安全带）的座椅上。",
-        "zh-Hant": "他們被固定在帶有政府批准的約束系統（安全帶）的座椅上。"
-      },
-      "C": {
-        "en": "The truck is traveling at speeds under 35 mph.",
-        "zh-Hans": "车速低于每小时35英里时。",
-        "zh-Hant": "車速低於每小時35英里時。"
-      }
-    },
-    "answer": "B",
-    "explanation": {
-      "en": "Riding in the back of a truck is illegal unless the person is properly restrained in a secure seat.",
-      "zh-Hans": "严禁随便坐在后车厢。唯一的例外是车厢内安装了符合标准的座椅和安全带。仅有外壳（Camper shell）是不够的。",
-      "zh-Hant": "嚴禁隨便坐在後車廂。唯一的例外是車廂內安裝了符合標準的座椅和安全帶。僅有外殼（Camper shell）是不夠的。"
-    },
-    "dmv_ref": {
-      "page": "103",
-      "section": "Section 10"
-    },
-    "source": "deepdive"
-  },
-  {
     "id": 974,
     "category": "Literacy",
     "question": {
@@ -30613,43 +30170,6 @@
     },
     "dmv_ref": {
       "page": "103",
-      "section": "Section 10"
-    },
-    "source": "deepdive"
-  },
-  {
-    "id": 977,
-    "category": "Literacy",
-    "question": {
-      "en": "If you are involved in a collision, how long do you have to report it to the DMV if the property damage is over $1,000?",
-      "zh-Hans": "如果您卷入车祸，且财产损失超过1,000美元，您有多少时间向DMV报告？",
-      "zh-Hant": "如果您捲入車禍，且財產損失超過1,000美元，您有多少時間向DMV報告？"
-    },
-    "options": {
-      "A": {
-        "en": "5 days.",
-        "zh-Hans": "5天。",
-        "zh-Hant": "5天。"
-      },
-      "B": {
-        "en": "10 days.",
-        "zh-Hans": "10天。",
-        "zh-Hant": "10天。"
-      },
-      "C": {
-        "en": "30 days.",
-        "zh-Hans": "30天。",
-        "zh-Hant": "30天。"
-      }
-    },
-    "answer": "B",
-    "explanation": {
-      "en": "California law requires an SR-1 report within 10 days for significant damage or any injury.",
-      "zh-Hans": "这是一个高频考题：只要损失过千或有人受伤，无论谁对谁错，10天内必须提交SR-1表格给DMV。",
-      "zh-Hant": "這是一個高頻考題：只要損失過千或有人受傷，無論誰對誰錯，10天內必須提交SR-1表格給DMV。"
-    },
-    "dmv_ref": {
-      "page": "100",
       "section": "Section 10"
     },
     "source": "deepdive"
