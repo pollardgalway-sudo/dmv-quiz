@@ -49,14 +49,14 @@
     },
     "options": {
       "A": {
-        "en": "Proceed slowly while watching",
-        "zh-Hans": "靠右慢行观察",
-        "zh-Hant": "靠右慢行觀察"
-      },
-      "B": {
         "en": "Stop at once and safely turn around or exit",
         "zh-Hans": "立即停车并安全掉头或驶离",
         "zh-Hant": "立即停車並安全掉頭或駛離"
+      },
+      "B": {
+        "en": "Proceed slowly while watching",
+        "zh-Hans": "靠右慢行观察",
+        "zh-Hant": "靠右慢行觀察"
       },
       "C": {
         "en": "Keep going; you have the right of way",
@@ -64,7 +64,7 @@
         "zh-Hant": "繼續前進，前方有優先權"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, WRONG WAY means you are going the wrong way; stop and exit safely.",
       "zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，WRONG WAY 表示逆行，应立即安全驶离。",
@@ -90,22 +90,22 @@
     },
     "options": {
       "A": {
-        "en": "Yield to pedestrians only",
-        "zh-Hans": "只对行人让行，不管车辆",
-        "zh-Hant": "只對行人讓行，不管車輛"
-      },
-      "B": {
         "en": "Slow and be prepared to stop, yielding to vehicles and pedestrians",
         "zh-Hans": "减速并在必要时完全停下，让行车辆和行人",
         "zh-Hant": "減速並在必要時完全停下，讓行車輛和行人"
       },
-      "C": {
+      "B": {
         "en": "You have the right of way and may proceed",
         "zh-Hans": "有优先权可直接通过",
         "zh-Hant": "有優先權可直接透過"
+      },
+      "C": {
+        "en": "Yield to pedestrians only",
+        "zh-Hans": "只对行人让行，不管车辆",
+        "zh-Hant": "只對行人讓行，不管車輛"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, a YIELD sign requires slowing down and stopping if needed.",
       "zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，YIELD 标志要求减速让行，必要时完全停车。",
@@ -131,22 +131,22 @@
     },
     "options": {
       "A": {
+        "en": "You may park briefly to load passengers",
+        "zh-Hans": "可短暂停车上下客",
+        "zh-Hant": "可短暫停車上下客"
+      },
+      "B": {
         "en": "Parking is allowed freely",
         "zh-Hans": "可自由停车",
         "zh-Hant": "可自由停車"
       },
-      "B": {
+      "C": {
         "en": "No parking; you may stop temporarily to drop off or pick up",
         "zh-Hans": "禁止停车，但可短暂停靠即走人",
         "zh-Hant": "禁止停車，但可短暫停靠即走人"
-      },
-      "C": {
-        "en": "You may park briefly to load passengers",
-        "zh-Hans": "可短暂停车上下客",
-        "zh-Hant": "可短暫停車上下客"
       }
     },
-    "answer": "B",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, NO PARKING means no parking; brief loading is permitted.",
       "zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，NO PARKING 表示禁止停车，但可短暂停靠上下客。",
@@ -172,22 +172,22 @@
     },
     "options": {
       "A": {
+        "en": "Left turns prohibited only during peak hours",
+        "zh-Hans": "仅高峰时段禁止左转",
+        "zh-Hant": "僅高峰時段禁止左轉"
+      },
+      "B": {
         "en": "Left turns are prohibited at all times",
         "zh-Hans": "任何时候都禁止左转",
         "zh-Hant": "任何時候都禁止左轉"
       },
-      "B": {
+      "C": {
         "en": "Left turns prohibited only on red",
         "zh-Hans": "仅红灯时禁止左转",
         "zh-Hant": "僅紅燈時禁止左轉"
-      },
-      "C": {
-        "en": "Left turns prohibited only during peak hours",
-        "zh-Hans": "仅高峰时段禁止左转",
-        "zh-Hant": "僅高峰時段禁止左轉"
       }
     },
-    "answer": "A",
+    "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, the slashed left arrow means no left turns.",
       "zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，斜杠左箭头表示禁止左转。",
@@ -218,17 +218,17 @@
         "zh-Hant": "紅燈也可左轉"
       },
       "B": {
-        "en": "On green, yield to oncoming traffic and pedestrians before turning left",
-        "zh-Hans": "绿灯左转前先让行对向直行/行人",
-        "zh-Hant": "綠燈左轉前先讓行對向直行/行人"
-      },
-      "C": {
         "en": "You have absolute right of way on green",
         "zh-Hans": "绿灯左转拥有绝对优先权",
         "zh-Hant": "綠燈左轉擁有絕對優先權"
+      },
+      "C": {
+        "en": "On green, yield to oncoming traffic and pedestrians before turning left",
+        "zh-Hans": "绿灯左转前先让行对向直行/行人",
+        "zh-Hant": "綠燈左轉前先讓行對向直行/行人"
       }
     },
-    "answer": "B",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, the sign reminds drivers to yield to oncoming traffic and pedestrians when turning left on green.",
       "zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，绿灯左转仍需让行对向直行和行人。",
@@ -254,9 +254,9 @@
     },
     "options": {
       "A": {
-        "en": "Keep to the left of the roadway",
-        "zh-Hans": "保持左侧行驶",
-        "zh-Hant": "保持左側行駛"
+        "en": "Keep to the right of the divider or obstruction",
+        "zh-Hans": "保持在隔离或障碍物右侧通行",
+        "zh-Hant": "保持在隔離或障礙物右側通行"
       },
       "B": {
         "en": "Pass on either side",
@@ -264,12 +264,12 @@
         "zh-Hant": "可以在任意一側透過"
       },
       "C": {
-        "en": "Keep to the right of the divider or obstruction",
-        "zh-Hans": "保持在隔离或障碍物右侧通行",
-        "zh-Hant": "保持在隔離或障礙物右側通行"
+        "en": "Keep to the left of the roadway",
+        "zh-Hans": "保持左侧行驶",
+        "zh-Hant": "保持左側行駛"
       }
     },
-    "answer": "C",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, KEEP RIGHT means pass to the right of the obstruction.",
       "zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，KEEP RIGHT 表示需从障碍物右侧通过。",
@@ -295,14 +295,14 @@
     },
     "options": {
       "A": {
-        "en": "Stop and turn around; do not enter",
-        "zh-Hans": "立即停车并掉头，勿进入",
-        "zh-Hant": "立即停車並掉頭，勿進入"
-      },
-      "B": {
         "en": "No entry at night only",
         "zh-Hans": "仅夜间禁止进入",
         "zh-Hant": "僅夜間禁止進入"
+      },
+      "B": {
+        "en": "Stop and turn around; do not enter",
+        "zh-Hans": "立即停车并掉头，勿进入",
+        "zh-Hant": "立即停車並掉頭，勿進入"
       },
       "C": {
         "en": "Proceed slowly",
@@ -310,7 +310,7 @@
         "zh-Hant": "慢行透過"
       }
     },
-    "answer": "A",
+    "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, DO NOT ENTER means do not enter; turn around safely.",
       "zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，DO NOT ENTER 表示禁止进入，应立即安全驶离。",
@@ -336,22 +336,22 @@
     },
     "options": {
       "A": {
-        "en": "Only right turns are prohibited on red",
-        "zh-Hans": "红灯仅禁止右转",
-        "zh-Hant": "紅燈僅禁止右轉"
-      },
-      "B": {
         "en": "No turns are allowed on red",
         "zh-Hans": "红灯禁止任何转弯",
         "zh-Hant": "紅燈禁止任何轉彎"
       },
-      "C": {
+      "B": {
         "en": "You may turn slowly on red",
         "zh-Hans": "红灯可慢行转弯",
         "zh-Hant": "紅燈可慢行轉彎"
+      },
+      "C": {
+        "en": "Only right turns are prohibited on red",
+        "zh-Hans": "红灯仅禁止右转",
+        "zh-Hant": "紅燈僅禁止右轉"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, NO TURN ON RED prohibits all turns on red.",
       "zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，NO TURN ON RED 表示红灯禁止任何转弯。",
@@ -377,22 +377,22 @@
     },
     "options": {
       "A": {
-        "en": "U-turns prohibited only on red",
-        "zh-Hans": "只在红灯时禁止掉头",
-        "zh-Hant": "只在紅燈時禁止掉頭"
-      },
-      "B": {
         "en": "U-turns allowed after yielding",
         "zh-Hans": "需要让行后可掉头",
         "zh-Hant": "需要讓行後可掉頭"
       },
-      "C": {
+      "B": {
         "en": "U-turns are prohibited",
         "zh-Hans": "禁止掉头",
         "zh-Hant": "禁止掉頭"
+      },
+      "C": {
+        "en": "U-turns prohibited only on red",
+        "zh-Hans": "只在红灯时禁止掉头",
+        "zh-Hant": "只在紅燈時禁止掉頭"
       }
     },
-    "answer": "C",
+    "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, the slashed U-arrow means no U-turns.",
       "zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，斜杠 U 箭头表示禁止掉头。",
@@ -418,22 +418,22 @@
     },
     "options": {
       "A": {
+        "en": "All vehicles must turn right",
+        "zh-Hans": "所有车辆必须右转",
+        "zh-Hant": "所有車輛必須右轉"
+      },
+      "B": {
         "en": "Right lane is closed ahead",
         "zh-Hans": "右车道前方关闭",
         "zh-Hant": "右車道前方關閉"
       },
-      "B": {
+      "C": {
         "en": "Vehicles in the right lane must turn right at the intersection",
         "zh-Hans": "右车道的车辆必须在路口右转",
         "zh-Hant": "右車道的車輛必須在路口右轉"
-      },
-      "C": {
-        "en": "All vehicles must turn right",
-        "zh-Hans": "所有车辆必须右转",
-        "zh-Hant": "所有車輛必須右轉"
       }
     },
-    "answer": "B",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, RIGHT LANE MUST TURN RIGHT means vehicles in the right lane must make a right turn at the intersection.",
       "zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，RIGHT LANE MUST TURN RIGHT 表示右车道的车辆必须在路口右转。",
@@ -464,14 +464,14 @@
         "zh-Hant": "該車道僅可右轉，禁止直行"
       },
       "B": {
-        "en": "Right turn preferred but through is allowed",
-        "zh-Hans": "右转优先但可直行",
-        "zh-Hant": "右轉優先但可直行"
-      },
-      "C": {
         "en": "Right turns prohibited",
         "zh-Hans": "禁止右转",
         "zh-Hant": "禁止右轉"
+      },
+      "C": {
+        "en": "Right turn preferred but through is allowed",
+        "zh-Hans": "右转优先但可直行",
+        "zh-Hant": "右轉優先但可直行"
       }
     },
     "answer": "A",
@@ -541,9 +541,9 @@
     },
     "options": {
       "A": {
-        "en": "Road ahead is closed; you must detour",
-        "zh-Hans": "前方道路封闭，必须改道",
-        "zh-Hant": "前方道路封閉，必須改道"
+        "en": "Closed at night only",
+        "zh-Hans": "仅夜间封闭",
+        "zh-Hant": "僅夜間封閉"
       },
       "B": {
         "en": "Residents may proceed",
@@ -551,12 +551,12 @@
         "zh-Hant": "當地居民可透過"
       },
       "C": {
-        "en": "Closed at night only",
-        "zh-Hans": "仅夜间封闭",
-        "zh-Hant": "僅夜間封閉"
+        "en": "Road ahead is closed; you must detour",
+        "zh-Hans": "前方道路封闭，必须改道",
+        "zh-Hant": "前方道路封閉，必須改道"
       }
     },
-    "answer": "A",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, ROAD CLOSED means the road is closed and you must detour.",
       "zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，ROAD CLOSED 表示道路封闭，必须绕行。",
@@ -587,17 +587,17 @@
         "zh-Hant": "快車靠右，慢車靠左"
       },
       "B": {
-        "en": "Only trucks must keep right",
-        "zh-Hans": "仅卡车靠右",
-        "zh-Hant": "僅卡車靠右"
-      },
-      "C": {
         "en": "Slower vehicles must keep right or yield",
         "zh-Hans": "车速较慢需靠右行驶或让行",
         "zh-Hant": "車速較慢需靠右行駛或讓行"
+      },
+      "C": {
+        "en": "Only trucks must keep right",
+        "zh-Hans": "仅卡车靠右",
+        "zh-Hant": "僅卡車靠右"
       }
     },
-    "answer": "C",
+    "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, slower traffic must keep right.",
       "zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，慢车靠右标志要求车速较慢车辆靠右行驶。",
@@ -628,17 +628,17 @@
         "zh-Hant": "前方封路必須掉頭"
       },
       "B": {
-        "en": "Speed enforcement ahead",
-        "zh-Hans": "前方测速执法",
-        "zh-Hant": "前方測速執法"
-      },
-      "C": {
         "en": "A flagger is ahead; slow down and follow directions",
         "zh-Hans": "前方有交通指挥员，需减速并听从指挥",
         "zh-Hant": "前方有交通指揮員，需減速並聽從指揮"
+      },
+      "C": {
+        "en": "Speed enforcement ahead",
+        "zh-Hans": "前方测速执法",
+        "zh-Hant": "前方測速執法"
       }
     },
-    "answer": "C",
+    "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, a flagger ahead sign means slow down and obey directions.",
       "zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，前方有旗手指挥，应减速并服从指示。",
@@ -664,14 +664,14 @@
     },
     "options": {
       "A": {
-        "en": "Road closed; you must turn around",
-        "zh-Hans": "道路封闭必须掉头",
-        "zh-Hant": "道路封閉必須掉頭"
-      },
-      "B": {
         "en": "You may speed through",
         "zh-Hans": "允许加速通过",
         "zh-Hant": "允許加速透過"
+      },
+      "B": {
+        "en": "Road closed; you must turn around",
+        "zh-Hans": "道路封闭必须掉头",
+        "zh-Hant": "道路封閉必須掉頭"
       },
       "C": {
         "en": "Road work ahead; slow down and watch for workers/equipment",
@@ -705,22 +705,22 @@
     },
     "options": {
       "A": {
-        "en": "Bus stop ahead; buses may stop to load/unload and you must stop when its signals show",
-        "zh-Hans": "前方校车站点，可能随时停车，上下学生时必须停",
-        "zh-Hant": "前方校車站點，可能隨時停車，上下學生時必須停"
-      },
-      "B": {
         "en": "You may pass when the stop arm is out",
         "zh-Hans": "可在校车伸停牌时超车",
         "zh-Hant": "可在校車伸停牌時超車"
       },
-      "C": {
+      "B": {
         "en": "Buses stop only at night",
         "zh-Hans": "仅夜间停车",
         "zh-Hant": "僅夜間停車"
+      },
+      "C": {
+        "en": "Bus stop ahead; buses may stop to load/unload and you must stop when its signals show",
+        "zh-Hans": "前方校车站点，可能随时停车，上下学生时必须停",
+        "zh-Hant": "前方校車站點，可能隨時停車，上下學生時必須停"
       }
     },
-    "answer": "A",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, a school bus stop ahead sign means buses may stop to load/unload; be ready to stop.",
       "zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，校车停靠点提示校车可能停车上下学生，应随时准备停车。",
@@ -746,22 +746,22 @@
     },
     "options": {
       "A": {
+        "en": "You have priority through",
+        "zh-Hans": "你有优先通行权",
+        "zh-Hant": "你有優先通行權"
+      },
+      "B": {
         "en": "Road will be closed ahead; prepare to detour",
         "zh-Hans": "前方道路将封闭，需提前寻找绕行",
         "zh-Hant": "前方道路將封閉，需提前尋找繞行"
       },
-      "B": {
+      "C": {
         "en": "Closed at night only",
         "zh-Hans": "仅夜间封闭",
         "zh-Hant": "僅夜間封閉"
-      },
-      "C": {
-        "en": "You have priority through",
-        "zh-Hans": "你有优先通行权",
-        "zh-Hant": "你有優先通行權"
       }
     },
-    "answer": "A",
+    "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, ROAD CLOSED AHEAD warns of a closure; prepare to detour.",
       "zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，ROAD CLOSED AHEAD 表示前方封闭，应提前准备绕行。",
@@ -833,17 +833,17 @@
         "zh-Hant": "掉頭返回"
       },
       "B": {
-        "en": "Continue straight on the main route",
-        "zh-Hans": "原路直行即可",
-        "zh-Hant": "原路直行即可"
-      },
-      "C": {
         "en": "Follow the arrow for the detour route",
         "zh-Hans": "按箭头方向走绕行路线",
         "zh-Hant": "按箭頭方向走繞行路線"
+      },
+      "C": {
+        "en": "Continue straight on the main route",
+        "zh-Hans": "原路直行即可",
+        "zh-Hant": "原路直行即可"
       }
     },
-    "answer": "C",
+    "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, a detour arrow means follow the indicated route.",
       "zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，绕行箭头要求按指示方向行驶。",
@@ -869,9 +869,9 @@
     },
     "options": {
       "A": {
-        "en": "Road narrows to one lane ahead; slow and alternate passage",
-        "zh-Hans": "前方变为单车道，需减速并交替通行",
-        "zh-Hant": "前方變為單車道，需減速並交替通行"
+        "en": "Only trucks use one lane",
+        "zh-Hans": "仅货车单车道",
+        "zh-Hant": "僅貨車單車道"
       },
       "B": {
         "en": "Parallel lanes remain open",
@@ -879,12 +879,12 @@
         "zh-Hant": "允許並排行駛"
       },
       "C": {
-        "en": "Only trucks use one lane",
-        "zh-Hans": "仅货车单车道",
-        "zh-Hant": "僅貨車單車道"
+        "en": "Road narrows to one lane ahead; slow and alternate passage",
+        "zh-Hans": "前方变为单车道，需减速并交替通行",
+        "zh-Hant": "前方變為單車道，需減速並交替通行"
       }
     },
-    "answer": "A",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, ONE LANE ROAD AHEAD warns the road narrows to one lane; slow down and take turns.",
       "zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，ONE LANE ROAD AHEAD 提示前方变为单车道，应减速并交替通行。",
@@ -915,17 +915,17 @@
         "zh-Hant": "禁止左轉"
       },
       "B": {
-        "en": "Left turns merge right",
-        "zh-Hans": "左转车辆靠右",
-        "zh-Hant": "左轉車輛靠右"
-      },
-      "C": {
         "en": "Through traffic must merge into the left lane",
         "zh-Hans": "直行车辆需并到左侧车道",
         "zh-Hant": "直行車輛需併到左側車道"
+      },
+      "C": {
+        "en": "Left turns merge right",
+        "zh-Hans": "左转车辆靠右",
+        "zh-Hant": "左轉車輛靠右"
       }
     },
-    "answer": "C",
+    "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, THRU TRAFFIC MERGE LEFT directs through traffic to merge left.",
       "zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，THRU TRAFFIC MERGE LEFT 表示直行车道需并入左侧。",
@@ -951,22 +951,22 @@
     },
     "options": {
       "A": {
-        "en": "All lanes closed",
-        "zh-Hans": "两侧车道全封闭",
-        "zh-Hant": "兩側車道全封閉"
-      },
-      "B": {
         "en": "All lanes are closed",
         "zh-Hans": "所有车道关闭",
         "zh-Hant": "所有車道關閉"
       },
-      "C": {
+      "B": {
         "en": "A lane ahead is closed; merge into an open lane in advance",
         "zh-Hans": "前方车道将关闭，应提前并入其他车道",
         "zh-Hant": "前方車道將關閉，應提前併入其他車道"
+      },
+      "C": {
+        "en": "All lanes closed",
+        "zh-Hans": "两侧车道全封闭",
+        "zh-Hant": "兩側車道全封閉"
       }
     },
-    "answer": "C",
+    "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, LANE CLOSED means a lane is closing ahead; merge safely into an open lane.",
       "zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，LANE CLOSED 表示前方车道将关闭，应提前安全并入其他车道。",
@@ -997,14 +997,14 @@
         "zh-Hant": "此處及前方禁止跨線超車"
       },
       "B": {
-        "en": "Passing allowed with caution",
-        "zh-Hans": "建议谨慎超车",
-        "zh-Hant": "建議謹慎超車"
-      },
-      "C": {
         "en": "No passing at night only",
         "zh-Hans": "仅夜间禁超",
         "zh-Hant": "僅夜間禁超"
+      },
+      "C": {
+        "en": "Passing allowed with caution",
+        "zh-Hans": "建议谨慎超车",
+        "zh-Hant": "建議謹慎超車"
       }
     },
     "answer": "A",
@@ -1033,22 +1033,22 @@
     },
     "options": {
       "A": {
-        "en": "An added lane joins; no merging conflicts between streams",
-        "zh-Hans": "旁侧匝道形成新增车道，无需互相抢道并线",
-        "zh-Hant": "旁側匝道形成新增車道，無需互相搶道併線"
-      },
-      "B": {
         "en": "Right lane ends; merge left",
         "zh-Hans": "右侧车道将结束，需要并入左侧",
         "zh-Hant": "右側車道將結束，需要併入左側"
       },
-      "C": {
+      "B": {
         "en": "You must change lanes immediately",
         "zh-Hans": "必须立即变道",
         "zh-Hant": "必須立即變道"
+      },
+      "C": {
+        "en": "An added lane joins; no merging conflicts between streams",
+        "zh-Hans": "旁侧匝道形成新增车道，无需互相抢道并线",
+        "zh-Hant": "旁側匝道形成新增車道，無需互相搶道併線"
       }
     },
-    "answer": "A",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, an added lane sign means traffic enters a new lane without immediate merging.",
       "zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，新增车道标志表示旁侧车流形成新车道，不需立即并线。",
@@ -1115,14 +1115,14 @@
     },
     "options": {
       "A": {
-        "en": "Slippery at night only",
-        "zh-Hans": "仅夜间湿滑",
-        "zh-Hant": "僅夜間溼滑"
-      },
-      "B": {
         "en": "Road may be slippery when wet; slow and steer gently",
         "zh-Hans": "路面潮湿易打滑，需减速平稳操控",
         "zh-Hant": "路面潮溼易打滑，需減速平穩操控"
+      },
+      "B": {
+        "en": "Slippery at night only",
+        "zh-Hans": "仅夜间湿滑",
+        "zh-Hant": "僅夜間溼滑"
       },
       "C": {
         "en": "Drifting allowed",
@@ -1130,7 +1130,7 @@
         "zh-Hant": "允許漂移"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, the slippery road sign means slow down and use smooth control.",
       "zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，路面湿滑警告提示应减速并平稳操控。",
@@ -1197,14 +1197,14 @@
     },
     "options": {
       "A": {
-        "en": "Right turn prohibited",
-        "zh-Hans": "禁止右转",
-        "zh-Hant": "禁止右轉"
-      },
-      "B": {
         "en": "Sharp 90° right turn ahead; slow down",
         "zh-Hans": "前方急转 90° 右弯，需减速",
         "zh-Hant": "前方急轉 90° 右彎，需減速"
+      },
+      "B": {
+        "en": "Right turn prohibited",
+        "zh-Hans": "禁止右转",
+        "zh-Hant": "禁止右轉"
       },
       "C": {
         "en": "Advises speeding up",
@@ -1212,7 +1212,7 @@
         "zh-Hant": "建議加速"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, a sharp right turn sign warns of a 90-degree turn; reduce speed.",
       "zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，急右弯提示前方 90 度转弯，应明显减速。",
@@ -1238,22 +1238,22 @@
     },
     "options": {
       "A": {
+        "en": "You may continue straight",
+        "zh-Hans": "可直行穿过",
+        "zh-Hant": "可直行穿過"
+      },
+      "B": {
         "en": "The through road ends ahead; you must turn left or right",
         "zh-Hans": "前方道路到此为止，需要左转或右转",
         "zh-Hant": "前方道路到此為止，需要左轉或右轉"
       },
-      "B": {
+      "C": {
         "en": "Roundabout ahead",
         "zh-Hans": "环岛在前",
         "zh-Hant": "環島在前"
-      },
-      "C": {
-        "en": "You may continue straight",
-        "zh-Hans": "可直行穿过",
-        "zh-Hant": "可直行穿過"
       }
     },
-    "answer": "A",
+    "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, a T-intersection sign means the road ends and you must turn left or right.",
       "zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，T 字路口提示前方道路到头，必须左转或右转。",
@@ -1279,14 +1279,14 @@
     },
     "options": {
       "A": {
-        "en": "Roundabout",
-        "zh-Hans": "环岛",
-        "zh-Hant": "環島"
-      },
-      "B": {
         "en": "End of one-way",
         "zh-Hans": "单行道结束",
         "zh-Hant": "單行道結束"
+      },
+      "B": {
+        "en": "Roundabout",
+        "zh-Hans": "环岛",
+        "zh-Hant": "環島"
       },
       "C": {
         "en": "A four-way intersection ahead; watch cross traffic",
@@ -1325,14 +1325,14 @@
         "zh-Hant": "右車道即將結束，需提前向左併線"
       },
       "B": {
-        "en": "Both lanes are merging",
-        "zh-Hans": "两车道合并",
-        "zh-Hant": "兩車道合併"
-      },
-      "C": {
         "en": "The left lane is ending",
         "zh-Hans": "左车道即将结束",
         "zh-Hant": "左車道即將結束"
+      },
+      "C": {
+        "en": "Both lanes are merging",
+        "zh-Hans": "两车道合并",
+        "zh-Hant": "兩車道合併"
       }
     },
     "answer": "A",
@@ -1402,9 +1402,9 @@
     },
     "options": {
       "A": {
-        "en": "Sharp curve/grade ahead with rollover risk; trucks must slow significantly",
-        "zh-Hans": "前方急弯/坡度有倾覆风险，卡车需大幅减速",
-        "zh-Hant": "前方急彎/坡度有傾覆風險，卡車需大幅減速"
+        "en": "Only cars affected",
+        "zh-Hans": "仅小客车注意",
+        "zh-Hant": "僅小客車注意"
       },
       "B": {
         "en": "High speed encouraged",
@@ -1412,12 +1412,12 @@
         "zh-Hant": "允許高速透過"
       },
       "C": {
-        "en": "Only cars affected",
-        "zh-Hans": "仅小客车注意",
-        "zh-Hant": "僅小客車注意"
+        "en": "Sharp curve/grade ahead with rollover risk; trucks must slow significantly",
+        "zh-Hans": "前方急弯/坡度有倾覆风险，卡车需大幅减速",
+        "zh-Hant": "前方急彎/坡度有傾覆風險，卡車需大幅減速"
       }
     },
-    "answer": "A",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, a truck rollover warning signals a sharp curve/grade; heavy vehicles must slow significantly.",
       "zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，卡车侧翻警告提示前方急弯/坡度，重车需显著降速。",
@@ -1484,22 +1484,22 @@
     },
     "options": {
       "A": {
-        "en": "Bicycles prohibited",
-        "zh-Hans": "禁止自行车",
-        "zh-Hant": "禁止腳踏車"
-      },
-      "B": {
         "en": "Bicycles may cross/travel ahead; slow and watch",
         "zh-Hans": "前方有自行车通行/横穿，减速注意",
         "zh-Hant": "前方有腳踏車通行/橫穿，減速注意"
       },
-      "C": {
+      "B": {
         "en": "Bikes only; no motor vehicles",
         "zh-Hans": "仅自行车道，禁止机动车",
         "zh-Hant": "僅腳踏車道，禁止機動車"
+      },
+      "C": {
+        "en": "Bicycles prohibited",
+        "zh-Hans": "禁止自行车",
+        "zh-Hant": "禁止腳踏車"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Traffic Signs, a bicycle warning means bikes may be present; slow down and watch.",
       "zh-Hans": "根据手册第6章《导览道路》《交通标志》的规定，自行车警告标志提示前方可能有自行车通行或横穿，应减速留意。",
@@ -1566,14 +1566,14 @@
     },
     "options": {
       "A": {
-        "en": "Crosswalk at night only",
-        "zh-Hans": "仅夜间有人行道",
-        "zh-Hant": "僅夜間有人行道"
-      },
-      "B": {
         "en": "No pedestrians allowed",
         "zh-Hans": "禁止行人通行",
         "zh-Hant": "禁止行人通行"
+      },
+      "B": {
+        "en": "Crosswalk at night only",
+        "zh-Hans": "仅夜间有人行道",
+        "zh-Hant": "僅夜間有人行道"
       },
       "C": {
         "en": "Pedestrian crossing ahead; slow and yield to pedestrians",

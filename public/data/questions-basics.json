@@ -9,22 +9,22 @@
     },
     "options": {
       "A": {
-        "en": "Only the driver.",
-        "zh-Hans": "只有驾驶员。",
-        "zh-Hant": "只有駕駛員。"
-      },
-      "B": {
         "en": "The driver and all passengers 8 years or older.",
         "zh-Hans": "驾驶员及所有 8 岁或以上的乘客。",
         "zh-Hant": "駕駛員及所有 8 歲或以上的乘客。"
       },
-      "C": {
+      "B": {
         "en": "The driver and all passengers.",
         "zh-Hans": "驾驶员及所有乘客。",
         "zh-Hant": "駕駛員及所有乘客。"
+      },
+      "C": {
+        "en": "Only the driver.",
+        "zh-Hans": "只有驾驶员。",
+        "zh-Hant": "只有駕駛員。"
       }
     },
-    "answer": "C",
+    "answer": "B",
     "explanation": {
       "en": "California law requires the driver and all passengers to be properly buckled up.",
       "zh-Hans": "加州法律要求驾驶员和所有乘客必须正确佩戴安全带。",
@@ -48,22 +48,22 @@
     },
     "options": {
       "A": {
-        "en": "Slow down and proceed with caution.",
-        "zh-Hans": "减速并谨慎通过。",
-        "zh-Hant": "減速並謹慎透過。"
-      },
-      "B": {
         "en": "'STOP.' Stop at the limit line or crosswalk.",
         "zh-Hans": "“停车”。在限制线或人行道前停下。",
         "zh-Hant": "“停車”。在限制線或人行道前停下。"
       },
-      "C": {
+      "B": {
         "en": "The signal is broken.",
         "zh-Hans": "信号灯故障。",
         "zh-Hant": "訊號燈故障。"
+      },
+      "C": {
+        "en": "Slow down and proceed with caution.",
+        "zh-Hans": "减速并谨慎通过。",
+        "zh-Hant": "減速並謹慎透過。"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a solid red light means stop before the limit line or crosswalk.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯表示停车，应在限制线或人行横道前完全停下。",
@@ -87,22 +87,22 @@
     },
     "options": {
       "A": {
-        "en": "Never. It is always illegal.",
-        "zh-Hans": "在任何情况下都不允许。",
-        "zh-Hant": "在任何情況下都不允許。"
-      },
-      "B": {
         "en": "After coming to a complete stop, AND if there is no sign prohibiting the turn.",
         "zh-Hans": "在您完全停车后，并且没有“红灯禁止转弯”的标志时。",
         "zh-Hant": "在您完全停車後，並且沒有“紅燈禁止轉彎”的標誌時。"
       },
-      "C": {
+      "B": {
         "en": "Only at night.",
         "zh-Hans": "仅在夜间。",
         "zh-Hant": "僅在夜間。"
+      },
+      "C": {
+        "en": "Never. It is always illegal.",
+        "zh-Hans": "在任何情况下都不允许。",
+        "zh-Hant": "在任何情況下都不允許。"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a right turn on red is allowed only after a complete stop and if no sign prohibits it.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯右转须先完全停车，且无“红灯禁止转弯”标志时才可转弯。",
@@ -165,9 +165,9 @@
     },
     "options": {
       "A": {
-        "en": "Slow to a crawling speed.",
-        "zh-Hans": "减速至爬行速度。",
-        "zh-Hant": "減速至爬行速度。"
+        "en": "Come to a complete stop.",
+        "zh-Hans": "完全停车。",
+        "zh-Hant": "完全停車。"
       },
       "B": {
         "en": "Honk your horn.",
@@ -175,12 +175,12 @@
         "zh-Hant": "鳴喇叭。"
       },
       "C": {
-        "en": "Come to a complete stop.",
-        "zh-Hans": "完全停车。",
-        "zh-Hant": "完全停車。"
+        "en": "Slow to a crawling speed.",
+        "zh-Hans": "减速至爬行速度。",
+        "zh-Hant": "減速至爬行速度。"
       }
     },
-    "answer": "C",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, you must come to a complete stop before turning on red.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯转弯前必须先完全停车。",
@@ -204,22 +204,22 @@
     },
     "options": {
       "A": {
-        "en": "You may not turn right on the red light.",
-        "zh-Hans": "您不可以在红灯时右转。",
-        "zh-Hant": "您不可以在紅燈時右轉。"
-      },
-      "B": {
         "en": "You may not turn right on red, unless you stop first.",
         "zh-Hans": "您不可以在红灯时右转，除非您先停车。",
         "zh-Hant": "您不可以在紅燈時右轉，除非您先停車。"
       },
-      "C": {
+      "B": {
         "en": "The sign applies only to trucks.",
         "zh-Hans": "该标志仅适用于卡车。",
         "zh-Hant": "該標誌僅適用於卡車。"
+      },
+      "C": {
+        "en": "You may not turn right on the red light.",
+        "zh-Hans": "您不可以在红灯时右转。",
+        "zh-Hant": "您不可以在紅燈時右轉。"
       }
     },
-    "answer": "A",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a NO TURN ON RED sign means you must wait for green.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，NO TURN ON RED 表示红灯时禁止转弯，需等待绿灯。",
@@ -243,22 +243,22 @@
     },
     "options": {
       "A": {
-        "en": "You, because you are on the left.",
-        "zh-Hans": "您，因为您在左侧。",
-        "zh-Hant": "您，因為您在左側。"
-      },
-      "B": {
         "en": "The vehicle on your right.",
         "zh-Hans": "您右侧的车辆。",
         "zh-Hant": "您右側的車輛。"
       },
-      "C": {
+      "B": {
         "en": "You may both proceed at the same time.",
         "zh-Hans": "您们都可以同时行驶。",
         "zh-Hant": "您們都可以同時行駛。"
+      },
+      "C": {
+        "en": "You, because you are on the left.",
+        "zh-Hans": "您，因为您在左侧。",
+        "zh-Hant": "您，因為您在左側。"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a flashing red is treated as a STOP sign; if you arrive together, yield to the vehicle on your right.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，闪烁红灯按 STOP 处理，同时到达应让右侧车辆先行。",
@@ -282,9 +282,9 @@
     },
     "options": {
       "A": {
-        "en": "Only pedestrians.",
-        "zh-Hans": "仅为行人让行。",
-        "zh-Hant": "僅為行人讓行。"
+        "en": "No one; you may proceed.",
+        "zh-Hans": "无需让行。",
+        "zh-Hant": "無需讓行。"
       },
       "B": {
         "en": "Pedestrians and traffic (including bicyclists) who have the right-of-way.",
@@ -292,9 +292,9 @@
         "zh-Hant": "行人和（有先行權的）車流（包括腳踏車）。"
       },
       "C": {
-        "en": "No one; you may proceed.",
-        "zh-Hans": "无需让行。",
-        "zh-Hant": "無需讓行。"
+        "en": "Only pedestrians.",
+        "zh-Hans": "仅为行人让行。",
+        "zh-Hant": "僅為行人讓行。"
       }
     },
     "answer": "B",
@@ -326,17 +326,17 @@
         "zh-Hant": "無需讓行，因為這是合法的。"
       },
       "B": {
-        "en": "Only pedestrians.",
-        "zh-Hans": "仅为行人让行。",
-        "zh-Hant": "僅為行人讓行。"
-      },
-      "C": {
         "en": "Vehicles, pedestrians, and bicyclists (who have the green light).",
         "zh-Hans": "（有绿灯的）车辆、行人和自行车使用者。",
         "zh-Hant": "（有綠燈的）車輛、行人和腳踏車使用者。"
+      },
+      "C": {
+        "en": "Only pedestrians.",
+        "zh-Hans": "仅为行人让行。",
+        "zh-Hant": "僅為行人讓行。"
       }
     },
-    "answer": "C",
+    "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, even when left on red is allowed you must yield to vehicles, pedestrians, and bicyclists with a green light.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，单行道红灯左转仍须为有绿灯的车辆、行人和自行车让行。",
@@ -360,9 +360,9 @@
     },
     "options": {
       "A": {
-        "en": "Treat it as a green light and proceed with caution.",
-        "zh-Hans": "视​​为绿灯，谨慎通过。",
-        "zh-Hant": "視​​為綠燈，謹慎透過。"
+        "en": "Stop and wait for a law enforcement officer.",
+        "zh-Hans": "停车，并等待执（Law Enforcement）法人员。",
+        "zh-Hant": "停車，並等待執（Law Enforcement）法人員。"
       },
       "B": {
         "en": "Treat it as if it had 'STOP' signs in all directions (a four-way stop).",
@@ -370,9 +370,9 @@
         "zh-Hant": "視​​為在各​​個方向都由“STOP”（停車）標誌控制。"
       },
       "C": {
-        "en": "Stop and wait for a law enforcement officer.",
-        "zh-Hans": "停车，并等待执（Law Enforcement）法人员。",
-        "zh-Hant": "停車，並等待執（Law Enforcement）法人員。"
+        "en": "Treat it as a green light and proceed with caution.",
+        "zh-Hans": "视​​为绿灯，谨慎通过。",
+        "zh-Hant": "視​​為綠燈，謹慎透過。"
       }
     },
     "answer": "B",
@@ -399,14 +399,14 @@
     },
     "options": {
       "A": {
-        "en": "The vehicle turning left.",
-        "zh-Hans": "对方（左转车辆）。",
-        "zh-Hant": "對方（左轉車輛）。"
-      },
-      "B": {
         "en": "You (the vehicle going straight).",
         "zh-Hans": "您（直行车辆）。",
         "zh-Hant": "您（直行車輛）。"
+      },
+      "B": {
+        "en": "The vehicle turning left.",
+        "zh-Hans": "对方（左转车辆）。",
+        "zh-Hant": "對方（左轉車輛）。"
       },
       "C": {
         "en": "The vehicle that signaled first.",
@@ -414,7 +414,7 @@
         "zh-Hant": "最先打訊號的車輛。"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Right-of-Way, at a flashing red treated as a stop, straight-through traffic has priority over a left turn when arriving together.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《先行权》的规定，闪烁红灯按停牌处理，同时到达时直行优先于左转。",
@@ -443,14 +443,14 @@
         "zh-Hant": "即使您的紅燈變綠，也要保持停車，併為行人讓行，以避免碰撞。"
       },
       "B": {
-        "en": "Flash your high-beams to warn them.",
-        "zh-Hans": "打开您的远光灯以警告他们。",
-        "zh-Hant": "開啟您的遠光燈以警告他們。"
-      },
-      "C": {
         "en": "Try to turn right in front of them.",
         "zh-Hans": "尝试在他们前面右转。",
         "zh-Hant": "嘗試在他們前面右轉。"
+      },
+      "C": {
+        "en": "Flash your high-beams to warn them.",
+        "zh-Hans": "打开您的远光灯以警告他们。",
+        "zh-Hant": "開啟您的遠光燈以警告他們。"
       }
     },
     "answer": "A",
@@ -482,17 +482,17 @@
         "zh-Hant": "僅為最右側行車線的車輛。"
       },
       "B": {
-        "en": "Only trucks and buses.",
-        "zh-Hans": "仅为卡车和公共汽车。",
-        "zh-Hant": "僅為卡車和公共汽車。"
-      },
-      "C": {
         "en": "All vehicles, motorcycles, and bicycles in all lanes.",
         "zh-Hans": "所有行车线上的所有车辆、摩托车和自行车。",
         "zh-Hant": "所有行車線上的所有車輛、摩托車和腳踏車。"
+      },
+      "C": {
+        "en": "Only trucks and buses.",
+        "zh-Hans": "仅为卡车和公共汽车。",
+        "zh-Hant": "僅為卡車和公共汽車。"
       }
     },
-    "answer": "C",
+    "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, when turning right on red you must yield to all traffic from the left, including motorcycles and bicycles.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯右转需让行来自左侧所有车道的车辆以及摩托车和自行车。",
@@ -516,22 +516,22 @@
     },
     "options": {
       "A": {
+        "en": "Yield to pedestrians, then turn.",
+        "zh-Hans": "为行人让行，然后转弯。",
+        "zh-Hant": "為行人讓行，然後轉彎。"
+      },
+      "B": {
         "en": "Remain stopped and not turn in the direction of the arrow.",
         "zh-Hans": "保持停车，不得转向箭头方向。",
         "zh-Hant": "保持停車，不得轉向箭頭方向。"
       },
-      "B": {
+      "C": {
         "en": "Slow down and turn with caution.",
         "zh-Hans": "减速并谨慎转弯。",
         "zh-Hant": "減速並謹慎轉彎。"
-      },
-      "C": {
-        "en": "Yield to pedestrians, then turn.",
-        "zh-Hans": "为行人让行，然后转弯。",
-        "zh-Hant": "為行人讓行，然後轉彎。"
       }
     },
-    "answer": "A",
+    "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a red arrow requires a stop and prohibits turning in the arrow’s direction.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红色箭头要求停车并禁止转向箭头方向。",
@@ -555,22 +555,22 @@
     },
     "options": {
       "A": {
+        "en": "Treat it as a 'YIELD' sign while the lights are flashing.",
+        "zh-Hans": "在灯光闪烁时，将其视为“YIELD”（让行）标志。",
+        "zh-Hant": "在燈光閃爍時，將其視為“YIELD”（讓行）標誌。"
+      },
+      "B": {
         "en": "Stop at least 15 feet from the nearest rail and wait (until the lights stop flashing).",
         "zh-Hans": "在距离最近的铁轨至少 15 英尺以外之处停车，并等待（直到灯停止闪烁）。",
         "zh-Hant": "在距離最近的鐵軌至少 15 英尺以外之處停車，並等待（直到燈停止閃爍）。"
       },
-      "B": {
+      "C": {
         "en": "Slow down and proceed with caution (if no train is visible).",
         "zh-Hans": "减速并（如果没有火车）小心通过。",
         "zh-Hant": "減速並（如果沒有火車）小心透過。"
-      },
-      "C": {
-        "en": "Treat it as a 'YIELD' sign while the lights are flashing.",
-        "zh-Hans": "在灯光闪烁时，将其视为“YIELD”（让行）标志。",
-        "zh-Hant": "在燈光閃爍時，將其視為“YIELD”（讓行）標誌。"
       }
     },
-    "answer": "A",
+    "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Road Rules, flashing red railroad lights require stopping at least 15 feet from the tracks and waiting.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，道口红灯闪烁必须在距铁轨至少 15 英尺处停车等待。",
@@ -594,14 +594,14 @@
     },
     "options": {
       "A": {
-        "en": "Yes, after stopping.",
-        "zh-Hans": "是，在停车后。",
-        "zh-Hant": "是，在停車後。"
-      },
-      "B": {
         "en": "No, this is illegal.",
         "zh-Hans": "否，这是违法的。",
         "zh-Hant": "否，這是違法的。"
+      },
+      "B": {
+        "en": "Yes, after stopping.",
+        "zh-Hans": "是，在停车后。",
+        "zh-Hant": "是，在停車後。"
       },
       "C": {
         "en": "Yes, but only at night.",
@@ -609,7 +609,7 @@
         "zh-Hant": "是，但僅限夜間。"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, left on red is only allowed from a one-way to a one-way street; from a two-way street it is illegal.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯左转仅限单行道转单行道，从双向道左转仍属违法。",
@@ -867,22 +867,22 @@
     },
     "options": {
       "A": {
-        "en": "Back up.",
-        "zh-Hans": "倒车。",
-        "zh-Hant": "倒車。"
-      },
-      "B": {
         "en": "Complete your turn cautiously (if safe).",
         "zh-Hans": "谨慎完成您的转弯（如果安全）。",
         "zh-Hant": "謹慎完成您的轉彎（如果安全）。"
       },
-      "C": {
+      "B": {
         "en": "Speed up to beat the red light.",
         "zh-Hans": "加速以抢在红灯前。",
         "zh-Hant": "加速以搶在紅燈前。"
+      },
+      "C": {
+        "en": "Back up.",
+        "zh-Hans": "倒车。",
+        "zh-Hant": "倒車。"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, if you are already in the intersection on a yellow arrow, complete the turn safely and clear the intersection.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，已在路口内遇黄箭头时应在安全情况下完成转弯并清空路口。",
@@ -911,17 +911,17 @@
         "zh-Hant": "是，您必須始終停車。"
       },
       "B": {
-        "en": "No, you have the right-of-way, but you must still slow down and be alert.",
-        "zh-Hans": "否，您有先行权，但您仍应减速并保持警惕。",
-        "zh-Hant": "否，您有先行權，但您仍應減速並保持警惕。"
-      },
-      "C": {
         "en": "Yes, you must yield to them.",
         "zh-Hans": "是，您必须为他们让行。",
         "zh-Hant": "是，您必須為他們讓行。"
+      },
+      "C": {
+        "en": "No, you have the right-of-way, but you must still slow down and be alert.",
+        "zh-Hans": "否，您有先行权，但您仍应减速并保持警惕。",
+        "zh-Hant": "否，您有先行權，但您仍應減速並保持警惕。"
       }
     },
-    "answer": "B",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a flashing yellow light does not require a stop but you must slow down and be alert.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，闪烁黄灯无需停车，但必须减速并保持警惕。",
@@ -945,22 +945,22 @@
     },
     "options": {
       "A": {
-        "en": "Yes, if it means you can 'beat the red light'.",
-        "zh-Hans": "是，如果这意味着您可以“抢在红灯前”。",
-        "zh-Hant": "是，如果這意味著您可以“搶在紅燈前”。"
-      },
-      "B": {
         "en": "No, it means 'CAUTION,' and you must stop if it is safe to do so.",
         "zh-Hans": "否，它意味着“小心”，并且您必须在安全的情况下停车。",
         "zh-Hant": "否，它意味著“小心”，並且您必須在安全的情況下停車。"
       },
-      "C": {
+      "B": {
         "en": "Yes, it is designed to clear the intersection.",
         "zh-Hans": "是，这是为了清空十字路口。",
         "zh-Hant": "是，這是為了清空十字路口。"
+      },
+      "C": {
+        "en": "Yes, if it means you can 'beat the red light'.",
+        "zh-Hans": "是，如果这意味着您可以“抢在红灯前”。",
+        "zh-Hant": "是，如果這意味著您可以“搶在紅燈前”。"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a solid yellow light is a warning; stop if safe and do not speed up.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，黄灯是警示，应在安全时停车，不应加速抢灯。",
@@ -989,17 +989,17 @@
         "zh-Hant": "減速至時速 15 英里。"
       },
       "B": {
-        "en": "Slow down and be extra cautious for children (who may be crossing).",
-        "zh-Hans": "减速，并为儿童（他们可能正在过马路）格外小心。",
-        "zh-Hant": "減速，併為兒童（他們可能正在過馬路）格外小心。"
-      },
-      "C": {
         "en": "Stop and wait for the light to stop flashing.",
         "zh-Hans": "停车，并等待灯停止闪烁。",
         "zh-Hant": "停車，並等待燈停止閃爍。"
+      },
+      "C": {
+        "en": "Slow down and be extra cautious for children (who may be crossing).",
+        "zh-Hans": "减速，并为儿童（他们可能正在过马路）格外小心。",
+        "zh-Hant": "減速，併為兒童（他們可能正在過馬路）格外小心。"
       }
     },
-    "answer": "B",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a flashing yellow in a school zone means caution—slow down and watch for children.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，学校区闪烁黄灯表示谨慎驾驶，应减速并留意儿童。",
@@ -1023,14 +1023,14 @@
     },
     "options": {
       "A": {
-        "en": "Speed up to make the turn.",
-        "zh-Hans": "加速以完成转弯。",
-        "zh-Hant": "加速以完成轉彎。"
-      },
-      "B": {
         "en": "Stop, if you can do so safely, behind the limit line.",
         "zh-Hans": "如果您可以安全地停在限制线后，您应该停车。",
         "zh-Hant": "如果您可以安全地停在限制線後，您應該停車。"
+      },
+      "B": {
+        "en": "Speed up to make the turn.",
+        "zh-Hans": "加速以完成转弯。",
+        "zh-Hant": "加速以完成轉彎。"
       },
       "C": {
         "en": "Treat it as a flashing yellow and yield.",
@@ -1038,7 +1038,7 @@
         "zh-Hant": "將其視為閃爍黃燈並讓行。"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, on a solid yellow arrow you should stop behind the limit line if you can do so safely.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，接近黄箭头时应在安全情况下于限制线前停车。",
@@ -1067,14 +1067,14 @@
         "zh-Hant": "減速，併為迎面而來的車流和行人讓行。"
       },
       "B": {
-        "en": "Stop, then turn.",
-        "zh-Hans": "停车，然后转弯。",
-        "zh-Hant": "停車，然後轉彎。"
-      },
-      "C": {
         "en": "You may not turn left under any circumstances.",
         "zh-Hans": "在任何情况下都不允许左转。",
         "zh-Hant": "在任何情況下都不允許左轉。"
+      },
+      "C": {
+        "en": "Stop, then turn.",
+        "zh-Hans": "停车，然后转弯。",
+        "zh-Hant": "停車，然後轉彎。"
       }
     },
     "answer": "A",
@@ -1101,22 +1101,22 @@
     },
     "options": {
       "A": {
+        "en": "Proceed cautiously (if safe).",
+        "zh-Hans": "（如果安全）谨慎地继续行驶。",
+        "zh-Hant": "（如果安全）謹慎地繼續行駛。"
+      },
+      "B": {
         "en": "Back up immediately when the light turns red.",
         "zh-Hans": "在灯变红后立即倒车。",
         "zh-Hant": "在燈變紅後立即倒車。"
       },
-      "B": {
+      "C": {
         "en": "Remain stopped and wait for the green light.",
         "zh-Hans": "保持停车，并等待绿灯。",
         "zh-Hant": "保持停車，並等待綠燈。"
-      },
-      "C": {
-        "en": "Proceed cautiously (if safe).",
-        "zh-Hans": "（如果安全）谨慎地继续行驶。",
-        "zh-Hant": "（如果安全）謹慎地繼續行駛。"
       }
     },
-    "answer": "B",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, if you stop for a yellow light you must remain stopped until the next green.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，若已在黄灯时停车，应保持停车等待下一次绿灯。",
@@ -1145,14 +1145,14 @@
         "zh-Hant": "（雖然手冊未明確說明，但這是標準做法）減速並準備在紅燈開始閃爍時停車。"
       },
       "B": {
-        "en": "(This is not in the handbook) Speed up to cross.",
-        "zh-Hans": "（在手册中没有此规定）加速通过。",
-        "zh-Hant": "（在手冊中沒有此規定）加速透過。"
-      },
-      "C": {
         "en": "(This is not in the handbook) Treat it as a STOP sign.",
         "zh-Hans": "（在手册中没有此规定）将其视为“STOP”标志。",
         "zh-Hant": "（在手冊中沒有此規定）將其視為“STOP”標誌。"
+      },
+      "C": {
+        "en": "(This is not in the handbook) Speed up to cross.",
+        "zh-Hans": "（在手册中没有此规定）加速通过。",
+        "zh-Hant": "（在手冊中沒有此規定）加速透過。"
       }
     },
     "answer": "A",
@@ -1179,22 +1179,22 @@
     },
     "options": {
       "A": {
+        "en": "'CAUTION,' slow down.",
+        "zh-Hans": "“谨慎”，减速。",
+        "zh-Hant": "“謹慎”，減速。"
+      },
+      "B": {
         "en": "'GO,' but you must still yield to anyone (vehicle, pedestrian) already in the intersection.",
         "zh-Hans": "“通行”，但您仍必须为已经在十字路口内的任何人（车辆、行人）让行。",
         "zh-Hant": "“通行”，但您仍必須為已經在十字路口內的任何人（車輛、行人）讓行。"
       },
-      "B": {
+      "C": {
         "en": "'STOP,' and wait.",
         "zh-Hans": "“停车”，并等待。",
         "zh-Hant": "“停車”，並等待。"
-      },
-      "C": {
-        "en": "'CAUTION,' slow down.",
-        "zh-Hans": "“谨慎”，减速。",
-        "zh-Hant": "“謹慎”，減速。"
       }
     },
-    "answer": "A",
+    "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a green light means go but you must yield to anyone already in the intersection.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，绿灯表示通行，但仍须让行路口内车辆、行人或自行车。",
@@ -1218,14 +1218,14 @@
     },
     "options": {
       "A": {
-        "en": "Enter the intersection and hope traffic moves.",
-        "zh-Hans": "驶入十字路口，并希望交通会移动。",
-        "zh-Hant": "駛入十字路口，並希望交通會移動。"
-      },
-      "B": {
         "en": "Wait before the limit line or crosswalk until you have enough space to clear it completely.",
         "zh-Hans": "在限制线或人行道前等待，直到您有足够空间完全通过。",
         "zh-Hant": "在限制線或人行道前等待，直到您有足夠空間完全透過。"
+      },
+      "B": {
+        "en": "Enter the intersection and hope traffic moves.",
+        "zh-Hans": "驶入十字路口，并希望交通会移动。",
+        "zh-Hant": "駛入十字路口，並希望交通會移動。"
       },
       "C": {
         "en": "Honk your horn to force the traffic ahead to move.",
@@ -1233,7 +1233,7 @@
         "zh-Hant": "鳴喇叭，迫使前方車輛移動。"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, if you cannot clear the intersection you must wait behind the limit line.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，前方拥堵无法通过时不得进入路口，应在限制线前等待。",
@@ -1257,22 +1257,22 @@
     },
     "options": {
       "A": {
+        "en": "Turn quickly in front of oncoming traffic.",
+        "zh-Hans": "在迎面车流前快速转弯。",
+        "zh-Hant": "在迎面車流前快速轉彎。"
+      },
+      "B": {
         "en": "You have the right-of-way because you have the green light.",
         "zh-Hans": "您有先行权，因为您有绿灯。",
         "zh-Hant": "您有先行權，因為您有綠燈。"
       },
-      "B": {
+      "C": {
         "en": "Yield to oncoming (straight-through) traffic and pedestrians.",
         "zh-Hans": "为迎面而来的（直行）车流和行人让行。",
         "zh-Hant": "為迎面而來的（直行）車流和行人讓行。"
-      },
-      "C": {
-        "en": "Turn quickly in front of oncoming traffic.",
-        "zh-Hans": "在迎面车流前快速转弯。",
-        "zh-Hant": "在迎面車流前快速轉彎。"
       }
     },
-    "answer": "B",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Right-of-Way, on a green light without an arrow you must yield to oncoming traffic and pedestrians when turning left.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《先行权》的规定，绿灯无箭头左转必须让行迎面直行车辆和行人。",
@@ -1296,22 +1296,22 @@
     },
     "options": {
       "A": {
-        "en": "Turn without yielding.",
-        "zh-Hans": "无需让行，直接转弯。",
-        "zh-Hant": "無需讓行，直接轉彎。"
-      },
-      "B": {
         "en": "Yield only to oncoming straight-through vehicles.",
         "zh-Hans": "只需为对向直行车辆让行。",
         "zh-Hant": "只需為對向直行車輛讓行。"
       },
-      "C": {
+      "B": {
         "en": "Yield to pedestrians in the crosswalk and watch for bicyclists/motorcyclists before turning.",
         "zh-Hans": "为人行横道上的行人以及旁侧自行车/摩托车让行后再转弯。",
         "zh-Hant": "為人行橫道上的行人以及旁側腳踏車/摩托車讓行後再轉彎。"
+      },
+      "C": {
+        "en": "Turn without yielding.",
+        "zh-Hans": "无需让行，直接转弯。",
+        "zh-Hant": "無需讓行，直接轉彎。"
       }
     },
-    "answer": "C",
+    "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, before turning right on green you must yield to pedestrians and watch for bicyclists or motorcyclists.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，绿灯右转前需让行横道行人，并注意旁侧自行车或摩托车。",
@@ -1335,22 +1335,22 @@
     },
     "options": {
       "A": {
-        "en": "(If safe) pull into the intersection, but keep your wheels straight, and yield to oncoming traffic.",
-        "zh-Hans": "（如果安全）驶入十字路口，但保持车轮朝前，并为迎面车流让行。",
-        "zh-Hant": "（如果安全）駛入十字路口，但保持車輪朝前，併為迎面車流讓行。"
-      },
-      "B": {
         "en": "Honk and turn immediately.",
         "zh-Hans": "鸣喇叭并立即转弯。",
         "zh-Hant": "鳴喇叭並立即轉彎。"
       },
-      "C": {
+      "B": {
         "en": "You cannot turn left on a solid green light.",
         "zh-Hans": "您不能在恒亮绿灯时左转。",
         "zh-Hant": "您不能在恆亮綠燈時左轉。"
+      },
+      "C": {
+        "en": "(If safe) pull into the intersection, but keep your wheels straight, and yield to oncoming traffic.",
+        "zh-Hans": "（如果安全）驶入十字路口，但保持车轮朝前，并为迎面车流让行。",
+        "zh-Hant": "（如果安全）駛入十字路口，但保持車輪朝前，併為迎面車流讓行。"
       }
     },
-    "answer": "A",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Turns, on a green light without an arrow you may enter the intersection, keep wheels straight, and yield to oncoming traffic.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，绿灯无箭头左转时可进入路口等待，车轮保持直行并让行迎面车流。",
@@ -1374,22 +1374,22 @@
     },
     "options": {
       "A": {
-        "en": "No one; you have the green light.",
-        "zh-Hans": "无需让行，因为您有绿灯。",
-        "zh-Hant": "無需讓行，因為您有綠燈。"
-      },
-      "B": {
         "en": "Only oncoming left-turning vehicles.",
         "zh-Hans": "只需为对向左转车辆让行。",
         "zh-Hant": "只需為對向左轉車輛讓行。"
       },
-      "C": {
+      "B": {
         "en": "Pedestrians in the crosswalk and nearby bicyclists/motorcyclists.",
         "zh-Hans": "人行横道上的行人及邻近的自行车/摩托车。",
         "zh-Hant": "人行橫道上的行人及鄰近的腳踏車/摩托車。"
+      },
+      "C": {
+        "en": "No one; you have the green light.",
+        "zh-Hans": "无需让行，因为您有绿灯。",
+        "zh-Hant": "無需讓行，因為您有綠燈。"
       }
     },
-    "answer": "C",
+    "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, before turning right on green you must yield to pedestrians and watch for nearby bicyclists or motorcyclists.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，绿灯右转前须让行横道行人及邻近自行车或摩托车。",
@@ -1457,17 +1457,17 @@
         "zh-Hant": "是，綠色箭頭表示您有絕對先行權。"
       },
       "B": {
-        "en": "No, you must still yield to pedestrians who may be (illegally) in the crosswalk.",
-        "zh-Hans": "否，您仍必须为（可能非法进入）人行横道的行人让行。",
-        "zh-Hant": "否，您仍必須為（可能非法進入）人行橫道的行人讓行。"
-      },
-      "C": {
         "en": "Yes, because the pedestrians should have a 'DON'T WALK' signal.",
         "zh-Hans": "是，因为行人的信号灯此时应为“禁止行走”。",
         "zh-Hant": "是，因為行人的訊號燈此時應為“禁止行走”。"
+      },
+      "C": {
+        "en": "No, you must still yield to pedestrians who may be (illegally) in the crosswalk.",
+        "zh-Hans": "否，您仍必须为（可能非法进入）人行横道的行人让行。",
+        "zh-Hant": "否，您仍必須為（可能非法進入）人行橫道的行人讓行。"
       }
     },
-    "answer": "B",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a green arrow still requires yielding to pedestrians in the intersection.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，绿箭头转弯仍须让行路口内行人。",
@@ -1491,22 +1491,22 @@
     },
     "options": {
       "A": {
-        "en": "Ignore them, because you have the green light.",
-        "zh-Hans": "忽略他们，因为您有绿灯。",
-        "zh-Hant": "忽略他們，因為您有綠燈。"
-      },
-      "B": {
         "en": "Honk and proceed.",
         "zh-Hans": "鸣喇叭并继续行驶。",
         "zh-Hant": "鳴喇叭並繼續行駛。"
       },
-      "C": {
+      "B": {
         "en": "Obey the officer or flagger's direction and STOP.",
         "zh-Hans": "服从执（Law Enforcement）法人员或旗手的指示，并停车。",
         "zh-Hant": "服從執（Law Enforcement）法人員或旗手的指示，並停車。"
+      },
+      "C": {
+        "en": "Ignore them, because you have the green light.",
+        "zh-Hans": "忽略他们，因为您有绿灯。",
+        "zh-Hant": "忽略他們，因為您有綠燈。"
       }
     },
-    "answer": "C",
+    "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, directions from officers or flaggers override traffic lights and must be obeyed.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，执法人员或旗手指挥优先于信号灯，必须服从停车。",
@@ -1530,9 +1530,9 @@
     },
     "options": {
       "A": {
-        "en": "Kept pointing straight ahead.",
-        "zh-Hans": "保持朝向正前方。",
-        "zh-Hant": "保持朝向正前方。"
+        "en": "Locked.",
+        "zh-Hans": "锁死（Locked）。",
+        "zh-Hant": "鎖死（Locked）。"
       },
       "B": {
         "en": "Pointed to the right, away from traffic.",
@@ -1540,12 +1540,12 @@
         "zh-Hant": "指向右側，遠離車流。"
       },
       "C": {
-        "en": "Locked.",
-        "zh-Hans": "锁死（Locked）。",
-        "zh-Hant": "鎖死（Locked）。"
+        "en": "Kept pointing straight ahead.",
+        "zh-Hans": "保持朝向正前方。",
+        "zh-Hant": "保持朝向正前方。"
       }
     },
-    "answer": "A",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Turns, keep your wheels straight while waiting to turn left to avoid being pushed into oncoming traffic.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，等待左转时车轮保持直行，避免被追尾推入对向车道。",
@@ -1608,14 +1608,14 @@
     },
     "options": {
       "A": {
-        "en": "Maintain your speed, as it will stay green.",
-        "zh-Hans": "保持您的速度，因为它会一直保持绿色。",
-        "zh-Hant": "保持您的速度，因為它會一直保持綠色。"
-      },
-      "B": {
         "en": "Slow down and be prepared to stop (by covering your brake) in case it turns yellow.",
         "zh-Hans": "减速，并（将您的脚放在刹车上）准备在它变黄时停车。",
         "zh-Hant": "減速，並（將您的腳放在剎車上）準備在它變黃時停車。"
+      },
+      "B": {
+        "en": "Maintain your speed, as it will stay green.",
+        "zh-Hans": "保持您的速度，因为它会一直保持绿色。",
+        "zh-Hant": "保持您的速度，因為它會一直保持綠色。"
       },
       "C": {
         "en": "Stop at the green light.",
@@ -1623,7 +1623,7 @@
         "zh-Hant": "在綠燈時停車。"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 8: Safe Driving - Defensive Driving and Risk Management, a long green light may change soon, so slow and be ready to brake.",
       "zh-Hans": "根据手册第8章《安全驾驶》《防御性驾驶与风险管理》的规定，绿灯亮久了更可能变黄，应减速并准备制动。",
@@ -1686,22 +1686,22 @@
     },
     "options": {
       "A": {
-        "en": "'STOP.' You may NOT turn in the direction of the arrow until a green signal or green arrow appears.",
-        "zh-Hans": "“停车”。在绿色信号灯或绿色箭头亮起前，您不得沿箭头方向转弯。",
-        "zh-Hant": "“停車”。在綠色訊號燈或綠色箭頭亮起前，您不得沿箭頭方向轉彎。"
-      },
-      "B": {
         "en": "Slow down and prepare to turn.",
         "zh-Hans": "减速并准备转弯。",
         "zh-Hant": "減速並準備轉彎。"
       },
-      "C": {
+      "B": {
         "en": "The lane is closed.",
         "zh-Hans": "该行车线已关闭。",
         "zh-Hant": "該行車線已關閉。"
+      },
+      "C": {
+        "en": "'STOP.' You may NOT turn in the direction of the arrow until a green signal or green arrow appears.",
+        "zh-Hans": "“停车”。在绿色信号灯或绿色箭头亮起前，您不得沿箭头方向转弯。",
+        "zh-Hant": "“停車”。在綠色訊號燈或綠色箭頭亮起前，您不得沿箭頭方向轉彎。"
       }
     },
-    "answer": "A",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a red arrow means stop and no turn until a green signal appears.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红色箭头表示停车并禁止转弯，须等待绿灯或绿箭头。",
@@ -1725,22 +1725,22 @@
     },
     "options": {
       "A": {
-        "en": "Yes, as long as you stop first.",
-        "zh-Hans": "是，只要您先停车。",
-        "zh-Hant": "是，只要您先停車。"
-      },
-      "B": {
         "en": "No, you must wait until the signal turns green.",
         "zh-Hans": "否，您必须等待，直到信号变为绿色。",
         "zh-Hant": "否，您必須等待，直到訊號變為綠色。"
       },
-      "C": {
+      "B": {
         "en": "Yes, but only at night.",
         "zh-Hans": "是，但仅限夜间。",
         "zh-Hant": "是，但僅限夜間。"
+      },
+      "C": {
+        "en": "Yes, as long as you stop first.",
+        "zh-Hans": "是，只要您先停车。",
+        "zh-Hant": "是，只要您先停車。"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a red arrow prohibits turning until a green signal appears.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红色箭头禁止转弯，必须等待绿灯或绿箭头。",
@@ -1764,14 +1764,14 @@
     },
     "options": {
       "A": {
-        "en": "The 'protected' turning time is ending. Prepare to stop.",
-        "zh-Hans": "“受保护”的转弯时间即将结束。应准备停车。",
-        "zh-Hant": "“受保護”的轉彎時間即將結束。應準備停車。"
-      },
-      "B": {
         "en": "You must stop immediately.",
         "zh-Hans": "您必须立即停车。",
         "zh-Hant": "您必須立即停車。"
+      },
+      "B": {
+        "en": "The 'protected' turning time is ending. Prepare to stop.",
+        "zh-Hans": "“受保护”的转弯时间即将结束。应准备停车。",
+        "zh-Hant": "“受保護”的轉彎時間即將結束。應準備停車。"
       },
       "C": {
         "en": "You may complete your turn safely, as you have the right-of-way.",
@@ -1779,7 +1779,7 @@
         "zh-Hant": "您可以安全地完成轉彎，因為您有先行權。"
       }
     },
-    "answer": "A",
+    "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a solid yellow arrow warns that the protected turn is ending and you should prepare to stop.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，恒亮黄箭头提示受保护转弯即将结束，应准备停车。",
@@ -1803,14 +1803,14 @@
     },
     "options": {
       "A": {
-        "en": "No one; you may turn immediately.",
-        "zh-Hans": "无需让行；您可以立即转弯。",
-        "zh-Hant": "無需讓行；您可以立即轉彎。"
-      },
-      "B": {
         "en": "Only pedestrians.",
         "zh-Hans": "仅为行人让行。",
         "zh-Hant": "僅為行人讓行。"
+      },
+      "B": {
+        "en": "No one; you may turn immediately.",
+        "zh-Hans": "无需让行；您可以立即转弯。",
+        "zh-Hant": "無需讓行；您可以立即轉彎。"
       },
       "C": {
         "en": "Oncoming traffic and pedestrians.",
@@ -1881,22 +1881,22 @@
     },
     "options": {
       "A": {
-        "en": "Yes, you must always yield to anyone already in the intersection.",
-        "zh-Hans": "是，您必须始终为已经在十字路口内的任何人让行。",
-        "zh-Hant": "是，您必須始終為已經在十字路口內的任何人讓行。"
-      },
-      "B": {
         "en": "No, a green arrow means you have the absolute right-of-way.",
         "zh-Hans": "否，绿色箭头表示您有绝对先行权。",
         "zh-Hant": "否，綠色箭頭表示您有絕對先行權。"
       },
-      "C": {
+      "B": {
         "en": "Yes, but only to other vehicles.",
         "zh-Hans": "是，但仅限其他车辆。",
         "zh-Hant": "是，但僅限其他車輛。"
+      },
+      "C": {
+        "en": "Yes, you must always yield to anyone already in the intersection.",
+        "zh-Hans": "是，您必须始终为已经在十字路口内的任何人让行。",
+        "zh-Hant": "是，您必須始終為已經在十字路口內的任何人讓行。"
       }
     },
-    "answer": "A",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, even with a green arrow you must yield to anyone still in the intersection.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，即使绿箭头也必须让行仍在路口内的车辆、行人或自行车。",
@@ -1920,22 +1920,22 @@
     },
     "options": {
       "A": {
+        "en": "Red arrows are for trucks only.",
+        "zh-Hans": "红色箭头仅适用于卡车。",
+        "zh-Hant": "紅色箭頭僅適用於卡車。"
+      },
+      "B": {
         "en": "There is no difference.",
         "zh-Hans": "没有区别。",
         "zh-Hant": "沒有區別。"
       },
-      "B": {
+      "C": {
         "en": "You can turn right on a red light (after stopping, if no sign prohibits it), but you may *not* turn on a red arrow.",
         "zh-Hans": "您可以在红灯上（在停车后，且无标志禁止时）右转，但*不得*在红色箭头上转弯。",
         "zh-Hant": "您可以在紅燈上（在停車後，且無標誌禁止時）右轉，但*不得*在紅色箭頭上轉彎。"
-      },
-      "C": {
-        "en": "Red arrows are for trucks only.",
-        "zh-Hans": "红色箭头仅适用于卡车。",
-        "zh-Hant": "紅色箭頭僅適用於卡車。"
       }
     },
-    "answer": "B",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a right turn on red is allowed after stopping unless prohibited, but a red arrow forbids turning.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红灯可在停车后右转（无禁行标志时），红箭头则不得转弯。",
@@ -1959,14 +1959,14 @@
     },
     "options": {
       "A": {
-        "en": "No difference; they both mean 'Yield'.",
-        "zh-Hans": "没有区别，它们都意味着“让行”。",
-        "zh-Hant": "沒有區別，它們都意味著“讓行”。"
-      },
-      "B": {
         "en": "Solid yellow means 'Protected turn is ending'; Flashing yellow means 'Turn is unprotected (must yield)'.",
         "zh-Hans": "恒亮黄箭头表示“受保护的转弯即将结束”；闪烁黄箭头表示“转弯不受保护（必须让行）”。",
         "zh-Hant": "恆亮黃箭頭表示“受保護的轉彎即將結束”；閃爍黃箭頭表示“轉彎不受保護（必須讓行）”。"
+      },
+      "B": {
+        "en": "No difference; they both mean 'Yield'.",
+        "zh-Hans": "没有区别，它们都意味着“让行”。",
+        "zh-Hant": "沒有區別，它們都意味著“讓行”。"
       },
       "C": {
         "en": "Solid yellow means 'Stop'; Flashing yellow means 'Slow down'.",
@@ -1974,7 +1974,7 @@
         "zh-Hant": "恆亮黃箭頭表示“停車”；閃爍黃箭頭表示“減速”。"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a solid yellow arrow means a protected turn is ending; a flashing yellow arrow means an unprotected turn that must yield.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，恒亮黄箭头表示受保护转弯即将结束；闪烁黄箭头表示不受保护需让行。",
@@ -2037,22 +2037,22 @@
     },
     "options": {
       "A": {
+        "en": "Yes, but only for trucks.",
+        "zh-Hans": "是，但仅限卡车。",
+        "zh-Hant": "是，但僅限卡車。"
+      },
+      "B": {
         "en": "Yes, you must always yield to oncoming traffic.",
         "zh-Hans": "是，您必须始终为迎面车流让行。",
         "zh-Hant": "是，您必須始終為迎面車流讓行。"
       },
-      "B": {
+      "C": {
         "en": "No, a green arrow indicates a 'protected' turn, and oncoming traffic has a red light.",
         "zh-Hans": "否，绿色箭头表示“受保护”转弯，迎面车流有红灯。",
         "zh-Hant": "否，綠色箭頭表示“受保護”轉彎，迎面車流有紅燈。"
-      },
-      "C": {
-        "en": "Yes, but only for trucks.",
-        "zh-Hans": "是，但仅限卡车。",
-        "zh-Hant": "是，但僅限卡車。"
       }
     },
-    "answer": "B",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a green arrow provides a protected turn and oncoming traffic is stopped.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，绿箭头为受保护转弯，迎面车流为红灯，无需为其让行。",
@@ -2076,22 +2076,22 @@
     },
     "options": {
       "A": {
+        "en": "Yes, but only blind pedestrians.",
+        "zh-Hans": "是，但仅限盲人行人。",
+        "zh-Hant": "是，但僅限盲人行人。"
+      },
+      "B": {
         "en": "No, the green arrow is protected.",
         "zh-Hans": "否，绿色箭头是受保护的。",
         "zh-Hant": "否，綠色箭頭是受保護的。"
       },
-      "B": {
+      "C": {
         "en": "Yes, you must still yield to pedestrians (who may still be) in the intersection.",
         "zh-Hans": "是，您仍必须为（可能仍在）十字路口内的行人让行。",
         "zh-Hant": "是，您仍必須為（可能仍在）十字路口內的行人讓行。"
-      },
-      "C": {
-        "en": "Yes, but only blind pedestrians.",
-        "zh-Hans": "是，但仅限盲人行人。",
-        "zh-Hant": "是，但僅限盲人行人。"
       }
     },
-    "answer": "B",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, you must still yield to pedestrians in the crosswalk when turning on a green arrow.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，右转遇绿箭头仍须让行横道内行人。",
@@ -2115,9 +2115,9 @@
     },
     "options": {
       "A": {
-        "en": "Stop completely.",
-        "zh-Hans": "完全停车。",
-        "zh-Hant": "完全停車。"
+        "en": "Yield to any vehicle or pedestrian still in the intersection.",
+        "zh-Hans": "为仍在十字路口内的车辆或行人让行。",
+        "zh-Hant": "為仍在十字路口內的車輛或行人讓行。"
       },
       "B": {
         "en": "Honk your horn.",
@@ -2125,12 +2125,12 @@
         "zh-Hant": "鳴喇叭。"
       },
       "C": {
-        "en": "Yield to any vehicle or pedestrian still in the intersection.",
-        "zh-Hans": "为仍在十字路口内的车辆或行人让行。",
-        "zh-Hant": "為仍在十字路口內的車輛或行人讓行。"
+        "en": "Stop completely.",
+        "zh-Hans": "完全停车。",
+        "zh-Hant": "完全停車。"
       }
     },
-    "answer": "C",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, before turning on a green arrow you must yield to any vehicles or pedestrians still in the intersection.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，绿箭头转弯前仍须确认路口内车辆或行人已清空并让行。",
@@ -2154,9 +2154,9 @@
     },
     "options": {
       "A": {
-        "en": "Stop and wait for a green signal.",
-        "zh-Hans": "停车，并等待信号变为绿色。",
-        "zh-Hant": "停車，並等待訊號變為綠色。"
+        "en": "Treat it as a 'STOP' sign.",
+        "zh-Hans": "将其视为“STOP”标志。",
+        "zh-Hant": "將其視為“STOP”標誌。"
       },
       "B": {
         "en": "Slow down and yield.",
@@ -2164,12 +2164,12 @@
         "zh-Hant": "減速並讓行。"
       },
       "C": {
-        "en": "Treat it as a 'STOP' sign.",
-        "zh-Hans": "将其视为“STOP”标志。",
-        "zh-Hant": "將其視為“STOP”標誌。"
+        "en": "Stop and wait for a green signal.",
+        "zh-Hans": "停车，并等待信号变为绿色。",
+        "zh-Hant": "停車，並等待訊號變為綠色。"
       }
     },
-    "answer": "A",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a red arrow requires a full stop and no turn until a green signal appears.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，红色箭头表示必须停车等待绿灯或绿箭头，期间不得转弯。",
@@ -2193,9 +2193,9 @@
     },
     "options": {
       "A": {
-        "en": "Pedestrians only.",
-        "zh-Hans": "仅为行人。",
-        "zh-Hant": "僅為行人。"
+        "en": "No one; you have the right-of-way.",
+        "zh-Hans": "无需让行。",
+        "zh-Hant": "無需讓行。"
       },
       "B": {
         "en": "Oncoming vehicles AND pedestrians.",
@@ -2203,9 +2203,9 @@
         "zh-Hant": "迎面而來的車輛和行人。"
       },
       "C": {
-        "en": "No one; you have the right-of-way.",
-        "zh-Hans": "无需让行。",
-        "zh-Hant": "無需讓行。"
+        "en": "Pedestrians only.",
+        "zh-Hans": "仅为行人。",
+        "zh-Hant": "僅為行人。"
       }
     },
     "answer": "B",
@@ -2271,9 +2271,9 @@
     },
     "options": {
       "A": {
-        "en": "The same meaning as a flashing yellow arrow.",
-        "zh-Hans": "与闪烁的黄色箭头含义相同。",
-        "zh-Hant": "與閃爍的黃色箭頭含義相同。"
+        "en": "You must stop immediately, no matter what.",
+        "zh-Hans": "您必须立即停车，无论如何。",
+        "zh-Hant": "您必須立即停車，無論如何。"
       },
       "B": {
         "en": "You have a protected turn, but it is about to end.",
@@ -2281,9 +2281,9 @@
         "zh-Hant": "您有受保護的轉彎，但它即將結束。"
       },
       "C": {
-        "en": "You must stop immediately, no matter what.",
-        "zh-Hans": "您必须立即停车，无论如何。",
-        "zh-Hant": "您必須立即停車，無論如何。"
+        "en": "The same meaning as a flashing yellow arrow.",
+        "zh-Hans": "与闪烁的黄色箭头含义相同。",
+        "zh-Hant": "與閃爍的黃色箭頭含義相同。"
       }
     },
     "answer": "B",
@@ -2310,14 +2310,14 @@
     },
     "options": {
       "A": {
-        "en": "Slow down and proceed with caution.",
-        "zh-Hans": "减速并谨慎通过。",
-        "zh-Hant": "減速並謹慎透過。"
-      },
-      "B": {
         "en": "'STOP.' After stopping, you may proceed when it is safe.",
         "zh-Hans": "“停车”。在停车后，当安全时，即可继续行进。",
         "zh-Hant": "“停車”。在停車後，當安全時，即可繼續行進。"
+      },
+      "B": {
+        "en": "Slow down and proceed with caution.",
+        "zh-Hans": "减速并谨慎通过。",
+        "zh-Hant": "減速並謹慎透過。"
       },
       "C": {
         "en": "The signal is broken, drive carefully.",
@@ -2325,7 +2325,7 @@
         "zh-Hant": "訊號燈故障，小心行駛。"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a flashing red light means STOP; come to a full stop, yield, then proceed when safe.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，闪烁红灯等同 STOP，完全停车后让行再继续。",
@@ -2388,9 +2388,9 @@
     },
     "options": {
       "A": {
-        "en": "There is no difference.",
-        "zh-Hans": "没有区别。",
-        "zh-Hant": "沒有區別。"
+        "en": "Flashing Red is for daytime; Flashing Yellow is for nighttime.",
+        "zh-Hans": "闪烁红灯适用于白天；闪烁黄灯适用于夜间。",
+        "zh-Hant": "閃爍紅燈適用於白天；閃爍黃燈適用於夜間。"
       },
       "B": {
         "en": "Flashing Red means 'STOP (then go)'; Flashing Yellow means 'CAUTION (do not stop)'.",
@@ -2398,9 +2398,9 @@
         "zh-Hant": "閃爍紅燈意味著“停車（然後繼續）”；閃爍黃燈意味著“謹慎駕駛（無需停車）”。"
       },
       "C": {
-        "en": "Flashing Red is for daytime; Flashing Yellow is for nighttime.",
-        "zh-Hans": "闪烁红灯适用于白天；闪烁黄灯适用于夜间。",
-        "zh-Hant": "閃爍紅燈適用於白天；閃爍黃燈適用於夜間。"
+        "en": "There is no difference.",
+        "zh-Hans": "没有区别。",
+        "zh-Hant": "沒有區別。"
       }
     },
     "answer": "B",
@@ -2432,14 +2432,14 @@
         "zh-Hant": "您可以轉彎，但您的轉彎不受保護（您必須讓行）。"
       },
       "B": {
-        "en": "Your turning time is ending.",
-        "zh-Hans": "转弯时间即将结束。",
-        "zh-Hant": "轉彎時間即將結束。"
-      },
-      "C": {
         "en": "Turning is prohibited.",
         "zh-Hans": "禁止转弯。",
         "zh-Hant": "禁止轉彎。"
+      },
+      "C": {
+        "en": "Your turning time is ending.",
+        "zh-Hans": "转弯时间即将结束。",
+        "zh-Hant": "轉彎時間即將結束。"
       }
     },
     "answer": "A",
@@ -2471,17 +2471,17 @@
         "zh-Hant": "停車，並在（安全時）繼續行駛。"
       },
       "B": {
-        "en": "Stop at least 15 feet from the tracks and *WAIT* (until the lights stop flashing).",
-        "zh-Hans": "在距离铁轨至少 15 英尺处停车，并*等待*（直到灯停止闪烁）。",
-        "zh-Hant": "在距離鐵軌至少 15 英尺處停車，並*等待*（直到燈停止閃爍）。"
-      },
-      "C": {
         "en": "It is an advisory warning only.",
         "zh-Hans": "这是一个建议性的警告。",
         "zh-Hant": "這是一個建議性的警告。"
+      },
+      "C": {
+        "en": "Stop at least 15 feet from the tracks and *WAIT* (until the lights stop flashing).",
+        "zh-Hans": "在距离铁轨至少 15 英尺处停车，并*等待*（直到灯停止闪烁）。",
+        "zh-Hant": "在距離鐵軌至少 15 英尺處停車，並*等待*（直到燈停止閃爍）。"
       }
     },
-    "answer": "B",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Road Rules, flashing red railroad lights mean stop at least 15 feet from the tracks and wait.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，道口红灯闪烁必须在距铁轨至少 15 英尺处停车等待。",
@@ -2505,14 +2505,14 @@
     },
     "options": {
       "A": {
-        "en": "You must stop (from both directions) and wait (until the lights stop flashing).",
-        "zh-Hans": "您必须（从两个方向）停车，并等待（直到灯停止闪烁）。",
-        "zh-Hant": "您必須（從兩個方向）停車，並等待（直到燈停止閃爍）。"
-      },
-      "B": {
         "en": "You may pass the bus with caution.",
         "zh-Hans": "您可以小心地超车。",
         "zh-Hant": "您可以小心地超車。"
+      },
+      "B": {
+        "en": "You must stop (from both directions) and wait (until the lights stop flashing).",
+        "zh-Hans": "您必须（从两个方向）停车，并等待（直到灯停止闪烁）。",
+        "zh-Hant": "您必須（從兩個方向）停車，並等待（直到燈停止閃爍）。"
       },
       "C": {
         "en": "The bus is about to turn.",
@@ -2520,7 +2520,7 @@
         "zh-Hant": "校車即將轉彎。"
       }
     },
-    "answer": "A",
+    "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Road Rules, you must stop for a school bus flashing red lights until they stop (except on divided highways).",
       "zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，校车红灯闪烁时必须停车并等待灯停（分隔式公路对向除外）。",
@@ -2544,22 +2544,22 @@
     },
     "options": {
       "A": {
-        "en": "Pedestrians should not *start* crossing (but should continue if already in the street).",
-        "zh-Hans": "行人不应开始过马路（如果已在马路上，则应继续）。",
-        "zh-Hant": "行人不應開始過馬路（如果已在馬路上，則應繼續）。"
-      },
-      "B": {
         "en": "All traffic stops immediately.",
         "zh-Hans": "立即停止所有交通。",
         "zh-Hant": "立即停止所有交通。"
       },
-      "C": {
+      "B": {
         "en": "The signal is broken.",
         "zh-Hans": "信号灯故障。",
         "zh-Hant": "訊號燈故障。"
+      },
+      "C": {
+        "en": "Pedestrians should not *start* crossing (but should continue if already in the street).",
+        "zh-Hans": "行人不应开始过马路（如果已在马路上，则应继续）。",
+        "zh-Hant": "行人不應開始過馬路（如果已在馬路上，則應繼續）。"
       }
     },
-    "answer": "A",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Pedestrians and Crosswalks, a flashing DON'T WALK/raised hand means do not start crossing; those already in the crosswalk should continue.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《行人与人行横道》的规定，闪烁的“DON'T WALK/举手”表示不要开始过街，已在路上的应继续通过。",
@@ -2583,22 +2583,22 @@
     },
     "options": {
       "A": {
+        "en": "Wait for a green light.",
+        "zh-Hans": "等待绿灯。",
+        "zh-Hant": "等待綠燈。"
+      },
+      "B": {
         "en": "(This scenario does not happen).",
         "zh-Hans": "（这种情况不会发生）",
         "zh-Hant": "（這種情況不會發生）"
       },
-      "B": {
+      "C": {
         "en": "Stop, and then proceed (after yielding to others).",
         "zh-Hans": "在停车后，您可以（在为他人让行后）继续行驶。",
         "zh-Hant": "在停車後，您可以（在為他人讓行後）繼續行駛。"
-      },
-      "C": {
-        "en": "Wait for a green light.",
-        "zh-Hans": "等待绿灯。",
-        "zh-Hant": "等待綠燈。"
       }
     },
-    "answer": "B",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, treat a flashing red light as a stop, then yield before proceeding.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，闪烁红灯按 STOP 处理，停车后让行再继续。",
@@ -2627,14 +2627,14 @@
         "zh-Hant": "您（閃爍黃燈）。"
       },
       "B": {
-        "en": "You must both stop.",
-        "zh-Hans": "您们都必须停车。",
-        "zh-Hant": "您們都必須停車。"
-      },
-      "C": {
         "en": "The vehicle on the right.",
         "zh-Hans": "右侧的车辆。",
         "zh-Hant": "右側的車輛。"
+      },
+      "C": {
+        "en": "You must both stop.",
+        "zh-Hans": "您们都必须停车。",
+        "zh-Hant": "您們都必須停車。"
       }
     },
     "answer": "A",
@@ -2661,14 +2661,14 @@
     },
     "options": {
       "A": {
-        "en": "There is no difference.",
-        "zh-Hans": "没有区别。",
-        "zh-Hant": "沒有區別。"
-      },
-      "B": {
         "en": "Green arrow is 'protected' (you have priority); Flashing yellow arrow is 'unprotected' (you must yield).",
         "zh-Hans": "绿色箭头表示受保护（您有先行权）；闪烁黄箭头表示不受保护（您必须让行）。",
         "zh-Hant": "綠色箭頭表示受保護（您有先行權）；閃爍黃箭頭表示不受保護（您必須讓行）。"
+      },
+      "B": {
+        "en": "There is no difference.",
+        "zh-Hans": "没有区别。",
+        "zh-Hant": "沒有區別。"
       },
       "C": {
         "en": "Green arrow means 'about to turn red'; Flashing yellow arrow means 'caution'.",
@@ -2676,7 +2676,7 @@
         "zh-Hant": "綠色箭頭表示“即將變紅”；閃爍黃箭頭表示“謹慎”。"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a green arrow is a protected turn while a flashing yellow arrow is unprotected and requires yielding.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，绿箭头为受保护转弯；闪烁黄箭头为不受保护转弯，需让行。",
@@ -2700,14 +2700,14 @@
     },
     "options": {
       "A": {
-        "en": "Slow down and proceed (if clear).",
-        "zh-Hans": "减速并（如果畅通）继续行驶。",
-        "zh-Hant": "減速並（如果暢通）繼續行駛。"
-      },
-      "B": {
         "en": "Stop completely, and yield to (right-of-way) traffic and pedestrians.",
         "zh-Hans": "完全停车，并为（有先行权的）车流和行人让行。",
         "zh-Hant": "完全停車，併為（有先行權的）車流和行人讓行。"
+      },
+      "B": {
+        "en": "Slow down and proceed (if clear).",
+        "zh-Hans": "减速并（如果畅通）继续行驶。",
+        "zh-Hant": "減速並（如果暢通）繼續行駛。"
       },
       "C": {
         "en": "Treat it as a 'YIELD' sign.",
@@ -2715,7 +2715,7 @@
         "zh-Hant": "將其視為“YIELD”（讓行）標誌。"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a flashing red light is a STOP; come to a full stop and yield before proceeding.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，闪烁红灯等同 STOP，必须完全停车后再让行通行。",
@@ -2739,14 +2739,14 @@
     },
     "options": {
       "A": {
-        "en": "Slow down and proceed with caution; stopping is not required.",
-        "zh-Hans": "减速并谨慎驾驶，无需停车。",
-        "zh-Hant": "減速並謹慎駕駛，無需停車。"
-      },
-      "B": {
         "en": "Stop completely.",
         "zh-Hans": "完全停车。",
         "zh-Hant": "完全停車。"
+      },
+      "B": {
+        "en": "Slow down and proceed with caution; stopping is not required.",
+        "zh-Hans": "减速并谨慎驾驶，无需停车。",
+        "zh-Hant": "減速並謹慎駕駛，無需停車。"
       },
       "C": {
         "en": "Treat it as a 'YIELD' sign.",
@@ -2754,7 +2754,7 @@
         "zh-Hant": "將其視為“YIELD”（讓行）標誌。"
       }
     },
-    "answer": "A",
+    "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a flashing yellow light means slow down and proceed with caution.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，闪烁黄灯提示减速谨慎通过，无需停车。",
@@ -2778,22 +2778,22 @@
     },
     "options": {
       "A": {
-        "en": "A solid green light.",
-        "zh-Hans": "恒亮的绿灯。",
-        "zh-Hant": "恆亮的綠燈。"
-      },
-      "B": {
         "en": "A flashing red light.",
         "zh-Hans": "闪烁的红灯。",
         "zh-Hant": "閃爍的紅燈。"
       },
-      "C": {
+      "B": {
         "en": "A red arrow.",
         "zh-Hans": "一个红色的箭头。",
         "zh-Hant": "一個紅色的箭頭。"
+      },
+      "C": {
+        "en": "A solid green light.",
+        "zh-Hans": "恒亮的绿灯。",
+        "zh-Hant": "恆亮的綠燈。"
       }
     },
-    "answer": "A",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, a flashing yellow left arrow means oncoming traffic has a green light, so you must yield.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，面对闪烁黄左转箭头时，迎面车流通常为绿灯，需让行。",
@@ -2895,9 +2895,9 @@
     },
     "options": {
       "A": {
-        "en": "To make a left turn into or out of a private road.",
-        "zh-Hans": "为了左转进入或驶离私人道路。",
-        "zh-Hant": "為了左轉進入或駛離私人道路。"
+        "en": "Never under any circumstances.",
+        "zh-Hans": "在任何情况下都不允许。",
+        "zh-Hant": "在任何情況下都不允許。"
       },
       "B": {
         "en": "When you are in a hurry.",
@@ -2905,12 +2905,12 @@
         "zh-Hant": "當您在趕時間時。"
       },
       "C": {
-        "en": "Never under any circumstances.",
-        "zh-Hans": "在任何情况下都不允许。",
-        "zh-Hant": "在任何情況下都不允許。"
+        "en": "To make a left turn into or out of a private road.",
+        "zh-Hans": "为了左转进入或驶离私人道路。",
+        "zh-Hant": "為了左轉進入或駛離私人道路。"
       }
     },
-    "answer": "A",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Turns, you may cross double yellow lines to turn left into or out of a private road when safe.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，可为左转进出私人道路在安全时跨越双黄实线。",
@@ -2939,17 +2939,17 @@
         "zh-Hant": "您不得超車。"
       },
       "B": {
-        "en": "You may pass if it is safe.",
-        "zh-Hans": "您可以在安全时超车。",
-        "zh-Hant": "您可以在安全時超車。"
-      },
-      "C": {
         "en": "It marks the right edge of the road.",
         "zh-Hans": "这标示了道路的右侧边缘。",
         "zh-Hant": "這標示了道路的右側邊緣。"
+      },
+      "C": {
+        "en": "You may pass if it is safe.",
+        "zh-Hans": "您可以在安全时超车。",
+        "zh-Hant": "您可以在安全時超車。"
       }
     },
-    "answer": "B",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Pavement Markings, a broken yellow line on your side allows passing when safe.",
       "zh-Hans": "根据手册第6章《导览道路》《道路标线》的规定，您这一侧为黄色虚线时可在安全情况下超车。",
@@ -2973,9 +2973,9 @@
     },
     "options": {
       "A": {
-        "en": "May not pass.",
-        "zh-Hans": "不得超车。",
-        "zh-Hant": "不得超車。"
+        "en": "May turn left.",
+        "zh-Hans": "可以左转。",
+        "zh-Hant": "可以左轉。"
       },
       "B": {
         "en": "May pass at night.",
@@ -2983,12 +2983,12 @@
         "zh-Hant": "可以在夜間超車。"
       },
       "C": {
-        "en": "May turn left.",
-        "zh-Hans": "可以左转。",
-        "zh-Hant": "可以左轉。"
+        "en": "May not pass.",
+        "zh-Hans": "不得超车。",
+        "zh-Hant": "不得超車。"
       }
     },
-    "answer": "A",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Pavement Markings, a solid yellow line on your side means you may not pass.",
       "zh-Hans": "根据手册第6章《导览道路》《道路标线》的规定，您这一侧是黄实线时不得超车。",
@@ -3017,14 +3017,14 @@
         "zh-Hant": "可以在安全時超車。"
       },
       "B": {
-        "en": "Must turn left.",
-        "zh-Hans": "必须左转。",
-        "zh-Hant": "必須左轉。"
-      },
-      "C": {
         "en": "Are driving the wrong way.",
         "zh-Hans": "正在逆行。",
         "zh-Hant": "正在逆行。"
+      },
+      "C": {
+        "en": "Must turn left.",
+        "zh-Hans": "必须左转。",
+        "zh-Hant": "必須左轉。"
       }
     },
     "answer": "A",
@@ -3051,22 +3051,22 @@
     },
     "options": {
       "A": {
-        "en": "A single broken white line.",
-        "zh-Hans": "一条白色虚线。",
-        "zh-Hant": "一條白色虛線。"
-      },
-      "B": {
         "en": "Two sets of solid double yellow lines spaced two or more feet apart.",
         "zh-Hans": "两组中间有至少两英尺宽距离的双黄​​色实线。",
         "zh-Hant": "兩組中間有至少兩英尺寬距離的雙黃​​色實線。"
       },
-      "C": {
+      "B": {
         "en": "A single solid white line.",
         "zh-Hans": "一条单条白色实线。",
         "zh-Hant": "一條單條白色實線。"
+      },
+      "C": {
+        "en": "A single broken white line.",
+        "zh-Hans": "一条白色虚线。",
+        "zh-Hant": "一條白色虛線。"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Turns, a barrier is two sets of double yellow lines spaced at least 2 feet apart and may be crossed only at openings.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，障碍区是两组双黄实线相距至少 2 英尺，仅可在指定开口处跨越。",
@@ -3129,22 +3129,22 @@
     },
     "options": {
       "A": {
+        "en": "To mark the right edge of the road.",
+        "zh-Hans": "标示道路的右侧边缘。",
+        "zh-Hant": "標示道路的右側邊緣。"
+      },
+      "B": {
         "en": "To separate traffic traveling in the same direction.",
         "zh-Hans": "分隔同向行驶的车流。",
         "zh-Hant": "分隔同向行駛的車流。"
       },
-      "B": {
+      "C": {
         "en": "To separate traffic traveling in opposite directions (two-way traffic).",
         "zh-Hans": "分隔反向行驶的车流（双向道）。",
         "zh-Hant": "分隔反向行駛的車流（雙向道）。"
-      },
-      "C": {
-        "en": "To mark the right edge of the road.",
-        "zh-Hans": "标示道路的右侧边缘。",
-        "zh-Hant": "標示道路的右側邊緣。"
       }
     },
-    "answer": "B",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Pavement Markings, yellow lines separate traffic traveling in opposite directions.",
       "zh-Hans": "根据手册第6章《导览道路》《道路标线》的规定，黄色标线用于分隔相对方向车流。",
@@ -3168,22 +3168,22 @@
     },
     "options": {
       "A": {
+        "en": "If the oncoming lane is clear.",
+        "zh-Hans": "如果迎面车道没有车。",
+        "zh-Hant": "如果迎面車道沒有車。"
+      },
+      "B": {
         "en": "To turn left into a private driveway.",
         "zh-Hans": "为了左转进入私人车道。",
         "zh-Hant": "為了左轉進入私人車道。"
       },
-      "B": {
+      "C": {
         "en": "Never.",
         "zh-Hans": "在任何情况下都不允许。",
         "zh-Hant": "在任何情況下都不允許。"
-      },
-      "C": {
-        "en": "If the oncoming lane is clear.",
-        "zh-Hans": "如果迎面车道没有车。",
-        "zh-Hant": "如果迎面車道沒有車。"
       }
     },
-    "answer": "A",
+    "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Turns, you may cross a single solid yellow line to turn left into a private driveway when safe.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，可在安全时跨越单黄实线左转进入私人车道。",
@@ -3251,17 +3251,17 @@
         "zh-Hant": "是，如果迎面車道是空的。"
       },
       "B": {
-        "en": "No, the solid yellow line means 'do not pass'.",
-        "zh-Hans": "否，黄色实线表示“禁止超车”。",
-        "zh-Hant": "否，黃色實線表示“禁止超車”。"
-      },
-      "C": {
         "en": "Yes, but only bicycles.",
         "zh-Hans": "是，但仅限自行车。",
         "zh-Hant": "是，但僅限腳踏車。"
+      },
+      "C": {
+        "en": "No, the solid yellow line means 'do not pass'.",
+        "zh-Hans": "否，黄色实线表示“禁止超车”。",
+        "zh-Hant": "否，黃色實線表示“禁止超車”。"
       }
     },
-    "answer": "B",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Pavement Markings, a solid yellow line on your side means no passing.",
       "zh-Hans": "根据手册第6章《导览道路》《道路标线》的规定，您这一侧为黄实线时禁止超车。",
@@ -3324,22 +3324,22 @@
     },
     "options": {
       "A": {
-        "en": "Yes, this is legal.",
-        "zh-Hans": "是，这是合法的。",
-        "zh-Hant": "是，這是合法的。"
-      },
-      "B": {
         "en": "Yes, but only in a residential area.",
         "zh-Hans": "是，但仅在住宅区。",
         "zh-Hant": "是，但僅在住宅區。"
       },
-      "C": {
+      "B": {
         "en": "Yes, but only at night.",
         "zh-Hans": "是，但仅在夜间。",
         "zh-Hant": "是，但僅在夜間。"
+      },
+      "C": {
+        "en": "Yes, this is legal.",
+        "zh-Hans": "是，这是合法的。",
+        "zh-Hant": "是，這是合法的。"
       }
     },
-    "answer": "A",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Turns, you may make a legal, safe U-turn across double yellow lines (not a barrier).",
       "zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，在安全且允许掉头的地点可跨越双黄实线掉头（不含障碍区）。",
@@ -3363,22 +3363,22 @@
     },
     "options": {
       "A": {
+        "en": "Traffic in both directions may pass (when safe).",
+        "zh-Hans": "双方（在安全时）都可以超车。",
+        "zh-Hant": "雙方（在安全時）都可以超車。"
+      },
+      "B": {
         "en": "Only you may pass.",
         "zh-Hans": "只有您可以超车。",
         "zh-Hant": "只有您可以超車。"
       },
-      "B": {
+      "C": {
         "en": "Only oncoming traffic may pass.",
         "zh-Hans": "只有迎面车流可以超车。",
         "zh-Hant": "只有迎面車流可以超車。"
-      },
-      "C": {
-        "en": "Traffic in both directions may pass (when safe).",
-        "zh-Hans": "双方（在安全时）都可以超车。",
-        "zh-Hant": "雙方（在安全時）都可以超車。"
       }
     },
-    "answer": "C",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Pavement Markings, a single broken yellow center line allows passing in both directions when safe.",
       "zh-Hans": "根据手册第6章《导览道路》《道路标线》的规定，中心黄色虚线表示两方向在安全时都可超车。",
@@ -3402,14 +3402,14 @@
     },
     "options": {
       "A": {
-        "en": "Pass over the double yellow lines (when safe).",
-        "zh-Hans": "（在安全时）越过双黄线超车。",
-        "zh-Hant": "（在安全時）越過雙黃線超車。"
-      },
-      "B": {
         "en": "Remain patient, follow safely behind, and do not pass.",
         "zh-Hans": "保持耐心，在他们后方安全跟随，并且不要超车。",
         "zh-Hant": "保持耐心，在他們後方安全跟隨，並且不要超車。"
+      },
+      "B": {
+        "en": "Pass over the double yellow lines (when safe).",
+        "zh-Hans": "（在安全时）越过双黄线超车。",
+        "zh-Hant": "（在安全時）越過雙黃線超車。"
       },
       "C": {
         "en": "Pass them on the right shoulder.",
@@ -3417,7 +3417,7 @@
         "zh-Hant": "從右側路肩超車。"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Pavement Markings, double solid yellow center lines mean no passing; stay on the right.",
       "zh-Hans": "根据手册第6章《导览道路》《道路标线》的规定，中心双黄实线表示禁止超车，应在其右侧安全跟随。",
@@ -3441,22 +3441,22 @@
     },
     "options": {
       "A": {
-        "en": "Yes, if it is safe (and the U-turn is legal in that area).",
-        "zh-Hans": "是，在安全的情况下（并且掉头在该区域是合法的）。",
-        "zh-Hant": "是，在安全的情況下（並且掉頭在該區域是合法的）。"
-      },
-      "B": {
         "en": "Yes, but only at night.",
         "zh-Hans": "是，但仅限夜间。",
         "zh-Hant": "是，但僅限夜間。"
       },
-      "C": {
+      "B": {
         "en": "No, you must wait for a broken line.",
         "zh-Hans": "否，您必须等待虚线。",
         "zh-Hant": "否，您必須等待虛線。"
+      },
+      "C": {
+        "en": "Yes, if it is safe (and the U-turn is legal in that area).",
+        "zh-Hans": "是，在安全的情况下（并且掉头在该区域是合法的）。",
+        "zh-Hant": "是，在安全的情況下（並且掉頭在該區域是合法的）。"
       }
     },
-    "answer": "A",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Turns, you may cross a single solid yellow line to make a legal, safe U-turn.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《转弯规则》的规定，在安全且允许掉头的地点，可跨越单条黄色实线掉头。",
@@ -3485,17 +3485,17 @@
         "zh-Hant": "它們都表示“禁止超車”。"
       },
       "B": {
-        "en": "They both relate to two-way (oncoming) traffic.",
-        "zh-Hans": "它们都与双向（迎面）车流有关。",
-        "zh-Hant": "它們都與雙向（迎面）車流有關。"
-      },
-      "C": {
         "en": "They have no relationship.",
         "zh-Hans": "它们之间没有关系。",
         "zh-Hant": "它們之間沒有關係。"
+      },
+      "C": {
+        "en": "They both relate to two-way (oncoming) traffic.",
+        "zh-Hans": "它们都与双向（迎面）车流有关。",
+        "zh-Hant": "它們都與雙向（迎面）車流有關。"
       }
     },
-    "answer": "C",
+    "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Parking Rules, yellow curbs indicate loading/parking restrictions, while yellow center lines separate opposing traffic.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《停车规定》的规定，黄色路缘石用于临时停车/装卸限制，黄色中心线用于分隔对向车流，含义不同。",
@@ -3519,22 +3519,22 @@
     },
     "options": {
       "A": {
+        "en": "It marks the beginning of the exit ramp.",
+        "zh-Hans": "这标示了出口匝道的开始。",
+        "zh-Hant": "這標示了出口匝道的開始。"
+      },
+      "B": {
         "en": "You may not change lanes over these lines.",
         "zh-Hans": "您不得在这些线上变换行车线。",
         "zh-Hant": "您不得在這些線上變換行車線。"
       },
-      "B": {
+      "C": {
         "en": "It marks a bicycle lane.",
         "zh-Hans": "这标示了自行车道。",
         "zh-Hant": "這標示了腳踏車道。"
-      },
-      "C": {
-        "en": "It marks the beginning of the exit ramp.",
-        "zh-Hans": "这标示了出口匝道的开始。",
-        "zh-Hant": "這標示了出口匝道的開始。"
       }
     },
-    "answer": "A",
+    "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Pavement Markings, double solid white lines are lane barriers and you must not change lanes across them.",
       "zh-Hans": "根据手册第6章《导览道路》《道路标线》的规定，双白实线是车道分隔障碍，禁止跨线变道。",
@@ -3597,9 +3597,9 @@
     },
     "options": {
       "A": {
-        "en": "The center of the road.",
-        "zh-Hans": "道路的中心。",
-        "zh-Hant": "道路的中心。"
+        "en": "The right edge of the road (the shoulder).",
+        "zh-Hans": "道路的右侧边缘（路肩）。",
+        "zh-Hant": "道路的右側邊緣（路肩）。"
       },
       "B": {
         "en": "A bicycle lane.",
@@ -3607,12 +3607,12 @@
         "zh-Hant": "一條腳踏車道。"
       },
       "C": {
-        "en": "The right edge of the road (the shoulder).",
-        "zh-Hans": "道路的右侧边缘（路肩）。",
-        "zh-Hant": "道路的右側邊緣（路肩）。"
+        "en": "The center of the road.",
+        "zh-Hans": "道路的中心。",
+        "zh-Hant": "道路的中心。"
       }
     },
-    "answer": "C",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Pavement Markings, a single solid white line on the right marks the road edge or shoulder.",
       "zh-Hans": "根据手册第6章《导览道路》《道路标线》的规定，右侧单条白色实线标示道路右侧边缘或路肩。",
@@ -3636,9 +3636,9 @@
     },
     "options": {
       "A": {
-        "en": "You may not change lanes.",
-        "zh-Hans": "您不得变换行车线。",
-        "zh-Hant": "您不得變換行車線。"
+        "en": "You must exit at the next ramp.",
+        "zh-Hans": "您必须在下一出口驶离。",
+        "zh-Hant": "您必須在下一出口駛離。"
       },
       "B": {
         "en": "You are discouraged from changing lanes, but it is legal.",
@@ -3646,9 +3646,9 @@
         "zh-Hant": "建議您不要變換行車線，但這是合法的。"
       },
       "C": {
-        "en": "You must exit at the next ramp.",
-        "zh-Hans": "您必须在下一出口驶离。",
-        "zh-Hant": "您必須在下一出口駛離。"
+        "en": "You may not change lanes.",
+        "zh-Hans": "您不得变换行车线。",
+        "zh-Hant": "您不得變換行車線。"
       }
     },
     "answer": "B",
@@ -3675,22 +3675,22 @@
     },
     "options": {
       "A": {
-        "en": "To separate traffic traveling in opposite directions.",
-        "zh-Hans": "分隔反向行驶的车流。",
-        "zh-Hant": "分隔反向行駛的車流。"
-      },
-      "B": {
         "en": "To separate traffic traveling in the same direction, AND to permit lane changes (when safe).",
         "zh-Hans": "分隔同向行驶的车流，并允许（在安全时）变换行车线。",
         "zh-Hant": "分隔同向行駛的車流，並允許（在安全時）變換行車線。"
       },
-      "C": {
+      "B": {
         "en": "To mark the edge of the road.",
         "zh-Hans": "标示道路的边缘。",
         "zh-Hant": "標示道路的邊緣。"
+      },
+      "C": {
+        "en": "To separate traffic traveling in opposite directions.",
+        "zh-Hans": "分隔反向行驶的车流。",
+        "zh-Hant": "分隔反向行駛的車流。"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Pavement Markings, broken white lines separate same-direction lanes and allow lane changes when safe.",
       "zh-Hans": "根据手册第6章《导览道路》《道路标线》的规定，白色虚线分隔同向车道，并允许在安全时变道。",
@@ -3714,22 +3714,22 @@
     },
     "options": {
       "A": {
+        "en": "'HOV' markings.",
+        "zh-Hans": "“HOV”标记。",
+        "zh-Hant": "“HOV”標記。"
+      },
+      "B": {
         "en": "'Yield Lines.'",
         "zh-Hans": "“让行线”（Yield Lines）。",
         "zh-Hant": "“讓行線”（Yield Lines）。"
       },
-      "B": {
+      "C": {
         "en": "'Stop Lines.'",
         "zh-Hans": "“停车线”（Stop Lines）。",
         "zh-Hant": "“停車線”（Stop Lines）。"
-      },
-      "C": {
-        "en": "'HOV' markings.",
-        "zh-Hans": "“HOV”标记。",
-        "zh-Hant": "“HOV”標記。"
       }
     },
-    "answer": "A",
+    "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Right-of-Way, white triangular “shark teeth” are yield lines indicating where to yield or stop.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《先行权》的规定，白色三角形“鲨鱼牙”是让行线，用于提示车辆让行或停车位置。",
@@ -3753,14 +3753,14 @@
     },
     "options": {
       "A": {
-        "en": "You are approaching a toll plaza.",
-        "zh-Hans": "您正在接近一个收费站。",
-        "zh-Hant": "您正在接近一個收費站。"
-      },
-      "B": {
         "en": "The lane you are in is ending or exiting (as an exit ramp).",
         "zh-Hans": "您所在的行车线即将终止或（作为出口匝道）驶离高速公路。",
         "zh-Hant": "您所在的行車線即將終止或（作為出口匝道）駛離高速公路。"
+      },
+      "B": {
+        "en": "You are approaching a toll plaza.",
+        "zh-Hans": "您正在接近一个收费站。",
+        "zh-Hant": "您正在接近一個收費站。"
       },
       "C": {
         "en": "This is an HOV lane.",
@@ -3768,7 +3768,7 @@
         "zh-Hant": "這是一個 HOV 車道。"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Pavement Markings, large broken white lines mark a lane that is ending or exiting.",
       "zh-Hans": "根据手册第6章《导览道路》《道路标线》的规定，粗大的白色虚线表示车道即将结束或作为出口驶离。",
@@ -3792,14 +3792,14 @@
     },
     "options": {
       "A": {
-        "en": "Marks the end of the ramp; you may cross it when safe.",
-        "zh-Hans": "标示了匝道的尽头，您可以在安全时越过它并线。",
-        "zh-Hant": "標示了匝道的盡頭，您可以在安全時越過它併線。"
-      },
-      "B": {
         "en": "Separates the ramp from the freeway; you should not cross it to merge.",
         "zh-Hans": "标示了匝道和高速公路之间的分隔，您不应越过它并线。",
         "zh-Hant": "標示了匝道和高速公路之間的分隔，您不應越過它併線。"
+      },
+      "B": {
+        "en": "Marks the end of the ramp; you may cross it when safe.",
+        "zh-Hans": "标示了匝道的尽头，您可以在安全时越过它并线。",
+        "zh-Hant": "標示了匝道的盡頭，您可以在安全時越過它併線。"
       },
       "C": {
         "en": "Marks a bicycle lane.",
@@ -3807,7 +3807,7 @@
         "zh-Hant": "標示了腳踏車道。"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Lanes and Merging, a solid white line on an on-ramp means do not merge until it becomes broken.",
       "zh-Hans": "根据手册第6章《导览道路》《车道与并线》的规定，入口匝道的白色实线表示暂不可并线，应等变为虚线后再并入。",
@@ -3831,22 +3831,22 @@
     },
     "options": {
       "A": {
-        "en": "'Yield Line.'",
-        "zh-Hans": "“让行线”（Yield Line）。",
-        "zh-Hant": "“讓行線”（Yield Line）。"
-      },
-      "B": {
         "en": "A 'Limit Line' or 'Stop Line'.",
         "zh-Hans": "“限制线”（Limit Line）或“停车线”（Stop Line）。",
         "zh-Hant": "“限制線”（Limit Line）或“停車線”（Stop Line）。"
       },
-      "C": {
+      "B": {
         "en": "The start of a 'Bicycle Lane'.",
         "zh-Hans": "“自行车道”的起点。",
         "zh-Hant": "“腳踏車道”的起點。"
+      },
+      "C": {
+        "en": "'Yield Line.'",
+        "zh-Hans": "“让行线”（Yield Line）。",
+        "zh-Hant": "“讓行線”（Yield Line）。"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Traffic Signals, the wide white line is the limit/stop line where you must stop.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《交通信号灯》的规定，宽白线是限制线/停车线，应在其后停车。",
@@ -3870,22 +3870,22 @@
     },
     "options": {
       "A": {
+        "en": "Diamond symbols.",
+        "zh-Hans": "菱形符号。",
+        "zh-Hant": "菱形符號。"
+      },
+      "B": {
         "en": "Broken yellow lines.",
         "zh-Hans": "黄色虚线。",
         "zh-Hant": "黃色虛線。"
       },
-      "B": {
+      "C": {
         "en": "(Multiple) Solid white lines (parallel or ladder-style).",
         "zh-Hans": "（多条）白色实线（平行或梯状）。",
         "zh-Hant": "（多條）白色實線（平行或梯狀）。"
-      },
-      "C": {
-        "en": "Diamond symbols.",
-        "zh-Hans": "菱形符号。",
-        "zh-Hant": "菱形符號。"
       }
     },
-    "answer": "B",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Pedestrians and Crosswalks, crosswalks are typically marked by solid white lines.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《行人与人行横道》的规定，人行横道通常用白色实线（平行或梯状）标示。",
@@ -3909,22 +3909,22 @@
     },
     "options": {
       "A": {
-        "en": "Solid double white lines.",
-        "zh-Hans": "双白​​色实线。",
-        "zh-Hant": "雙白​​色實線。"
-      },
-      "B": {
         "en": "A red curb.",
         "zh-Hans": "红色路缘石。",
         "zh-Hant": "紅色路緣石。"
       },
-      "C": {
+      "B": {
         "en": "Traffic cones.",
         "zh-Hans": "锥形路标。",
         "zh-Hant": "錐形路標。"
+      },
+      "C": {
+        "en": "Solid double white lines.",
+        "zh-Hans": "双白​​色实线。",
+        "zh-Hant": "雙白​​色實線。"
       }
     },
-    "answer": "A",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Pavement Markings, HOV buffer zones are marked by double solid white lines that you must not cross.",
       "zh-Hans": "根据手册第6章《导览道路》《道路标线》的规定，HOV 缓冲区用双白实线标示，不得跨越。",
@@ -3948,14 +3948,14 @@
     },
     "options": {
       "A": {
-        "en": "Marks the right edge of the road; you should not cross it.",
-        "zh-Hans": "标示了道路的右侧边缘；您不应越过它。",
-        "zh-Hant": "標示了道路的右側邊緣；您不應越過它。"
-      },
-      "B": {
         "en": "Separates opposing traffic.",
         "zh-Hans": "分隔了反向车流。",
         "zh-Hant": "分隔了反向車流。"
+      },
+      "B": {
+        "en": "Marks the right edge of the road; you should not cross it.",
+        "zh-Hans": "标示了道路的右侧边缘；您不应越过它。",
+        "zh-Hant": "標示了道路的右側邊緣；您不應越過它。"
       },
       "C": {
         "en": "Means you may pass on the right.",
@@ -3963,7 +3963,7 @@
         "zh-Hant": "表示您可以從右側超車。"
       }
     },
-    "answer": "A",
+    "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Pavement Markings, a single solid white line marks the right edge of the roadway.",
       "zh-Hans": "根据手册第6章《导览道路》《道路标线》的规定，单条白色实线标示道路右侧边缘，应保持在其内侧行驶。",
@@ -3987,22 +3987,22 @@
     },
     "options": {
       "A": {
-        "en": "You may enter or exit the HOV lane at any time (when safe).",
-        "zh-Hans": "您可以在任何时候（在安全时）进入或离开 HOV 车道。",
-        "zh-Hant": "您可以在任何時候（在安全時）進入或離開 HOV 車道。"
-      },
-      "B": {
         "en": "It marks the edge of the road.",
         "zh-Hans": "这标示了道路的边缘。",
         "zh-Hant": "這標示了道路的邊緣。"
       },
-      "C": {
+      "B": {
         "en": "Only motorcycles may cross.",
         "zh-Hans": "只有摩托车可以越过。",
         "zh-Hant": "只有摩托車可以越過。"
+      },
+      "C": {
+        "en": "You may enter or exit the HOV lane at any time (when safe).",
+        "zh-Hans": "您可以在任何时候（在安全时）进入或离开 HOV 车道。",
+        "zh-Hant": "您可以在任何時候（在安全時）進入或離開 HOV 車道。"
       }
     },
-    "answer": "A",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Lanes and Merging, a broken white line between HOV and regular lanes means you may enter or exit when safe.",
       "zh-Hans": "根据手册第6章《导览道路》《车道与并线》的规定，HOV 与普通车道间的白色虚线表示可在安全时进出该车道。",
@@ -4031,14 +4031,14 @@
         "zh-Hant": "（在停車後）緩慢向前“蠕行”（Creep），直到您能看清為止。"
       },
       "B": {
-        "en": "Honk and proceed.",
-        "zh-Hans": "鸣喇叭并继续行驶。",
-        "zh-Hant": "鳴喇叭並繼續行駛。"
-      },
-      "C": {
         "en": "Make a U-turn.",
         "zh-Hans": "掉头。",
         "zh-Hant": "掉頭。"
+      },
+      "C": {
+        "en": "Honk and proceed.",
+        "zh-Hans": "鸣喇叭并继续行驶。",
+        "zh-Hant": "鳴喇叭並繼續行駛。"
       }
     },
     "answer": "A",
@@ -4065,22 +4065,22 @@
     },
     "options": {
       "A": {
-        "en": "Slow to the posted ramp speed limit.",
-        "zh-Hans": "减速至标示的匝道限速。",
-        "zh-Hant": "減速至標示的匝道限速。"
-      },
-      "B": {
         "en": "Back up on the ramp.",
         "zh-Hans": "在匝道上倒车（Back up）。",
         "zh-Hant": "在匝道上倒車（Back up）。"
       },
-      "C": {
+      "B": {
         "en": "Watch for sharp curves.",
         "zh-Hans": "注意是否有急弯。",
         "zh-Hant": "注意是否有急彎。"
+      },
+      "C": {
+        "en": "Slow to the posted ramp speed limit.",
+        "zh-Hans": "减速至标示的匝道限速。",
+        "zh-Hant": "減速至標示的匝道限速。"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Road Rules, you must not back up on an exit ramp; continue to the next exit.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，出口匝道上严禁倒车，错过出口应继续前行。",
@@ -4104,22 +4104,22 @@
     },
     "options": {
       "A": {
+        "en": "Red lane markings.",
+        "zh-Hans": "红色的车道标记。",
+        "zh-Hant": "紅色的車道標記。"
+      },
+      "B": {
         "en": "Yellow lane markings (between lanes).",
         "zh-Hans": "黄色的车道标记（在行车线之间）。",
         "zh-Hant": "黃色的車道標記（在行車線之間）。"
       },
-      "B": {
+      "C": {
         "en": "White lane markings (between lanes).",
         "zh-Hans": "白色的车道标记（在行车线之间）。",
         "zh-Hant": "白色的車道標記（在行車線之間）。"
-      },
-      "C": {
-        "en": "Red lane markings.",
-        "zh-Hans": "红色的车道标记。",
-        "zh-Hant": "紅色的車道標記。"
       }
     },
-    "answer": "B",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Pavement Markings, lanes on a one-way street are separated by white lines.",
       "zh-Hans": "根据手册第6章《导览道路》《道路标线》的规定，单行道同向车道之间使用白色标线。",
@@ -4148,17 +4148,17 @@
         "zh-Hant": "時速 20 英里"
       },
       "B": {
-        "en": "25 mph",
-        "zh-Hans": "时速 25 英里",
-        "zh-Hant": "時速 25 英里"
-      },
-      "C": {
         "en": "35 mph",
         "zh-Hans": "时速 35 英里",
         "zh-Hant": "時速 35 英里"
+      },
+      "C": {
+        "en": "25 mph",
+        "zh-Hans": "时速 25 英里",
+        "zh-Hant": "時速 25 英里"
       }
     },
-    "answer": "B",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Road Rules, business districts are limited to 25 mph unless posted otherwise.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，商业区限速为 25 英里/小时（除非另有标示）。",
@@ -4182,14 +4182,14 @@
     },
     "options": {
       "A": {
-        "en": "You must always drive at the posted speed limit.",
-        "zh-Hans": "您必须始终以标示的限速行驶。",
-        "zh-Hant": "您必須始終以標示的限速行駛。"
-      },
-      "B": {
         "en": "You may never drive faster than is safe for the current road conditions (like weather or traffic).",
         "zh-Hans": "您的驾驶速度可能永远不会超过当​​前道路状况（如天气、交通）的安全范围。",
         "zh-Hant": "您的駕駛速度可能永遠不會超過當​​前道路狀況（如天氣、交通）的安全範圍。"
+      },
+      "B": {
+        "en": "You must always drive at the posted speed limit.",
+        "zh-Hans": "您必须始终以标示的限速行驶。",
+        "zh-Hant": "您必須始終以標示的限速行駛。"
       },
       "C": {
         "en": "The minimum speed limit on a freeway is 45 mph.",
@@ -4197,7 +4197,7 @@
         "zh-Hant": "高速公路的最低限速是時速 45 英里。"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 8: Safe Driving - Basic Speed Law, you must never drive faster than is safe for current conditions.",
       "zh-Hans": "根据手册第8章《安全驾驶》《基本车速法》的规定，车速不得超过当时路况安全所允许的范围。",
@@ -4226,17 +4226,17 @@
         "zh-Hant": "時速 20 英里"
       },
       "B": {
-        "en": "25 mph",
-        "zh-Hans": "时速 25 英里",
-        "zh-Hant": "時速 25 英里"
-      },
-      "C": {
         "en": "35 mph",
         "zh-Hans": "时速 35 英里",
         "zh-Hant": "時速 35 英里"
+      },
+      "C": {
+        "en": "25 mph",
+        "zh-Hans": "时速 25 英里",
+        "zh-Hant": "時速 25 英里"
       }
     },
-    "answer": "B",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Road Rules, the school-zone limit is 25 mph when children are present.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，学童在场时学校区域限速为 25 英里/小时。",
@@ -4265,14 +4265,14 @@
         "zh-Hant": "時速 15 英里"
       },
       "B": {
-        "en": "20 mph",
-        "zh-Hans": "时速 20 英里",
-        "zh-Hant": "時速 20 英里"
-      },
-      "C": {
         "en": "25 mph",
         "zh-Hans": "时速 25 英里",
         "zh-Hant": "時速 25 英里"
+      },
+      "C": {
+        "en": "20 mph",
+        "zh-Hans": "时速 20 英里",
+        "zh-Hant": "時速 20 英里"
       }
     },
     "answer": "A",
@@ -4299,22 +4299,22 @@
     },
     "options": {
       "A": {
+        "en": "Turn on your high-beams and speed up.",
+        "zh-Hans": "打开远光灯并加速。",
+        "zh-Hant": "開啟遠光燈並加速。"
+      },
+      "B": {
         "en": "Maintain the speed limit to get through the rain faster.",
         "zh-Hans": "保持限速以快速穿过雨区。",
         "zh-Hant": "保持限速以快速穿過雨區。"
       },
-      "B": {
+      "C": {
         "en": "Reduce your speed by 5 to 10 mph.",
         "zh-Hans": "将您的速度降低 5 至 10 mph。",
         "zh-Hant": "將您的速度降低 5 至 10 mph。"
-      },
-      "C": {
-        "en": "Turn on your high-beams and speed up.",
-        "zh-Hans": "打开远光灯并加速。",
-        "zh-Hant": "開啟遠光燈並加速。"
       }
     },
-    "answer": "B",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 8: Safe Driving - Night and Adverse Weather, in heavy rain reduce speed by 5 to 10 mph.",
       "zh-Hans": "根据手册第8章《安全驾驶》《夜间与恶劣天气驾驶》的规定，大雨时应将车速降低 5 至 10 英里/小时。",
@@ -4343,14 +4343,14 @@
         "zh-Hant": "以時速 15 英里行駛，因為標示的限速優先。"
       },
       "B": {
-        "en": "Drive 20 mph (as a compromise).",
-        "zh-Hans": "以时速 20 英里行驶（介于两者之间）。",
-        "zh-Hant": "以時速 20 英里行駛（介於兩者之間）。"
-      },
-      "C": {
         "en": "Drive 15 mph only if children are present.",
         "zh-Hans": "仅在儿童在场时才以时速 15 英里行驶。",
         "zh-Hant": "僅在兒童在場時才以時速 15 英里行駛。"
+      },
+      "C": {
+        "en": "Drive 20 mph (as a compromise).",
+        "zh-Hans": "以时速 20 英里行驶（介于两者之间）。",
+        "zh-Hant": "以時速 20 英里行駛（介於兩者之間）。"
       }
     },
     "answer": "A",
@@ -4377,14 +4377,14 @@
     },
     "options": {
       "A": {
-        "en": "15 mph",
-        "zh-Hans": "时速 15 英里",
-        "zh-Hant": "時速 15 英里"
-      },
-      "B": {
         "en": "30 mph",
         "zh-Hans": "时速 30 英里",
         "zh-Hant": "時速 30 英里"
+      },
+      "B": {
+        "en": "15 mph",
+        "zh-Hans": "时速 15 英里",
+        "zh-Hant": "時速 15 英里"
       },
       "C": {
         "en": "There is no special speed limit.",
@@ -4392,7 +4392,7 @@
         "zh-Hant": "沒有特殊限速。"
       }
     },
-    "answer": "A",
+    "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Road Rules, a blind intersection without signs is limited to 15 mph.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，无标志的盲点路口限速为 15 英里/小时。",
@@ -4421,14 +4421,14 @@
         "zh-Hant": "當是週末或節假日，並且沒有兒童在場時。"
       },
       "B": {
-        "en": "When you are running late.",
-        "zh-Hans": "当您迟到时。",
-        "zh-Hant": "當您遲到時。"
-      },
-      "C": {
         "en": "When a crossing guard is not present.",
         "zh-Hans": "当交通协管员不在时。",
         "zh-Hant": "當交通協管員不在時。"
+      },
+      "C": {
+        "en": "When you are running late.",
+        "zh-Hans": "当您迟到时。",
+        "zh-Hant": "當您遲到時。"
       }
     },
     "answer": "A",
@@ -4460,14 +4460,14 @@
         "zh-Hant": "時速 25 英里"
       },
       "B": {
-        "en": "30 mph",
-        "zh-Hans": "时速 30 英里",
-        "zh-Hant": "時速 30 英里"
-      },
-      "C": {
         "en": "35 mph",
         "zh-Hans": "时速 35 英里",
         "zh-Hant": "時速 35 英里"
+      },
+      "C": {
+        "en": "30 mph",
+        "zh-Hans": "时速 30 英里",
+        "zh-Hant": "時速 30 英里"
       }
     },
     "answer": "A",
@@ -4494,22 +4494,22 @@
     },
     "options": {
       "A": {
-        "en": "Immediately accelerate to 65 mph.",
-        "zh-Hans": "立即加速至时速 65 英里。",
-        "zh-Hant": "立即加速至時速 65 英里。"
-      },
-      "B": {
         "en": "Resume the normal, posted speed limit for the area (e.g., the residential limit).",
         "zh-Hans": "恢复到该区域（例如，住宅区）的正常标示限速。",
         "zh-Hant": "恢復到該區域（例如，住宅區）的正常標示限速。"
       },
-      "C": {
+      "B": {
         "en": "Stop and make a U-turn.",
         "zh-Hans": "停车并掉头。",
         "zh-Hant": "停車並掉頭。"
+      },
+      "C": {
+        "en": "Immediately accelerate to 65 mph.",
+        "zh-Hans": "立即加速至时速 65 英里。",
+        "zh-Hant": "立即加速至時速 65 英里。"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Road Rules, an END SCHOOL ZONE sign means you may resume the normal posted speed for the area.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，END SCHOOL ZONE 表示学校限速结束，可恢复该区域的正常限速。",
@@ -4533,22 +4533,22 @@
     },
     "options": {
       "A": {
-        "en": "Follow the 'Basic Speed Law' and slow down to match the traffic flow.",
-        "zh-Hans": "遵守“基本车速法”，减速以适应交通状况。",
-        "zh-Hant": "遵守“基本車速法”，減速以適應交通狀況。"
-      },
-      "B": {
         "en": "Drive on the sidewalk to get around traffic.",
         "zh-Hans": "在人行道上行驶以绕过交通。",
         "zh-Hant": "在人行道上行駛以繞過交通。"
       },
-      "C": {
+      "B": {
         "en": "Honk your horn to make traffic move.",
         "zh-Hans": "鸣喇叭，让交通移动。",
         "zh-Hant": "鳴喇叭，讓交通移動。"
+      },
+      "C": {
+        "en": "Follow the 'Basic Speed Law' and slow down to match the traffic flow.",
+        "zh-Hans": "遵守“基本车速法”，减速以适应交通状况。",
+        "zh-Hant": "遵守“基本車速法”，減速以適應交通狀況。"
       }
     },
-    "answer": "A",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 8: Safe Driving - Basic Speed Law, the posted limit is a maximum, so you must slow for congestion.",
       "zh-Hans": "根据手册第8章《安全驾驶》《基本车速法》的规定，限速是最高值，拥堵时应按路况减速。",
@@ -4572,9 +4572,9 @@
     },
     "options": {
       "A": {
-        "en": "24 hours a day.",
-        "zh-Hans": "一天 24 小时。",
-        "zh-Hant": "一天 24 小時。"
+        "en": "When children are present.",
+        "zh-Hans": "当有学童在场时。",
+        "zh-Hant": "當有學童在場時。"
       },
       "B": {
         "en": "Only on school days, from 7 a.m. to 4 p.m.",
@@ -4582,12 +4582,12 @@
         "zh-Hant": "僅在學校上課的日期，從早上 7 點到下午 4 點。"
       },
       "C": {
-        "en": "When children are present.",
-        "zh-Hans": "当有学童在场时。",
-        "zh-Hant": "當有學童在場時。"
+        "en": "24 hours a day.",
+        "zh-Hans": "一天 24 小时。",
+        "zh-Hant": "一天 24 小時。"
       }
     },
-    "answer": "C",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Road Rules, school-zone limits apply when children are present or crossing.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，学校限速在有学童在场或过街时适用。",
@@ -4655,17 +4655,17 @@
         "zh-Hant": "加速以快速透過彎道。"
       },
       "B": {
-        "en": "Follow the 'Basic Speed Law' and slow down to a safe speed (which may be *less* than 25 mph).",
-        "zh-Hans": "遵守“基本车速法”，减速至一个（可能低于 25 英里的）安全速度。",
-        "zh-Hant": "遵守“基本車速法”，減速至一個（可能低於 25 英里的）安全速度。"
-      },
-      "C": {
         "en": "Honk and continue.",
         "zh-Hans": "鸣喇叭并继续行驶。",
         "zh-Hant": "鳴喇叭並繼續行駛。"
+      },
+      "C": {
+        "en": "Follow the 'Basic Speed Law' and slow down to a safe speed (which may be *less* than 25 mph).",
+        "zh-Hans": "遵守“基本车速法”，减速至一个（可能低于 25 英里的）安全速度。",
+        "zh-Hant": "遵守“基本車速法”，減速至一個（可能低於 25 英里的）安全速度。"
       }
     },
-    "answer": "B",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 8: Safe Driving - Basic Speed Law, if your view is blocked you must slow to a safe stopping speed even below 25 mph.",
       "zh-Hans": "根据手册第8章《安全驾驶》《基本车速法》的规定，视线受阻时应降到能安全停车的速度，即使低于 25 英里/小时。",
@@ -4689,22 +4689,22 @@
     },
     "options": {
       "A": {
-        "en": "It is a suggestion; 25 mph is still the legal limit.",
-        "zh-Hans": "这是一个建议，时速 25 英里仍然是合法的。",
-        "zh-Hant": "這是一個建議，時速 25 英里仍然是合法的。"
-      },
-      "B": {
         "en": "15 mph is the legal speed limit (when children are present), and you must obey it.",
         "zh-Hans": "时速 15 英里是法定限速（当儿童在场时），您必须遵守。",
         "zh-Hant": "時速 15 英里是法定限速（當兒童在場時），您必須遵守。"
       },
-      "C": {
+      "B": {
         "en": "Only school buses must drive 15 mph.",
         "zh-Hans": "仅校车必须以时速 15 英里行驶。",
         "zh-Hant": "僅校車必須以時速 15 英里行駛。"
+      },
+      "C": {
+        "en": "It is a suggestion; 25 mph is still the legal limit.",
+        "zh-Hans": "这是一个建议，时速 25 英里仍然是合法的。",
+        "zh-Hant": "這是一個建議，時速 25 英里仍然是合法的。"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Road Rules, a posted 15 mph school-zone limit is mandatory.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，学校区域标示 15 英里/小时时应遵守该法定限速。",
@@ -4733,14 +4733,14 @@
         "zh-Hant": "減速，以便您有更多時間對突然的陣風或障礙物作出反應。"
       },
       "B": {
-        "en": "Maintain a constant speed.",
-        "zh-Hans": "保持恒定的速度。",
-        "zh-Hant": "保持恆定的速度。"
-      },
-      "C": {
         "en": "Turn on your emergency flashers and speed up.",
         "zh-Hans": "打开您的应急闪光灯并加速。",
         "zh-Hant": "開啟您的應急閃光燈並加速。"
+      },
+      "C": {
+        "en": "Maintain a constant speed.",
+        "zh-Hans": "保持恒定的速度。",
+        "zh-Hant": "保持恆定的速度。"
       }
     },
     "answer": "A",
@@ -4767,14 +4767,14 @@
     },
     "options": {
       "A": {
-        "en": "Drive faster, as there is less traffic.",
-        "zh-Hans": "开得更快，因为交通较少。",
-        "zh-Hant": "開得更快，因為交通較少。"
-      },
-      "B": {
         "en": "Drive slowly enough that you can stop safely within the distance lit by your headlights.",
         "zh-Hans": "驾驶得足够慢，以便您可以在车头灯照射的范围内安全停车。",
         "zh-Hant": "駕駛得足夠慢，以便您可以在車頭燈照射的範圍內安全停車。"
+      },
+      "B": {
+        "en": "Drive faster, as there is less traffic.",
+        "zh-Hans": "开得更快，因为交通较少。",
+        "zh-Hant": "開得更快，因為交通較少。"
       },
       "C": {
         "en": "Only slow down if it is raining.",
@@ -4782,7 +4782,7 @@
         "zh-Hant": "僅在下雨時才減速。"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 8: Safe Driving - Night and Adverse Weather, drive slowly enough to stop within your headlight range.",
       "zh-Hans": "根据手册第8章《安全驾驶》《夜间与恶劣天气驾驶》的规定，夜间应减速，并确保能在车灯照射范围内停车。",
@@ -4806,14 +4806,14 @@
     },
     "options": {
       "A": {
-        "en": "Turn on your low-beams and slow down.",
-        "zh-Hans": "打开近光灯并减速。",
-        "zh-Hant": "開啟近光燈並減速。"
-      },
-      "B": {
         "en": "Turn off your lights and slow down.",
         "zh-Hans": "关闭车灯并减速。",
         "zh-Hant": "關閉車燈並減速。"
+      },
+      "B": {
+        "en": "Turn on your low-beams and slow down.",
+        "zh-Hans": "打开近光灯并减速。",
+        "zh-Hant": "開啟近光燈並減速。"
       },
       "C": {
         "en": "Turn on your emergency flashers and maintain the speed limit.",
@@ -4821,7 +4821,7 @@
         "zh-Hant": "開啟應急閃光燈並保持限速。"
       }
     },
-    "answer": "A",
+    "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 8: Safe Driving - Night and Adverse Weather, in fog you should use low-beam headlights and slow down.",
       "zh-Hans": "根据手册第8章《安全驾驶》《夜间与恶劣天气驾驶》的规定，雾天应开启近光灯并减速行驶。",
@@ -4845,22 +4845,22 @@
     },
     "options": {
       "A": {
+        "en": "45 mph",
+        "zh-Hans": "时速 45 英里",
+        "zh-Hant": "時速 45 英里"
+      },
+      "B": {
         "en": "25 mph",
         "zh-Hans": "时速 25 英里",
         "zh-Hant": "時速 25 英里"
       },
-      "B": {
+      "C": {
         "en": "30 mph",
         "zh-Hans": "时速 30 英里",
         "zh-Hant": "時速 30 英里"
-      },
-      "C": {
-        "en": "45 mph",
-        "zh-Hans": "时速 45 英里",
-        "zh-Hant": "時速 45 英里"
       }
     },
-    "answer": "B",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 8: Safe Driving - Night and Adverse Weather, if you cannot see 100 feet ahead you should not exceed 30 mph.",
       "zh-Hans": "根据手册第8章《安全驾驶》《夜间与恶劣天气驾驶》的规定，若前方能见度不足 100 英尺，车速不应超过 30 英里/小时。",
@@ -4889,17 +4889,17 @@
         "zh-Hant": "開得更快，因為交通較少。"
       },
       "B": {
-        "en": "Drive the same speed as you would in the daytime.",
-        "zh-Hans": "保持与白天相同的速度。",
-        "zh-Hant": "保持與白天相同的速度。"
-      },
-      "C": {
         "en": "Drive slower, and ensure you can stop within the distance lit by your headlights.",
         "zh-Hans": "减速，并确保您可以在车头灯照射的范围内停车。",
         "zh-Hant": "減速，並確保您可以在車頭燈照射的範圍內停車。"
+      },
+      "C": {
+        "en": "Drive the same speed as you would in the daytime.",
+        "zh-Hans": "保持与白天相同的速度。",
+        "zh-Hant": "保持與白天相同的速度。"
       }
     },
-    "answer": "C",
+    "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 8: Safe Driving - Night and Adverse Weather, drive slower at night so you can stop within your headlight range.",
       "zh-Hans": "根据手册第8章《安全驾驶》《夜间与恶劣天气驾驶》的规定，夜间应减速，并确保能在车灯照射范围内停车。",
@@ -4923,14 +4923,14 @@
     },
     "options": {
       "A": {
-        "en": "During the first few minutes of the rain.",
-        "zh-Hans": "在下雨的头几分钟。",
-        "zh-Hant": "在下雨的頭幾分鐘。"
-      },
-      "B": {
         "en": "After the rain has stopped.",
         "zh-Hans": "在雨停后。",
         "zh-Hant": "在雨停後。"
+      },
+      "B": {
+        "en": "During the first few minutes of the rain.",
+        "zh-Hans": "在下雨的头几分钟。",
+        "zh-Hant": "在下雨的頭幾分鐘。"
       },
       "C": {
         "en": "The road is not slippery in the rain.",
@@ -4938,7 +4938,7 @@
         "zh-Hant": "路面在雨中不會變滑。"
       }
     },
-    "answer": "A",
+    "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 8: Safe Driving - Night and Adverse Weather, roads are most slippery during the first few minutes of rain.",
       "zh-Hans": "根据手册第8章《安全驾驶》《夜间与恶劣天气驾驶》的规定，雨天最滑通常发生在刚开始下雨的几分钟内。",
@@ -4962,14 +4962,14 @@
     },
     "options": {
       "A": {
-        "en": "When tires lose contact with the road and slide on a layer of water.",
-        "zh-Hans": "当轮胎失去与路面的接触，在水层上滑动。",
-        "zh-Hant": "當輪胎失去與路面的接觸，在水層上滑動。"
-      },
-      "B": {
         "en": "When the engine stalls in deep water.",
         "zh-Hans": "当引擎在深水中熄火。",
         "zh-Hant": "當引擎在深水中熄火。"
+      },
+      "B": {
+        "en": "When tires lose contact with the road and slide on a layer of water.",
+        "zh-Hans": "当轮胎失去与路面的接触，在水层上滑动。",
+        "zh-Hant": "當輪胎失去與路面的接觸，在水層上滑動。"
       },
       "C": {
         "en": "When your brakes get wet and fail.",
@@ -4977,7 +4977,7 @@
         "zh-Hant": "當剎車受潮失靈。"
       }
     },
-    "answer": "A",
+    "answer": "B",
     "explanation": {
       "en": "In heavy rain at higher speeds, tires can lose all traction. Slow down to avoid this.",
       "zh-Hans": "车速过快时，轮胎花纹来不及排水，车会像滑冰一样失控。此时千万不要踩死刹车。",
@@ -4999,22 +4999,22 @@
     },
     "options": {
       "A": {
-        "en": "Gently apply your brakes while driving through water.",
-        "zh-Hans": "轻踩刹车通过积水。",
-        "zh-Hant": "輕踩剎車透過積水。"
-      },
-      "B": {
         "en": "Slow down, especially when turning or changing lanes.",
         "zh-Hans": "减慢速度行驶，尤其是在转弯或变换行车线时。",
         "zh-Hant": "減慢速度行駛，尤其是在轉彎或變換行車線時。"
       },
-      "C": {
+      "B": {
         "en": "Follow the vehicle in front very closely in their tire tracks.",
         "zh-Hans": "紧跟前方车辆的轮胎轨迹。",
         "zh-Hant": "緊跟前方車輛的輪胎軌跡。"
+      },
+      "C": {
+        "en": "Gently apply your brakes while driving through water.",
+        "zh-Hans": "轻踩刹车通过积水。",
+        "zh-Hant": "輕踩剎車透過積水。"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 8: Safe Driving - Night and Adverse Weather, slow down—especially when turning or changing lanes—to reduce hydroplaning risk.",
       "zh-Hans": "根据手册第8章《安全驾驶》《夜间与恶劣天气驾驶》的规定，应减速行驶，尤其在转弯或变道时，以降低水滑风险。",
@@ -5038,22 +5038,22 @@
     },
     "options": {
       "A": {
+        "en": "Slow down gradually (ease off the gas) and do NOT use your brakes.",
+        "zh-Hans": "逐渐减慢车速（松开油门），并且不要刹车。",
+        "zh-Hant": "逐漸減慢車速（鬆開油門），並且不要剎車。"
+      },
+      "B": {
         "en": "Slam on your brakes.",
         "zh-Hans": "猛踩刹车。",
         "zh-Hant": "猛踩剎車。"
       },
-      "B": {
+      "C": {
         "en": "Yank the steering wheel.",
         "zh-Hans": "猛转方向盘。",
         "zh-Hant": "猛轉方向盤。"
-      },
-      "C": {
-        "en": "Slow down gradually (ease off the gas) and do NOT use your brakes.",
-        "zh-Hans": "逐渐减慢车速（松开油门），并且不要刹车。",
-        "zh-Hant": "逐漸減慢車速（鬆開油門），並且不要剎車。"
       }
     },
-    "answer": "C",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 8: Safe Driving - Night and Adverse Weather, if you hydroplane ease off the gas, keep the wheel straight, and do not brake.",
       "zh-Hans": "根据手册第8章《安全驾驶》《夜间与恶劣天气驾驶》的规定，发生水滑时应松油门逐渐减速，保持方向盘直行并避免刹车。",
@@ -5077,14 +5077,14 @@
     },
     "options": {
       "A": {
-        "en": "Slow down, so you have more time to react to sudden gusts or debris.",
-        "zh-Hans": "减速，以便您有更多时间对突然的阵风或障碍物作出反应。",
-        "zh-Hant": "減速，以便您有更多時間對突然的陣風或障礙物作出反應。"
-      },
-      "B": {
         "en": "Maintain a constant speed.",
         "zh-Hans": "保持恒定的速度。",
         "zh-Hant": "保持恆定的速度。"
+      },
+      "B": {
+        "en": "Slow down, so you have more time to react to sudden gusts or debris.",
+        "zh-Hans": "减速，以便您有更多时间对突然的阵风或障碍物作出反应。",
+        "zh-Hant": "減速，以便您有更多時間對突然的陣風或障礙物作出反應。"
       },
       "C": {
         "en": "Turn on your emergency flashers and speed up.",
@@ -5092,7 +5092,7 @@
         "zh-Hant": "開啟您的應急閃光燈並加速。"
       }
     },
-    "answer": "A",
+    "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 8: Safe Driving - Night and Adverse Weather, slow down in high winds to better respond to gusts or debris.",
       "zh-Hans": "根据手册第8章《安全驾驶》《夜间与恶劣天气驾驶》的规定，强风中应减速行驶，以便应对突发阵风或障碍物。",
@@ -5116,22 +5116,22 @@
     },
     "options": {
       "A": {
-        "en": "Low-beam headlights.",
-        "zh-Hans": "近光灯。",
-        "zh-Hant": "近光燈。"
-      },
-      "B": {
         "en": "Cruise Control.",
         "zh-Hans": "巡航定速（Cruise Control）。",
         "zh-Hant": "巡航定速（Cruise Control）。"
       },
-      "C": {
+      "B": {
         "en": "Windshield wipers.",
         "zh-Hans": "挡风玻璃雨刷器。",
         "zh-Hant": "擋風玻璃雨刷器。"
+      },
+      "C": {
+        "en": "Low-beam headlights.",
+        "zh-Hans": "近光灯。",
+        "zh-Hant": "近光燈。"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 8: Safe Driving - Night and Adverse Weather, avoid cruise control in high winds to keep full throttle control.",
       "zh-Hans": "根据手册第8章《安全驾驶》《夜间与恶劣天气驾驶》的规定，强风中应避免使用巡航定速，以保持对油门的控制。",
@@ -5199,14 +5199,14 @@
         "zh-Hant": "時速 55 英里"
       },
       "B": {
-        "en": "65 mph",
-        "zh-Hans": "时速 65 英里",
-        "zh-Hant": "時速 65 英里"
-      },
-      "C": {
         "en": "70 mph",
         "zh-Hans": "时速 70 英里",
         "zh-Hant": "時速 70 英里"
+      },
+      "C": {
+        "en": "65 mph",
+        "zh-Hans": "时速 65 英里",
+        "zh-Hant": "時速 65 英里"
       }
     },
     "answer": "A",
@@ -5238,14 +5238,14 @@
         "zh-Hant": "時速 55 英里"
       },
       "B": {
-        "en": "65 mph",
-        "zh-Hans": "时速 65 英里",
-        "zh-Hant": "時速 65 英里"
-      },
-      "C": {
         "en": "The same as the posted speed limit.",
         "zh-Hans": "与标示的限速相同。",
         "zh-Hant": "與標示的限速相同。"
+      },
+      "C": {
+        "en": "65 mph",
+        "zh-Hans": "时速 65 英里",
+        "zh-Hant": "時速 65 英里"
       }
     },
     "answer": "A",
@@ -5272,22 +5272,22 @@
     },
     "options": {
       "A": {
-        "en": "Go slowly, so traffic can move around you.",
-        "zh-Hans": "缓慢行驶，以便车流可以绕过您。",
-        "zh-Hant": "緩慢行駛，以便車流可以繞過您。"
-      },
-      "B": {
         "en": "Accelerate on the ramp to match the speed of traffic (or be close to it).",
         "zh-Hans": "在匝道上加速，以达到与车流相同或接近的速度。",
         "zh-Hant": "在匝道上加速，以達到與車流相同或接近的速度。"
       },
-      "C": {
+      "B": {
         "en": "Merge at 25 mph.",
         "zh-Hans": "以时速 25 英里的速度并入。",
         "zh-Hant": "以時速 25 英里的速度併入。"
+      },
+      "C": {
+        "en": "Go slowly, so traffic can move around you.",
+        "zh-Hans": "缓慢行驶，以便车流可以绕过您。",
+        "zh-Hant": "緩慢行駛，以便車流可以繞過您。"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Lanes and Merging, accelerate on the ramp to match traffic speed before merging.",
       "zh-Hans": "根据手册第6章《导览道路》《车道与并线》的规定，应在匝道上加速到与车流相同或接近的速度后平稳并入。",
@@ -5316,17 +5316,17 @@
         "zh-Hant": "加速以跟上車流。"
       },
       "B": {
-        "en": "Move over to the right lane (when safe) to let others pass.",
-        "zh-Hans": "在安全时移至右侧行车线，让其他车辆通过。",
-        "zh-Hant": "在安全時移至右側行車線，讓其他車輛透過。"
-      },
-      "C": {
         "en": "Turn on your emergency flashers.",
         "zh-Hans": "打开您的应急闪光灯。",
         "zh-Hant": "開啟您的應急閃光燈。"
+      },
+      "C": {
+        "en": "Move over to the right lane (when safe) to let others pass.",
+        "zh-Hans": "在安全时移至右侧行车线，让其他车辆通过。",
+        "zh-Hant": "在安全時移至右側行車線，讓其他車輛透過。"
       }
     },
-    "answer": "B",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Lanes and Merging, if you are slower than traffic, move right when safe.",
       "zh-Hans": "根据手册第6章《导览道路》《车道与并线》的规定，行驶速度较慢时应在安全情况下移至右侧车道，让更快车流通过。",
@@ -5355,17 +5355,17 @@
         "zh-Hant": "這是最安全的做法。"
       },
       "B": {
-        "en": "You may receive a ticket, as it blocks traffic and can cause collisions.",
-        "zh-Hans": "您可能会收到传票（Ticket），因为这会阻碍交通并可能导致碰撞。",
-        "zh-Hant": "您可能會收到傳票（Ticket），因為這會阻礙交通並可能導致碰撞。"
-      },
-      "C": {
         "en": "You should turn on your emergency flashers.",
         "zh-Hans": "您应该打开您的应急闪光灯。",
         "zh-Hant": "您應該開啟您的應急閃光燈。"
+      },
+      "C": {
+        "en": "You may receive a ticket, as it blocks traffic and can cause collisions.",
+        "zh-Hans": "您可能会收到传票（Ticket），因为这会阻碍交通并可能导致碰撞。",
+        "zh-Hant": "您可能會收到傳票（Ticket），因為這會阻礙交通並可能導致碰撞。"
       }
     },
-    "answer": "B",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Road Rules, driving much slower than traffic can obstruct flow and may result in a ticket.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，明显低于车流速度会阻碍交通，可能被开具罚单。",
@@ -5389,9 +5389,9 @@
     },
     "options": {
       "A": {
-        "en": "The middle lane.",
-        "zh-Hans": "中间的行车线。",
-        "zh-Hant": "中間的行車線。"
+        "en": "The exit ramp.",
+        "zh-Hans": "出口匝道。",
+        "zh-Hant": "出口匝道。"
       },
       "B": {
         "en": "The far-left lane (fast lane).",
@@ -5399,9 +5399,9 @@
         "zh-Hant": "最左側的行車線（快車道）。"
       },
       "C": {
-        "en": "The exit ramp.",
-        "zh-Hans": "出口匝道。",
-        "zh-Hant": "出口匝道。"
+        "en": "The middle lane.",
+        "zh-Hans": "中间的行车线。",
+        "zh-Hant": "中間的行車線。"
       }
     },
     "answer": "B",
@@ -5428,22 +5428,22 @@
     },
     "options": {
       "A": {
-        "en": "If you are not passing, or you are driving slower than the flow of traffic, you should stay in the right-hand lane(s).",
-        "zh-Hans": "如果您不打算超车，或者您行驶得比车流慢，您应该留在右侧行车线。",
-        "zh-Hant": "如果您不打算超車，或者您行駛得比車流慢，您應該留在右側行車線。"
-      },
-      "B": {
         "en": "You must pass other vehicles on the right.",
         "zh-Hans": "超车时必须从右侧超车。",
         "zh-Hant": "超車時必須從右側超車。"
       },
-      "C": {
+      "B": {
         "en": "The road ahead will curve to the right.",
         "zh-Hans": "前方的道路将向右弯曲。",
         "zh-Hant": "前方的道路將向右彎曲。"
+      },
+      "C": {
+        "en": "If you are not passing, or you are driving slower than the flow of traffic, you should stay in the right-hand lane(s).",
+        "zh-Hans": "如果您不打算超车，或者您行驶得比车流慢，您应该留在右侧行车线。",
+        "zh-Hant": "如果您不打算超車，或者您行駛得比車流慢，您應該留在右側行車線。"
       }
     },
-    "answer": "A",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Lanes and Merging, if you are not passing or are slower, keep right and leave left lanes for passing.",
       "zh-Hans": "根据手册第6章《导览道路》《车道与并线》的规定，不超车或速度较慢时应靠右行驶，左侧车道留作超车。",
@@ -5467,22 +5467,22 @@
     },
     "options": {
       "A": {
+        "en": "Focus on your speedometer to ensure you are not speeding.",
+        "zh-Hans": "专注于您的速度表，以确保您不超过限速。",
+        "zh-Hant": "專注於您的速度表，以確保您不超過限速。"
+      },
+      "B": {
         "en": "Keep your eyes moving, scan the road 10 seconds ahead of you, and check your mirrors.",
         "zh-Hans": "保持双眼移动，扫视前方至少 10 秒钟的道路，并检查您的后视镜。",
         "zh-Hant": "保持雙眼移動，掃視前方至少 10 秒鐘的道路，並檢查您的後視鏡。"
       },
-      "B": {
+      "C": {
         "en": "Look only at the lanes next to you.",
         "zh-Hans": "仅看您旁边的行车线。",
         "zh-Hant": "僅看您旁邊的行車線。"
-      },
-      "C": {
-        "en": "Focus on your speedometer to ensure you are not speeding.",
-        "zh-Hans": "专注于您的速度表，以确保您不超过限速。",
-        "zh-Hant": "專注於您的速度表，以確保您不超過限速。"
       }
     },
-    "answer": "A",
+    "answer": "B",
     "explanation": {
       "en": "According to the handbook, Chapter 8: Safe Driving - Defensive Driving and Risk Management, keep your eyes moving and scan at least 10 seconds ahead while checking mirrors.",
       "zh-Hans": "根据手册第8章《安全驾驶》《防御性驾驶与风险管理》的规定，高速行驶应持续扫视前方至少 10 秒并配合检查后视镜。",
@@ -5506,22 +5506,22 @@
     },
     "options": {
       "A": {
+        "en": "Honk your horn to make traffic move.",
+        "zh-Hans": "鸣喇叭，以使交通移动。",
+        "zh-Hant": "鳴喇叭，以使交通移動。"
+      },
+      "B": {
         "en": "Turn on your emergency flashers.",
         "zh-Hans": "打开您的应急闪光灯。",
         "zh-Hant": "開啟您的應急閃光燈。"
       },
-      "B": {
+      "C": {
         "en": "Follow the 'Basic Speed Law' and be prepared for sudden stops.",
         "zh-Hans": "遵守“基本车速法”，并为前方突然停车做好准备。",
         "zh-Hant": "遵守“基本車速法”，併為前方突然停車做好準備。"
-      },
-      "C": {
-        "en": "Honk your horn to make traffic move.",
-        "zh-Hans": "鸣喇叭，以使交通移动。",
-        "zh-Hant": "鳴喇叭，以使交通移動。"
       }
     },
-    "answer": "B",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 8: Safe Driving - Basic Speed Law, in heavy traffic choose a safe speed for conditions and be ready for sudden stops.",
       "zh-Hans": "根据手册第8章《安全驾驶》《基本车速法》的规定，交通拥堵时应按路况选择安全速度，并随时准备前方突然停车。",
@@ -5545,14 +5545,14 @@
     },
     "options": {
       "A": {
-        "en": "Drive 55 mph.",
-        "zh-Hans": "以时速 55 英里行驶。",
-        "zh-Hant": "以時速 55 英里行駛。"
-      },
-      "B": {
         "en": "Follow the 'Basic Speed Law' and drive at a safe speed (which could be much less than 65 mph).",
         "zh-Hans": "遵守“基本车速法”，驾驶一个（远低于 65 英里的）安全速度。",
         "zh-Hant": "遵守“基本車速法”，駕駛一個（遠低於 65 英里的）安全速度。"
+      },
+      "B": {
+        "en": "Drive 55 mph.",
+        "zh-Hans": "以时速 55 英里行驶。",
+        "zh-Hant": "以時速 55 英里行駛。"
       },
       "C": {
         "en": "Turn on your high-beams and maintain speed.",
@@ -5560,7 +5560,7 @@
         "zh-Hant": "開啟您的遠光燈並保持速度。"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 8: Safe Driving - Basic Speed Law, in bad weather you must slow to a speed safe for visibility and traction.",
       "zh-Hans": "根据手册第8章《安全驾驶》《基本车速法》的规定，恶劣天气下应将速度降至符合能见度与牵引力的安全水平。",
@@ -5584,9 +5584,9 @@
     },
     "options": {
       "A": {
-        "en": "Motorcycles.",
-        "zh-Hans": "摩托车。",
-        "zh-Hant": "摩托車。"
+        "en": "All passenger cars.",
+        "zh-Hans": "所有客车（Passenger cars）。",
+        "zh-Hant": "所有客車（Passenger cars）。"
       },
       "B": {
         "en": "Vehicles towing trailers and trucks with 3 or more axles.",
@@ -5594,9 +5594,9 @@
         "zh-Hant": "牽引拖車的車輛和 3 軸或更多軸的卡車。"
       },
       "C": {
-        "en": "All passenger cars.",
-        "zh-Hans": "所有客车（Passenger cars）。",
-        "zh-Hant": "所有客車（Passenger cars）。"
+        "en": "Motorcycles.",
+        "zh-Hans": "摩托车。",
+        "zh-Hant": "摩托車。"
       }
     },
     "answer": "B",
@@ -5623,22 +5623,22 @@
     },
     "options": {
       "A": {
-        "en": "Speed up to match the flow of traffic.",
-        "zh-Hans": "加速以跟上车流。",
-        "zh-Hant": "加速以跟上車流。"
-      },
-      "B": {
         "en": "Maintain your 55 mph (or less) speed in the right-hand lane.",
         "zh-Hans": "保持您在最右侧行车线的时速 55 英里（或更低）。",
         "zh-Hant": "保持您在最右側行車線的時速 55 英里（或更低）。"
       },
-      "C": {
+      "B": {
         "en": "Stop on the shoulder.",
         "zh-Hans": "在路肩上停车。",
         "zh-Hant": "在路肩上停車。"
+      },
+      "C": {
+        "en": "Speed up to match the flow of traffic.",
+        "zh-Hans": "加速以跟上车流。",
+        "zh-Hant": "加速以跟上車流。"
       }
     },
-    "answer": "B",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Road Rules, if your legal limit is 55 mph, stay in the right lane at that speed and let faster traffic pass.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，法定上限为 55 英里/小时的车辆应在右侧车道保持该速度并让更快车流通过。",
@@ -5662,9 +5662,9 @@
     },
     "options": {
       "A": {
-        "en": "Slowing down.",
-        "zh-Hans": "减速。",
-        "zh-Hant": "減速。"
+        "en": "Passing the patrol car.",
+        "zh-Hans": "驶过（Overtaking）警车。",
+        "zh-Hant": "駛過（Overtaking）警車。"
       },
       "B": {
         "en": "Turning on your emergency flashers.",
@@ -5672,12 +5672,12 @@
         "zh-Hant": "開啟您的應急閃光燈。"
       },
       "C": {
-        "en": "Passing the patrol car.",
-        "zh-Hans": "驶过（Overtaking）警车。",
-        "zh-Hant": "駛過（Overtaking）警車。"
+        "en": "Slowing down.",
+        "zh-Hans": "减速。",
+        "zh-Hant": "減速。"
       }
     },
-    "answer": "C",
+    "answer": "A",
     "explanation": {
       "en": "According to the handbook, Chapter 8: Safe Driving - Defensive Driving and Risk Management, during a traffic break you must not pass the patrol car.",
       "zh-Hans": "根据手册第8章《安全驾驶》《防御性驾驶与风险管理》的规定，交通分流时不得超越巡逻车，应跟随其减速。",
@@ -5701,22 +5701,22 @@
     },
     "options": {
       "A": {
-        "en": "Receive a ticket.",
-        "zh-Hans": "收到传票（Ticket）。",
-        "zh-Hant": "收到傳票（Ticket）。"
-      },
-      "B": {
         "en": "Save gas.",
         "zh-Hans": "节省燃油。",
         "zh-Hant": "節省燃油。"
       },
-      "C": {
+      "B": {
         "en": "Have no reason to worry.",
         "zh-Hans": "无需担心。",
         "zh-Hant": "無需擔心。"
+      },
+      "C": {
+        "en": "Receive a ticket.",
+        "zh-Hans": "收到传票（Ticket）。",
+        "zh-Hant": "收到傳票（Ticket）。"
       }
     },
-    "answer": "A",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Road Rules, driving faster or slower than the limit can result in a ticket.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，超速或在畅通时过慢都可能被开具罚单。",
@@ -5784,17 +5784,17 @@
         "zh-Hant": "在您仍在高速公路（主幹道）上時，在出口前 100 英尺。"
       },
       "B": {
-        "en": "After you have completely entered the exit ramp.",
-        "zh-Hans": "在您完全进入出口匝道（Ramp）之后。",
-        "zh-Hant": "在您完全進入出口匝道（Ramp）之後。"
-      },
-      "C": {
         "en": "As soon as you see the exit sign.",
         "zh-Hans": "在您看到出口标志时。",
         "zh-Hant": "在您看到出口標誌時。"
+      },
+      "C": {
+        "en": "After you have completely entered the exit ramp.",
+        "zh-Hans": "在您完全进入出口匝道（Ramp）之后。",
+        "zh-Hant": "在您完全進入出口匝道（Ramp）之後。"
       }
     },
-    "answer": "B",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 6: Navigating the Road - Lanes and Merging, begin slowing after you enter the exit ramp/deceleration lane.",
       "zh-Hans": "根据手册第6章《导览道路》《车道与并线》的规定，驶出高速应在进入出口匝道或减速道后再开始减速。",
@@ -5823,17 +5823,17 @@
         "zh-Hant": "以時速 70 英里行駛以跟上車流。"
       },
       "B": {
-        "en": "Drive no faster than 65 mph (the posted limit).",
-        "zh-Hans": "驾驶速度不超过时速 65 英里（标示的限速）。",
-        "zh-Hant": "駕駛速度不超過時速 65 英里（標示的限速）。"
-      },
-      "C": {
         "en": "Pull over and stop.",
         "zh-Hans": "在路肩上停车。",
         "zh-Hant": "在路肩上停車。"
+      },
+      "C": {
+        "en": "Drive no faster than 65 mph (the posted limit).",
+        "zh-Hans": "驾驶速度不超过时速 65 英里（标示的限速）。",
+        "zh-Hant": "駕駛速度不超過時速 65 英里（標示的限速）。"
       }
     },
-    "answer": "B",
+    "answer": "C",
     "explanation": {
       "en": "According to the handbook, Chapter 7: Road Laws and Regulations - Road Rules, the posted speed limit is the legal maximum even if traffic is faster.",
       "zh-Hans": "根据手册第7章《道路法律及规定》《道路通行规则》的规定，标示限速是法定最高速度，即使车流更快也不得超速。",
